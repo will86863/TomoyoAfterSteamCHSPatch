@@ -1,4 +1,4 @@
-# Tomoyo After English Edition （Steam版本）汉化补丁
+# Tomoyo After English Edition（Steam 版本）汉化补丁
 
 ## NOTICE
 
@@ -6,132 +6,84 @@
 
 ## 补丁介绍
 
-本补丁是适用于Steam版本《Tomoyo After English Edition》的内存动态汉化补丁，并且可以积累steam游玩时长、解锁成就以及获得集换式卡牌。目前已实现中文的渲染，正在进行文本翻译中，欢迎有意向一起翻译文本的贡献者参与到本项目中。可以在 Issue 中进行交流和随时反馈bug或者文本翻译的疏漏。
+本补丁是适用于 Steam 版本《Tomoyo After English Edition》的内存动态汉化补丁，并且可以积累 Steam 游玩时长、解锁成就以及获得集换式卡牌。
 
-每当翻译了一部分文本，或者dll源代码有重大更新时，都会发布一次Release编译后的补丁作为公测补丁。
+本分支在原项目的基础上完成了全部文本的汉化，并附带中文贴图替换文件。
 
 效果图：
 
 ![Main Pic](docs/img/main.png)
 
+## 本分支做了什么
+
+原项目已完成补丁引擎（`version.dll`）与文本渲染框架，但译文仅覆盖少量章节。本分支在此基础上：
+
+| 内容 | 说明 |
+| --- | --- |
+| `patch/` | 98 个章节文件、20,792 条文本，其中 95 个文件含中文（约 22.3 万字） |
+| `g00-chs/` | 984 个中文贴图，用于替换界面、章节标签、道具与技能名称等图片中的文字 |
+| `tools/` | 译文迁移与校验脚本 |
+| `guide/` | 全成就中文指南（单文件离线 HTML）及生成脚本 |
+
+**汉化文本的构成方式**：
+
+1. **移植自 PSP 版汉化文本**——PSP 版《智代After》的完整汉化由 CK-GAL 中文化小组（澄空学园）制作，本项目把其中的译文移植到 Steam 版补丁格式中。移植工作由 **DeepSeek-V4.1** 完成：逐章对齐 PSP 剧本与 Steam 版脚本、按说话人和长度特征做带状 DP 匹配、回填到补丁文件。
+2. **PSP 版没有的部分由 DeepSeek-V4.1 翻译**——包括 D&T 小游戏的道具与技能说明、结局独白等 PSP 版未以文本形式提供的段落。
+
+**当前状态**：正在推一周目，检查汉化文本的显示情况并修复 bug。中文贴图中有个别存在错位，待修复。
+
+## 使用方法
+
+### 1. 安装文本补丁
+
+编译后的 `version.dll` 直接放在游戏所在文件夹即可实现汉化功能。
+
+另外可以在游戏所在的文件夹创建一个 `patch_mode.cfg` 配置文件，文件里面写一个数字，可以用的数字以及对应的含义为：
+
+- 0 = PATCH_RELEASE（正式版汉化补丁模式，只从 DLL 的资源文件中加载汉化文本，当这个配置文件不存在时的缺省值）
+- 1 = PATCH_DUMP（导出模式，导出原始文本）
+- 2 = PATCH_ARCHIVE（打包模式，将汉化后的文本打包成一个 bin 文件，用于将这个 bin 文件打包进 DLL 中）
+- 3 = PATCH_DEBUG（调试补丁模式，优先从 DLL 的资源文件中加载汉化文本，之后如果 patch 文件夹有对应的文本文件，则使用 patch 文件夹中的）
+- 4 = PATCH_NONE（禁用汉化补丁）
+
+翻译可以使用模式 3 + patch 文件夹来测试文本显示效果。
+
+### 2. 替换中文贴图
+
+把 `g00-chs/` 下所有 `.g00` 文件复制到游戏安装目录的 `g00/` 文件夹，覆盖同名文件。详见 [g00-chs/README.md](g00-chs/README.md)。
+
+> 贴图与文本是两套独立的东西：只装 DLL 不换贴图，画面里的字仍是原文；只换贴图不装 DLL，对话文本仍是原文。
+
 ## 编译
 
 本项目使用 Microsoft Visual Studio 2022（工具集版本 v143，Windows SDK 10.0）编译，目标平台为 Win32，配置类型为动态链接库（DLL），使用多字节字符集。
 
-编译后的 `version.dll` 可以直接放在游戏所在的文件夹，即可实现汉化补丁的功能。另外可以在游戏所在的文件夹创建一个 `patch_mode.cfg` 配置文件，文件里面写一个数字，可以用的数字以及对应的含义为：
-
-- 0 = PATCH_RELEASE（正式版汉化补丁模式，只从DLL的资源文件中加载汉化文本，当这个配置文件不存在时的缺省值）
-- 1 = PATCH_DUMP （导出模式，导出原始文本）
-- 2 = PATCH_ARCHIVE （打包模式，将汉化后的文本打包成一个bin文件，用于将这个bin文件打包进dll中）
-- 3 = PATCH_DEBUG （调试补丁模式，优先从DLL的资源文件中加载汉化文本，之后如果patch文件夹有对应的文本文件，则使用patch文件夹中的）
-- 4 = PATCH_NONE （禁用汉化补丁）
-
-翻译可以使用 模式 3 + patch 文件夹来测试文本显示效果。
-
 ## 项目贡献者
 
-程序：VLSMB
+**程序**：VLSMB（原项目作者）
 
-翻译：VLSMB 冈崎智代 DeepSeek-V4-Flash
+**译文**
 
-## 翻译进度：
+- PSP 版汉化文本：CK-GAL 中文化小组（澄空学园）· PSP 完整汉化补丁 ver1.20（2009-04-11，移植自 PS2 版汉化资源）
+- 移植与补译：DeepSeek-V4.1
 
-状态分为未处理、处理中、已完成三种。每一阶段的里程碑都会发布一次Release编译后的补丁作为公测补丁。
+**中文贴图**：Nice Rabbit（PC 18 禁版反河蟹补丁）
 
-- [x] name
-- [ ] seen0001
-- [x] seen0628
-- [x] seen0629
-- [x] seen0630
-- [x] seen0701
-- [x] seen0702
-- [ ] seen0707
-- [ ] seen0708
-- [ ] seen0709
-- [ ] seen0710
-- [ ] seen0711
-- [ ] seen0712
-- [ ] seen0713
-- [ ] seen0714
-- [ ] seen0715
-- [ ] seen0716
-- [ ] seen0717
-- [ ] seen0720
-- [ ] seen0721
-- [ ] seen0722
-- [ ] seen0723
-- [ ] seen0724
-- [ ] seen0725
-- [ ] seen0726
-- [ ] seen0727
-- [ ] seen0728
-- [ ] seen0729
-- [ ] seen0744
-- [x] seen0801（进行中）
-- [x] seen0803（进行中）
-- [ ] seen0804
-- [ ] seen0806
-- [ ] seen0807
-- [ ] seen0808
-- [ ] seen0809
-- [ ] seen0810
-- [ ] seen0811
-- [ ] seen0812
-- [ ] seen0813
-- [ ] seen0814
-- [ ] seen0815
-- [ ] seen0816
-- [ ] seen0817
-- [ ] seen0818
-- [ ] seen0819
-- [ ] seen0820
-- [ ] seen0821
-- [ ] seen0822
-- [ ] seen0823
-- [ ] seen1710
-- [ ] seen1714
-- [ ] seen1715
-- [ ] seen1716
-- [ ] seen1806
-- [ ] seen1811
-- [ ] seen1813
-- [ ] seen1814
-- [ ] seen2811
-- [ ] seen2813
-- [ ] seen2814
-- [ ] seen3814
-- [ ] seen4814
-- [ ] seen5000
-- [ ] seen5001
-- [x] seen5002（进行中）
-- [ ] seen5003
-- [ ] seen5004
-- [ ] seen5005
-- [ ] seen5006
-- [ ] seen5007
-- [ ] seen5008
-- [ ] seen5010
-- [x] seen7010
-- [ ] seen7140
-- [ ] seen7150
-- [ ] seen7160
-- [ ] seen7400
-- [ ] seen7810
-- [ ] seen7820
-- [ ] seen7900
-- [ ] seen7910
-- [ ] seen7920
-- [ ] seen7930
-- [ ] seen7940
-- [ ] seen7950
-- [ ] seen8121
-- [ ] seen8132
-- [ ] seen8221
-- [ ] seen8250
-- [x] seen9032
-- [x] seen9033
-- [x] seen9034
-- [x] seen9035
-- [x] seen9042
-- [x] seen9837
-- [x] seen9900（进行中）
+**攻略**：咲夜 · [Steam 指南](https://steamcommunity.com/sharedfiles/filedetails/?id=3488465923)
+
+**测试与维护**：will86863
+
+## 翻译进度
+
+本分支已完成全部章节（20,792 / 20,792 条）。原项目的逐章清单已不再适用，当前工作转为一周目实测与错位修正。
+
+## 致谢
+
+- [VLSMB/TomoyoAfterSteamCHSPatch](https://github.com/VLSMB/TomoyoAfterSteamCHSPatch)——补丁引擎与原始框架
+- CK-GAL 中文化小组（澄空学园）——PSP 版汉化文本
+- Nice Rabbit——PC 版中文贴图
+- 咲夜——Steam 全成就指南
+
+## 许可
+
+本分支遵循原项目 NOTICE，仅限非商业用途。分发时请保留原项目链接与本 NOTICE。

@@ -9,7 +9,7 @@ length 16
 ====================
 August 7th (Sat)
 ====================
-August 7th (Sat)
+８月７日（星期六）
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 71
 ====================
 Due to Kanako's comment, I decided to follow the lead about the letter.
 ====================
-Due to Kanako's comment, I decided to follow the lead about the letter.
+我听了河南子所提的疑点后、决定先从信开始调查。
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 107
 ====================
 Pouring into the books I checked out from the library, I look for anything that might lead me to something.
 ====================
-Pouring into the books I checked out from the library, I look for anything that might lead me to something.
+一边看着从图书馆借来的书、一边找着任何可能的线索。
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 25
 ====================
 \"What are you reading?\"
 ====================
-\"What are you reading?\"
+你在看什么？
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 32
 ====================
 \"...a book about calligraphy.\"
 ====================
-\"...a book about calligraphy.\"
+…有关书法的书
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 81
 ====================
 \"Kanako was wondering why the letter was written with brush drawn calligraphy.\"
 ====================
-\"Kanako was wondering why the letter was written with brush drawn calligraphy.\"
+因为河南子说到、为什么这封信是用毛笔写的、这一点
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 59
 ====================
 \"So, well, I thought it might lead to some sort of hint.\"
 ====================
-\"So, well, I thought it might lead to some sort of hint.\"
+所以就想着这样做是不是会找到点线索
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 41
 ====================
 I say without looking away from the book.
 ====================
-I say without looking away from the book.
+我头也没抬地说着。
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 28
 ====================
 \"Have you found anything?\"
 ====================
-\"Have you found anything?\"
+找到了吗？
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 28
 ====================
 \"...Not in the slightest.\"
 ====================
-\"...Not in the slightest.\"
+…没有
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 104
 ====================
 To tell the truth, all the examples of the different calligraphy styles in the book look the same to me.
 ====================
-To tell the truth, all the examples of the different calligraphy styles in the book look the same to me.
+说实话、那些书法看上去好像都是一模一样的。
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 134
 ====================
 I thought if her handwriting had something unique to it, I would perhaps learn something, but there is nothing I can decipher from it.
 ====================
-I thought if her handwriting had something unique to it, I would perhaps learn something, but there is nothing I can decipher from it.
+虽然也想着是否可能从笔迹上能看出什么端倪、但是这个却不是我所能理解的东西。
 ====================
 
 ====================
@@ -141,5 +141,5 @@ length 85
 ====================
 It may feel like a waste of time, but I keep flipping through the pages relentlessly.
 ====================
-It may feel like a waste of time, but I keep flipping through the pages relentlessly.
+虽然我也觉得可能会是徒劳、但是仍然毫不放弃地翻着书页。
 ====================

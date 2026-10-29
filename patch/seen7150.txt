@@ -9,7 +9,7 @@ length 35
 ====================
 Increases attack power for 5 turns.
 ====================
-Increases attack power for 5 turns.
+5回合内提升攻击力。
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 40
 ====================
 Deal damage to the surrounding 3x3 area.
 ====================
-Deal damage to the surrounding 3x3 area.
+对周围3x3范围造成伤害。
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 47
 ====================
 Increases everyone except Kanako's attack power
 ====================
-Increases everyone except Kanako's attack power
+提升除河南子以外所有人的攻击力
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 12
 ====================
 for 5 turns.
 ====================
-for 5 turns.
+持续5回合。
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 22
 ====================
 Cockroach Bait Attack.
 ====================
-Cockroach Bait Attack.
+蟑螂诱饵攻击。
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 40
 ====================
 Deal damage to the surrounding 4x4 area.
 ====================
-Deal damage to the surrounding 4x4 area.
+对周围4x4范围造成伤害。
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 12
 ====================
 Summon Fuko.
 ====================
-Summon Fuko.
+召唤风子。
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 48
 ====================
 Hold position and enter a defensive stance while
 ====================
-Hold position and enter a defensive stance while
+原地不动进入防御姿态、
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 55
 ====================
 enemies focus their attacks on the caster for one turn.
 ====================
-enemies focus their attacks on the caster for one turn.
+敌人会集中攻击施术者1回合。
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 55
 ====================
 Increases Tomoya and Tomoyo's attack power for 5 turns.
 ====================
-Increases Tomoya and Tomoyo's attack power for 5 turns.
+提升朋也和智代的攻击力、持续5回合。
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 23
 ====================
 Summon Fuko as a decoy.
 ====================
-Summon Fuko as a decoy.
+召唤风子作为诱饵。
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 35
 ====================
 Enemies focus their attacks on her.
 ====================
-Enemies focus their attacks on her.
+敌人会集中攻击她。
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 52
 ====================
 Greatly increases unarmed attack power for 10 turns.
 ====================
-Greatly increases unarmed attack power for 10 turns.
+10回合内大幅提升空手攻击力。
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 38
 ====================
 Will occasionally cause instant death.
 ====================
-Will occasionally cause instant death.
+偶尔会造成一击必杀。
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 21
 ====================
 The will of the town.
 ====================
-The will of the town.
+町之意志。
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 40
 ====================
 Deal damage to the surrounding 8x8 area.
 ====================
-Deal damage to the surrounding 8x8 area.
+对周围8x8范围造成伤害。
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 35
 ====================
 Increases attack power for 5 turns.
 ====================
-Increases attack power for 5 turns.
+5回合内提升攻击力。
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 31
 ====================
 Blow an enemy away with a kick.
 ====================
-Blow an enemy away with a kick.
+用踢击把敌人击飞。
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 37
 ====================
 Deal damage to all enemies in a line.
 ====================
-Deal damage to all enemies in a line.
+对一条直线上的所有敌人造成伤害。
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 44
 ====================
 Enemies focus on attacking Tomoyo for 1 turn
 ====================
-Enemies focus on attacking Tomoyo for 1 turn
+敌人会集中攻击智代1回合、
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 32
 ====================
 and Tomoya recovers some health.
 ====================
-and Tomoya recovers some health.
+同时朋也恢复少量体力。
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 55
 ====================
 Move towards Tomo to protect her when using \"attack\".
 ====================
-Move towards Tomo to protect her when using \"attack\".
+攻击时移动到小智身边保护她。
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 45
 ====================
 Jump to the center of the floor and do damage
 ====================
-Jump to the center of the floor and do damage
+跳到楼层中央、落地时对周围
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 41
 ====================
 upon landing to the surrounding 6x6 area.
 ====================
-upon landing to the surrounding 6x6 area.
+6x6范围造成伤害。
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 45
 ====================
 Enemies focus on attacking Tomoyo for 2 turns
 ====================
-Enemies focus on attacking Tomoyo for 2 turns
+敌人会集中攻击智代2回合、
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 32
 ====================
 and Tomoya recovers some health.
 ====================
-and Tomoya recovers some health.
+同时朋也恢复少量体力。
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 29
 ====================
 All enemies flee for 2 turns.
 ====================
-All enemies flee for 2 turns.
+所有敌人逃走2回合。
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 36
 ====================
 For 2 turns, if an ally is attacked,
 ====================
-For 2 turns, if an ally is attacked,
+2回合内、若同伴被攻击、
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 24
 ====================
 teleport to the attacker
 ====================
-teleport to the attacker
+就传送到攻击者身边、
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 31
 ====================
 and immediately counter-attack.
 ====================
-and immediately counter-attack.
+并立即反击。
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 54
 ====================
 Kick all enemies in the surrounding 3x3 area 10 times.
 ====================
-Kick all enemies in the surrounding 3x3 area 10 times.
+对周围3x3范围内的所有敌人连续踢击10次。
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 28
 ====================
 Humanity's final trump card.
 ====================
-Humanity's final trump card.
+人类的最终王牌。
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 40
 ====================
 Greatly increases all stats for 5 turns.
 ====================
-Greatly increases all stats for 5 turns.
+5回合内大幅提升全部能力。
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 46
 ====================
 Increases chance of critical hits for 5 turns.
 ====================
-Increases chance of critical hits for 5 turns.
+5回合内提升暴击率。
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 42
 ====================
 Spit, paralyzing all enemies within range.
 ====================
-Spit, paralyzing all enemies within range.
+吐口水、使范围内所有敌人麻痹。
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 55
 ====================
 Move towards Tomo to protect her when using \"attack\".
 ====================
-Move towards Tomo to protect her when using \"attack\".
+攻击时移动到小智身边保护她。
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 23
 ====================
 Deal damage to 3 lines.
 ====================
-Deal damage to 3 lines.
+对三条直线造成伤害。
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 44
 ====================
 Moves Kanako to the edge of the battlefield.
 ====================
-Moves Kanako to the edge of the battlefield.
+把河南子移动到战场边缘。
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 49
 ====================
 When near death, enjoy the Papico-brand ice cream
 ====================
-When near death, enjoy the Papico-brand ice cream
+濒死时、享用偷偷藏起来的
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 46
 ====================
 you've been hiding to restore all your health.
 ====================
-you've been hiding to restore all your health.
+Papico冰棒、恢复全部体力。
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 46
 ====================
 Enemies focus on attacking Kanako for 3 turns.
 ====================
-Enemies focus on attacking Kanako for 3 turns.
+3回合内敌人会集中攻击河南子。
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 19
 ====================
 You attack so fast,
 ====================
-You attack so fast,
+攻击快到连双手剑或单手剑
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 51
 ====================
 your two-handed or one-handed sword becomes a blur.
 ====================
-your two-handed or one-handed sword becomes a blur.
+都化作残影。
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 32
 ====================
 Gain another attack for 3 turns.
 ====================
-Gain another attack for 3 turns.
+3回合内获得额外攻击机会。
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 37
 ====================
 100% critical hit chance for 5 turns.
 ====================
-100% critical hit chance for 5 turns.
+5回合内暴击率100%。
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 48
 ====================
 Creates a shock wave by punching the ground with
 ====================
-Creates a shock wave by punching the ground with
+用拳头击打地面产生冲击波。
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 10
 ====================
 your fist.
 ====================
-your fist.
+
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 41
 ====================
 Deals damage to the surrounding 6x6 area.
 ====================
-Deals damage to the surrounding 6x6 area.
+对周围6x6范围造成伤害。
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 30
 ====================
 Transcendent secret technique.
 ====================
-Transcendent secret technique.
+超越常理的秘技。
 ====================
 
 ====================
@@ -548,7 +548,7 @@ length 52
 ====================
 Greatly increases unarmed attack power for 10 turns.
 ====================
-Greatly increases unarmed attack power for 10 turns.
+10回合内大幅提升空手攻击力。
 ====================
 
 ====================
@@ -559,7 +559,7 @@ length 39
 ====================
 33% chance to instantly kill the enemy.
 ====================
-33% chance to instantly kill the enemy.
+有33%几率瞬间杀死敌人。
 ====================
 
 ====================
@@ -570,7 +570,7 @@ length 46
 ====================
 Increases everyone's attack power for 5 turns.
 ====================
-Increases everyone's attack power for 5 turns.
+5回合内提升所有人的攻击力。
 ====================
 
 ====================
@@ -581,7 +581,7 @@ length 43
 ====================
 All allies move towards Tomo to protect her
 ====================
-All allies move towards Tomo to protect her
+所有同伴在攻击时移动到小智身边保护她。
 ====================
 
 ====================
@@ -592,7 +592,7 @@ length 22
 ====================
 when using \"attack\".
 ====================
-when using \"attack\".
+
 ====================
 
 ====================
@@ -603,7 +603,7 @@ length 49
 ====================
 Causes a random number of enemies to fall asleep.
 ====================
-Causes a random number of enemies to fall asleep.
+使随机数量的敌人陷入睡眠。
 ====================
 
 ====================
@@ -614,7 +614,7 @@ length 44
 ====================
 Enemies focus on attacking Tomo for 2 turns.
 ====================
-Enemies focus on attacking Tomo for 2 turns.
+2回合内敌人会集中攻击小智。
 ====================
 
 ====================
@@ -625,7 +625,7 @@ length 50
 ====================
 Teleports everyone except the caster to the enemy.
 ====================
-Teleports everyone except the caster to the enemy.
+把除施术者以外所有人传送到敌人身边。
 ====================
 
 ====================
@@ -636,7 +636,7 @@ length 28
 ====================
 Enemies will not attack Tomo
 ====================
-Enemies will not attack Tomo
+敌人不会攻击小智、
 ====================
 
 ====================
@@ -647,7 +647,7 @@ length 37
 ====================
 until she hits with a regular attack.
 ====================
-until she hits with a regular attack.
+直到她发动普通攻击为止。
 ====================
 
 ====================
@@ -658,7 +658,7 @@ length 41
 ====================
 Increases everyone's defense for 5 turns.
 ====================
-Increases everyone's defense for 5 turns.
+5回合内提升所有人的防御力。
 ====================
 
 ====================
@@ -669,7 +669,7 @@ length 44
 ====================
 Enemies won't target the caster for 5 turns.
 ====================
-Enemies won't target the caster for 5 turns.
+5回合内敌人不会以施术者为目标。
 ====================
 
 ====================
@@ -680,7 +680,7 @@ length 39
 ====================
 Increases everyone's speed for 5 turns.
 ====================
-Increases everyone's speed for 5 turns.
+5回合内提升所有人的速度。
 ====================
 
 ====================
@@ -691,7 +691,7 @@ length 20
 ====================
 Forbidden overdrive.
 ====================
-Forbidden overdrive.
+禁忌的超频。
 ====================
 
 ====================
@@ -702,7 +702,7 @@ length 40
 ====================
 Greatly increases all stats for 5 turns.
 ====================
-Greatly increases all stats for 5 turns.
+5回合内大幅提升全部能力。
 ====================
 
 ====================
@@ -713,7 +713,7 @@ length 38
 ====================
 Have a 33% chance to counter when hit.
 ====================
-Have a 33% chance to counter when hit.
+受击时有33%几率反击。
 ====================
 
 ====================
@@ -724,7 +724,7 @@ length 53
 ====================
 Increases attack power when using a two-handed sword.
 ====================
-Increases attack power when using a two-handed sword.
+使用双手剑时提升攻击力。
 ====================
 
 ====================
@@ -735,7 +735,7 @@ length 28
 ====================
 Double the number of attacks
 ====================
-Double the number of attacks
+使用双剑时攻击次数加倍。
 ====================
 
 ====================
@@ -746,7 +746,7 @@ length 22
 ====================
 when using two swords.
 ====================
-when using two swords.
+
 ====================
 
 ====================
@@ -757,7 +757,7 @@ length 44
 ====================
 Increases evasion when using a one-handed or
 ====================
-Increases evasion when using a one-handed or
+使用单手剑或双手剑时
 ====================
 
 ====================
@@ -768,7 +768,7 @@ length 17
 ====================
 two-handed sword.
 ====================
-two-handed sword.
+提升回避率。
 ====================
 
 ====================
@@ -779,7 +779,7 @@ length 27
 ====================
 Dodge the next two attacks.
 ====================
-Dodge the next two attacks.
+躲开接下来两次攻击。
 ====================
 
 ====================
@@ -790,7 +790,7 @@ length 44
 ====================
 When using a one-handed or two-handed sword,
 ====================
-When using a one-handed or two-handed sword,
+使用单手剑或双手剑时、
 ====================
 
 ====================
@@ -801,7 +801,7 @@ length 40
 ====================
 deal damage to the surrounding 3x3 area.
 ====================
-deal damage to the surrounding 3x3 area.
+对周围3x3范围造成伤害。
 ====================
 
 ====================
@@ -812,7 +812,7 @@ length 53
 ====================
 Increases attack power when using a two-handed sword.
 ====================
-Increases attack power when using a two-handed sword.
+使用双手剑时提升攻击力。
 ====================
 
 ====================
@@ -823,7 +823,7 @@ length 28
 ====================
 Double the number of attacks
 ====================
-Double the number of attacks
+使用双剑时攻击次数加倍。
 ====================
 
 ====================
@@ -834,7 +834,7 @@ length 22
 ====================
 when using two swords.
 ====================
-when using two swords.
+
 ====================
 
 ====================
@@ -845,7 +845,7 @@ length 19
 ====================
 When using a spear,
 ====================
-When using a spear,
+使用枪时、
 ====================
 
 ====================
@@ -856,7 +856,7 @@ length 40
 ====================
 deal damage to the surrounding 3x3 area.
 ====================
-deal damage to the surrounding 3x3 area.
+对周围3x3范围造成伤害。
 ====================
 
 ====================
@@ -867,7 +867,7 @@ length 44
 ====================
 Increases evasion when using a one-handed or
 ====================
-Increases evasion when using a one-handed or
+使用单手剑或双手剑时
 ====================
 
 ====================
@@ -878,7 +878,7 @@ length 17
 ====================
 two-handed sword.
 ====================
-two-handed sword.
+提升回避率。
 ====================
 
 ====================
@@ -889,7 +889,7 @@ length 29
 ====================
 Dodge the next three attacks.
 ====================
-Dodge the next three attacks.
+躲开接下来三次攻击。
 ====================
 
 ====================
@@ -900,7 +900,7 @@ length 19
 ====================
 When using a spear,
 ====================
-When using a spear,
+使用枪时、
 ====================
 
 ====================
@@ -911,7 +911,7 @@ length 40
 ====================
 deal damage to the surrounding 5x5 area.
 ====================
-deal damage to the surrounding 5x5 area.
+对周围5x5范围造成伤害。
 ====================
 
 ====================
@@ -922,7 +922,7 @@ length 33
 ====================
 Increases attack power when using
 ====================
-Increases attack power when using
+使用单手剑或双手剑时
 ====================
 
 ====================
@@ -933,7 +933,7 @@ length 33
 ====================
 a one-handed or two-handed sword.
 ====================
-a one-handed or two-handed sword.
+提升攻击力。
 ====================
 
 ====================
@@ -944,7 +944,7 @@ length 48
 ====================
 Heal anyone in critical condition up to 3 times.
 ====================
-Heal anyone in critical condition up to 3 times.
+最多可治疗3次濒死的同伴。
 ====================
 
 ====================
@@ -955,7 +955,7 @@ length 44
 ====================
 When using a one-handed or two-handed sword,
 ====================
-When using a one-handed or two-handed sword,
+使用单手剑或双手剑时、
 ====================
 
 ====================
@@ -966,7 +966,7 @@ length 32
 ====================
 hit up to eight tiles in a line.
 ====================
-hit up to eight tiles in a line.
+最多击中一条直线上的八格。
 ====================
 
 ====================
@@ -977,7 +977,7 @@ length 41
 ====================
 Increases evasion when using a one-handed
 ====================
-Increases evasion when using a one-handed
+使用单手剑或双手剑时
 ====================
 
 ====================
@@ -988,7 +988,7 @@ length 20
 ====================
 or two-handed sword.
 ====================
-or two-handed sword.
+提升回避率。
 ====================
 
 ====================
@@ -999,7 +999,7 @@ length 28
 ====================
 Dodge the next four attacks.
 ====================
-Dodge the next four attacks.
+躲开接下来四次攻击。
 ====================
 
 ====================
@@ -1010,7 +1010,7 @@ length 21
 ====================
 Ultimate sword skill.
 ====================
-Ultimate sword skill.
+究极剑技。
 ====================
 
 ====================
@@ -1021,7 +1021,7 @@ length 44
 ====================
 When using a one-handed or two-handed sword,
 ====================
-When using a one-handed or two-handed sword,
+使用单手剑或双手剑时、
 ====================
 
 ====================
@@ -1032,7 +1032,7 @@ length 44
 ====================
 deal damage 5 times to enemies within range.
 ====================
-deal damage 5 times to enemies within range.
+对范围内敌人造成5次伤害。
 ====================
 
 ====================
@@ -1043,7 +1043,7 @@ length 39
 ====================
 Reduces defense and increases strength.
 ====================
-Reduces defense and increases strength.
+降低防御、提升力量。
 ====================
 
 ====================
@@ -1054,7 +1054,7 @@ length 42
 ====================
 Increases attack power when dual-wielding.
 ====================
-Increases attack power when dual-wielding.
+双持时提升攻击力。
 ====================
 
 ====================
@@ -1065,7 +1065,7 @@ length 37
 ====================
 When anyone is in critical condition,
 ====================
-When anyone is in critical condition,
+当任何人濒死时、
 ====================
 
 ====================
@@ -1076,7 +1076,7 @@ length 24
 ====================
 everyone recovers 100HP.
 ====================
-everyone recovers 100HP.
+所有人恢复100点HP。
 ====================
 
 ====================
@@ -1087,7 +1087,7 @@ length 48
 ====================
 The strength of your first direct attack will be
 ====================
-The strength of your first direct attack will be
+第一次直接攻击的威力会
 ====================
 
 ====================
@@ -1098,7 +1098,7 @@ length 18
 ====================
 greatly increased.
 ====================
-greatly increased.
+大幅提升。
 ====================
 
 ====================
@@ -1109,7 +1109,7 @@ length 43
 ====================
 Increases attack power when using a katana.
 ====================
-Increases attack power when using a katana.
+使用刀时提升攻击力。
 ====================
 
 ====================
@@ -1120,7 +1120,7 @@ length 33
 ====================
 Improves chance of finding items.
 ====================
-Improves chance of finding items.
+提升发现道具的几率。
 ====================
 
 ====================
@@ -1131,7 +1131,7 @@ length 34
 ====================
 Attack twice with a single dagger.
 ====================
-Attack twice with a single dagger.
+用一把短剑攻击两次。
 ====================
 
 ====================
@@ -1142,7 +1142,7 @@ length 47
 ====================
 Uses main hand dagger if dual-wielding daggers.
 ====================
-Uses main hand dagger if dual-wielding daggers.
+双持短剑时使用主手短剑。
 ====================
 
 ====================
@@ -1153,7 +1153,7 @@ length 31
 ====================
 When using a projectile weapon,
 ====================
-When using a projectile weapon,
+使用投掷武器时、
 ====================
 
 ====================
@@ -1164,7 +1164,7 @@ length 40
 ====================
 deal damage to the surrounding 4x4 area.
 ====================
-deal damage to the surrounding 4x4 area.
+对周围4x4范围造成伤害。
 ====================
 
 ====================
@@ -1175,7 +1175,7 @@ length 16
 ====================
 Increases speed.
 ====================
-Increases speed.
+提升速度。
 ====================
 
 ====================
@@ -1186,7 +1186,7 @@ length 34
 ====================
 Increases chance of critical hits.
 ====================
-Increases chance of critical hits.
+提升暴击率。
 ====================
 
 ====================
@@ -1197,7 +1197,7 @@ length 34
 ====================
 Attack twice with a single dagger.
 ====================
-Attack twice with a single dagger.
+用一把短剑攻击两次。
 ====================
 
 ====================
@@ -1208,7 +1208,7 @@ length 47
 ====================
 Uses main hand dagger if dual-wielding daggers.
 ====================
-Uses main hand dagger if dual-wielding daggers.
+双持短剑时使用主手短剑。
 ====================
 
 ====================
@@ -1219,7 +1219,7 @@ length 31
 ====================
 When using a projectile weapon,
 ====================
-When using a projectile weapon,
+使用投掷武器时、
 ====================
 
 ====================
@@ -1230,7 +1230,7 @@ length 40
 ====================
 deal damage to the surrounding 4x4 area.
 ====================
-deal damage to the surrounding 4x4 area.
+对周围4x4范围造成伤害。
 ====================
 
 ====================
@@ -1241,7 +1241,7 @@ length 16
 ====================
 Increases speed.
 ====================
-Increases speed.
+提升速度。
 ====================
 
 ====================
@@ -1252,7 +1252,7 @@ length 44
 ====================
 Enemies won't target the caster for 4 turns.
 ====================
-Enemies won't target the caster for 4 turns.
+4回合内敌人不会以施术者为目标。
 ====================
 
 ====================
@@ -1263,7 +1263,7 @@ length 34
 ====================
 Increases chance of critical hits.
 ====================
-Increases chance of critical hits.
+提升暴击率。
 ====================
 
 ====================
@@ -1274,7 +1274,7 @@ length 34
 ====================
 Attack twice with a single dagger.
 ====================
-Attack twice with a single dagger.
+用一把短剑攻击两次。
 ====================
 
 ====================
@@ -1285,7 +1285,7 @@ length 47
 ====================
 Uses main hand dagger if dual-wielding daggers.
 ====================
-Uses main hand dagger if dual-wielding daggers.
+双持短剑时使用主手短剑。
 ====================
 
 ====================
@@ -1296,7 +1296,7 @@ length 16
 ====================
 Increases speed.
 ====================
-Increases speed.
+提升速度。
 ====================
 
 ====================
@@ -1307,7 +1307,7 @@ length 40
 ====================
 Enemies won't target caster for 4 turns.
 ====================
-Enemies won't target caster for 4 turns.
+4回合内敌人不会以施术者为目标。
 ====================
 
 ====================
@@ -1318,7 +1318,7 @@ length 34
 ====================
 Increases chance of critical hits.
 ====================
-Increases chance of critical hits.
+提升暴击率。
 ====================
 
 ====================
@@ -1329,7 +1329,7 @@ length 46
 ====================
 Your next direct attack is guaranteed to kill.
 ====================
-Your next direct attack is guaranteed to kill.
+下一次直接攻击必定击杀。
 ====================
 
 ====================
@@ -1340,7 +1340,7 @@ length 42
 ====================
 Deal damage to a 3x3 area with a fireball.
 ====================
-Deal damage to a 3x3 area with a fireball.
+用火球对3x3范围造成伤害。
 ====================
 
 ====================
@@ -1351,7 +1351,7 @@ length 35
 ====================
 Confuse a random number of enemies.
 ====================
-Confuse a random number of enemies.
+使随机数量的敌人混乱。
 ====================
 
 ====================
@@ -1362,7 +1362,7 @@ length 38
 ====================
 Deal damage to 3 lines with lightning.
 ====================
-Deal damage to 3 lines with lightning.
+用雷电对三条直线造成伤害。
 ====================
 
 ====================
@@ -1373,7 +1373,7 @@ length 39
 ====================
 Cast fireballs for 3 consecutive turns,
 ====================
-Cast fireballs for 3 consecutive turns,
+连续3回合施放火球、
 ====================
 
 ====================
@@ -1384,7 +1384,7 @@ length 24
 ====================
 each hitting a 3x3 area.
 ====================
-each hitting a 3x3 area.
+每次命中3x3范围。
 ====================
 
 ====================
@@ -1395,7 +1395,7 @@ length 41
 ====================
 Deal damage to a 5x5 area with lightning.
 ====================
-Deal damage to a 5x5 area with lightning.
+用雷电对5x5范围造成伤害。
 ====================
 
 ====================
@@ -1406,7 +1406,7 @@ length 35
 ====================
 Heal someone in critical condition.
 ====================
-Heal someone in critical condition.
+治疗濒死的同伴。
 ====================
 
 ====================
@@ -1417,7 +1417,7 @@ length 48
 ====================
 Heal anyone in critical condition up to 3 times.
 ====================
-Heal anyone in critical condition up to 3 times.
+最多可治疗3次濒死的同伴。
 ====================
 
 ====================
@@ -1428,7 +1428,7 @@ length 38
 ====================
 Increases defense when using a shield.
 ====================
-Increases defense when using a shield.
+使用盾时提升防御力。
 ====================
 
 ====================
@@ -1439,7 +1439,7 @@ length 31
 ====================
 Confuse all enemies for 1 turn.
 ====================
-Confuse all enemies for 1 turn.
+使所有敌人混乱1回合。
 ====================
 
 ====================
@@ -1450,7 +1450,7 @@ length 46
 ====================
 Everyone dodges all enemy attacks for 3 turns.
 ====================
-Everyone dodges all enemy attacks for 3 turns.
+3回合内所有人躲开敌人的所有攻击。
 ====================
 
 ====================
@@ -1461,7 +1461,7 @@ length 38
 ====================
 Increases defense when using a shield.
 ====================
-Increases defense when using a shield.
+使用盾时提升防御力。
 ====================
 
 ====================
@@ -1472,7 +1472,7 @@ length 39
 ====================
 Cast fireballs for 5 consecutive turns,
 ====================
-Cast fireballs for 5 consecutive turns,
+连续5回合施放火球、
 ====================
 
 ====================
@@ -1483,7 +1483,7 @@ length 24
 ====================
 each hitting a 3x3 area.
 ====================
-each hitting a 3x3 area.
+每次命中3x3范围。
 ====================
 
 ====================
@@ -1494,7 +1494,7 @@ length 39
 ====================
 Cast lightning for 2 consecutive turns,
 ====================
-Cast lightning for 2 consecutive turns,
+连续2回合施放雷电、
 ====================
 
 ====================
@@ -1505,7 +1505,7 @@ length 24
 ====================
 each hitting a 5x5 area.
 ====================
-each hitting a 5x5 area.
+每次命中5x5范围。
 ====================
 
 ====================
@@ -1516,7 +1516,7 @@ length 40
 ====================
 Cast fireballs for 10 consecutive turns,
 ====================
-Cast fireballs for 10 consecutive turns,
+连续10回合施放火球、
 ====================
 
 ====================
@@ -1527,7 +1527,7 @@ length 24
 ====================
 each hitting a 3x3 area.
 ====================
-each hitting a 3x3 area.
+每次命中3x3范围。
 ====================
 
 ====================
@@ -1538,7 +1538,7 @@ length 15
 ====================
 Ultimate magic.
 ====================
-Ultimate magic.
+究极魔法。
 ====================
 
 ====================
@@ -1549,7 +1549,7 @@ length 44
 ====================
 Deal damage to an 8x8 area with a meteorite.
 ====================
-Deal damage to an 8x8 area with a meteorite.
+用陨石对8x8范围造成伤害。
 ====================
 
 ====================
@@ -1560,5 +1560,5 @@ length 17
 ====================
 Takafumi / Dispel
 ====================
-Takafumi / Dispel
+鹰文 / 驱散
 ====================

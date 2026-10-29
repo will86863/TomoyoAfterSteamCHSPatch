@@ -9,7 +9,7 @@ length 49
 ====================
 \"This is the battlefield, an underground maze.\"
 ====================
-\"This is the battlefield, an underground maze.\"
+这里就是战场、地下迷宫。
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 66
 ====================
 \"What's the matter? Are you shaking? Are you terrified by this?\"
 ====================
-\"What's the matter? Are you shaking? Are you terrified by this?\"
+怎么了？身体在发抖吗？被这景象吓到了？
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 50
 ====================
 \"Nobody's scared, so just hurry up and explain.\"
 ====================
-\"Nobody's scared, so just hurry up and explain.\"
+谁害怕了、快点说明吧。
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 151
 ====================
 \"The battle takes place in this dark, underground arena. Once the battle heats up, you won't be able to relay commands to your characters very well.\"
 ====================
-\"The battle takes place in this dark, underground arena. Once the battle heats up, you won't be able to relay commands to your characters very well.\"
+战斗就在这个阴暗的地下竞技场进行。一旦战斗进入白热化、就无法很好地给角色传达指令了。
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 92
 ====================
 \"Because of this, you must decide their actions before you start each floor in this game.\"
 ====================
-\"Because of this, you must decide their actions before you start each floor in this game.\"
+因此、这个游戏要在每层开始前决定好角色的行动。
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 77
 ====================
 \"Once the battle starts, you can't do anything about combat on that floor.\"
 ====================
-\"Once the battle starts, you can't do anything about combat on that floor.\"
+一旦战斗开始、那一层的战斗就无法再操控了。
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 71
 ====================
 \"You can only watch your characters enacting the plans you laid out.\"
 ====================
-\"You can only watch your characters enacting the plans you laid out.\"
+只能看着角色按照你事先设定好的计划行动。
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 80
 ====================
 \"Unfortunately, they're not that bright, so you can only set simple commands.\"
 ====================
-\"Unfortunately, they're not that bright, so you can only set simple commands.\"
+可惜的是、他们脑子都不太好使、所以只能设定一些简单的指令。
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 62
 ====================
 \"You can't even choose which enemies you want to challenge.\"
 ====================
-\"You can't even choose which enemies you want to challenge.\"
+连要挑战哪个敌人都不能选择。
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 142
 ====================
 \"The creator, Takafumi, would like me to emphasize that this is definitely not because he was lazy, but instead is how it's supposed to be.\"
 ====================
-\"The creator, Takafumi, would like me to emphasize that this is definitely not because he was lazy, but instead is how it's supposed to be.\"
+作者鹰文希望我强调一下、这绝对不是因为他偷懒、而是本来就是这样设计的。
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 30
 ====================
 \"Enough with the charade...\"
 ====================
-\"Enough with the charade...\"
+别装模作样了…
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 160
 ====================
 \"However, since you have less control, if the skills you set beforehand come in handy and lead to your victory, you'll feel a greater amount of satisfaction.\"
 ====================
-\"However, since you have less control, if the skills you set beforehand come in handy and lead to your victory, you'll feel a greater amount of satisfaction.\"
+不过、因为操控变少了、如果事先设定的技能正好派上用场、带你走向胜利、那种成就感会更大。
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 53
 ====================
 \"This will also lead to unexpected drama at times.\"
 ====================
-\"This will also lead to unexpected drama at times.\"
+有时还会产生意想不到的戏剧性。
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 59
 ====================
 \"That's something you can expect... and look forward to.\"
 ====================
-\"That's something you can expect... and look forward to.\"
+这也是值得期待…值得盼望的地方。
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 50
 ====================
 \"You're being quite forceful with your users...\"
 ====================
-\"You're being quite forceful with your users...\"
+你对玩家还真是强硬啊…
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 67
 ====================
 \"Now, let's move onto an overview for you beginners. Click on the 
 ====================
-\"Now, let's move onto an overview for you beginners. Click on the 
+那么、给新手们讲解一下概要吧。点击
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 5
 ====================
 Help 
 ====================
-Help 
+帮助
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 53
 ====================
 button and read the online manual for more details.\"
 ====================
-button and read the online manual for more details.\"
+按钮、阅读在线手册可以获得更多详情。
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 50
 ====================
 \"First off, the positioning of your characters.\"
 ====================
-\"First off, the positioning of your characters.\"
+首先是角色的站位。
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 83
 ====================
 \"If you click on an enemy on the screen, you can see his movement range in blue.\"
 ====================
-\"If you click on an enemy on the screen, you can see his movement range in blue.\"
+点击画面上的敌人、就能以蓝色显示他的移动范围。
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 117
 ====================
 \"The bar on the top right, where there are a bunch of characters lined up, shows the characters' order of actions.\"
 ====================
-\"The bar on the top right, where there are a bunch of characters lined up, shows the characters' order of actions.\"
+右上角那一排角色排列的条、显示的是角色的行动顺序。
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 109
 ====================
 \"You should try to position your characters to attack your enemies preemptively based on this information.\"
 ====================
-\"You should try to position your characters to attack your enemies preemptively based on this information.\"
+应该根据这些信息、设法把角色配置到能先发制人攻击敌人的位置。
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 80
 ====================
 \"Using 'Standby' on your turn is useful for drawing your enemies towards you.\"
 ====================
-\"Using 'Standby' on your turn is useful for drawing your enemies towards you.\"
+在自己的回合使用『待命』、可以有效地把敌人引过来。
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 111
 ====================
 \"When it comes to skills... everybody knows one, but you should be able to win without using them this time.\"
 ====================
-\"When it comes to skills... everybody knows one, but you should be able to win without using them this time.\"
+至于技能…虽然每个人都会一个、但这次不用技能也应该能赢。
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 23
 ====================
 \"You should leave the 
 ====================
-\"You should leave the 
+把「最后
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 4
 ====================
 LAST
 ====================
-LAST
+
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 7
 ====================
 ACTION 
 ====================
-ACTION 
+行动」
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 26
 ====================
 as the default 'Attack'.\"
 ====================
-as the default 'Attack'.\"
+设为默认的『攻击』就好。
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 114
 ====================
 \"As for equipment and items, since you don't have anything yet, don't worry about it and choose 'Start battle'.\"
 ====================
-\"As for equipment and items, since you don't have anything yet, don't worry about it and choose 'Start battle'.\"
+至于装备和道具、因为你们现在什么都没有、所以不用担心、直接选择『开始战斗』吧。
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 89
 ====================
 \"Even if your characters die, they will be resurrected with 1 health after the battle.\"
 ====================
-\"Even if your characters die, they will be resurrected with 1 health after the battle.\"
+就算角色死了、战斗结束后也会以１点体力复活。
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 149
 ====================
 \"There aren't any penalties, but you won't earn any experience points either. Don't let one of your characters' level fall behind because of this.\"
 ====================
-\"There aren't any penalties, but you won't earn any experience points either. Don't let one of your characters' level fall behind because of this.\"
+虽然没有什么惩罚、但也不会获得经验值。别让某个角色的等级因此落后了。
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 37
 ====================
 \"And that's all for this tutorial.\"
 ====================
-\"And that's all for this tutorial.\"
+教程就到这里。
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 81
 ====================
 \"Now, go forth, brave souls, and fulfill the destiny given to you by Takafumi!\"
 ====================
-\"Now, go forth, brave souls, and fulfill the destiny given to you by Takafumi!\"
+那么、勇敢的各位、去完成鹰文赋予你们的使命吧！
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 11
 ====================
 \"Vnnnng.\"
 ====================
-\"Vnnnng.\"
+呜嗯。
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 12
 ====================
 \"Hold on.\"
 ====================
-\"Hold on.\"
+等一下。
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 52
 ====================
 \"This guy just made a sound effect for himself...\"
 ====================
-\"This guy just made a sound effect for himself...\"
+这家伙刚刚自己发出了效果音啊…
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 56
 ====================
 \"They have a Golem waiting for you every five floors.\"
 ====================
-\"They have a Golem waiting for you every five floors.\"
+每五层就会有一只魔像在等着你们。
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 44
 ====================
 \"They're there to slay invaders like you.\"
 ====================
-\"They're there to slay invaders like you.\"
+它们是为了把你们这些入侵者送去黄泉而存在的。
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 98
 ====================
 \"Of course, they were also made with almond tofu pudding, but don't look down on them for that.\"
 ====================
-\"Of course, they were also made with almond tofu pudding, but don't look down on them for that.\"
+当然、它们也是用杏仁豆腐布丁做的、但千万别因此小看它们。
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 102
 ====================
 \"They're actually bosses. No, to be exact, mid-bosses. Oh, I let out the existence of a final boss!\"
 ====================
-\"They're actually bosses. No, to be exact, mid-bosses. Oh, I let out the existence of a final boss!\"
+它们其实是ＢＯＳＳ级。不、准确说是中ＢＯＳＳ。啊、我不小心泄露了最终ＢＯＳＳ的存在！
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 17
 ====================
 \"I don't care.\"
 ====================
-\"I don't care.\"
+我才不在乎。
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 73
 ====================
 \"Anyway, they're hard to deal with. Don't hesitate to use your skills.\"
 ====================
-\"Anyway, they're hard to deal with. Don't hesitate to use your skills.\"
+总之、它们很难对付。不要犹豫、尽管用技能吧。
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 81
 ====================
 \"Now, go forth, brave souls, and fulfill the destiny given to you by Takafumi!\"
 ====================
-\"Now, go forth, brave souls, and fulfill the destiny given to you by Takafumi!\"
+那么、勇敢的各位、去完成鹰文赋予你们的使命吧！
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 39
 ====================
 \"Hold on! What's that thing in red?!\"
 ====================
-\"Hold on! What's that thing in red?!\"
+等一下！那个红色的东西是什么！？
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 37
 ====================
 \"How about you explain that to me?\"
 ====================
-\"How about you explain that to me?\"
+不如你来给我解释一下？
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 27
 ====================
 \"Yeah, I guess I should.\"
 ====================
-\"Yeah, I guess I should.\"
+是啊、是该解释一下。
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 21
 ====================
 \"Whoa, it's red...\"
 ====================
-\"Whoa, it's red...\"
+哇、是红色的…
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 13
 ====================
 \".........\"
 ====================
-\".........\"
+………
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 55
 ====================
 \"Stop looking at it and get on with the explanation.\"
 ====================
-\"Stop looking at it and get on with the explanation.\"
+别光看着、快解释。
 ====================
 
 ====================
@@ -548,7 +548,7 @@ length 68
 ====================
 \"Yeah, sorry. That's a red beastman. Its attacks aren't half bad!\"
 ====================
-\"Yeah, sorry. That's a red beastman. Its attacks aren't half bad!\"
+是啊、抱歉。那是红色兽人。它的攻击力相当不赖！
 ====================
 
 ====================
@@ -559,7 +559,7 @@ length 41
 ====================
 \"That sounds like a pain to deal with.\"
 ====================
-\"That sounds like a pain to deal with.\"
+听起来很难对付啊。
 ====================
 
 ====================
@@ -570,7 +570,7 @@ length 13
 ====================
 \".........\"
 ====================
-\".........\"
+………
 ====================
 
 ====================
@@ -581,7 +581,7 @@ length 24
 ====================
 \"Besides, it's red...\"
 ====================
-\"Besides, it's red...\"
+而且、还是红色的…
 ====================
 
 ====================
@@ -592,7 +592,7 @@ length 44
 ====================
 \"How long do you have to keep that up...?\"
 ====================
-\"How long do you have to keep that up...?\"
+你要这样拖多久啊…？
 ====================
 
 ====================
@@ -603,7 +603,7 @@ length 27
 ====================
 \"Whoa... this is blue...\"
 ====================
-\"Whoa... this is blue...\"
+哇…这个是蓝色的…
 ====================
 
 ====================
@@ -614,7 +614,7 @@ length 12
 ====================
 \"What is?\"
 ====================
-\"What is?\"
+什么？
 ====================
 
 ====================
@@ -625,7 +625,7 @@ length 61
 ====================
 \"Look, there's a blue beastman. This isn't looking good...\"
 ====================
-\"Look, there's a blue beastman. This isn't looking good...\"
+看、有一只蓝色兽人。这可不太妙…
 ====================
 
 ====================
@@ -636,7 +636,7 @@ length 65
 ====================
 \"What's wrong with that? What's special about these blue ones?\"
 ====================
-\"What's wrong with that? What's special about these blue ones?\"
+那又怎么样？这些蓝色的有什么特别的？
 ====================
 
 ====================
@@ -647,7 +647,7 @@ length 81
 ====================
 \"The blue ones are dangerous. Put those together, and you get 'bluangerous'...\"
 ====================
-\"The blue ones are dangerous. Put those together, and you get 'bluangerous'...\"
+蓝色的很危险。把它们凑在一起、就成了『蓝色危险』…
 ====================
 
 ====================
@@ -658,7 +658,7 @@ length 28
 ====================
 \"Hurry up and explain it!\"
 ====================
-\"Hurry up and explain it!\"
+快点解释清楚！
 ====================
 
 ====================
@@ -669,7 +669,7 @@ length 61
 ====================
 \"Crap. Looks like he'll snap if I don't explain it soon...\"
 ====================
-\"Crap. Looks like he'll snap if I don't explain it soon...\"
+糟了。再不解说的话、他好像要发火了…
 ====================
 
 ====================
@@ -680,7 +680,7 @@ length 19
 ====================
 \"I already have!\"
 ====================
-\"I already have!\"
+我已经发火了！
 ====================
 
 ====================
@@ -691,7 +691,7 @@ length 33
 ====================
 \"The blue ones... let's see...\"
 ====================
-\"The blue ones... let's see...\"
+蓝色的…让我想想…
 ====================
 
 ====================
@@ -702,7 +702,7 @@ length 68
 ====================
 \"He may snap again if I stay quiet here... Let's give that a try.\"
 ====================
-\"He may snap again if I stay quiet here... Let's give that a try.\"
+这时候要是不说话、他可能又要发火了…那就试试看吧。
 ====================
 
 ====================
@@ -713,7 +713,7 @@ length 13
 ====================
 \".........\"
 ====================
-\".........\"
+………
 ====================
 
 ====================
@@ -724,7 +724,7 @@ length 17
 ====================
 \"Don't try me!\"
 ====================
-\"Don't try me!\"
+别试探我！
 ====================
 
 ====================
@@ -735,7 +735,7 @@ length 148
 ====================
 \"Well, the blue ones have high agility, and they go after characters with low defense. They're a threat to you, but to be honest, you're scarier.\"
 ====================
-\"Well, the blue ones have high agility, and they go after characters with low defense. They're a threat to you, but to be honest, you're scarier.\"
+嘛、蓝色的敏捷很高、会专门攻击防御低的角色。对你们来说是威胁、不过说实话、你比它更可怕。
 ====================
 
 ====================
@@ -746,5 +746,5 @@ length 26
 ====================
 \"Well, thanks for that!\"
 ====================
-\"Well, thanks for that!\"
+那还真是谢谢了！
 ====================

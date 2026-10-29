@@ -9,7 +9,7 @@ length 83
 ====================
 \"Hey, welcome back. Looks like you were beaten up pretty badly. You should rest.\"
 ====================
-\"Hey, welcome back. Looks like you were beaten up pretty badly. You should rest.\"
+喂、欢迎回来。看样子你被打得很惨啊。去休息一下吧。
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 142
 ====================
 \"Your skills and physical strength will recover when you're on the ground level. We also have an unlimited supply of recovery potions here.\"
 ====================
-\"Your skills and physical strength will recover when you're on the ground level. We also have an unlimited supply of recovery potions here.\"
+回到地面的话、技能和体力都会恢复。这里的回复药也是无限供应的。
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 55
 ====================
 \"However, recovery potions are very heavy by design.\"
 ====================
-\"However, recovery potions are very heavy by design.\"
+不过、回复药的设计就是非常重。
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 95
 ====================
 \"For now, take as many as you can. If you want to take more, you'll have to drop some items.\"
 ====================
-\"For now, take as many as you can. If you want to take more, you'll have to drop some items.\"
+现在先尽量多带一些吧。如果想带更多、就必须舍弃一些道具。
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 39
 ====================
 \"Hey, welcome back. You should rest.\"
 ====================
-\"Hey, welcome back. You should rest.\"
+喂、欢迎回来。去休息一下吧。
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 106
 ====================
 \"If none of you attack the enemy and use only 'Search' or 'Run', then you definitely won't beat them...\"
 ====================
-\"If none of you attack the enemy and use only 'Search' or 'Run', then you definitely won't beat them...\"
+如果全员都不攻击敌人、只用『探索』或『逃跑』的话、是绝对打不赢的…
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 131
 ====================
 \"In particular, if you don't clear the floor, you can't get the items you found by using 'Search', and it will all be in vain...\"
 ====================
-\"In particular, if you don't clear the floor, you can't get the items you found by using 'Search', and it will all be in vain...\"
+特别是如果不清完这层、用『探索』找到的道具也拿不到、只会白白浪费时间…
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 39
 ====================
 \"Hey, welcome back. You should rest.\"
 ====================
-\"Hey, welcome back. You should rest.\"
+喂、欢迎回来。去休息一下吧。
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 66
 ====================
 \"Hey, welcome back. Haha, you actually came back. That's funny.\"
 ====================
-\"Hey, welcome back. Haha, you actually came back. That's funny.\"
+喂、欢迎回来。哈哈、你还真的回来了。真好笑。
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 103
 ====================
 \"Unless your character equips the right weapon, skills that rely on a weapon type will not function.\"
 ====================
-\"Unless your character equips the right weapon, skills that rely on a weapon type will not function.\"
+如果角色没有装备对应的武器、依赖武器种类的技能就无法发挥效果。
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 136
 ====================
 \"However, there are a limited number of weapons you can carry within the weight limit, especially when it comes to two-handed swords.\"
 ====================
-\"However, there are a limited number of weapons you can carry within the weight limit, especially when it comes to two-handed swords.\"
+不过、在负重限制内能携带的武器数量是有限的、尤其是双手剑。
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 166
 ====================
 \"At times like that, you should exchange weapons with other characters before each floor so that you can use skills effectively with the least amount of equipment.\"
 ====================
-\"At times like that, you should exchange weapons with other characters before each floor so that you can use skills effectively with the least amount of equipment.\"
+这种时候、就应该在每层开始前和其他角色交换武器、用最少的装备有效运用技能。
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 181
 ====================
 \"That's important if you want to beat the game, so you should do it even though it's kind of troublesome. That said, I should have probably made the interface more user-friendly!\"
 ====================
-\"That's important if you want to beat the game, so you should do it even though it's kind of troublesome. That said, I should have probably made the interface more user-friendly!\"
+这对通关很重要、所以就算有点麻烦也请务必这么做。说起来、我当初真该把界面做得更人性化一点啊！
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 24
 ====================
 \"Nobody's laughing...\"
 ====================
-\"Nobody's laughing...\"
+没有人在笑…
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 61
 ====================
 \"Hey, welcome back. Haha, you're back again. That's funny.\"
 ====================
-\"Hey, welcome back. Haha, you're back again. That's funny.\"
+喂、欢迎回来。哈哈、你又回来了。真好笑。
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 86
 ====================
 \"Raising a specific stat based on your job's characteristics is part of the basics.\"
 ====================
-\"Raising a specific stat based on your job's characteristics is part of the basics.\"
+根据职业特性来提升特定能力、这是基础中的基础。
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 128
 ====================
 \"If you obtain a strong weapon, you can then focus on raising defense and other stats accordingly, making it easy to advance.\"
 ====================
-\"If you obtain a strong weapon, you can then focus on raising defense and other stats accordingly, making it easy to advance.\"
+如果获得了强力武器、之后就可以集中提升防御等其他能力、这样推进起来会很轻松。
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 61
 ====================
 \"Hey, welcome back. Haha, you're back again. That's funny.\"
 ====================
-\"Hey, welcome back. Haha, you're back again. That's funny.\"
+喂、欢迎回来。哈哈、你又回来了。真好笑。
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 104
 ====================
 \"It's pretty effective to equip shields when gathering enemies with techniques such as 'Panty Flash'.\"
 ====================
-\"It's pretty effective to equip shields when gathering enemies with techniques such as 'Panty Flash'.\"
+用『内裤走光』之类的技巧聚集敌人时、装备盾牌会相当有效。
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 95
 ====================
 \"Setting your magician to do things like 'Rush' and join in on the attack is also effective.\"
 ====================
-\"Setting your magician to do things like 'Rush' and join in on the attack is also effective.\"
+让法师也做『突击』之类的行动、加入攻击、同样有效。
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 71
 ====================
 \"DO NOT FORGET to set your last action to 'Run' or 'Search' if you do!
 ====================
-\"DO NOT FORGET to set your last action to 'Run' or 'Search' if you do!
+这么做的时候、千万不要忘记把最后行动设定成『逃跑』或『探索』！
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 2
 ====================
 \"
 ====================
-\"
+
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 61
 ====================
 \"Hey, welcome back. Haha, you're back again. That's funny.\"
 ====================
-\"Hey, welcome back. Haha, you're back again. That's funny.\"
+喂、欢迎回来。哈哈、你又回来了。真好笑。
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 81
 ====================
 \"When you encounter a large number of enemies, 'Earthquake' is very effective.\"
 ====================
-\"When you encounter a large number of enemies, 'Earthquake' is very effective.\"
+遇到大量敌人时、『地震』非常有效。
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 74
 ====================
 \"'Sleep' is also effective, but you need to time it by using 'Standby'.\"
 ====================
-\"'Sleep' is also effective, but you need to time it by using 'Standby'.\"
+『睡眠』也很有效、但必须用『待命』来把握时机。
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 17
 ====================
 \"Is that so...\"
 ====================
-\"Is that so...\"
+是这样吗…
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 92
 ====================
 \"Welcome back. Haha, you still haven't passed the 10th floor. Funny. That's unbelievable.\"
 ====================
-\"Welcome back. Haha, you still haven't passed the 10th floor. Funny. That's unbelievable.\"
+欢迎回来。哈哈、你还没过第十层啊。真好笑。难以置信。
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 29
 ====================
 \"Eh, you're back already?!\"
 ====================
-\"Eh, you're back already?!\"
+诶、你已经回来了！？
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 143
 ====================
 \"If you set your characters to rush in after using skills such as 'Spear User' and 'Wild Attack', then you may end up hitting more enemies?!\"
 ====================
-\"If you set your characters to rush in after using skills such as 'Spear User' and 'Wild Attack', then you may end up hitting more enemies?!\"
+使用『枪使』『野蛮攻击』之类的技能后、如果让角色突进、说不定反而会打到更多敌人？！
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 47
 ====================
 \"Are you telling us that? Or are you asking?\"
 ====================
-\"Are you telling us that? Or are you asking?\"
+你这是在告诉我们？还是在问我们？
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 29
 ====================
 \"Eh, you're back already!?\"
 ====================
-\"Eh, you're back already!?\"
+诶、你已经回来了！？
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 139
 ====================
 \"If you use an Area of Effect-based weapon in conjunction with a skill that increases your Attack, it should be effective or something!?\"
 ====================
-\"If you use an Area of Effect-based weapon in conjunction with a skill that increases your Attack, it should be effective or something!?\"
+如果把范围型武器和提升攻击力的技能搭配使用、应该会很有效之类？！
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 47
 ====================
 \"Are you telling us that? Or are you asking?\"
 ====================
-\"Are you telling us that? Or are you asking?\"
+你这是在告诉我们？还是在问我们？
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 29
 ====================
 \"Eh, you're back already?!\"
 ====================
-\"Eh, you're back already?!\"
+诶、你已经回来了！？
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 77
 ====================
 \"You understand the differences between active and passive skills, right?!\"
 ====================
-\"You understand the differences between active and passive skills, right?!\"
+主动技能和被动技能的区别、你们明白吧？！
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 115
 ====================
 \"If you do, don't you think it would be more efficient in longer battles if you activate passive skills first...\"
 ====================
-\"If you do, don't you think it would be more efficient in longer battles if you activate passive skills first...\"
+如果明白的话、那在长时间战斗里先发动被动技能、
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 45
 ====================
 \"...and then use active skills afterwards?\"
 ====================
-\"...and then use active skills afterwards?\"
+然后再用主动技能、是不是更有效率？
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 31
 ====================
 \"You really are asking me...\"
 ====================
-\"You really are asking me...\"
+你果然是在问我…
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 10
 ====================
 \"Wow...\"
 ====================
-\"Wow...\"
+哇…
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 13
 ====================
 \".........\"
 ====================
-\".........\"
+………
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 33
 ====================
 \"What are you surprised about?\"
 ====================
-\"What are you surprised about?\"
+你在惊讶什么？
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 25
 ====================
 \"Ugh, this is awful...\"
 ====================
-\"Ugh, this is awful...\"
+唔、这可不太妙…
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 106
 ====================
 \"If you dual-wield weapons, the weapon you hold in your left hand will only deal half as much damage...\"
 ====================
-\"If you dual-wield weapons, the weapon you hold in your left hand will only deal half as much damage...\"
+如果双持武器、左手所持武器的伤害只有一半…
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 111
 ====================
 \"So you should equip your stronger weapons to your right hand. This guy might snap if I tell him this now...\"
 ====================
-\"So you should equip your stronger weapons to your right hand. This guy might snap if I tell him this now...\"
+所以把更强的武器装在右手比较好。这时候告诉他这个、他可能会翻脸…
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 19
 ====================
 \"I heard that...\"
 ====================
-\"I heard that...\"
+我听见了…
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 25
 ====================
 \"Ugh, this is awful...\"
 ====================
-\"Ugh, this is awful...\"
+唔、这可不太妙…
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 110
 ====================
 \"You can change your job in the status screen on the ground level. I wonder if this guy knows about that...\"
 ====================
-\"You can change your job in the status screen on the ground level. I wonder if this guy knows about that...\"
+在地面的状态画面里可以转职。这家伙知道这件事吗…
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 77
 ====================
 \"If you meet a job's stat requirements, your level should be irrelevant...\"
 ====================
-\"If you meet a job's stat requirements, your level should be irrelevant...\"
+只要达到职业的能力要求、等级应该就不成问题…
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 88
 ====================
 \"You can also revert to a lower-level job, or quickly switch to a higher-level job...\"
 ====================
-\"You can also revert to a lower-level job, or quickly switch to a higher-level job...\"
+也可以转回低级职业、或者迅速切换到高级职业…
 ====================
 
 ====================
@@ -548,7 +548,7 @@ length 44
 ====================
 \"You don't know, do you... How pitiful...\"
 ====================
-\"You don't know, do you... How pitiful...\"
+你不知道吧…真可怜…
 ====================
 
 ====================
@@ -559,7 +559,7 @@ length 23
 ====================
 \"I heard all that...\"
 ====================
-\"I heard all that...\"
+我全都听见了…
 ====================
 
 ====================
@@ -570,7 +570,7 @@ length 44
 ====================
 \"Ugh, you came back again... This is bad.\"
 ====================
-\"Ugh, you came back again... This is bad.\"
+唔、你又回来了…这可糟了。
 ====================
 
 ====================
@@ -581,7 +581,7 @@ length 18
 ====================
 \"What is it...?\"
 ====================
-\"What is it...?\"
+是什么…？
 ====================
 
 ====================
@@ -592,7 +592,7 @@ length 125
 ====================
 \"It would be a convenient strategy to place your archers such that the enemies are just in range at the start of combat...\"
 ====================
-\"It would be a convenient strategy to place your archers such that the enemies are just in range at the start of combat...\"
+把弓手配置到战斗开始时敌人刚好进入射程的位置、是很方便的策略…
 ====================
 
 ====================
@@ -603,7 +603,7 @@ length 77
 ====================
 \"And have them defeat the enemy before they get closer by using 'Standby'.\"
 ====================
-\"And have them defeat the enemy before they get closer by using 'Standby'.\"
+然后用『待命』、在敌人靠近之前就把他们解决掉。
 ====================
 
 ====================
@@ -614,7 +614,7 @@ length 63
 ====================
 \"You can still attack the enemy even when you use 'Standby'.\"
 ====================
-\"You can still attack the enemy even when you use 'Standby'.\"
+使用『待命』时也还是可以攻击敌人的。
 ====================
 
 ====================
@@ -625,7 +625,7 @@ length 29
 ====================
 \"So let me off the hook...\"
 ====================
-\"So let me off the hook...\"
+所以请放过我吧…
 ====================
 
 ====================
@@ -636,7 +636,7 @@ length 18
 ====================
 \"Off what hook?\"
 ====================
-\"Off what hook?\"
+放过你什么？
 ====================
 
 ====================
@@ -647,7 +647,7 @@ length 36
 ====================
 \"Ugh, this is definitely awful...\"
 ====================
-\"Ugh, this is definitely awful...\"
+唔、这绝对不太妙…
 ====================
 
 ====================
@@ -658,7 +658,7 @@ length 17
 ====================
 \"What is it...\"
 ====================
-\"What is it...\"
+是什么…
 ====================
 
 ====================
@@ -669,7 +669,7 @@ length 132
 ====================
 \"When your party members are split 2:1, it's a good idea to let the lone character use skills like 'Counterattack' and 'Parry'...\"
 ====================
-\"When your party members are split 2:1, it's a good idea to let the lone character use skills like 'Counterattack' and 'Parry'...\"
+当队伍成员分成２：１的时候、让单独那位使用『反击』『招架』之类的技能是好主意…
 ====================
 
 ====================
@@ -680,7 +680,7 @@ length 101
 ====================
 \"And let him equip the better armor. It'll also be very helpful if you let him or her equip a bow.\"
 ====================
-\"And let him equip the better armor. It'll also be very helpful if you let him or her equip a bow.\"
+然后让他装备更好的防具。如果让他或她装备弓也会很有帮助。
 ====================
 
 ====================
@@ -691,7 +691,7 @@ length 27
 ====================
 \"Just give me a break...\"
 ====================
-\"Just give me a break...\"
+求你饶了我吧…
 ====================
 
 ====================
@@ -702,7 +702,7 @@ length 14
 ====================
 \"From what?\"
 ====================
-\"From what?\"
+饶你什么？
 ====================
 
 ====================
@@ -713,7 +713,7 @@ length 49
 ====================
 \"This is bad... I might have been found out...\"
 ====================
-\"This is bad... I might have been found out...\"
+这下糟了…说不定被发现了…
 ====================
 
 ====================
@@ -724,7 +724,7 @@ length 24
 ====================
 \"What are you hiding?\"
 ====================
-\"What are you hiding?\"
+你在隐瞒什么？
 ====================
 
 ====================
@@ -735,7 +735,7 @@ length 19
 ====================
 \"Ah! Here he is!\"
 ====================
-\"Ah! Here he is!\"
+啊！他来了！
 ====================
 
 ====================
@@ -746,7 +746,7 @@ length 30
 ====================
 \"Don't talk like the enemy.\"
 ====================
-\"Don't talk like the enemy.\"
+别像敌人一样说话。
 ====================
 
 ====================
@@ -757,7 +757,7 @@ length 74
 ====================
 \"Using a personal Area of Effect skill by itself is not very effective.\"
 ====================
-\"Using a personal Area of Effect skill by itself is not very effective.\"
+单靠自身的范围型技能效果并不大。
 ====================
 
 ====================
@@ -768,7 +768,7 @@ length 104
 ====================
 \"Activate various skills and show off your true strength for the first time. Use them and boooooooom!\"
 ====================
-\"Activate various skills and show off your true strength for the first time. Use them and boooooooom!\"
+发动各种技能、才能真正展现出实力。用起来、然后砰砰砰！
 ====================
 
 ====================
@@ -779,7 +779,7 @@ length 47
 ====================
 \"I have no idea what you're trying to say...\"
 ====================
-\"I have no idea what you're trying to say...\"
+我完全听不懂你在说什么…
 ====================
 
 ====================
@@ -790,7 +790,7 @@ length 24
 ====================
 \"Here he comes again!\"
 ====================
-\"Here he comes again!\"
+他又来了！
 ====================
 
 ====================
@@ -801,7 +801,7 @@ length 30
 ====================
 \"Don't talk like the enemy.\"
 ====================
-\"Don't talk like the enemy.\"
+别像敌人一样说话。
 ====================
 
 ====================
@@ -812,7 +812,7 @@ length 54
 ====================
 \"First, raise your attack power with your skills...\"
 ====================
-\"First, raise your attack power with your skills...\"
+首先用技能提升攻击力…
 ====================
 
 ====================
@@ -823,7 +823,7 @@ length 130
 ====================
 \"Then by going from 'Rush' to 'Standby', you will attract the enemy into your attack range, then cast an AoE skill and booooom!\"
 ====================
-\"Then by going from 'Rush' to 'Standby', you will attract the enemy into your attack range, then cast an AoE skill and booooom!\"
+然后从『突击』切到『待命』、把敌人引进攻击范围、再放范围技能、然后砰！
 ====================
 
 ====================
@@ -834,7 +834,7 @@ length 55
 ====================
 \"I have no idea what you're trying to say anymore...\"
 ====================
-\"I have no idea what you're trying to say anymore...\"
+我越来越听不懂你在说什么了…
 ====================
 
 ====================
@@ -845,7 +845,7 @@ length 21
 ====================
 \"Here he is again!\"
 ====================
-\"Here he is again!\"
+他又来了！
 ====================
 
 ====================
@@ -856,7 +856,7 @@ length 66
 ====================
 \"If you happen to take damage and can't recover with potions...\"
 ====================
-\"If you happen to take damage and can't recover with potions...\"
+如果万一受到伤害、用药水也恢复不过来…
 ====================
 
 ====================
@@ -867,7 +867,7 @@ length 146
 ====================
 \"Have your character equip the best armor in the party, and with all the damage concentrated on him, which he will unexpectedly endure, boooom!\"
 ====================
-\"Have your character equip the best armor in the party, and with all the damage concentrated on him, which he will unexpectedly endure, boooom!\"
+就让角色装备队里最好的防具、让伤害全都集中在他身上、结果他竟然意外地扛住了、然后砰！
 ====================
 
 ====================
@@ -878,7 +878,7 @@ length 47
 ====================
 \"I have no idea what you're trying to say...\"
 ====================
-\"I have no idea what you're trying to say...\"
+我完全听不懂你在说什么…
 ====================
 
 ====================
@@ -889,7 +889,7 @@ length 22
 ====================
 \"He lost at Uehara!\"
 ====================
-\"He lost at Uehara!\"
+他在上原输掉了！
 ====================
 
 ====================
@@ -900,7 +900,7 @@ length 47
 ====================
 \"What are you carelessly looking around for?\"
 ====================
-\"What are you carelessly looking around for?\"
+你东张西望地在看什么啊？
 ====================
 
 ====================
@@ -911,7 +911,7 @@ length 17
 ====================
 \"Welcome back.\"
 ====================
-\"Welcome back.\"
+欢迎回来。
 ====================
 
 ====================
@@ -922,7 +922,7 @@ length 30
 ====================
 \"Aaah, what's up with him!?\"
 ====================
-\"Aaah, what's up with him!?\"
+啊啊、他到底怎么了！？
 ====================
 
 ====================
@@ -933,7 +933,7 @@ length 96
 ====================
 \"You're quite lucky now, aren't you?! This is lucky Takafumi! I haven't even seen him before.\"
 ====================
-\"You're quite lucky now, aren't you?! This is lucky Takafumi! I haven't even seen him before.\"
+你现在运气相当不错吧？！我就是幸运鹰文！连我自己都没见过他。
 ====================
 
 ====================
@@ -944,7 +944,7 @@ length 108
 ====================
 \"The very survival of mankind rests on the outcome of this special mission, so I came here for good luck.\"
 ====================
-\"The very survival of mankind rests on the outcome of this special mission, so I came here for good luck.\"
+人类的存亡就取决于这次特别任务的结果、所以我是来沾运气的。
 ====================
 
 ====================
@@ -955,7 +955,7 @@ length 37
 ====================
 \"Congratulations on having met me.\"
 ====================
-\"Congratulations on having met me.\"
+能遇见我、恭喜你。
 ====================
 
 ====================
@@ -966,7 +966,7 @@ length 65
 ====================
 \"I have a feeling my luck will be pointlessly wasted by you...\"
 ====================
-\"I have a feeling my luck will be pointlessly wasted by you...\"
+我有种预感、我的运气会被你白白浪费掉…
 ====================
 
 ====================
@@ -977,7 +977,7 @@ length 92
 ====================
 \"When you cast skills that directly affect the enemy, only the last one will take effect.\"
 ====================
-\"When you cast skills that directly affect the enemy, only the last one will take effect.\"
+当你施放直接影响敌人的技能时、只有最后一个会生效。
 ====================
 
 ====================
@@ -988,7 +988,7 @@ length 117
 ====================
 \"For example, if you invoke 'Panty Flash' immediately following a game of 'Tag', the enemy will go towards Tomoyo.\"
 ====================
-\"For example, if you invoke 'Panty Flash' immediately following a game of 'Tag', the enemy will go towards Tomoyo.\"
+例如、如果在『合体技』之后立刻施放『内裤走光』、敌人就会朝智代那边去。
 ====================
 
 ====================
@@ -999,7 +999,7 @@ length 93
 ====================
 \"This rule also works on any skills that drive enemies away, such as 'Kiss of Friendship'.\"
 ====================
-\"This rule also works on any skills that drive enemies away, such as 'Kiss of Friendship'.\"
+这条规则也适用于任何驱赶敌人的技能、比如『友善之吻』。
 ====================
 
 ====================
@@ -1010,7 +1010,7 @@ length 90
 ====================
 \"If you use 'Tag' and then 'Kiss of Friendship', the effect of 'Tag' will be nullified.\"
 ====================
-\"If you use 'Tag' and then 'Kiss of Friendship', the effect of 'Tag' will be nullified.\"
+如果先用『合体技』再用『友善之吻』、『合体技』的效果就会被抵消。
 ====================
 
 ====================
@@ -1021,7 +1021,7 @@ length 128
 ====================
 \"You can't use skills to create a situation where you pull the enemies in without getting attacked, so use them with caution.\"
 ====================
-\"You can't use skills to create a situation where you pull the enemies in without getting attacked, so use them with caution.\"
+不能用技能制造出既把敌人拉过来又不会被打的状况、所以要谨慎使用。
 ====================
 
 ====================
@@ -1032,7 +1032,7 @@ length 22
 ====================
 \"Look at me, Lucky.\"
 ====================
-\"Look at me, Lucky.\"
+看着我吧、幸运。
 ====================
 
 ====================
@@ -1043,7 +1043,7 @@ length 37
 ====================
 \"Don't just talk about yourself...\"
 ====================
-\"Don't just talk about yourself...\"
+别光顾着说你自己啊…
 ====================
 
 ====================
@@ -1054,7 +1054,7 @@ length 25
 ====================
 \"Lucky! It's me again.\"
 ====================
-\"Lucky! It's me again.\"
+幸运！又是我。
 ====================
 
 ====================
@@ -1065,7 +1065,7 @@ length 50
 ====================
 \"It feels as if my luck is being sucked away...\"
 ====================
-\"It feels as if my luck is being sucked away...\"
+感觉我的运气正在被吸走…
 ====================
 
 ====================
@@ -1076,7 +1076,7 @@ length 93
 ====================
 \"You do know that the 'DAY' at the lower right displays the number of days elapsed, right?\"
 ====================
-\"You do know that the 'DAY' at the lower right displays the number of days elapsed, right?\"
+你知道右下角的『DAY』显示的是经过的天数吧？
 ====================
 
 ====================
@@ -1087,7 +1087,7 @@ length 124
 ====================
 \"The fewer days it takes you to finish, the more difficult it will be. However, your final score will be higher, as well.\"
 ====================
-\"The fewer days it takes you to finish, the more difficult it will be. However, your final score will be higher, as well.\"
+通关所用的天数越少、难度就越高。不过、最终得分也会越高。
 ====================
 
 ====================
@@ -1098,7 +1098,7 @@ length 123
 ====================
 \"If you want to go through the game quickly, you can play as a knight because of how powerful its 'Spear User' skill is.\"
 ====================
-\"If you want to go through the game quickly, you can play as a knight because of how powerful its 'Spear User' skill is.\"
+如果想快速通关、可以玩骑士、因为『枪使』技能非常强。
 ====================
 
 ====================
@@ -1109,7 +1109,7 @@ length 143
 ====================
 \"Nevertheless, since the higher-ranking jobs' final skills are not only strong, but also look kinda cool, you should consider changing jobs.\"
 ====================
-\"Nevertheless, since the higher-ranking jobs' final skills are not only strong, but also look kinda cool, you should consider changing jobs.\"
+不过、高级职业的最终技能不仅强、还挺帅的、所以可以考虑转职。
 ====================
 
 ====================
@@ -1120,7 +1120,7 @@ length 22
 ====================
 \"Look at me, Lucky.\"
 ====================
-\"Look at me, Lucky.\"
+看着我吧、幸运。
 ====================
 
 ====================
@@ -1131,7 +1131,7 @@ length 37
 ====================
 \"Don't just talk about yourself...\"
 ====================
-\"Don't just talk about yourself...\"
+别光顾着说你自己啊…
 ====================
 
 ====================
@@ -1142,7 +1142,7 @@ length 25
 ====================
 \"Lucky! It's me again.\"
 ====================
-\"Lucky! It's me again.\"
+幸运！又是我。
 ====================
 
 ====================
@@ -1153,7 +1153,7 @@ length 184
 ====================
 \"It's quite risky to change to a higher-level job, as they don't have a lot of skills. Just to be safe, you should retreat repeatedly and raise your level before you go any further.\"
 ====================
-\"It's quite risky to change to a higher-level job, as they don't have a lot of skills. Just to be safe, you should retreat repeatedly and raise your level before you go any further.\"
+转到高级职业风险相当大、因为技能不多。保险起见、应该反复撤退提升等级之后再继续。
 ====================
 
 ====================
@@ -1164,7 +1164,7 @@ length 22
 ====================
 \"Look at me, Lucky.\"
 ====================
-\"Look at me, Lucky.\"
+看着我吧、幸运。
 ====================
 
 ====================
@@ -1175,7 +1175,7 @@ length 16
 ====================
 \"Ah, Lucky...\"
 ====================
-\"Ah, Lucky...\"
+啊、幸运…
 ====================
 
 ====================
@@ -1186,7 +1186,7 @@ length 25
 ====================
 \"Lucky! It's me again.\"
 ====================
-\"Lucky! It's me again.\"
+幸运！又是我。
 ====================
 
 ====================
@@ -1197,7 +1197,7 @@ length 50
 ====================
 \"It feels as if my luck is being sucked away...\"
 ====================
-\"It feels as if my luck is being sucked away...\"
+感觉我的运气正在被吸走…
 ====================
 
 ====================
@@ -1208,7 +1208,7 @@ length 19
 ====================
 \"Welcome back...\"
 ====================
-\"Welcome back...\"
+欢迎回来…
 ====================
 
 ====================
@@ -1219,7 +1219,7 @@ length 48
 ====================
 \"Oh, this brings back memories. It's No. 068.\"
 ====================
-\"Oh, this brings back memories. It's No. 068.\"
+哦、真让人怀念。是０６８号啊。
 ====================
 
 ====================
@@ -1230,7 +1230,7 @@ length 57
 ====================
 \"This isn't lucky Takafumi... something seems ominous.\"
 ====================
-\"This isn't lucky Takafumi... something seems ominous.\"
+这不是幸运鹰文…感觉有点不祥。
 ====================
 
 ====================
@@ -1241,7 +1241,7 @@ length 31
 ====================
 \"...something seems ominous.\"
 ====================
-\"...something seems ominous.\"
+…感觉有点不祥。
 ====================
 
 ====================
@@ -1252,7 +1252,7 @@ length 47
 ====================
 \"What? It's as if I'm a pest or something...\"
 ====================
-\"What? It's as if I'm a pest or something...\"
+什么？说得我好像是什么害虫一样…
 ====================
 
 ====================
@@ -1263,7 +1263,7 @@ length 19
 ====================
 \"Welcome back...\"
 ====================
-\"Welcome back...\"
+欢迎回来…
 ====================
 
 ====================
@@ -1274,7 +1274,7 @@ length 19
 ====================
 \"Welcome back...\"
 ====================
-\"Welcome back...\"
+欢迎回来…
 ====================
 
 ====================
@@ -1285,7 +1285,7 @@ length 19
 ====================
 \"Welcome back...\"
 ====================
-\"Welcome back...\"
+欢迎回来…
 ====================
 
 ====================
@@ -1296,5 +1296,5 @@ length 19
 ====================
 \"Welcome back...\"
 ====================
-\"Welcome back...\"
+欢迎回来…
 ====================

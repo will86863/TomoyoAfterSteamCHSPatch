@@ -9,7 +9,7 @@ length 56
 ====================
 \"Welcome to the magical castle in which we were born.\"
 ====================
-\"Welcome to the magical castle in which we were born.\"
+欢迎来到我们诞生的这座魔法城堡。
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 66
 ====================
 \"Is this fantasy-themed? That's quite a casual getup you're in.\"
 ====================
-\"Is this fantasy-themed? That's quite a casual getup you're in.\"
+这是奇幻风格的？你这身打扮也太随便了吧。
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 38
 ====================
 \"We didn't have a good CG designer.\"
 ====================
-\"We didn't have a good CG designer.\"
+因为我们没有好的ＣＧ设计师啊。
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 31
 ====================
 \"Don't just kill the mood...\"
 ====================
-\"Don't just kill the mood...\"
+别突然泼冷水啊…
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 123
 ====================
 \"Since long ago, this castle has been a laboratory for magicians who worked hard to develop better and better Takafumis.\"
 ====================
-\"Since long ago, this castle has been a laboratory for magicians who worked hard to develop better and better Takafumis.\"
+这座城堡自古以来就是魔术师们的研究所、他们为了制造出更好的鹰文而努力着。
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 100
 ====================
 \"These days, Takafumis live among humans, helping them with chores such as cooking and laundry...\"
 ====================
-\"These days, Takafumis live among humans, helping them with chores such as cooking and laundry...\"
+如今、鹰文们已经融入人类之中、帮忙做饭、洗衣之类的家务…
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 69
 ====================
 \"At night, they are even well-loved by others as male prostitutes.\"
 ====================
-\"At night, they are even well-loved by others as male prostitutes.\"
+到了晚上、甚至还会作为男妓受到人们的喜爱。
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 18
 ====================
 \"Urrrgggghhh...\"
 ====================
-\"Urrrgggghhh...\"
+呃呃呃…
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 110
 ====================
 \"No. 054, who was accidentally born under a contract with the devil, was when the project finally took off.\"
 ====================
-\"No. 054, who was accidentally born under a contract with the devil, was when the project finally took off.\"
+与恶魔契约时偶然诞生的０５４号、是这个计划终于走上正轨的契机。
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 61
 ====================
 \"Starting with him, the Takafumis finally gained emotions.\"
 ====================
-\"Starting with him, the Takafumis finally gained emotions.\"
+从他开始、鹰文们终于拥有了感情。
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 57
 ====================
 \"By the way, the devil he made a contract with is gay.\"
 ====================
-\"By the way, the devil he made a contract with is gay.\"
+顺便一提、与他契约的恶魔是个同性恋。
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 18
 ====================
 \"Urrrgggghhh...\"
 ====================
-\"Urrrgggghhh...\"
+呃呃呃…
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 103
 ====================
 \"After using No. 054 as the catalyst for their nurturing, today's Takafumis have reached prosperity.\"
 ====================
-\"After using No. 054 as the catalyst for their nurturing, today's Takafumis have reached prosperity.\"
+以０５４号为培育的触媒、如今的鹰文们才得以繁荣。
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 60
 ====================
 \"Without him, our history would have been very different.\"
 ====================
-\"Without him, our history would have been very different.\"
+没有他、我们的历史将会大不相同。
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 55
 ====================
 \"However, ten days ago, on the night of the storm...\"
 ====================
-\"However, ten days ago, on the night of the storm...\"
+然而、十天前那个暴风雨的夜晚…
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 49
 ====================
 \"No. 054 suddenly disappeared without a trace.\"
 ====================
-\"No. 054 suddenly disappeared without a trace.\"
+０５４号突然消失得无影无踪。
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 51
 ====================
 \"The magicians tried their best to look for him.\"
 ====================
-\"The magicians tried their best to look for him.\"
+魔术师们拼命地寻找他。
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 74
 ====================
 \"And the other Takafumis also banded together to look for their parent.\"
 ====================
-\"And the other Takafumis also banded together to look for their parent.\"
+其他的鹰文们也团结起来寻找他们的父辈。
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 78
 ====================
 \"After many Takafumis lost their lives, they finally found his whereabouts.\"
 ====================
-\"After many Takafumis lost their lives, they finally found his whereabouts.\"
+在众多鹰文牺牲之后、他们终于找到了他的下落。
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 93
 ====================
 \"He is deep inside the labyrinth that sprawls under this castle, where the beastmen dwell.\"
 ====================
-\"He is deep inside the labyrinth that sprawls under this castle, where the beastmen dwell.\"
+他就在这座城堡地下蔓延的迷宫深处、兽人居住的地方。
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 31
 ====================
 \"'How do you know,' you ask?\"
 ====================
-\"'How do you know,' you ask?\"
+你问『你们是怎么知道的』？
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 87
 ====================
 \"The other Takafumis found out by selling themselves as prostitutes to the beastmen.\"
 ====================
-\"The other Takafumis found out by selling themselves as prostitutes to the beastmen.\"
+其他的鹰文们是靠自己向兽人卖身才查出来的。
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 18
 ====================
 \"Urrrgggghhh...\"
 ====================
-\"Urrrgggghhh...\"
+呃呃呃…
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 94
 ====================
 \"The beastmen were belligerent and fierce. The magicians could do nothing to defeat them...\"
 ====================
-\"The beastmen were belligerent and fierce. The magicians could do nothing to defeat them...\"
+兽人好战而凶猛。魔术师们对他们毫无办法…
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 98
 ====================
 \"That's why we posted notices throughout the continent, and oh how the brave warriors gathered.\"
 ====================
-\"That's why we posted notices throughout the continent, and oh how the brave warriors gathered.\"
+所以我们在全大陆张贴了告示、于是勇敢的战士们就这样聚集而来。
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 62
 ====================
 \"Touted as the 'Red Fang of Rigaldo', Tomoya the Swordsman.\"
 ====================
-\"Touted as the 'Red Fang of Rigaldo', Tomoya the Swordsman.\"
+被誉为『里加尔多的红牙』的剑士、朋也。
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 18
 ====================
 \"Oh, that's me.\"
 ====================
-\"Oh, that's me.\"
+哦、那是我。
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 63
 ====================
 \"Lauded as the 'Red Fang of Zarionti', Tomoyo the Swordsman.\"
 ====================
-\"Lauded as the 'Red Fang of Zarionti', Tomoyo the Swordsman.\"
+被称为『萨里翁提的红牙』的剑士、智代。
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 14
 ====================
 \"That's me.\"
 ====================
-\"That's me.\"
+那是我。
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 66
 ====================
 \"Acclaimed as the 'Red Fang of Torcoone', Kanako the Swordsman.\"
 ====================
-\"Acclaimed as the 'Red Fang of Torcoone', Kanako the Swordsman.\"
+被称作『托尔库内的红牙』的剑士、河南子。
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 14
 ====================
 \"Greetings.\"
 ====================
-\"Greetings.\"
+请多指教。
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 39
 ====================
 \"Wait a minute, we're all swordsmen!\"
 ====================
-\"Wait a minute, we're all swordsmen!\"
+等一下、我们全都是剑士啊！
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 38
 ====================
 \"You even gave us the same moniker.\"
 ====================
-\"You even gave us the same moniker.\"
+而且连称号都一样。
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 36
 ====================
 \"Yep... they are indeed the same.\"
 ====================
-\"Yep... they are indeed the same.\"
+是啊…确实一模一样。
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 65
 ====================
 \"You can switch jobs, so get on your levelling and branch out.\"
 ====================
-\"You can switch jobs, so get on your levelling and branch out.\"
+因为可以转职、所以就一边升级一边拓展方向吧。
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 39
 ====================
 \"You sure seem to be taking it easy.\"
 ====================
-\"You sure seem to be taking it easy.\"
+你还真是轻松啊。
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 96
 ====================
 \"The ruler of this castle (My Lord) and magician, Tomo-sama, will also be part of your party.\"
 ====================
-\"The ruler of this castle (My Lord) and magician, Tomo-sama, will also be part of your party.\"
+这座城堡的统治者（我的主人）兼魔术师、小智大人也会加入你们的队伍。
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 126
 ====================
 \"Incidentally, since My Lord has practiced the secret art of rejuvenation far too often, she looks pretty much like a loli.\"
 ====================
-\"Incidentally, since My Lord has practiced the secret art of rejuvenation far too often, she looks pretty much like a loli.\"
+顺便说一下、因为主人太常施展返老还童的秘术、所以看起来几乎像个小女孩。
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 37
 ====================
 \"'Tis my pleasure to meet you all.\"
 ====================
-\"'Tis my pleasure to meet you all.\"
+各位、请多指教了。
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 28
 ====================
 \"What a stupid setting...\"
 ====================
-\"What a stupid setting...\"
+这设定也太离谱了…
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 156
 ====================
 \"As the one who possesses the emotion 'Melancholy', I, Takafumi No. 068, shall accompany you as the operator until you reach the fifth underground floor.\"
 ====================
-\"As the one who possesses the emotion 'Melancholy', I, Takafumi No. 068, shall accompany you as the operator until you reach the fifth underground floor.\"
+作为拥有『忧郁』这一感情的我、鹰文０６８号、将担任你们的解说员、直到你们抵达地下第五层。
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 40
 ====================
 \"So that's why you sound so gloomy...\"
 ====================
-\"So that's why you sound so gloomy...\"
+难怪你说话这么阴沉…
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 24
 ====================
 \"Now, to the dungeon!\"
 ====================
-\"Now, to the dungeon!\"
+那么、出发去地下城吧！
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 19
 ====================
 \"Welcome back...\"
 ====================
-\"Welcome back...\"
+欢迎回来…
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 20
 ====================
 \"You damned pest!\"
 ====================
-\"You damned pest!\"
+你这个该死的瘟神！
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 48
 ====================
 \"Huh? How is it my fault... I'm in despair...\"
 ====================
-\"Huh? How is it my fault... I'm in despair...\"
+诶？怎么是我的错…我绝望了…
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 11
 ====================
 \"Phew...\"
 ====================
-\"Phew...\"
+呼…
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 30
 ====================
 \"How's Takafumi holding up?\"
 ====================
-\"How's Takafumi holding up?\"
+鹰文怎么样了？
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 33
 ====================
 \"His life was spared, somehow.\"
 ====================
-\"His life was spared, somehow.\"
+总算保住性命了。
 ====================
 
 ====================
@@ -548,7 +548,7 @@ length 25
 ====================
 \"So it was that bad...\"
 ====================
-\"So it was that bad...\"
+那么严重吗…
 ====================
 
 ====================
@@ -559,7 +559,7 @@ length 47
 ====================
 \"Regardless, No. 054 will have to stay here.\"
 ====================
-\"Regardless, No. 054 will have to stay here.\"
+总之、０５４号必须留在这里。
 ====================
 
 ====================
@@ -570,7 +570,7 @@ length 43
 ====================
 \"Seriously? That makes things difficult.\"
 ====================
-\"Seriously? That makes things difficult.\"
+真的假的？那可就麻烦了。
 ====================
 
 ====================
@@ -581,7 +581,7 @@ length 58
 ====================
 \"I wonder if we can beat those Golems without Takafumi.\"
 ====================
-\"I wonder if we can beat those Golems without Takafumi.\"
+没有鹰文、我们打得过那些魔像吗。
 ====================
 
 ====================
@@ -592,7 +592,7 @@ length 22
 ====================
 \"Hey, you, No. 068.\"
 ====================
-\"Hey, you, No. 068.\"
+喂、你、０６８号。
 ====================
 
 ====================
@@ -603,7 +603,7 @@ length 27
 ====================
 \"What do you need of me?\"
 ====================
-\"What do you need of me?\"
+有什么吩咐吗？
 ====================
 
 ====================
@@ -614,7 +614,7 @@ length 39
 ====================
 \"Come fight the Golems in his place.\"
 ====================
-\"Come fight the Golems in his place.\"
+你来代替他去打魔像。
 ====================
 
 ====================
@@ -625,7 +625,7 @@ length 11
 ====================
 \"No way.\"
 ====================
-\"No way.\"
+绝对不要。
 ====================
 
 ====================
@@ -636,7 +636,7 @@ length 49
 ====================
 \"Bastard, I'll throw you in there by force....\"
 ====================
-\"Bastard, I'll throw you in there by force....\"
+你这混蛋、我强行把你扔进去…
 ====================
 
 ====================
@@ -647,7 +647,7 @@ length 28
 ====================
 \"Come now, calm yourself.\"
 ====================
-\"Come now, calm yourself.\"
+好了好了、请冷静。
 ====================
 
 ====================
@@ -658,7 +658,7 @@ length 36
 ====================
 \"With the current situation? Why?\"
 ====================
-\"With the current situation? Why?\"
+这种情况还怎么冷静？为什么？
 ====================
 
 ====================
@@ -669,7 +669,7 @@ length 97
 ====================
 \"Takafumis who possess only a single emotion cannot fight. They do not have the will to do so.\"
 ====================
-\"Takafumis who possess only a single emotion cannot fight. They do not have the will to do so.\"
+只拥有单一感情的鹰文无法战斗。他们没有战斗的意志。
 ====================
 
 ====================
@@ -680,7 +680,7 @@ length 55
 ====================
 \"You'd just be sending him to his death for nothing.\"
 ====================
-\"You'd just be sending him to his death for nothing.\"
+那样只会白白送他去死。
 ====================
 
 ====================
@@ -691,7 +691,7 @@ length 11
 ====================
 \"Damn...\"
 ====================
-\"Damn...\"
+可恶…
 ====================
 
 ====================
@@ -702,7 +702,7 @@ length 24
 ====================
 \"This guy's an idiot!\"
 ====================
-\"This guy's an idiot!\"
+这家伙是个笨蛋！
 ====================
 
 ====================
@@ -713,7 +713,7 @@ length 36
 ====================
 \"Don't rub people the wrong way!!\"
 ====================
-\"Don't rub people the wrong way!!\"
+别惹人厌啊！！
 ====================
 
 ====================
@@ -724,7 +724,7 @@ length 67
 ====================
 \"Calm down. I've been doing my job as the operator so chill out.\"
 ====================
-\"Calm down. I've been doing my job as the operator so chill out.\"
+冷静点。我一直在做解说员的工作、所以放松点吧。
 ====================
 
 ====================
@@ -735,7 +735,7 @@ length 45
 ====================
 \"This guy's really getting on my nerves...\"
 ====================
-\"This guy's really getting on my nerves...\"
+这家伙真让人火大…
 ====================
 
 ====================
@@ -746,7 +746,7 @@ length 68
 ====================
 \"That means... the fate of mankind has been entrusted to us four.\"
 ====================
-\"That means... the fate of mankind has been entrusted to us four.\"
+也就是说…人类的命运就托付给我们四个人了。
 ====================
 
 ====================
@@ -757,7 +757,7 @@ length 22
 ====================
 \"Are we heading in?\"
 ====================
-\"Are we heading in?\"
+我们要进去吗？
 ====================
 
 ====================
@@ -768,7 +768,7 @@ length 21
 ====================
 \"We have to go in.\"
 ====================
-\"We have to go in.\"
+必须进去。
 ====================
 
 ====================
@@ -779,7 +779,7 @@ length 94
 ====================
 \"Now, I know you are feeling really down, Princess, but you need to get a hold of yourself.\"
 ====================
-\"Now, I know you are feeling really down, Princess, but you need to get a hold of yourself.\"
+好了、我知道公主殿下现在非常沮丧、但请振作起来。
 ====================
 
 ====================
@@ -790,7 +790,7 @@ length 11
 ====================
 \"Yeah...\"
 ====================
-\"Yeah...\"
+嗯…
 ====================
 
 ====================
@@ -801,7 +801,7 @@ length 38
 ====================
 \"I will definitely avenge Takafumi.\"
 ====================
-\"I will definitely avenge Takafumi.\"
+我一定要为鹰文报仇。
 ====================
 
 ====================
@@ -812,7 +812,7 @@ length 26
 ====================
 \"Wait for me, Takafumi.\"
 ====================
-\"Wait for me, Takafumi.\"
+等着我、鹰文。
 ====================
 
 ====================
@@ -823,7 +823,7 @@ length 28
 ====================
 \"Hey, guys, are you okay?\"
 ====================
-\"Hey, guys, are you okay?\"
+喂、各位、你们没事吧？
 ====================
 
 ====================
@@ -834,7 +834,7 @@ length 13
 ====================
 \"Takafumi!\"
 ====================
-\"Takafumi!\"
+鹰文！
 ====================
 
 ====================
@@ -845,7 +845,7 @@ length 26
 ====================
 \"You can stand up now?!\"
 ====================
-\"You can stand up now?!\"
+你能站起来了！？
 ====================
 
 ====================
@@ -856,7 +856,7 @@ length 90
 ====================
 \"No, take a good look. This is a holographic video. He is still in bed at the hospital.\"
 ====================
-\"No, take a good look. This is a holographic video. He is still in bed at the hospital.\"
+不、仔细看看。这是全息影像。他还在医院的病床上。
 ====================
 
 ====================
@@ -867,7 +867,7 @@ length 44
 ====================
 \"Okay, listen up. I don't have much time.\"
 ====================
-\"Okay, listen up. I don't have much time.\"
+好、听我说。我没有多少时间。
 ====================
 
 ====================
@@ -878,7 +878,7 @@ length 30
 ====================
 \"There are three days left.\"
 ====================
-\"There are three days left.\"
+还剩三天。
 ====================
 
 ====================
@@ -889,7 +889,7 @@ length 48
 ====================
 \"We must bring down their base in three days.\"
 ====================
-\"We must bring down their base in three days.\"
+我们必须在三天之内攻下他们的据点。
 ====================
 
 ====================
@@ -900,7 +900,7 @@ length 51
 ====================
 \"Otherwise... we will disappear from this world.\"
 ====================
-\"Otherwise... we will disappear from this world.\"
+否则…我们就会从这个世界上消失。
 ====================
 
 ====================
@@ -911,7 +911,7 @@ length 11
 ====================
 \"Got it?\"
 ====================
-\"Got it?\"
+明白了吗？
 ====================
 
 ====================
@@ -922,5 +922,5 @@ length 16
 ====================
 \"...I got it.\"
 ====================
-\"...I got it.\"
+…明白了。
 ====================

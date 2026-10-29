@@ -9,7 +9,7 @@ length 12
 ====================
 They left...
 ====================
-They left...
+他们走了…
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 45
 ====================
 Those ten long seconds felt like an eternity.
 ====================
-Those ten long seconds felt like an eternity.
+那漫长的十秒、感觉如同永恒。
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 34
 ====================
 The world... didn't change at all.
 ====================
-The world... didn't change at all.
+世界…一点也没有改变。
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 32
 ====================
 Humans still rule the continent.
 ====================
-Humans still rule the continent.
+人类依然统治着这片大陆。
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 41
 ====================
 There are no traces of the beastmen left.
 ====================
-There are no traces of the beastmen left.
+兽人的痕迹一点也没有留下。
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 47
 ====================
 And Takafumi has also vanished from this world.
 ====================
-And Takafumi has also vanished from this world.
+而鹰文也从这世界上消失了。
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 59
 ====================
 After that, I learned a few facts from an old history book.
 ====================
-After that, I learned a few facts from an old history book.
+在那之后、我从一本古老的历史书里得知了几件事。
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 88
 ====================
 Long ago, a race known as the beastmen appeared in the central region of the continent. 
 ====================
-Long ago, a race known as the beastmen appeared in the central region of the continent. 
+很久以前、大陆中部地区出现了一个被称为兽人的种族。
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 24
 ====================
 Their origin is unknown.
 ====================
-Their origin is unknown.
+它们的起源不明。
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 126
 ====================
 Some say that they suddenly evolved from humans, while others say they evolved from some other species, but nobody is certain.
 ====================
-Some say that they suddenly evolved from humans, while others say they evolved from some other species, but nobody is certain.
+有人说它们是从人类突然进化而来的、也有人说它们是从别的物种进化来的、但没有人能确定。
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 151
 ====================
 About a thousand years ago, there was a great struggle between the beastmen and mankind, and this struggle brought mankind to the brink of destruction.
 ====================
-About a thousand years ago, there was a great struggle between the beastmen and mankind, and this struggle brought mankind to the brink of destruction.
+大约一千年前、兽人与人类之间爆发了一场大战争、这场战争把人类逼到了灭亡的边缘。
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 83
 ====================
 The beastmen took over the central and eastern regions of the continent in a flash.
 ====================
-The beastmen took over the central and eastern regions of the continent in a flash.
+兽人一瞬间就占领了大陆中部和东部地区。
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 97
 ====================
 Only the western region, the center of human civilization at the time, narrowly escaped conquest.
 ====================
-Only the western region, the center of human civilization at the time, narrowly escaped conquest.
+只有当时人类文明中心的西部地区、才勉强免于被征服。
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 171
 ====================
 In the midst of their constant victories over the forces from different human countries, the beastmen were halted by an army of volunteers at a port in the western region.
 ====================
-In the midst of their constant victories over the forces from different human countries, the beastmen were halted by an army of volunteers at a port in the western region.
+就在兽人不断击败各国军队的时候、它们在西部地区的港口被一支义勇军挡住了。
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 91
 ====================
 Despite everyone's expectation of total defeat, the volunteer army fought off the beastmen.
 ====================
-Despite everyone's expectation of total defeat, the volunteer army fought off the beastmen.
+所有人都以为会全军覆没、义勇军却击退了兽人。
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 58
 ====================
 That battle marked the first tactical triumph for mankind.
 ====================
-That battle marked the first tactical triumph for mankind.
+那场战斗成为人类首次在战术上取得的胜利。
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 112
 ====================
 Driven by their recent victory, the volunteer army invaded a metropolis to the south and reclaimed it in a week.
 ====================
-Driven by their recent victory, the volunteer army invaded a metropolis to the south and reclaimed it in a week.
+乘着胜利的势头、义勇军进攻南方的都市、一周之内就夺回了它。
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 88
 ====================
 From there, they marched eastwards, constructed a base, and began mankind's retaliation.
 ====================
-From there, they marched eastwards, constructed a base, and began mankind's retaliation.
+他们从那里向东进军、建立据点、开始了人类的反击。
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 72
 ====================
 The volunteer army met with the king before resuming their tour of duty.
 ====================
-The volunteer army met with the king before resuming their tour of duty.
+义勇军在重新出征前谒见了国王。
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 149
 ====================
 Only the names of four combatants have survived in the records. They rejected all reinforcements and fought only with the forces under their command.
 ====================
-Only the names of four combatants have survived in the records. They rejected all reinforcements and fought only with the forces under their command.
+记录中只留下了四名战士的名字。他们拒绝了一切增援、只凭着麾下的兵力战斗。
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 77
 ====================
 Besides, the forces that still remained did not possess any fighting ability.
 ====================
-Besides, the forces that still remained did not possess any fighting ability.
+而且、剩下的兵力也已经没有任何战斗能力了。
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 121
 ====================
 The magus \"Tomo\" was the volunteer army's leader, and she produced a tremendous number of \"Takafumis\" with her magic.
 ====================
-The magus \"Tomo\" was the volunteer army's leader, and she produced a tremendous number of \"Takafumis\" with her magic.
+魔术师小智是义勇军的领袖、她用魔法制造出了数量惊人的鹰文。
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 121
 ====================
 The original \"Takafumi\", the first one created, was appointed commander of the army and proved to be a peerless leader.
 ====================
-The original \"Takafumi\", the first one created, was appointed commander of the army and proved to be a peerless leader.
+最先被制造出来的初代鹰文被任命为军队的指挥官、展现出无人能及的统率力。
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 205
 ====================
 The natives and other volunteer troops were at first skeptical about the \"Takafumis\", who all looked the same. However, their suspicions faded as they learned about the Takafumis' active role in the war.
 ====================
-The natives and other volunteer troops were at first skeptical about the \"Takafumis\", who all looked the same. However, their suspicions faded as they learned about the Takafumis' active role in the war.
+当地人和其余的义勇军起初对长相完全相同的鹰文们心存疑虑。但随着他们了解到鹰文在战场上的活跃表现、疑虑也渐渐消散了。
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 52
 ====================
 \"Takifumi\" was greeted with jubilation everywhere.
 ====================
-\"Takifumi\" was greeted with jubilation everywhere.
+鹰文所到之处都受到欢迎。
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 93
 ====================
 There were two others, an imperial knight and a squadron commander, who guarded \"Takafumi\".
 ====================
-There were two others, an imperial knight and a squadron commander, who guarded \"Takafumi\".
+还有另外两个人、一位帝国骑士和一位中队指挥官、护卫着鹰文。
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 43
 ====================
 Their names were \"Tomoyo\" and \"Tomoya\".
 ====================
-Their names were \"Tomoyo\" and \"Tomoya\".
+他们的名字是智代和朋也。
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 43
 ====================
 Their names were \"Tomoyo\" and \"Tomoya\".
 ====================
-Their names were \"Tomoyo\" and \"Tomoya\".
+他们的名字是智代和朋也。
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 77
 ====================
 It is said that while Tomoya was a human, he was loyally followed by a demon.
 ====================
-It is said that while Tomoya was a human, he was loyally followed by a demon.
+据说朋也虽然是人类、却有一只恶魔忠诚地跟随着他。
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 63
 ====================
 After about six months, the bloodiest part of the war was over.
 ====================
-After about six months, the bloodiest part of the war was over.
+大约过了半年、战争最血腥的阶段结束了。
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 118
 ====================
 The Takafumis that were created through magic strengthened the front lines and managed to hold back the beastmen army.
 ====================
-The Takafumis that were created through magic strengthened the front lines and managed to hold back the beastmen army.
+通过魔法制造出来的鹰文们加强了前线、成功挡住了兽人大军。
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 139
 ====================
 Understanding that a total victory was not necessary as long as they were not destroyed, the \"Takafumi\" switched to a defensive strategy.
 ====================
-Understanding that a total victory was not necessary as long as they were not destroyed, the \"Takafumi\" switched to a defensive strategy.
+明白到只要不被消灭就不必取得全面胜利的鹰文、转为了防御战略。
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 135
 ====================
 The two proponents of this new strategy were \"Tomoyo\" and \"Tomoya\". The two of them toured everywhere and took charge of the front.
 ====================
-The two proponents of this new strategy were \"Tomoyo\" and \"Tomoya\". The two of them toured everywhere and took charge of the front.
+这项新战略的两位提倡者是智代和朋也。两人奔走各地、负责前线指挥。
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 20
 ====================
 Another year lapsed.
 ====================
-Another year lapsed.
+又过了一年。
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 108
 ====================
 Due to their solid defense, the strength of mankind at this point well exceeded the strength of their enemy.
 ====================
-Due to their solid defense, the strength of mankind at this point well exceeded the strength of their enemy.
+由于他们稳固的防御、此时人类的力量已经远远超过了敌人的力量。
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 77
 ====================
 In response, the beastmen reinforced their strongholds with even more troops.
 ====================
-In response, the beastmen reinforced their strongholds with even more troops.
+作为回应、兽人用更多的兵力加强了据点。
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 123
 ====================
 The Takafumis' main squadron plotted to attack the enemy bases one by one in order to recapture their occupied territories.
 ====================
-The Takafumis' main squadron plotted to attack the enemy bases one by one in order to recapture their occupied territories.
+鹰文的主力部队策划逐个攻击敌方基地、以夺回被占领的领土。
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 169
 ====================
 Takafumi's strategies, and the courage and valor displayed by Tomoyo and Tomoya in executing them on the battlefield, were celebrated by bards and minstrels of the time.
 ====================
-Takafumi's strategies, and the courage and valor displayed by Tomoyo and Tomoya in executing them on the battlefield, were celebrated by bards and minstrels of the time.
+鹰文的战略、以及智代和朋也在战场上执行时的勇气与英勇、被当时的吟游诗人传颂。
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 142
 ====================
 The most intense battles at the time were most likely raging in the southwestern region of the continent and the plains of the central region.
 ====================
-The most intense battles at the time were most likely raging in the southwestern region of the continent and the plains of the central region.
+当时最激烈的战斗、大概是在大陆西南地区和中部平原进行的。
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 165
 ====================
 Several years after their formation, after many advances and retreats, the volunteer army finally succeeded in establishing a base in the continent's central region.
 ====================
-Several years after their formation, after many advances and retreats, the volunteer army finally succeeded in establishing a base in the continent's central region.
+义勇军成立数年后、经过多次进退、终于成功在大陆中部地区建立了据点。
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 68
 ====================
 In response, the beastmen withdrew its eastern expeditionary forces.
 ====================
-In response, the beastmen withdrew its eastern expeditionary forces.
+作为回应、兽人撤回了东征部队。
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 98
 ====================
 They began gathering all of their forces in preparation for a counterattack in the western region.
 ====================
-They began gathering all of their forces in preparation for a counterattack in the western region.
+它们开始集结全部兵力、准备在西部地区发动反击。
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 139
 ====================
 Having assembled an army larger than had ever been seen before, the beastmen waited patiently for an opportunity to launch a counterattack.
 ====================
-Having assembled an army larger than had ever been seen before, the beastmen waited patiently for an opportunity to launch a counterattack.
+兽人集结了前所未有的庞大军队、耐心等待着反击的时机。
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 93
 ====================
 When Takafumi found out, he immediately launched an extensive offensive against the beastmen.
 ====================
-When Takafumi found out, he immediately launched an extensive offensive against the beastmen.
+鹰文得知后、立即对兽人发动了大规模攻势。
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 58
 ====================
 This ultimately concluded in a narrow victory for mankind.
 ====================
-This ultimately concluded in a narrow victory for mankind.
+这场战斗最终以人类勉强取胜告终。
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 132
 ====================
 This was only possible because the volunteer army had successfully sealed the magical vessels set up at the beastmen's headquarters.
 ====================
-This was only possible because the volunteer army had successfully sealed the magical vessels set up at the beastmen's headquarters.
+这之所以可能、是因为义勇军成功封印了设置在兽人总部的魔法容器。
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 82
 ====================
 As a result, the beastmen lost access to the spell used to provide reinforcements.
 ====================
-As a result, the beastmen lost access to the spell used to provide reinforcements.
+结果、兽人失去了用来补充增援的法术。
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 100
 ====================
 The beastmen's main regiment had also been destroyed through mankind's relentless attrition warfare.
 ====================
-The beastmen's main regiment had also been destroyed through mankind's relentless attrition warfare.
+兽人的主力军团也在人类持续不断的消耗战中被摧毁了。
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 160
 ====================
 Having lost the majority of its leaders, the beastmen army scattered. Each segment was attacked and annihilated by different countries' slowly resurging armies.
 ====================
-Having lost the majority of its leaders, the beastmen army scattered. Each segment was attacked and annihilated by different countries' slowly resurging armies.
+失去了大部分领袖的兽人军队四散而逃。各部队被各国慢慢复苏的军队分别攻击并歼灭。
 ====================
 
 ====================
@@ -548,7 +548,7 @@ length 88
 ====================
 Takafumis' corps, having lost almost all of its forces, was not able to reform itself...
 ====================
-Takafumis' corps, having lost almost all of its forces, was not able to reform itself...
+鹰文军团几乎失去了所有兵力、已经无法重建…
 ====================
 
 ====================
@@ -559,7 +559,7 @@ length 58
 ====================
 ...because the original \"Takafumi\" was killed in battle.
 ====================
-...because the original \"Takafumi\" was killed in battle.
+…因为初代鹰文在战斗中阵亡了。
 ====================
 
 ====================
@@ -570,7 +570,7 @@ length 156
 ====================
 Even though Takafumi had drafted the plans for both the strategy of attrition and the offensive, he did not want there to be any mistakes in its execution. 
 ====================
-Even though Takafumi had drafted the plans for both the strategy of attrition and the offensive, he did not want there to be any mistakes in its execution. 
+虽然消耗战和攻势的作战计划都是鹰文制定的、但他不希望执行时出现任何差错。
 ====================
 
 ====================
@@ -581,7 +581,7 @@ length 120
 ====================
 For that reason, the original spearheaded the assault out of necessity, even though he normally commanded from the rear.
 ====================
-For that reason, the original spearheaded the assault out of necessity, even though he normally commanded from the rear.
+因此、本来在后方指挥的初代鹰文、出于必要亲自冲锋在前。
 ====================
 
 ====================
@@ -592,7 +592,7 @@ length 65
 ====================
 As a result, the operation succeeded, however, he died in battle.
 ====================
-As a result, the operation succeeded, however, he died in battle.
+结果、作战成功了、但他却在战斗中身亡。
 ====================
 
 ====================
@@ -603,7 +603,7 @@ length 63
 ====================
 Tomoyo and Tomoya were also killed in the midst of this battle.
 ====================
-Tomoyo and Tomoya were also killed in the midst of this battle.
+智代和朋也也在这场战斗中被杀了。
 ====================
 
 ====================
@@ -614,7 +614,7 @@ length 126
 ====================
 Allegedly, Tomoyo and Tomoya, who always stood on the front lines, were shrouded in the grief and gratitude of the Takafumis. 
 ====================
-Allegedly, Tomoyo and Tomoya, who always stood on the front lines, were shrouded in the grief and gratitude of the Takafumis. 
+据说、始终站在最前线的智代和朋也、被鹰文们的悲伤与感激所包围。
 ====================
 
 ====================
@@ -625,7 +625,7 @@ length 91
 ====================
 The demon, having lost its master, ravaged the battlefield in revenge, and barely survived.
 ====================
-The demon, having lost its master, ravaged the battlefield in revenge, and barely survived.
+失去主人的恶魔为了复仇在战场上肆虐、勉强活了下来。
 ====================
 
 ====================
@@ -636,7 +636,7 @@ length 69
 ====================
 After the war, the demon was ushered in as a hero of all the nations.
 ====================
-After the war, the demon was ushered in as a hero of all the nations.
+战后、那只恶魔被各国奉为英雄。
 ====================
 
 ====================
@@ -647,7 +647,7 @@ length 137
 ====================
 However, it is said that after it had placed its weapon and armor next to the tomb honoring Tomoya's achievements, the demon disappeared.
 ====================
-However, it is said that after it had placed its weapon and armor next to the tomb honoring Tomoya's achievements, the demon disappeared.
+然而据说、它把武器和铠甲放在纪念朋也功绩的墓旁之后、就消失不见了。
 ====================
 
 ====================
@@ -658,7 +658,7 @@ length 88
 ====================
 Even though the magical power has faded, the star-shaped armour is still there even now.
 ====================
-Even though the magical power has faded, the star-shaped armour is still there even now.
+即使魔力已经消散、那件星形的铠甲至今仍然存在。
 ====================
 
 ====================
@@ -669,7 +669,7 @@ length 102
 ====================
 For the next several decades, the \"Beastmen Hunting\" period continued and the beastmen went extinct.
 ====================
-For the next several decades, the \"Beastmen Hunting\" period continued and the beastmen went extinct.
+此后数十年、猎兽人的时期持续着、兽人终于灭绝了。
 ====================
 
 ====================
@@ -680,7 +680,7 @@ length 58
 ====================
 There have been no new sightings of beastmen ever since.  
 ====================
-There have been no new sightings of beastmen ever since.  
+从那以后、再也没有人见过兽人。
 ====================
 
 ====================
@@ -691,7 +691,7 @@ length 59
 ====================
 Very few of the \"Takafumis\" who saved the world survived.
 ====================
-Very few of the \"Takafumis\" who saved the world survived.
+拯救了世界的鹰文们、只有极少数活了下来。
 ====================
 
 ====================
@@ -702,7 +702,7 @@ length 106
 ====================
 After the war ended, the Takafumis were imprisoned by the many nations' wizards or high ranking officials.
 ====================
-After the war ended, the Takafumis were imprisoned by the many nations' wizards or high ranking officials.
+战争结束后、鹰文们被各国的魔术师或高官囚禁。
 ====================
 
 ====================
@@ -713,7 +713,7 @@ length 37
 ====================
 Their goal was to reproduce Takafumi.
 ====================
-Their goal was to reproduce Takafumi.
+他们的目的是复制鹰文。
 ====================
 
 ====================
@@ -724,7 +724,7 @@ length 167
 ====================
 Lusting after more power and afraid that others would beat them to it, the wizards studied the Takafumis who had succeeded in eradicating the beastmen like no other.  
 ====================
-Lusting after more power and afraid that others would beat them to it, the wizards studied the Takafumis who had succeeded in eradicating the beastmen like no other.  
+贪求更多力量、又害怕被别人抢先用尽的魔术师们、研究着那些以无人能及的方式消灭了兽人的鹰文。
 ====================
 
 ====================
@@ -735,7 +735,7 @@ length 30
 ====================
 However, they did not succeed.
 ====================
-However, they did not succeed.
+然而、他们并没有成功。
 ====================
 
 ====================
@@ -746,7 +746,7 @@ length 133
 ====================
 When Tomo silently left the country and went into hiding, the specialized magic she had used to create Takafumi disappeared with her.
 ====================
-When Tomo silently left the country and went into hiding, the specialized magic she had used to create Takafumi disappeared with her.
+当小智悄然离开这个国家、隐居起来之后、她用来制造鹰文的特殊魔法也随之消失了。
 ====================
 
 ====================
@@ -757,7 +757,7 @@ length 65
 ====================
 Furthermore, there were whispered rumors about her true identity.
 ====================
-Furthermore, there were whispered rumors about her true identity.
+而且、关于她真实身份的传言也悄悄流传着。
 ====================
 
 ====================
@@ -768,7 +768,7 @@ length 83
 ====================
 According to local folklore and records, she had the appearance of a five year old.
 ====================
-According to local folklore and records, she had the appearance of a five year old.
+根据当地的传说和记录、她有着五岁孩童的外表。
 ====================
 
 ====================
@@ -779,7 +779,7 @@ length 163
 ====================
 There was no doubt that she had the tremendous magical abilities capable of creating the Takafumis and annihilating the beastmen, but little was known beyond that.
 ====================
-There was no doubt that she had the tremendous magical abilities capable of creating the Takafumis and annihilating the beastmen, but little was known beyond that.
+她无疑拥有足以制造鹰文、歼灭兽人的强大魔力、但除此之外几乎一无所知。
 ====================
 
 ====================
@@ -790,7 +790,7 @@ length 80
 ====================
 It is said that she only told people she trusted about how she created Takafumi.
 ====================
-It is said that she only told people she trusted about how she created Takafumi.
+据说她只向信任的人透露过制造鹰文的方法。
 ====================
 
 ====================
@@ -801,7 +801,7 @@ length 85
 ====================
 Even so, they tried to carry out their research with the little information they had.
 ====================
-Even so, they tried to carry out their research with the little information they had.
+即便如此、他们还是用仅有的那点情报继续研究。
 ====================
 
 ====================
@@ -812,7 +812,7 @@ length 84
 ====================
 However, the Takafumi that they eventually created was just a doll without emotions.
 ====================
-However, the Takafumi that they eventually created was just a doll without emotions.
+然而、他们最终制造出的鹰文只是一个没有感情的人偶。
 ====================
 
 ====================
@@ -823,7 +823,7 @@ length 110
 ====================
 Further study by the increasingly frustrated researchers led nowhere; the cloning technology was lost forever.
 ====================
-Further study by the increasingly frustrated researchers led nowhere; the cloning technology was lost forever.
+越来越焦躁的研究者们进一步的研究也毫无进展、克隆技术就此永远失传了。
 ====================
 
 ====================
@@ -834,7 +834,7 @@ length 64
 ====================
 Now, there are only a few Takafumi clones left on the continent.
 ====================
-Now, there are only a few Takafumi clones left on the continent.
+如今、这片大陆上只剩下几个鹰文的复制体。
 ====================
 
 ====================
@@ -845,7 +845,7 @@ length 77
 ====================
 And they are no more than artifacts used to showcase the culture of the time.
 ====================
-And they are no more than artifacts used to showcase the culture of the time.
+而且它们不过是用来展示当时文化的工艺品罢了。
 ====================
 
 ====================
@@ -856,7 +856,7 @@ length 50
 ====================
 I've earnestly read history books ever since then.
 ====================
-I've earnestly read history books ever since then.
+从那以后、我开始认真地阅读历史书。
 ====================
 
 ====================
@@ -867,7 +867,7 @@ length 93
 ====================
 As a result, knowing all about the past and seeing that there was work to be done, I changed.
 ====================
-As a result, knowing all about the past and seeing that there was work to be done, I changed.
+结果、在了解了过去的一切、并看到还有该做的事之后、我变了。
 ====================
 
 ====================
@@ -878,7 +878,7 @@ length 68
 ====================
 First, I stopped trying to find excuses to run away from the office.
 ====================
-First, I stopped trying to find excuses to run away from the office.
+首先、我不再找借口逃避政务了。
 ====================
 
 ====================
@@ -889,7 +889,7 @@ length 95
 ====================
 And whenever I would find myself against a brick wall, I'd beg for the wisdom of our ancestors.
 ====================
-And whenever I would find myself against a brick wall, I'd beg for the wisdom of our ancestors.
+每当碰壁的时候、我就会去请教祖先们的智慧。
 ====================
 
 ====================
@@ -900,7 +900,7 @@ length 100
 ====================
 I was strict with myself, and I tried to cultivate better judgement and a discerning eye for people.
 ====================
-I was strict with myself, and I tried to cultivate better judgement and a discerning eye for people.
+我对自己严格、努力培养更好的判断力和看人的眼光。
 ====================
 
 ====================
@@ -911,7 +911,7 @@ length 63
 ====================
 I always thought about what it meant to be fair before I acted.
 ====================
-I always thought about what it meant to be fair before I acted.
+行动之前、我总是会思考什么才是公正。
 ====================
 
 ====================
@@ -922,7 +922,7 @@ length 71
 ====================
 These were all necessary for me to lead my country and achieve my goal.
 ====================
-These were all necessary for me to lead my country and achieve my goal.
+这些都是我引领国家、达成目标所必需的。
 ====================
 
 ====================
@@ -933,7 +933,7 @@ length 83
 ====================
 In order to earn the support of the citizens and soldiers, I fought from the front.
 ====================
-In order to earn the support of the citizens and soldiers, I fought from the front.
+为了赢得国民和士兵的支持、我亲自站在前线战斗。
 ====================
 
 ====================
@@ -944,7 +944,7 @@ length 77
 ====================
 Focusing on education, I was also successful at enhancing our national power.
 ====================
-Focusing on education, I was also successful at enhancing our national power.
+我重视教育、也成功地提升了国力。
 ====================
 
 ====================
@@ -955,7 +955,7 @@ length 107
 ====================
 Even those who thought that my actions were just the whims of a princess eventually came to acknowledge me.
 ====================
-Even those who thought that my actions were just the whims of a princess eventually came to acknowledge me.
+就连那些认为我的行为只是公主任性的人、最终也认可了我。
 ====================
 
 ====================
@@ -966,7 +966,7 @@ length 55
 ====================
 A few years later, my father entrusted his title to me.
 ====================
-A few years later, my father entrusted his title to me.
+几年后、父亲把王位托付给了我。
 ====================
 
 ====================
@@ -977,7 +977,7 @@ length 33
 ====================
 No one objected to my succession.
 ====================
-No one objected to my succession.
+没有人反对我继位。
 ====================
 
 ====================
@@ -988,7 +988,7 @@ length 72
 ====================
 Everyone was delighted to see that I had grown up, and they accepted me.
 ====================
-Everyone was delighted to see that I had grown up, and they accepted me.
+大家都为我成长起来而高兴、接受了我。
 ====================
 
 ====================
@@ -999,7 +999,7 @@ length 37
 ====================
 However, that gave me little comfort.
 ====================
-However, that gave me little comfort.
+然而、那并没有让我感到多少安慰。
 ====================
 
 ====================
@@ -1010,7 +1010,7 @@ length 91
 ====================
 I started to plan out the construction of the Royal Museum which I had been thinking about.
 ====================
-I started to plan out the construction of the Royal Museum which I had been thinking about.
+我开始着手规划一直想建的皇家博物馆。
 ====================
 
 ====================
@@ -1021,7 +1021,7 @@ length 69
 ====================
 The seeds I had spread when I was a princess easily came to fruition.
 ====================
-The seeds I had spread when I was a princess easily came to fruition.
+我在公主时代播下的种子、轻易地就开花结果了。
 ====================
 
 ====================
@@ -1032,7 +1032,7 @@ length 119
 ====================
 Spearheading the effort, I negotiated with each country, and collected and excavated artworks and valuable furnishings.
 ====================
-Spearheading the effort, I negotiated with each country, and collected and excavated artworks and valuable furnishings.
+我亲自领头、与各国交涉、收集并挖掘美术品和贵重的家具。
 ====================
 
 ====================
@@ -1043,7 +1043,7 @@ length 80
 ====================
 Leaving the country and going to excavation sites became a daily routine for me.
 ====================
-Leaving the country and going to excavation sites became a daily routine for me.
+出国前往发掘现场、成了我的日常。
 ====================
 
 ====================
@@ -1054,7 +1054,7 @@ length 81
 ====================
 About a year after I proposed the plan, I thought I had finally achieved my goal.
 ====================
-About a year after I proposed the plan, I thought I had finally achieved my goal.
+提案大约一年后、我以为终于达成了目标。
 ====================
 
 ====================
@@ -1065,7 +1065,7 @@ length 117
 ====================
 I finally discovered what I was looking for in a destroyed fort of a neighboring country, being worshiped as a relic.
 ====================
-I finally discovered what I was looking for in a destroyed fort of a neighboring country, being worshiped as a relic.
+我终于在邻国一座被毁的要塞里、找到了那件被当作圣物崇拜的东西。
 ====================
 
 ====================
@@ -1076,7 +1076,7 @@ length 16
 ====================
 It was Takafumi.
 ====================
-It was Takafumi.
+那是鹰文。
 ====================
 
 ====================
@@ -1087,7 +1087,7 @@ length 45
 ====================
 The goal of all of this was to find Takafumi.
 ====================
-The goal of all of this was to find Takafumi.
+这一切的目的、都是为了找到鹰文。
 ====================
 
 ====================
@@ -1098,7 +1098,7 @@ length 61
 ====================
 For that goal, I had gritted my teeth and endured everything.
 ====================
-For that goal, I had gritted my teeth and endured everything.
+为了那个目标、我咬紧牙关忍受了一切。
 ====================
 
 ====================
@@ -1109,7 +1109,7 @@ length 10
 ====================
 However...
 ====================
-However...
+然而…
 ====================
 
 ====================
@@ -1120,7 +1120,7 @@ length 27
 ====================
 \"He's already... dead...\"
 ====================
-\"He's already... dead...\"
+他已经…死了…
 ====================
 
 ====================
@@ -1131,7 +1131,7 @@ length 20
 ====================
 \"That can't be...\"
 ====================
-\"That can't be...\"
+不可能…
 ====================
 
 ====================
@@ -1142,7 +1142,7 @@ length 20
 ====================
 Takafumi won't move.
 ====================
-Takafumi won't move.
+鹰文一动不动。
 ====================
 
 ====================
@@ -1153,7 +1153,7 @@ length 49
 ====================
 He's as silent as a doll, and he is rotting away.
 ====================
-He's as silent as a doll, and he is rotting away.
+他像人偶一样沉默、正在腐朽。
 ====================
 
 ====================
@@ -1164,7 +1164,7 @@ length 58
 ====================
 Nevertheless, refusing to lose hope, I continue to search.
 ====================
-Nevertheless, refusing to lose hope, I continue to search.
+尽管如此、我不肯放弃希望、继续寻找。
 ====================
 
 ====================
@@ -1175,7 +1175,7 @@ length 44
 ====================
 From then on, I found many of the Takafumis,
 ====================
-From then on, I found many of the Takafumis,
+从那以后、我找到了很多鹰文、
 ====================
 
 ====================
@@ -1186,7 +1186,7 @@ length 23
 ====================
 but they were all dead.
 ====================
-but they were all dead.
+但他们都死了。
 ====================
 
 ====================
@@ -1197,7 +1197,7 @@ length 149
 ====================
 Before I knew it, the Royal Museum had stared to attract visitors from every country; all of them coming to catch a glimpse of how much it had grown.
 ====================
-Before I knew it, the Royal Museum had stared to attract visitors from every country; all of them coming to catch a glimpse of how much it had grown.
+不知不觉间、皇家博物馆开始吸引各国的来访者、他们都来一睹它发展成什么样子。
 ====================
 
 ====================
@@ -1208,7 +1208,7 @@ length 96
 ====================
 My worried aide suggests that we put an end to our search for Takafumi, but I stubbornly refuse.
 ====================
-My worried aide suggests that we put an end to our search for Takafumi, but I stubbornly refuse.
+担心的侍从建议我们停止寻找鹰文、但我固执地拒绝了。
 ====================
 
 ====================
@@ -1219,7 +1219,7 @@ length 114
 ====================
 There are even conversations about finding somebody for me to marry, but I silence them with a wave of my sword.  
 ====================
-There are even conversations about finding somebody for me to marry, but I silence them with a wave of my sword.  
+甚至还有人谈论要给我找个结婚对象、但我一剑挥去让他们闭嘴。
 ====================
 
 ====================
@@ -1230,7 +1230,7 @@ length 67
 ====================
 Still, it is exhausting to only be supported by my own strong will.
 ====================
-Still, it is exhausting to only be supported by my own strong will.
+不过、只靠自己的意志支撑、实在是很累。
 ====================
 
 ====================
@@ -1241,7 +1241,7 @@ length 114
 ====================
 But then, we receive information that a body very similar to Takafumi's was found in a small country to the west. 
 ====================
-But then, we receive information that a body very similar to Takafumi's was found in a small country to the west. 
+但就在这时、我们收到情报说、在西边的一个小国里发现了与鹰文非常相似的身体。
 ====================
 
 ====================
@@ -1252,7 +1252,7 @@ length 84
 ====================
 I order the cavalry commander to go there, and I rush there faster than anyone else.
 ====================
-I order the cavalry commander to go there, and I rush there faster than anyone else.
+我命令骑兵队长前往那里、自己则比任何人都先赶到。
 ====================
 
 ====================
@@ -1263,7 +1263,7 @@ length 26
 ====================
 It's like a paradise here.
 ====================
-It's like a paradise here.
+这里就像是天堂。
 ====================
 
 ====================
@@ -1274,7 +1274,7 @@ length 33
 ====================
 Lush greenery; the air is serene.
 ====================
-Lush greenery; the air is serene.
+绿意盎然、空气宁静。
 ====================
 
 ====================
@@ -1285,7 +1285,7 @@ length 100
 ====================
 I look up and see a pure white bird. Beyond that are the ruins of what were once towering buildings.
 ====================
-I look up and see a pure white bird. Beyond that are the ruins of what were once towering buildings.
+我抬头看见一只纯白的鸟。那之后是曾经高耸的建筑废墟。
 ====================
 
 ====================
@@ -1296,7 +1296,7 @@ length 104
 ====================
 With densely grown moss and ivy covering the building, it looked like it was nurtured by nature itself. 
 ====================
-With densely grown moss and ivy covering the building, it looked like it was nurtured by nature itself. 
+茂密的苔藓和常春藤覆盖着建筑、看上去就像是被自然本身养育着一样。
 ====================
 
 ====================
@@ -1307,7 +1307,7 @@ length 57
 ====================
 As I approach them, the small birds take off all at once.
 ====================
-As I approach them, the small birds take off all at once.
+我一走近、小鸟们就一齐飞起。
 ====================
 
 ====================
@@ -1318,7 +1318,7 @@ length 68
 ====================
 Beyond that, the figure of a person is leaning against a large tree.
 ====================
-Beyond that, the figure of a person is leaning against a large tree.
+在那之后、有一个人的身影正靠在一棵大树上。
 ====================
 
 ====================
@@ -1329,7 +1329,7 @@ length 48
 ====================
 It is... the person I had always wanted to meet.
 ====================
-It is... the person I had always wanted to meet.
+那是…我一直想见的人。
 ====================
 
 ====================
@@ -1340,7 +1340,7 @@ length 80
 ====================
 I ask the cavalry commander to clear the area; I want to be alone with Takafumi.
 ====================
-I ask the cavalry commander to clear the area; I want to be alone with Takafumi.
+我让骑兵队长清场、我想和鹰文单独相处。
 ====================
 
 ====================
@@ -1351,7 +1351,7 @@ length 67
 ====================
 Cutting Takafumi free from the ivy with a knife, I shake him awake.
 ====================
-Cutting Takafumi free from the ivy with a knife, I shake him awake.
+我用刀子把鹰文从常春藤里解开、摇醒他。
 ====================
 
 ====================
@@ -1362,7 +1362,7 @@ length 10
 ====================
 \"Hey...\"
 ====================
-\"Hey...\"
+喂…
 ====================
 
 ====================
@@ -1373,7 +1373,7 @@ length 14
 ====================
 \"Wake up...\"
 ====================
-\"Wake up...\"
+醒醒…
 ====================
 
 ====================
@@ -1384,7 +1384,7 @@ length 13
 ====================
 \".........\"
 ====================
-\".........\"
+………
 ====================
 
 ====================
@@ -1395,7 +1395,7 @@ length 14
 ====================
 His eyes open.
 ====================
-His eyes open.
+他睁开了眼睛。
 ====================
 
 ====================
@@ -1406,7 +1406,7 @@ length 29
 ====================
 But his eyes aren't in focus.
 ====================
-But his eyes aren't in focus.
+但目光没有焦点。
 ====================
 
 ====================
@@ -1417,7 +1417,7 @@ length 18
 ====================
 Can he... not see?
 ====================
-Can he... not see?
+难道他…看不见？
 ====================
 
 ====================
@@ -1428,7 +1428,7 @@ length 26
 ====================
 \"Do you... remember me?\"
 ====================
-\"Do you... remember me?\"
+你…还记得我吗？
 ====================
 
 ====================
@@ -1439,7 +1439,7 @@ length 6
 ====================
 I ask.
 ====================
-I ask.
+我问道。
 ====================
 
 ====================
@@ -1450,7 +1450,7 @@ length 13
 ====================
 \".........\"
 ====================
-\".........\"
+………
 ====================
 
 ====================
@@ -1461,7 +1461,7 @@ length 62
 ====================
 \"Sorry to disappoint you... but I have no idea who you are.\"
 ====================
-\"Sorry to disappoint you... but I have no idea who you are.\"
+很抱歉让你失望了…但我不知道你是谁。
 ====================
 
 ====================
@@ -1472,7 +1472,7 @@ length 40
 ====================
 \"Surely that's because you can't see.\"
 ====================
-\"Surely that's because you can't see.\"
+一定是因为你看不见。
 ====================
 
 ====================
@@ -1483,7 +1483,7 @@ length 46
 ====================
 \"If you could see, then you would remember.\"
 ====================
-\"If you could see, then you would remember.\"
+如果看得见的话、你一定会想起来的。
 ====================
 
 ====================
@@ -1494,7 +1494,7 @@ length 66
 ====================
 \"I'm sorry to disappoint you... but I have no idea who you are.\"
 ====================
-\"I'm sorry to disappoint you... but I have no idea who you are.\"
+很抱歉让你失望了…但我不知道你是谁。
 ====================
 
 ====================
@@ -1505,7 +1505,7 @@ length 17
 ====================
 \"I'm Kanako...\"
 ====================
-\"I'm Kanako...\"
+我是河南子…
 ====================
 
 ====================
@@ -1516,7 +1516,7 @@ length 34
 ====================
 \"Do you really... not remember?\"
 ====================
-\"Do you really... not remember?\"
+你…真的不记得了吗？
 ====================
 
 ====================
@@ -1527,7 +1527,7 @@ length 18
 ====================
 \"I'm afraid so.\"
 ====================
-\"I'm afraid so.\"
+恐怕是的。
 ====================
 
 ====================
@@ -1538,7 +1538,7 @@ length 12
 ====================
 \"I see...\"
 ====================
-\"I see...\"
+这样啊…
 ====================
 
 ====================
@@ -1549,7 +1549,7 @@ length 90
 ====================
 \"However, there is something I should say on behalf of someone else who shares my name.\"
 ====================
-\"However, there is something I should say on behalf of someone else who shares my name.\"
+不过、有一句话我必须替另一位同名的我说出口。
 ====================
 
 ====================
@@ -1560,7 +1560,7 @@ length 10
 ====================
 \"Eh...?\"
 ====================
-\"Eh...?\"
+诶…？
 ====================
 
 ====================
@@ -1571,7 +1571,7 @@ length 19
 ====================
 \"Just one thing.\"
 ====================
-\"Just one thing.\"
+只有一句。
 ====================
 
 ====================
@@ -1582,7 +1582,7 @@ length 13
 ====================
 \"I'm home.\"
 ====================
-\"I'm home.\"
+我回来了。
 ====================
 
 ====================
@@ -1593,7 +1593,7 @@ length 32
 ====================
 It feels as if time had stopped.
 ====================
-It feels as if time had stopped.
+仿佛时间停止了。
 ====================
 
 ====================
@@ -1604,7 +1604,7 @@ length 38
 ====================
 It feels just like it did back then...
 ====================
-It feels just like it did back then...
+就如同那时一样…
 ====================
 
 ====================
@@ -1615,7 +1615,7 @@ length 81
 ====================
 Right now, Takafumi is right beside me... It feels as if it has been an eternity.
 ====================
-Right now, Takafumi is right beside me... It feels as if it has been an eternity.
+此刻鹰文就在我身边…感觉就像过了永恒那么久。
 ====================
 
 ====================
@@ -1626,7 +1626,7 @@ length 55
 ====================
 However, he sacrificed himself for 'the present world',
 ====================
-However, he sacrificed himself for 'the present world',
+然而、他是为了『现在的世界』而牺牲的、
 ====================
 
 ====================
@@ -1637,7 +1637,7 @@ length 21
 ====================
 so I have to move on.
 ====================
-so I have to move on.
+所以我必须继续前行。
 ====================
 
 ====================
@@ -1648,7 +1648,7 @@ length 27
 ====================
 \"Welcome back, Takafumi.\"
 ====================
-\"Welcome back, Takafumi.\"
+欢迎回来、鹰文。
 ====================
 
 ====================
@@ -1659,7 +1659,7 @@ length 46
 ====================
 \"Thanks for waiting for me this whole time.\"
 ====================
-\"Thanks for waiting for me this whole time.\"
+谢谢你一直等着我。
 ====================
 
 ====================
@@ -1670,7 +1670,7 @@ length 33
 ====================
 \"Also... thanks for your help.\"
 ====================
-\"Also... thanks for your help.\"
+还有…谢谢你的帮助。
 ====================
 
 ====================
@@ -1681,7 +1681,7 @@ length 24
 ====================
 \"It's all over now...\"
 ====================
-\"It's all over now...\"
+一切都结束了…
 ====================
 
 ====================
@@ -1692,7 +1692,7 @@ length 37
 ====================
 \"You don't need to wait anymore...\"
 ====================
-\"You don't need to wait anymore...\"
+你不用再等下去了…
 ====================
 
 ====================
@@ -1703,7 +1703,7 @@ length 45
 ====================
 \"From now on, I will always be near you...\"
 ====================
-\"From now on, I will always be near you...\"
+从今以后、我会永远陪在你身边…
 ====================
 
 ====================
@@ -1714,7 +1714,7 @@ length 11
 ====================
 \"Okay...\"
 ====================
-\"Okay...\"
+好的…
 ====================
 
 ====================
@@ -1725,7 +1725,7 @@ length 28
 ====================
 \"So, everything's okay...\"
 ====================
-\"So, everything's okay...\"
+所以、一切都好…
 ====================
 
 ====================
@@ -1736,7 +1736,7 @@ length 17
 ====================
 \"That's why...\"
 ====================
-\"That's why...\"
+所以…
 ====================
 
 ====================
@@ -1747,7 +1747,7 @@ length 28
 ====================
 \"...good night, Takafumi.\"
 ====================
-\"...good night, Takafumi.\"
+…晚安、鹰文。
 ====================
 
 ====================
@@ -1758,7 +1758,7 @@ length 44
 ====================
 \"How's that, isn't this my greatest work?\"
 ====================
-\"How's that, isn't this my greatest work?\"
+怎么样、这不就是我的最高杰作吗？
 ====================
 
 ====================
@@ -1769,7 +1769,7 @@ length 25
 ====================
 \"Wha- Everybody left?!\"
 ====================
-\"Wha- Everybody left?!\"
+什么…大家都走了！？
 ====================
 
 ====================
@@ -1780,5 +1780,5 @@ length 93
 ====================
 \"That's because no one else has the time to clear the game from start to finish in one go.\"
 ====================
-\"That's because no one else has the time to clear the game from start to finish in one go.\"
+那是因为没有人有时间一口气把游戏从头打到尾啊。
 ====================

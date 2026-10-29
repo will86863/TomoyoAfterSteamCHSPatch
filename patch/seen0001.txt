@@ -394,7 +394,7 @@ length 53
 ====================
 \"I'm finally allowed to make the rounds by myself.\"
 ====================
-\"I'm finally allowed to make the rounds by myself.\"
+我终于可以一个人出去收垃圾了。
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 173
 ====================
 \"Earlier, there was an earthquake. When that kind of danger approaches, the disaster prevention equipment activates and makes it so that the apartment can fly in the sky.\"
 ====================
-\"Earlier, there was an earthquake. When that kind of danger approaches, the disaster prevention equipment activates and makes it so that the apartment can fly in the sky.\"
+刚才发生了地震。遇到那种危险的时候、防灾装置就会启动、让公寓在空中飞起来。
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 263
 ====================
 \"Be sure to rename this village Kanakoville, build a bronze statue of me, and sing the praises of the cute girl who fell battling the strongest bear in the world to all the sightseers who ever visit, and then pass this legend down for about a thousand years...\"
 ====================
-\"Be sure to rename this village Kanakoville, build a bronze statue of me, and sing the praises of the cute girl who fell battling the strongest bear in the world to all the sightseers who ever visit, and then pass this legend down for about a thousand years...\"
+一定要把这个村子改名为河南子村、给我建一座铜像、还要向来访的游客们歌颂那位为了村子而与世界最强之熊英勇战斗的可爱少女、把这个传说流传大约一千年…
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 53
 ====================
 \"I'm finally allowed to make the rounds by myself.\"
 ====================
-\"I'm finally allowed to make the rounds by myself.\"
+我终于可以一个人出去收垃圾了。
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 173
 ====================
 \"Earlier, there was an earthquake. When that kind of danger approaches, the disaster prevention equipment activates and makes it so that the apartment can fly in the sky.\"
 ====================
-\"Earlier, there was an earthquake. When that kind of danger approaches, the disaster prevention equipment activates and makes it so that the apartment can fly in the sky.\"
+刚才发生了地震。遇到那种危险的时候、防灾装置就会启动、让公寓在空中飞起来。
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 150
 ====================
 He tells us there's only one path so we don't need to worry about getting lost, but then sympathizes with us over just how much further we have to go.
 ====================
-He tells us there's only one path so we don't need to worry about getting lost, but then sympathizes with us over just how much further we have to go.
+他告诉我们只有一条路、所以不用担心迷路、但又同情我们要走那么远。
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 175
 ====================
 So much that it makes me think that, even though this place looks like a hospital, perhaps this is just a stage, and they are all just actors putting on a play to toy with me.
 ====================
-So much that it makes me think that, even though this place looks like a hospital, perhaps this is just a stage, and they are all just actors putting on a play to toy with me.
+让我不由得觉得、这地方虽然看起来像医院、但也许这只是一个舞台、他们都是演员、正上演一出戏来耍我。
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 173
 ====================
 Now that she's resigned as student council president, that skill is focused solely on me, but if she uses the Internet, it can reach a lot of people. More than before, even.
 ====================
-Now that she's resigned as student council president, that skill is focused solely on me, but if she uses the Internet, it can reach a lot of people. More than before, even.
+她已经卸任学生会长了、那个技能现在只对准我一个人、但如果她用网络的话、就能传达到很多人那里。甚至比以前更多。
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 195
 ====================
 \"Don't you know that I was a candidate for student council president, won after my speech that was all jokes and no platform was a big hit, and then had my position revoked in a staff meeting?\"
 ====================
-\"Don't you know that I was a candidate for student council president, won after my speech that was all jokes and no platform was a big hit, and then had my position revoked in a staff meeting?\"
+你难道不知道我曾经是学生会长的候选人、靠着一场全是笑话、毫无政见的演讲大获全胜当选、然后又在教职员会议上被撤销了职位吗？
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 188
 ====================
 \"I thought she was taking too long when she went in and didn't come out for like ten minutes, so I knocked on the door, but she didn't answer. And when I peeked in on her, she was gone.\"
 ====================
-\"I thought she was taking too long when she went in and didn't come out for like ten minutes, so I knocked on the door, but she didn't answer. And when I peeked in on her, she was gone.\"
+她进去之后大约十分钟都没出来、我觉得太久了、就敲了敲门、却没有回应。我探头往里看的时候、她已经不见了。
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 173
 ====================
 \"That aside, even though you told us to use it in moderation, you got pretty addicted to the Internet yourself, Nee-chan. You are even saying things like sites and posts.\"
 ====================
-\"That aside, even though you told us to use it in moderation, you got pretty addicted to the Internet yourself, Nee-chan. You are even saying things like sites and posts.\"
+说起来、虽然你叫我们要有节制地用、但姐姐你自己也相当沉迷网络啊。甚至还会说什么网站啊、帖子啊。
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 203
 ====================
 If I can't remember the apartment I live in, the school that I attended for three years, or even the girl whom I've always dated, it's not surprising that I can't recall anything by looking at this dorm.
 ====================
-If I can't remember the apartment I live in, the school that I attended for three years, or even the girl whom I've always dated, it's not surprising that I can't recall anything by looking at this dorm.
+如果我连自己住的公寓、读了三年书的学校、甚至一直交往着的女孩都想不起来、那么看着这栋宿舍想不起任何事、也就不足为奇了。
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 53
 ====================
 \"I'm finally allowed to make the rounds by myself.\"
 ====================
-\"I'm finally allowed to make the rounds by myself.\"
+我终于可以一个人出去收垃圾了。
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 263
 ====================
 \"Be sure to rename this village Kanakoville, build a bronze statue of me, and sing the praises of the cute girl who fell battling the strongest bear in the world to all the sightseers who ever visit, and then pass this legend down for about a thousand years...\"
 ====================
-\"Be sure to rename this village Kanakoville, build a bronze statue of me, and sing the praises of the cute girl who fell battling the strongest bear in the world to all the sightseers who ever visit, and then pass this legend down for about a thousand years...\"
+一定要把这个村子改名为河南子村、给我建一座铜像、还要向来访的游客们歌颂那位为了村子而与世界最强之熊英勇战斗的可爱少女、把这个传说流传大约一千年…
 ====================
 
 ====================
@@ -548,5 +548,5 @@ length 280
 ====================
 \"This is the story about the attractive detective Tomo, who has been turned into a child by medicine created by the Organization of Darkness. Despite that, she retains her intelligence and puts adults to shame as a mystery detective by solving one difficult case after another.\"
 ====================
-\"This is the story about the attractive detective Tomo, who has been turned into a child by medicine created by the Organization of Darkness. Despite that, she retains her intelligence and puts adults to shame as a mystery detective by solving one difficult case after another.\"
+这是关于被黑暗组织制造的药物变成小孩的迷人侦探小智的故事。尽管如此、她依然保有智慧、成为让大人们汗颜的名侦探、接连解决一个又一个疑难案件。
 ====================

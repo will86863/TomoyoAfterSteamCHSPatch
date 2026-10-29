@@ -364,3 +364,13 @@ FodyWeavers.xsd
 
 SEEN_CHS.TXT
 .claude/
+
+# tools/ 运行期临时产物
+tools/_chars.txt
+tools/_check_gbk.ps1
+tools/out_patch/
+tools/overlen_all.json
+tools/gap_body.json
+tools/patch_pairs.json
+guide/patch_pairs.json
+guide/scr/

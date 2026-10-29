@@ -9,7 +9,7 @@ length 72
 ====================
 0123456789 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz ,.!?'\"
 ====================
-0123456789 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz ,.!?'\"
+0123456789 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz ,.!?'"
 ====================
 
 ====================
@@ -17,11 +17,10 @@ index 2
 offset 1975
 name NULL
 length 33
-replace_flag
 ====================
 The story that I am about to tell
 ====================
-The story that I am about to tell
+接下来要讲述的故事
 ====================
 
 ====================
@@ -29,11 +28,10 @@ index 3
 offset 2045
 name NULL
 length 36
-replace_flag
 ====================
 is something that happened long ago.
 ====================
-is something that happened long ago.
+是很久很久以前的事了。
 ====================
 
 ====================
@@ -41,11 +39,10 @@ index 4
 offset 2118
 name NULL
 length 9
-replace_flag
 ====================
 Even now,
 ====================
-Even now,
+即使到了现在、
 ====================
 
 ====================
@@ -53,11 +50,10 @@ index 5
 offset 2164
 name NULL
 length 32
-replace_flag
 ====================
 it is still shining brilliantly.
 ====================
-it is still shining brilliantly.
+它依然灿烂地闪耀着。
 ====================
 
 ====================
@@ -68,7 +64,7 @@ length 27
 ====================
 It was then when he decided
 ====================
-It was then when he decided
+就在那时、他下定决心、
 ====================
 
 ====================
@@ -79,7 +75,7 @@ length 51
 ====================
 that he would take on the role of the teacher next.
 ====================
-that he would take on the role of the teacher next.
+接下来要去承担老师的角色。
 ====================
 
 ====================
@@ -90,7 +86,7 @@ length 46
 ====================
 He would teach what his teacher had taught him
 ====================
-He would teach what his teacher had taught him
+他要把老师教给他的东西、
 ====================
 
 ====================
@@ -101,7 +97,7 @@ length 81
 ====================
 to those children who are standing still, not having found their reasons to live.
 ====================
-to those children who are standing still, not having found their reasons to live.
+教给那些停步不前、还没有找到活下去理由的孩子们。
 ====================
 
 ====================
@@ -112,7 +108,7 @@ length 39
 ====================
 And she would be there, supporting him.
 ====================
-And she would be there, supporting him.
+而她会在那里、支持着他。
 ====================
 
 ====================
@@ -123,7 +119,7 @@ length 33
 ====================
 The real story has not yet begun.
 ====================
-The real story has not yet begun.
+真正的故事还没有开始。
 ====================
 
 ====================
@@ -134,7 +130,7 @@ length 49
 ====================
 From here, they will stand still for a long time.
 ====================
-From here, they will stand still for a long time.
+从这里开始、他们会停立很长一段时间。
 ====================
 
 ====================
@@ -145,7 +141,7 @@ length 27
 ====================
 At the bottom of that hill.
 ====================
-At the bottom of that hill.
+就在那座山坡下。
 ====================
 
 ====================
@@ -156,7 +152,7 @@ length 34
 ====================
 At last, they made their way here.
 ====================
-At last, they made their way here.
+他们终于来到了这里。
 ====================
 
 ====================
@@ -167,7 +163,7 @@ length 13
 ====================
 That's right.
 ====================
-That's right.
+没错。
 ====================
 
 ====================
@@ -178,7 +174,7 @@ length 27
 ====================
 This is where it all began.
 ====================
-This is where it all began.
+一切就是从这里开始的。
 ====================
 
 ====================
@@ -189,7 +185,7 @@ length 44
 ====================
 I stood where \"she\" was standing long ago.
 ====================
-I stood where \"she\" was standing long ago.
+我站到了她很久以前站过的那个地方。
 ====================
 
 ====================
@@ -200,7 +196,7 @@ length 81
 ====================
 There was once a young girl who, abandoned by her mother, spent a summer with us.
 ====================
-There was once a young girl who, abandoned by her mother, spent a summer with us.
+曾经有一个被母亲抛下的少女、和我们一起度过了一个夏天。
 ====================
 
 ====================
@@ -211,7 +207,7 @@ length 46
 ====================
 The time we spent together was very enjoyable.
 ====================
-The time we spent together was very enjoyable.
+我们一起度过的那段时间非常快乐。
 ====================
 
 ====================
@@ -222,7 +218,7 @@ length 62
 ====================
 As long as she wished for it, it could have continued forever.
 ====================
-As long as she wished for it, it could have continued forever.
+只要她愿意、本来可以永远持续下去。
 ====================
 
 ====================
@@ -233,7 +229,7 @@ length 34
 ====================
 However, having learned the truth,
 ====================
-However, having learned the truth,
+然而、在知道了真相之后、
 ====================
 
 ====================
@@ -244,7 +240,7 @@ length 33
 ====================
 she chose to live with her mother
 ====================
-she chose to live with her mother
+她选择了去和母亲一起生活、
 ====================
 
 ====================
@@ -255,7 +251,7 @@ length 52
 ====================
 together in the empty village deep in the mountains,
 ====================
-together in the empty village deep in the mountains,
+一起住在深山里那座空无一人的村庄、
 ====================
 
 ====================
@@ -266,7 +262,7 @@ length 53
 ====================
 even though she knew her mother had little time left.
 ====================
-even though she knew her mother had little time left.
+即使她明白母亲已经没有多少时间了。
 ====================
 
 ====================
@@ -277,7 +273,7 @@ length 39
 ====================
 On that day, I made a promise with her.
 ====================
-On that day, I made a promise with her.
+那一天、我和她定下了一个约定。
 ====================
 
 ====================
@@ -288,7 +284,7 @@ length 70
 ====================
 She is still living strongly in the faraway mountain village even now.
 ====================
-She is still living strongly in the faraway mountain village even now.
+她至今仍然在远方那座山村里坚强地活着。
 ====================
 
 ====================
@@ -299,7 +295,7 @@ length 21
 ====================
 I ran away by myself.
 ====================
-I ran away by myself.
+我一个人逃走了。
 ====================
 
 ====================
@@ -310,7 +306,7 @@ length 41
 ====================
 Even though our love continues, even now.
 ====================
-Even though our love continues, even now.
+即使如今、我们的爱仍在延续。
 ====================
 
 ====================
@@ -321,7 +317,7 @@ length 28
 ====================
 And now, he proved it to me.
 ====================
-And now, he proved it to me.
+而现在、他向我证明了这一点。
 ====================
 
 ====================
@@ -332,7 +328,7 @@ length 31
 ====================
 Which is why I made up my mind.
 ====================
-Which is why I made up my mind.
+所以我下定了决心。
 ====================
 
 ====================
@@ -343,7 +339,7 @@ length 35
 ====================
 I am determined to become stronger.
 ====================
-I am determined to become stronger.
+我决心要变得更坚强。
 ====================
 
 ====================
@@ -354,7 +350,7 @@ length 5
 ====================
 Yeah.
 ====================
-Yeah.
+嗯。
 ====================
 
 ====================
@@ -365,7 +361,7 @@ length 15
 ====================
 I will be okay.
 ====================
-I will be okay.
+我不会有事的。
 ====================
 
 ====================
@@ -376,7 +372,7 @@ length 32
 ====================
 You don't need to worry anymore.
 ====================
-You don't need to worry anymore.
+你也不用再担心了。
 ====================
 
 ====================
@@ -387,7 +383,7 @@ length 3
 ====================
 Our
 ====================
-Our
+我们的
 ====================
 
 ====================
@@ -398,7 +394,7 @@ length 4
 ====================
 love
 ====================
-love
+爱
 ====================
 
 ====================
@@ -409,7 +405,7 @@ length 11
 ====================
 is eternal.
 ====================
-is eternal.
+是永恒的。
 ====================
 
 ====================
@@ -420,7 +416,7 @@ length 27
 ====================
 Right before the operation,
 ====================
-Right before the operation,
+就在手术之前、
 ====================
 
 ====================
@@ -431,7 +427,7 @@ length 46
 ====================
 there is one last person here to cheer for us.
 ====================
-there is one last person here to cheer for us.
+最后有一个人来到这里为我们加油。
 ====================
 
 ====================
@@ -442,7 +438,7 @@ length 40
 ====================
 Her voice echoed throughout the hallway.
 ====================
-Her voice echoed throughout the hallway.
+她的声音在走廊里回响。
 ====================
 
 ====================
@@ -453,7 +449,7 @@ length 21
 ====================
 She dashed toward us.
 ====================
-She dashed toward us.
+她朝我们冲了过来。
 ====================
 
 ====================
@@ -464,7 +460,7 @@ length 55
 ====================
 Her shadow has grown much larger compared to back then.
 ====================
-Her shadow has grown much larger compared to back then.
+和那时相比、她的影子已经长大了许多。
 ====================
 
 ====================
@@ -475,7 +471,7 @@ length 35
 ====================
 It's a big shadow that I aimed for.
 ====================
-It's a big shadow that I aimed for.
+那是我一直追寻着的高大身影。
 ====================
 
 ====================
@@ -486,7 +482,7 @@ length 64
 ====================
 He is taken away on his bed; its wheels rattling along its path.
 ====================
-He is taken away on his bed; its wheels rattling along its path.
+他被推床带走、轮子在路上咔嗒作响。
 ====================
 
 ====================
@@ -497,7 +493,7 @@ length 17
 ====================
 I followed along.
 ====================
-I followed along.
+我跟在旁边。
 ====================
 
 ====================
@@ -508,7 +504,7 @@ length 53
 ====================
 Ready to be reprimanded, I gently held onto his hand.
 ====================
-Ready to be reprimanded, I gently held onto his hand.
+做好了被责备的准备、我轻轻地握住了他的手。
 ====================
 
 ====================
@@ -519,7 +515,7 @@ length 53
 ====================
 Up until the door of the operating room separated us.
 ====================
-Up until the door of the operating room separated us.
+一直到手术室的门把我们隔开。
 ====================
 
 ====================
@@ -530,7 +526,7 @@ length 51
 ====================
 A long period of time was needed for the operation.
 ====================
-A long period of time was needed for the operation.
+手术需要很长一段时间。
 ====================
 
 ====================
@@ -541,7 +537,7 @@ length 15
 ====================
 I kept waiting.
 ====================
-I kept waiting.
+我一直等着。
 ====================
 
 ====================
@@ -552,7 +548,7 @@ length 39
 ====================
 All the while, I firmly kept believing.
 ====================
-All the while, I firmly kept believing.
+在那期间、我始终坚定地相信着。
 ====================
 
 ====================
@@ -563,7 +559,7 @@ length 11
 ====================
 In the end,
 ====================
-In the end,
+结果、
 ====================
 
 ====================
@@ -574,7 +570,7 @@ length 30
 ====================
 the operation did not go well.
 ====================
-the operation did not go well.
+手术并不顺利。
 ====================
 
 ====================
@@ -585,7 +581,7 @@ length 63
 ====================
 However, if we were only concerned with regaining his memories,
 ====================
-However, if we were only concerned with regaining his memories,
+不过、如果只就恢复记忆这一点来说、
 ====================
 
 ====================
@@ -596,7 +592,7 @@ length 31
 ====================
 you could say it was a success.
 ====================
-you could say it was a success.
+也可以说是成功了。
 ====================
 
 ====================
@@ -607,7 +603,7 @@ length 71
 ====================
 It was two days after he was taken inside the ICU when I saw him again.
 ====================
-It was two days after he was taken inside the ICU when I saw him again.
+他被送进重症监护室后、我再次见到他、是两天之后的事。
 ====================
 
 ====================
@@ -618,7 +614,7 @@ length 28
 ====================
 Although he could not speak,
 ====================
-Although he could not speak,
+虽然他不能说话、
 ====================
 
 ====================
@@ -629,7 +625,7 @@ length 30
 ====================
 I could hear him say one word.
 ====================
-I could hear him say one word.
+但我能听见他说出了一个词。
 ====================
 
 ====================
@@ -640,7 +636,7 @@ length 15
 ====================
 It was my name.
 ====================
-It was my name.
+那是我的名字。
 ====================
 
 ====================
@@ -651,7 +647,7 @@ length 45
 ====================
 I was overjoyed, and yelled out like a child.
 ====================
-I was overjoyed, and yelled out like a child.
+我高兴极了、像个孩子一样叫了起来。
 ====================
 
 ====================
@@ -662,7 +658,7 @@ length 54
 ====================
 After a while, he was transferred to the general ward.
 ====================
-After a while, he was transferred to the general ward.
+过了一阵子、他被转到了普通病房。
 ====================
 
 ====================
@@ -673,7 +669,7 @@ length 56
 ====================
 The days that followed were committed to rehabilitation.
 ====================
-The days that followed were committed to rehabilitation.
+之后的日子都用在康复训练上。
 ====================
 
 ====================
@@ -684,7 +680,7 @@ length 57
 ====================
 We lived and worked together through the difficult times.
 ====================
-We lived and worked together through the difficult times.
+我们一起生活、一起工作、度过了那些艰难的日子。
 ====================
 
 ====================
@@ -695,7 +691,7 @@ length 25
 ====================
 We kept walking together.
 ====================
-We kept walking together.
+我们一起走着。
 ====================
 
 ====================
@@ -706,7 +702,7 @@ length 33
 ====================
 By the time we got to that point,
 ====================
-By the time we got to that point,
+等我们走到那一步的时候、
 ====================
 
 ====================
@@ -717,7 +713,7 @@ length 17
 ====================
 we had no regrets
 ====================
-we had no regrets
+我们已经没有任何遗憾了、
 ====================
 
 ====================
@@ -728,7 +724,7 @@ length 40
 ====================
 no matter what awaited us in the future.
 ====================
-no matter what awaited us in the future.
+无论将来有什么在等着我们。
 ====================
 
 ====================
@@ -739,7 +735,7 @@ length 23
 ====================
 I am confident of that.
 ====================
-I am confident of that.
+我确信这一点。
 ====================
 
 ====================
@@ -750,7 +746,7 @@ length 10
 ====================
 After all,
 ====================
-After all,
+毕竟、
 ====================
 
 ====================
@@ -761,7 +757,7 @@ length 46
 ====================
 we were able to find what was important to us.
 ====================
-we were able to find what was important to us.
+我们终于找到了对自己而言重要的东西。
 ====================
 
 ====================
@@ -772,7 +768,7 @@ length 9
 ====================
 Even now,
 ====================
-Even now,
+即使到了现在、
 ====================
 
 ====================
@@ -783,7 +779,7 @@ length 52
 ====================
 I'll never forget that last scenery we saw together.
 ====================
-I'll never forget that last scenery we saw together.
+我也不会忘记我们一起看到的最后那片风景。
 ====================
 
 ====================
@@ -794,7 +790,7 @@ length 59
 ====================
 It was a sunset that extended outward endlessly in the sky.
 ====================
-It was a sunset that extended outward endlessly in the sky.
+那是向着天空无尽延伸的晚霞。
 ====================
 
 ====================
@@ -805,7 +801,7 @@ length 28
 ====================
 We fondly gazed at the view.
 ====================
-We fondly gazed at the view.
+我们深情地凝望着那片景色。
 ====================
 
 ====================
@@ -816,7 +812,7 @@ length 64
 ====================
 Up until then, we had never noticed how beautiful the world was.
 ====================
-Up until then, we had never noticed how beautiful the world was.
+在那之前、我们从未注意到这个世界是如此美丽。
 ====================
 
 ====================
@@ -827,7 +823,7 @@ length 59
 ====================
 Not just those days when we were still uneducated children,
 ====================
-Not just those days when we were still uneducated children,
+不只是我们还不懂事的时候、
 ====================
 
 ====================
@@ -838,7 +834,7 @@ length 66
 ====================
 but also when we were right in the midst of despair and suffering.
 ====================
-but also when we were right in the midst of despair and suffering.
+就连身处在绝望与痛苦之中的时候也一样。
 ====================
 
 ====================
@@ -849,7 +845,7 @@ length 82
 ====================
 Had we been unaware of the other colors in the world, we would never have noticed.
 ====================
-Had we been unaware of the other colors in the world, we would never have noticed.
+如果我们不曾知晓这世界的其他色彩、就永远也不会注意到吧。
 ====================
 
 ====================
@@ -860,7 +856,7 @@ length 26
 ====================
 The view was so beautiful.
 ====================
-The view was so beautiful.
+那片景色是如此美丽。
 ====================
 
 ====================
@@ -871,7 +867,7 @@ length 49
 ====================
 Before I had realized, his eyes had already shut.
 ====================
-Before I had realized, his eyes had already shut.
+等我回过神来、他的眼睛已经闭上了。
 ====================
 
 ====================
@@ -882,7 +878,7 @@ length 38
 ====================
 There was a radiant smile on his face.
 ====================
-There was a radiant smile on his face.
+他的脸上浮现着灿烂的笑容。
 ====================
 
 ====================
@@ -893,7 +889,7 @@ length 47
 ====================
 Like that of a runner who had finished his run.
 ====================
-Like that of a runner who had finished his run.
+就像是跑完全程的跑者那样。
 ====================
 
 ====================
@@ -904,7 +900,7 @@ length 46
 ====================
 Just then, his mouth moved; he said something.
 ====================
-Just then, his mouth moved; he said something.
+就在那时、他的嘴动了动、说了些什么。
 ====================
 
 ====================
@@ -915,7 +911,7 @@ length 27
 ====================
 It was a very quiet murmur.
 ====================
-It was a very quiet murmur.
+那是非常轻微的喃喃细语。
 ====================
 
 ====================
@@ -926,7 +922,7 @@ length 40
 ====================
 He might have been talking in his sleep.
 ====================
-He might have been talking in his sleep.
+也许他是在说梦话。
 ====================
 
 ====================
@@ -937,7 +933,7 @@ length 5
 ====================
 Then,
 ====================
-Then,
+然后、
 ====================
 
 ====================
@@ -948,7 +944,7 @@ length 28
 ====================
 he fell into a deep slumber.
 ====================
-he fell into a deep slumber.
+他陷入了深深的沉睡。
 ====================
 
 ====================
@@ -959,7 +955,7 @@ length 41
 ====================
 Even so, every time I recall those words,
 ====================
-Even so, every time I recall those words,
+即便如此、每当我想起那些话、
 ====================
 
 ====================
@@ -970,7 +966,7 @@ length 44
 ====================
 I know that he reached the same place I did.
 ====================
-I know that he reached the same place I did.
+我就知道他和到达了同样的地方。
 ====================
 
 ====================
@@ -981,7 +977,7 @@ length 23
 ====================
 That is what I believe.
 ====================
-That is what I believe.
+我是这样相信的。
 ====================
 
 ====================
@@ -992,7 +988,7 @@ length 27
 ====================
 I will never again despair.
 ====================
-I will never again despair.
+我不会再绝望了。
 ====================
 
 ====================
@@ -1003,7 +999,7 @@ length 27
 ====================
 We overcame many obstacles.
 ====================
-We overcame many obstacles.
+我们克服了许多障碍。
 ====================
 
 ====================
@@ -1014,7 +1010,7 @@ length 28
 ====================
 We believed in eternal love,
 ====================
-We believed in eternal love,
+我们相信着永恒的爱、
 ====================
 
 ====================
@@ -1025,7 +1021,7 @@ length 53
 ====================
 and there were all those days that we lived together.
 ====================
-and there were all those days that we lived together.
+还有那些我们一起生活过的日子。
 ====================
 
 ====================
@@ -1036,7 +1032,7 @@ length 19
 ====================
 That is how I know.
 ====================
-That is how I know.
+所以我明白。
 ====================
 
 ====================
@@ -1047,7 +1043,7 @@ length 43
 ====================
 That is a treasure that belongs only to me.
 ====================
-That is a treasure that belongs only to me.
+那是只属于我的宝物。
 ====================
 
 ====================
@@ -1058,7 +1054,7 @@ length 32
 ====================
 It is an irreplaceable treasure.
 ====================
-It is an irreplaceable treasure.
+那是无可替代的宝物。
 ====================
 
 ====================
@@ -1069,7 +1065,7 @@ length 77
 ====================
 There were times that were so hard to bear; my heart almost tore into pieces.
 ====================
-There were times that were so hard to bear; my heart almost tore into pieces.
+有些时候痛苦得几乎难以承受、我的心都要碎了。
 ====================
 
 ====================
@@ -1080,7 +1076,7 @@ length 45
 ====================
 There were times when I cried out in sadness.
 ====================
-There were times when I cried out in sadness.
+有些时候我悲伤地哭喊。
 ====================
 
 ====================
@@ -1091,7 +1087,7 @@ length 45
 ====================
 But it is because I lived through those days,
 ====================
-But it is because I lived through those days,
+但正因为走过了那些日子、
 ====================
 
 ====================
@@ -1102,7 +1098,7 @@ length 37
 ====================
 that everything is so dazzling today.
 ====================
-that everything is so dazzling today.
+今天的一切才如此耀眼。
 ====================
 
 ====================
@@ -1113,7 +1109,7 @@ length 18
 ====================
 The day I met him.
 ====================
-The day I met him.
+遇见他的那一天。
 ====================
 
 ====================
@@ -1124,7 +1120,7 @@ length 35
 ====================
 The days I spent together with him.
 ====================
-The days I spent together with him.
+和他一起度过的日子。
 ====================
 
 ====================
@@ -1135,7 +1131,7 @@ length 24
 ====================
 The days I felt despair.
 ====================
-The days I felt despair.
+感到绝望的日子。
 ====================
 
 ====================
@@ -1146,7 +1142,7 @@ length 23
 ====================
 The days I cried alone.
 ====================
-The days I cried alone.
+独自哭泣的日子。
 ====================
 
 ====================
@@ -1157,7 +1153,7 @@ length 38
 ====================
 The path that I will continue to walk.
 ====================
-The path that I will continue to walk.
+我今后要继续走下去的路。
 ====================
 
 ====================
@@ -1168,7 +1164,7 @@ length 9
 ====================
 The past.
 ====================
-The past.
+过去。
 ====================
 
 ====================
@@ -1179,7 +1175,7 @@ length 11
 ====================
 The future.
 ====================
-The future.
+未来。
 ====================
 
 ====================
@@ -1190,7 +1186,7 @@ length 9
 ====================
 All of it
 ====================
-All of it
+这一切、
 ====================
 
 ====================
@@ -1201,7 +1197,7 @@ length 39
 ====================
 is just like the sunset I saw that day,
 ====================
-is just like the sunset I saw that day,
+就像那天看到的晚霞一样、
 ====================
 
 ====================
@@ -1212,7 +1208,7 @@ length 9
 ====================
 dazzling.
 ====================
-dazzling.
+耀眼夺目。
 ====================
 
 ====================
@@ -1223,7 +1219,7 @@ length 40
 ====================
 I was able to find that glimmer in life.
 ====================
-I was able to find that glimmer in life.
+我得以在人生中寻找到那一线光芒。
 ====================
 
 ====================
@@ -1234,7 +1230,7 @@ length 51
 ====================
 Which is why I want to help those who are afflicted
 ====================
-Which is why I want to help those who are afflicted
+所以我想去帮助那些像我曾经那样、
 ====================
 
 ====================
@@ -1245,7 +1241,7 @@ length 16
 ====================
 like I once was.
 ====================
-like I once was.
+被痛苦折磨的人们。
 ====================
 
 ====================
@@ -1256,7 +1252,7 @@ length 38
 ====================
 I kept walking forward just like that,
 ====================
-I kept walking forward just like that,
+我就这样一直向前走着、
 ====================
 
 ====================
@@ -1267,7 +1263,7 @@ length 60
 ====================
 and before I had realized, it had become my meaning of life.
 ====================
-and before I had realized, it had become my meaning of life.
+不知不觉间、那已经成了我活下去的意义。
 ====================
 
 ====================
@@ -1278,7 +1274,7 @@ length 66
 ====================
 Which is why, to those of you who have found your meaning in life,
 ====================
-Which is why, to those of you who have found your meaning in life,
+所以、致那些已经找到了自己人生意义的你们、
 ====================
 
 ====================
@@ -1289,7 +1285,7 @@ length 39
 ====================
 please help others to find theirs next.
 ====================
-please help others to find theirs next.
+请接下来也去帮助别人找到他们的意义吧。
 ====================
 
 ====================
@@ -1300,7 +1296,7 @@ length 62
 ====================
 When the time comes, there should be nothing holding you back.
 ====================
-When the time comes, there should be nothing holding you back.
+等到那个时候、应该不会再有什么阻挡你了。
 ====================
 
 ====================
@@ -1311,7 +1307,7 @@ length 6
 ====================
 You...
 ====================
-You...
+你…
 ====================
 
 ====================
@@ -1322,7 +1318,7 @@ length 40
 ====================
 You will already have a meaning of life.
 ====================
-You will already have a meaning of life.
+你应该也已经有了活下去的意义吧。
 ====================
 
 ====================
@@ -1333,7 +1329,7 @@ length 25
 ====================
 What your treasure may be
 ====================
-What your treasure may be
+你的宝物是什么、
 ====================
 
 ====================
@@ -1344,7 +1340,7 @@ length 25
 ====================
 and how you can obtain it
 ====================
-and how you can obtain it
+又要怎样才能得到它、
 ====================
 
 ====================
@@ -1355,7 +1351,7 @@ length 31
 ====================
 is something that nobody knows,
 ====================
-is something that nobody knows,
+这些谁也不知道、
 ====================
 
 ====================
@@ -1366,7 +1362,7 @@ length 36
 ====================
 but you will surely find it someday.
 ====================
-but you will surely find it someday.
+但你总有一天一定会找到的。
 ====================
 
 ====================
@@ -1377,7 +1373,7 @@ length 41
 ====================
 So no matter how painful it is right now,
 ====================
-So no matter how painful it is right now,
+所以、无论现在有多么痛苦、
 ====================
 
 ====================
@@ -1388,7 +1384,7 @@ length 45
 ====================
 no matter how hard it is and how sad you are,
 ====================
-no matter how hard it is and how sad you are,
+无论有多么艰辛、多么悲伤、
 ====================
 
 ====================
@@ -1399,7 +1395,7 @@ length 22
 ====================
 even if you are angry,
 ====================
-even if you are angry,
+即使你在生气、
 ====================
 
 ====================
@@ -1410,7 +1406,7 @@ length 18
 ====================
 even if you smile,
 ====================
-even if you smile,
+即使你在微笑、
 ====================
 
 ====================
@@ -1421,7 +1417,7 @@ length 16
 ====================
 even if you cry,
 ====================
-even if you cry,
+即使你在哭泣、
 ====================
 
 ====================
@@ -1432,7 +1428,7 @@ length 20
 ====================
 even if you cry out,
 ====================
-even if you cry out,
+即使你在呐喊、
 ====================
 
 ====================
@@ -1443,7 +1439,7 @@ length 40
 ====================
 no matter what, I want you to keep going
 ====================
-no matter what, I want you to keep going
+无论如何、我都希望你能继续走下去、
 ====================
 
 ====================
@@ -1454,7 +1450,7 @@ length 41
 ====================
 until the day you find your own treasure.
 ====================
-until the day you find your own treasure.
+直到你找到属于自己的宝物那一天。
 ====================
 
 ====================
@@ -1465,7 +1461,7 @@ length 51
 ====================
 If you, the person on the other side of the screen,
 ====================
-If you, the person on the other side of the screen,
+如果屏幕另一边的你、
 ====================
 
 ====================
@@ -1476,7 +1472,7 @@ length 41
 ====================
 ever find yourself alone on your journey,
 ====================
-ever find yourself alone on your journey,
+在旅途中感到孤单、
 ====================
 
 ====================
@@ -1487,7 +1483,7 @@ length 14
 ====================
 it's all okay.
 ====================
-it's all okay.
+那也没有关系。
 ====================
 
 ====================
@@ -1498,7 +1494,7 @@ length 18
 ====================
 You are not alone.
 ====================
-You are not alone.
+你并不孤单。
 ====================
 
 ====================
@@ -1509,7 +1505,7 @@ length 10
 ====================
 I am here.
 ====================
-I am here.
+我在这里。
 ====================
 
 ====================
@@ -1520,7 +1516,7 @@ length 33
 ====================
 I will be there to accompany you.
 ====================
-I will be there to accompany you.
+我会陪在你身边。
 ====================
 
 ====================
@@ -1531,7 +1527,7 @@ length 16
 ====================
 So please relax.
 ====================
-So please relax.
+所以、请放心吧。
 ====================
 
 ====================
@@ -1542,7 +1538,7 @@ length 25
 ====================
 That is what I discovered
 ====================
-That is what I discovered
+这就是我、
 ====================
 
 ====================
@@ -1553,7 +1549,7 @@ length 18
 ====================
 together with him,
 ====================
-together with him,
+和他一起、
 ====================
 
 ====================
@@ -1564,7 +1560,7 @@ length 22
 ====================
 walking alongside him.
 ====================
-walking alongside him.
+并肩走着所发现的东西。
 ====================
 
 ====================
@@ -1575,7 +1571,7 @@ length 28
 ====================
 Name: The Bear of the Forest
 ====================
-Name: The Bear of the Forest
+名字：森林里的熊
 ====================
 
 ====================
@@ -1586,7 +1582,7 @@ length 14
 ====================
 Now, let's go.
 ====================
-Now, let's go.
+那么、我们走吧。
 ====================
 
 ====================
@@ -1597,7 +1593,7 @@ length 23
 ====================
 The world is beautiful.
 ====================
-The world is beautiful.
+世界是如此美丽。
 ====================
 
 ====================
@@ -1608,7 +1604,7 @@ length 3
 ====================
 And
 ====================
-And
+而
 ====================
 
 ====================
@@ -1619,7 +1615,7 @@ length 28
 ====================
 life is ever so magnificent.
 ====================
-life is ever so magnificent.
+人生、是如此绚丽。
 ====================
 
 ====================

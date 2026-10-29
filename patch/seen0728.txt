@@ -9,7 +9,7 @@ length 15
 ====================
 July 28th (Wed)
 ====================
-July 28th (Wed)
+７月２８日（星期三）
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 28
 ====================
 \"And so, you're training.\"
 ====================
-\"And so, you're training.\"
+所以开始练习吧
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 29
 ====================
 \"It's really hot though...\"
 ====================
-\"It's really hot though...\"
+天气热死了…
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 41
 ====================
 \"You have to get used to the heat too.\"
 ====================
-\"You have to get used to the heat too.\"
+因为必须要快些适应这么热的天气呢
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 57
 ====================
 \"The course I just told you is about three kilometers.\"
 ====================
-\"The course I just told you is about three kilometers.\"
+刚才说的那段路程、大概有３公里左右吧
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 27
 ====================
 \"Do your best, Takafumi.\"
 ====================
-\"Do your best, Takafumi.\"
+加油啊、鹰文ー
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 30
 ====================
 I cheer him on from the shade.
 ====================
-I cheer him on from the shade.
+我躲在树荫里为他加油。
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 52
 ====================
 \"And just whose fault is it that I'm doing this?!\"
 ====================
-\"And just whose fault is it that I'm doing this?!\"
+究竟是因为谁的关系才会变成现在这样的啊
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 58
 ====================
 \"Tomo-san, Takafumi is irritated with me for no reason.\"
 ====================
-\"Tomo-san, Takafumi is irritated with me for no reason.\"
+小智啊、鹰文他、在反生我的气呢
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 53
 ====================
 I imitate Kanako and cling to Tomo, who's next to me.
 ====================
-I imitate Kanako and cling to Tomo, who's next to me.
+我学着河南子的样子、对着身边的小智诉苦着。
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 49
 ====================
 \"Hey, Onii-chan, stop it. No getting iwatated.\"
 ====================
-\"Hey, Onii-chan, stop it. No getting iwatated.\"
+真是的、大哥哥、不行的哦、怎么可以反生别人的气ー
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 85
 ====================
 \"Don't hide behind a kid who can't even say irritated! And it's not for no reason!\"
 ====================
-\"Don't hide behind a kid who can't even say irritated! And it's not for no reason!\"
+不要拿连什么是反生气都不知道的孩子当挡箭牌、而且、这根本就不是我的错！
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 33
 ====================
 \"Uwah, it's hot again today...\"
 ====================
-\"Uwah, it's hot again today...\"
+呜哇、今天也好热呢…
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 57
 ====================
 Kanako comes out of the apartment with ice cream in hand.
 ====================
-Kanako comes out of the apartment with ice cream in hand.
+河南子手里拿着冰激凌、从公寓里出来了。
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 50
 ====================
 \"What is everyone doing going outside together?\"
 ====================
-\"What is everyone doing going outside together?\"
+大家一起跑到外头来干什么
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 60
 ====================
 Then she follows Takafumi, who's running, with curious eyes.
 ====================
-Then she follows Takafumi, who's running, with curious eyes.
+然后、她以一种不可思议的目光看着鹰文跑远。
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 22
 ====================
 \"This a punishment?\"
 ====================
-\"This a punishment?\"
+惩罚游戏？
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 20
 ====================
 \"It's love. Love.\"
 ====================
-\"It's love. Love.\"
+这是爱啊、爱
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 21
 ====================
 \"Hm, love, huh...?\"
 ====================
-\"Hm, love, huh...?\"
+哼、爱啊…
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 25
 ====================
 \"He's not coming back.\"
 ====================
-\"He's not coming back.\"
+怎么还不回来
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 20
 ====================
 \"Go look for him.\"
 ====================
-\"Go look for him.\"
+你去找找他吧
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 50
 ====================
 I instruct her and she runs off after nodding yes.
 ====================
-I instruct her and she runs off after nodding yes.
+一听我这么说、智代就点了点头、跑了出去。
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 21
 ====================
 \"He had collapsed.\"
 ====================
-\"He had collapsed.\"
+他倒在地上了
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 83
 ====================
 On her back when she returns is Takafumi with a hung head and fading consciousness.
 ====================
-On her back when she returns is Takafumi with a hung head and fading consciousness.
+智代回来的时候、背上背着耷拉着脑袋快失去意识的鹰文。
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 22
 ====================
 \"This a punishment?\"
 ====================
-\"This a punishment?\"
+惩罚游戏？
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 14
 ====================
 \"It's love.\"
 ====================
-\"It's love.\"
+是爱啦
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 18
 ====================
 \"A warped love.\"
 ====================
-\"A warped love.\"
+还真是扭曲的爱啊
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 93
 ====================
 When I look at the pamphlet again, I notice that it says the course will be at a forest park.
 ====================
-When I look at the pamphlet again, I notice that it says the course will be at a forest park.
+重新看了看宣传手册、只见上面写着整个路程是森林公园之类的字样。
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 64
 ====================
 \"The path is shaded by trees, so it seems like it'll be cool.\"
 ====================
-\"The path is shaded by trees, so it seems like it'll be cool.\"
+因为是林荫道、所以应该会很凉快的吧
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 20
 ====================
 \"Sorry, Takafumi.\"
 ====================
-\"Sorry, Takafumi.\"
+抱歉、鹰文
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 29
 ====================
 \"Can I stop running now...\"
 ====================
-\"Can I stop running now...\"
+只要别让我再跑就好了…
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 57
 ====================
 Takafumi is lying down. There's a bag of ice on his head.
 ====================
-Takafumi is lying down. There's a bag of ice on his head.
+鹰文躺在地上。头上放着一个冰袋。
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 30
 ====================
 \"Hey, don't pout like that.\"
 ====================
-\"Hey, don't pout like that.\"
+好了、不要那么执拗了
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 64
 ====================
 \"I'm not pouting. I'm saying it because of physical damage...\"
 ====================
-\"I'm not pouting. I'm saying it because of physical damage...\"
+这不是什么执拗不执拗的问题、而是从身体所受的创伤来说的啊
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 50
 ====================
 \"I'm sorry for that. I'm apologizing, aren't I?\"
 ====================
-\"I'm sorry for that. I'm apologizing, aren't I?\"
+我不是已经觉得不对、然后向你道歉了吗
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 25
 ====================
 \"See, I'm nursing you.\"
 ====================
-\"See, I'm nursing you.\"
+你看、也有很认真地在照看着你啊
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 57
 ====================
 \"Hm? The ice has mostly melted. I'll go switch it out.\"
 ====================
-\"Hm? The ice has mostly melted. I'll go switch it out.\"
+嗯、冰块差不多快化了。我去换一下吧
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 26
 ====================
 Tomoyo stands at the sink.
 ====================
-Tomoyo stands at the sink.
+智代去了水池那里。
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 62
 ====================
 \"What? Is everyone trying to reforge Takafumi's will-power?\"
 ====================
-\"What? Is everyone trying to reforge Takafumi's will-power?\"
+怎么？大家想要重新锻炼鹰文的毅力吗？
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 33
 ====================
 Kanako comes over to replace her.
 ====================
-Kanako comes over to replace her.
+河南子走进来说道。
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 35
 ====================
 \"He's sleeping, so keep it down.\"
 ====================
-\"He's sleeping, so keep it down.\"
+他还躺着呢、让他好好休息休息吧
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 40
 ====================
 \"I'm going to drip spit on your face.\"
 ====================
-\"I'm going to drip spit on your face.\"
+让我在他脸上吐点口水看看
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 49
 ====================
 He jumps awake with incredible force and a shout.
 ====================
-He jumps awake with incredible force and a shout.
+他『嘎啊啊啊！』地大叫着以惊人的速度飞身起来了。
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 33
 ====================
 \"Uwaaaaah, my head is ringing!\"
 ====================
-\"Uwaaaaah, my head is ringing!\"
+呜哇啊啊ー、头好痛ーー！
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 20
 ====================
 \"Don't overdo it.\"
 ====================
-\"Don't overdo it.\"
+别太勉强自己
 ====================
 
 ====================
@@ -504,5 +504,5 @@ length 45
 ====================
 \"And just who is causing me to overdo it?!\"
 ====================
-\"And just who is causing me to overdo it?!\"
+还不是你害的啊
 ====================

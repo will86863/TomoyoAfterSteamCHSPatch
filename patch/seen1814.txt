@@ -9,7 +9,7 @@ length 38
 ====================
 \"You have time to spare, don't you?\"
 ====================
-\"You have time to spare, don't you?\"
+你现在有空吧？
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 44
 ====================
 \"Well, yes, I'm kind of free right now...\"
 ====================
-\"Well, yes, I'm kind of free right now...\"
+确实是很有空没错…
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 56
 ====================
 I can't really deny that I've been idling away the days.
 ====================
-I can't really deny that I've been idling away the days.
+８月１３日（星期五）
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 106
 ====================
 \"It's said that you should feel indebted for each meal and night of accommodation you are provided, no?\"
 ====================
-\"It's said that you should feel indebted for each meal and night of accommodation you are provided, no?\"
+不是有句话叫『滴水之恩当涌泉相报』吗
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 51
 ====================
 \"Yeah, I got it. I just have to fix them, right?\"
 ====================
-\"Yeah, I got it. I just have to fix them, right?\"
+我知道了。只要修好就可以了吧？
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 80
 ====================
 The caretaker brings out several electrical appliances. All of them are ancient.
 ====================
-The caretaker brings out several electrical appliances. All of them are ancient.
+第二天、从早上开始我就把自己关在房间里。
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 67
 ====================
 \"It would be very helpful if you can get this... and this fixed.\"
 ====================
-\"It would be very helpful if you can get this... and this fixed.\"
+这个、还有这个、要是能修好的话就帮了大忙了呢
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 59
 ====================
 She taps on the household appliances that are on the table.
 ====================
-She taps on the household appliances that are on the table.
+真的…应该让她回到母亲身边吗？
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 58
 ====================
 A mixer and a VCR; both of them still look as good as new.
 ====================
-A mixer and a VCR; both of them still look as good as new.
+大概从小智母亲那里听了那些之后、智代就一直只在想着这些吧。
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 52
 ====================
 However, nothing happens when I try to turn them on.
 ====================
-However, nothing happens when I try to turn them on.
+她战战兢兢地说道。
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 73
 ====================
 I don't know if they can still be used, but I still test them one by one.
 ====================
-I don't know if they can still be used, but I still test them one by one.
+我也站在小智的立场上考虑过了
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 98
 ====================
 \"It's such a pain to fix these out here when I don't have any replacement parts lying around...\"
 ====================
-\"It's such a pain to fix these out here when I don't have any replacement parts lying around...\"
+嗯、没有
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 157
 ====================
 Although it had taken me twice the time compared to working at the workshop, I could identity the broken parts. However, the problem lies in what comes next.
 ====================
-Although it had taken me twice the time compared to working at the workshop, I could identity the broken parts. However, the problem lies in what comes next.
+就算花了是在工作地方几倍的时间而找到了故障的部分、但是接下来的事更成问题。
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 117
 ====================
 I need to look for working parts like rated fuses and capacitors from whatever circuit boards that aren't being used.
 ====================
-I need to look for working parts like rated fuses and capacitors from whatever circuit boards that aren't being used.
+还有那些固定规格的保险丝和电容器、只有从不用的主板上面找了。
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 103
 ====================
 One look is all I need to tell if a fuse can still be used, but the same can't be said for a capacitor.
 ====================
-One look is all I need to tell if a fuse can still be used, but the same can't be said for a capacitor.
+虽然保险丝一看就知道能不能用、但是电容则麻烦得多。
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 155
 ====================
 I can tell if it's split or if there are any parts leaking or bloated. However, some seem like they could work at first glance, but actually aren't usable.
 ====================
-I can tell if it's split or if there are any parts leaking or bloated. However, some seem like they could work at first glance, but actually aren't usable.
+虽然有些漏液或者爆浆的电容一看就明白、但是也有很多看着没有问题却不能用的。
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 104
 ====================
 In addition, I will have to search through the mountain of trash just to look for the replacement parts.
 ====================
-In addition, I will have to search through the mountain of trash just to look for the replacement parts.
+知道真相的那一天、小智受伤了、一直都在哭泣
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 64
 ====================
 And that's another terribly time consuming job in and of itself.
 ====================
-And that's another terribly time consuming job in and of itself.
+我一直在她身边…安慰着她
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 39
 ====================
 \"Ah... so this doesn't do it either.\"
 ====================
-\"Ah... so this doesn't do it either.\"
+没有克服。现在也一定还在悲伤中
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 52
 ====================
 As I grumbled, I became totally immersed in my work.
 ====================
-As I grumbled, I became totally immersed in my work.
+是吗…朋也是这么想的啊
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 13
 ====================
 \"Nii-chan!\"
 ====================
-\"Nii-chan!\"
+哥哥
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 36
 ====================
 Takafumi runs toward me frantically.
 ====================
-Takafumi runs toward me frantically.
+好了、就算还在悲伤、但是…
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 37
 ====================
 I can already tell what had happened.
 ====================
-I can already tell what had happened.
+还有我这个母亲在
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 73
 ====================
 \"I'm sorry! Nee-chan disappeared as soon as I let her out of my sight.\"
 ====================
-\"I'm sorry! Nee-chan disappeared as soon as I let her out of my sight.\"
+抱歉、只是一会儿不留神的工夫姐姐就不见了
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 22
 ====================
 \"What should we do?\"
 ====================
-\"What should we do?\"
+怎么办才好
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 32
 ====================
 \"She probably just went home.\"
 ====================
-\"She probably just went home.\"
+她大概回去了吧
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 21
 ====================
 \"Yeah... probably.\"
 ====================
-\"Yeah... probably.\"
+果然…是这样吗
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 93
 ====================
 \"Since we all know it's impossible for us to persuade her, she has no need to remain here.\"
 ====================
-\"Since we all know it's impossible for us to persuade her, she has no need to remain here.\"
+她已经知道没办法说服我们、所以已经没有必要留下来了
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 24
 ====================
 \"That's all there is.\"
 ====================
-\"That's all there is.\"
+也许吧
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 30
 ====================
 \"And... what are you doing?\"
 ====================
-\"And... what are you doing?\"
+话说回来…哥哥你在干什么
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 49
 ====================
 \"I've been asked to do some repair work again.\"
 ====================
-\"I've been asked to do some repair work again.\"
+能重新和母亲一起生活了
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 12
 ====================
 \"I see...\"
 ====================
-\"I see...\"
+是吗…
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 14
 ====================
 \"I'll help.\"
 ====================
-\"I'll help.\"
+我来帮你吧
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 78
 ====================
 \"It's not like there's anything I can do, even if I catch up with Nee-chan.\"
 ====================
-\"It's not like there's anything I can do, even if I catch up with Nee-chan.\"
+反正现在就算去追姐姐、也已经来不及了…
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 39
 ====================
 \"It's just the two of us here now...\"
 ====================
-\"It's just the two of us here now...\"
+就剩我们两个人了呢…
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 24
 ====================
 \"Thanks for the help.\"
 ====================
-\"Thanks for the help.\"
+嗯
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 19
 ====================
 \"It's all right.\"
 ====================
-\"It's all right.\"
+没关系
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 64
 ====================
 He answered brightly, as his shirt stuck to his body from sweat.
 ====================
-He answered brightly, as his shirt stuck to his body from sweat.
+小智的母亲会在她的眼前死去
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 72
 ====================
 And so, Takafumi and I devoted the rest of our time here on these tasks.
 ====================
-And so, Takafumi and I devoted the rest of our time here on these tasks.
+这种悲伤究竟会多么地令人心碎啊…
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 57
 ====================
 And finally, today is the last day of my summer vacation.
 ====================
-And finally, today is the last day of my summer vacation.
+一度失去、然后刚以为又回到身边的时候、却再度失去…
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 42
 ====================
 I wonder what this journey has been for...
 ====================
-I wonder what this journey has been for...
+就好像、神的恶作剧一样不是吗
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 82
 ====================
 At first, it was because I wanted to know the reason Tomo's mother let go of Tomo.
 ====================
-At first, it was because I wanted to know the reason Tomo's mother let go of Tomo.
+让她接连不断地遭受着这些不幸…太可怜了不是吗
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 16
 ====================
 I got my answer.
 ====================
-I got my answer.
+已经够了啊…够了…
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 30
 ====================
 However, I remain unsatisfied.
 ====================
-However, I remain unsatisfied.
+所以、朋也…
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 38
 ====================
 However, I can't do anything about it.
 ====================
-However, I can't do anything about it.
+这就是智代所找到的答案。
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 19
 ====================
 However, however...
 ====================
-However, however...
+但是、我…不是。
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 58
 ====================
 I continue in an endless loop, answering my own questions.
 ====================
-I continue in an endless loop, answering my own questions.
+认为即使这样、也应该让她们俩一起度过
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 63
 ====================
 By the time we arrive back in town, the sun is already setting.
 ====================
-By the time we arrive back in town, the sun is already setting.
+两个人的意见如此地分歧…
 ====================
 
 ====================
@@ -548,7 +548,7 @@ length 15
 ====================
 \"I'm hungry.\"
 ====================
-\"I'm hungry.\"
+肚子好饿呢
 ====================
 
 ====================
@@ -559,7 +559,7 @@ length 19
 ====================
 \"Yeah, me too...\"
 ====================
-\"Yeah, me too...\"
+可能吧…
 ====================
 
 ====================
@@ -570,7 +570,7 @@ length 33
 ====================
 \"So, what do we do about Tomo?\"
 ====================
-\"So, what do we do about Tomo?\"
+她说出了如此可怕的话语。
 ====================
 
 ====================
@@ -581,7 +581,7 @@ length 19
 ====================
 \"I don't know...\"
 ====================
-\"I don't know...\"
+确实是很有空没错…
 ====================
 
 ====================
@@ -592,7 +592,7 @@ length 30
 ====================
 I haven't decided on anything.
 ====================
-I haven't decided on anything.
+每天都无所事事的、确实不能否认。
 ====================
 
 ====================
@@ -603,7 +603,7 @@ length 59
 ====================
 As I bid farewell to Takafumi, I follow the path back home.
 ====================
-As I bid farewell to Takafumi, I follow the path back home.
+不是有句话叫『滴水之恩当涌泉相报』吗
 ====================
 
 ====================
@@ -614,7 +614,7 @@ length 113
 ====================
 Unlike the highlands, the evening wind feels a little sticky. Step by step, I keep walking as it breezes past me.
 ====================
-Unlike the highlands, the evening wind feels a little sticky. Step by step, I keep walking as it breezes past me.
+我们在和高地不同的、略微粘湿的夜风中一步步地走着。
 ====================
 
 ====================
@@ -625,7 +625,7 @@ length 66
 ====================
 At this moment, Kanako is probably making a huge fuss in the room.
 ====================
-At this moment, Kanako is probably making a huge fuss in the room.
+她拿来的都是些老式的电气产品。
 ====================
 
 ====================
@@ -636,7 +636,7 @@ length 67
 ====================
 It has been a while since I saw Tomo. I wonder if she's doing fine.
 ====================
-It has been a while since I saw Tomo. I wonder if she's doing fine.
+这个、还有这个、要是能修好就帮了大忙了呢
 ====================
 
 ====================
@@ -647,7 +647,7 @@ length 55
 ====================
 Suddenly, I remember what I said when I left the house.
 ====================
-Suddenly, I remember what I said when I left the house.
+『砰砰』地拍着桌子上的家电向我示意。
 ====================
 
 ====================
@@ -658,7 +658,7 @@ length 24
 ====================
 I didn't buy a souvenir.
 ====================
-I didn't buy a souvenir.
+那是看上去还挺新的搅拌机和录像机。
 ====================
 
 ====================
@@ -669,7 +669,7 @@ length 69
 ====================
 I have no other choice; I get some ice cream at a nearby supermarket.
 ====================
-I have no other choice; I get some ice cream at a nearby supermarket.
+按下开关、两个机器都完全没有反应。
 ====================
 
 ====================
@@ -680,7 +680,7 @@ length 63
 ====================
 With the end of the summer vacation, Kanako has gone back home.
 ====================
-With the end of the summer vacation, Kanako has gone back home.
+虽然还不知道能不能用、但是我决定一个一个检查过来。
 ====================
 
 ====================
@@ -691,7 +691,7 @@ length 92
 ====================
 Takafumi hardly ever showed either. All I heard is that he's starting track and field again.
 ====================
-Takafumi hardly ever showed either. All I heard is that he's starting track and field again.
+就算花了是在工作地方几倍的时间找到了故障的部分、但是接下来的事更成问题。
 ====================
 
 ====================
@@ -702,7 +702,7 @@ length 63
 ====================
 It's just past noon on Saturday; all I am doing is spacing out.
 ====================
-It's just past noon on Saturday; all I am doing is spacing out.
+还有那些固定规格的保险丝和电容器、只有从不用的主板上面找了。
 ====================
 
 ====================
@@ -713,7 +713,7 @@ length 62
 ====================
 Leaning against Tomoyo's back, Tomo is reading a picture book.
 ====================
-Leaning against Tomoyo's back, Tomo is reading a picture book.
+虽然保险丝一看就知道能不能用、但是电容则麻烦得多。
 ====================
 
 ====================
@@ -724,7 +724,7 @@ length 113
 ====================
 At the same time, I am using Tomoyo's lap as a pillow and watching TV. It is during then when I suddenly noticed.
 ====================
-At the same time, I am using Tomoyo's lap as a pillow and watching TV. It is during then when I suddenly noticed.
+虽然有些漏液或者爆浆的电容一看就明白、但是也有很多看着没有问题却不能用的。
 ====================
 
 ====================
@@ -735,7 +735,7 @@ length 40
 ====================
 \"...hey, don't you have school today?\"
 ====================
-\"...hey, don't you have school today?\"
+…我说、今天你怎么没去学校？
 ====================
 
 ====================
@@ -746,7 +746,7 @@ length 88
 ====================
 There should be morning classes on Saturday. Perhaps they changed it starting this year.
 ====================
-There should be morning classes on Saturday. Perhaps they changed it starting this year.
+只能再去垃圾山上找替换零件了。
 ====================
 
 ====================
@@ -757,7 +757,7 @@ length 14
 ====================
 \"It's fine.\"
 ====================
-\"It's fine.\"
+无所谓
 ====================
 
 ====================
@@ -768,7 +768,7 @@ length 32
 ====================
 \"I don't need school anymore.\"
 ====================
-\"I don't need school anymore.\"
+这也是一件非常费事的工作。
 ====================
 
 ====================
@@ -779,7 +779,7 @@ length 27
 ====================
 \"You aren't going to go?\"
 ====================
-\"You aren't going to go?\"
+…啊、这个也不行吗
 ====================
 
 ====================
@@ -790,7 +790,7 @@ length 36
 ====================
 \"...if you tell me to go, I will.\"
 ====================
-\"...if you tell me to go, I will.\"
+…如果朋也叫我去的话我会去的
 ====================
 
 ====================
@@ -801,7 +801,7 @@ length 29
 ====================
 Gently, she strokes my cheek.
 ====================
-Gently, she strokes my cheek.
+我一边嘟哝着、一边埋头在工作里…。
 ====================
 
 ====================
@@ -812,7 +812,7 @@ length 26
 ====================
 \"But it's your day off.\"
 ====================
-\"But it's your day off.\"
+你在干什么、朋也
 ====================
 
 ====================
@@ -823,7 +823,7 @@ length 47
 ====================
 \"It's okay for me to stay here with you, no?\"
 ====================
-\"It's okay for me to stay here with you, no?\"
+到了这里不用工作也可以的
 ====================
 
 ====================
@@ -834,7 +834,7 @@ length 22
 ====================
 She smiles innocently.
 ====================
-She smiles innocently.
+不是工作、而是自愿的
 ====================
 
 ====================
@@ -845,7 +845,7 @@ length 11
 ====================
 \"Yeah...\"
 ====================
-\"Yeah...\"
+…说的也是
 ====================
 
 ====================
@@ -856,7 +856,7 @@ length 13
 ====================
 I simply nod.
 ====================
-I simply nod.
+你就没有这样的想法吗
 ====================
 
 ====================
@@ -867,7 +867,7 @@ length 51
 ====================
 With that, Tomoyo gleefully lies down on top of me.
 ====================
-With that, Tomoyo gleefully lies down on top of me.
+当然有。好吧、我也来帮忙吧
 ====================
 
 ====================
@@ -878,7 +878,7 @@ length 45
 ====================
 Our lives started to change little by little.
 ====================
-Our lives started to change little by little.
+我们俩就这样、献身一般地在这里度过了一段时间。
 ====================
 
 ====================
@@ -889,7 +889,7 @@ length 31
 ====================
 Tomoyo stopped going to school.
 ====================
-Tomoyo stopped going to school.
+今天、我的暑假结束了。
 ====================
 
 ====================
@@ -900,7 +900,7 @@ length 68
 ====================
 The closet started to contain Tomoyo's casual clothes and underwear.
 ====================
-The closet started to contain Tomoyo's casual clothes and underwear.
+智代满脸笑容地向管理员挥手道别。
 ====================
 
 ====================
@@ -911,7 +911,7 @@ length 107
 ====================
 We got a new dryer, and the area where we hang clothes out to dry is now often occupied by female clothing.
 ====================
-We got a new dryer, and the area where we hang clothes out to dry is now often occupied by female clothing.
+在我看来、她好像是在夸耀自己取得的胜利一样。
 ====================
 
 ====================
@@ -922,7 +922,7 @@ length 114
 ====================
 A night's stay here became two, and at last, she started to say \"I'm heading out\" instead of \"I'm going home.\"
 ====================
-A night's stay here became two, and at last, she started to say \"I'm heading out\" instead of \"I'm going home.\"
+刚开始经常是住在这里一两天、但是不久回父母家时道别的话也从『我回去了』变成『我出去了』。
 ====================
 
 ====================
@@ -933,7 +933,7 @@ length 68
 ====================
 It's a kind of lifestyle that definitely cannot be called organized.
 ====================
-It's a kind of lifestyle that definitely cannot be called organized.
+到头来这次旅行究竟算怎么回事？
 ====================
 
 ====================
@@ -944,7 +944,7 @@ length 47
 ====================
 And just like inertia, it drags on endlessly...
 ====================
-And just like inertia, it drags on endlessly...
+最初只是想知道小智母亲放弃她的理由。
 ====================
 
 ====================
@@ -955,7 +955,7 @@ length 39
 ====================
 What we should have done that summer...
 ====================
-What we should have done that summer...
+这个目的是达到了。
 ====================
 
 ====================
@@ -966,7 +966,7 @@ length 43
 ====================
 ...has grown to be of little concern to me.
 ====================
-...has grown to be of little concern to me.
+但是、却依然无法接受。
 ====================
 
 ====================
@@ -977,7 +977,7 @@ length 75
 ====================
 After all, no matter how little, I have found some joy in my lifestyle now.
 ====================
-After all, no matter how little, I have found some joy in my lifestyle now.
+毕竟这样的生活对我来讲至少也是幸福的。
 ====================
 
 ====================
@@ -988,7 +988,7 @@ length 54
 ====================
 Which is why I think... I don't have to worry anymore.
 ====================
-Which is why I think... I don't have to worry anymore.
+但是、却依然无能为力。
 ====================
 
 ====================
@@ -999,7 +999,7 @@ length 60
 ====================
 The moonlight seeps in through the gap between the curtains.
 ====================
-The moonlight seeps in through the gap between the curtains.
+我毫无头绪地自问自答着。
 ====================
 
 ====================
@@ -1010,7 +1010,7 @@ length 62
 ====================
 It illuminates Tomoyo's white shoulders and outstretched arms.
 ====================
-It illuminates Tomoyo's white shoulders and outstretched arms.
+到了深夜、透过列车的车窗只能看见远处许多民家的灯光。
 ====================
 
 ====================
@@ -1021,7 +1021,7 @@ length 61
 ====================
 Her hand is gently stroking strands of glistening black hair.
 ====================
-Her hand is gently stroking strands of glistening black hair.
+在没有乘客的车厢内、回响着智代那开朗的声音。
 ====================
 
 ====================
@@ -1032,7 +1032,7 @@ length 54
 ====================
 All whilst its owner is breathing softly in her sleep.
 ====================
-All whilst its owner is breathing softly in her sleep.
+难得的暑假、带着小智一起去海边吧。
 ====================
 
 ====================
@@ -1043,7 +1043,7 @@ length 83
 ====================
 The pleasures that I savor now... as well as that contrasting peaceful spectacle...
 ====================
-The pleasures that I savor now... as well as that contrasting peaceful spectacle...
+还可以放焰火、一定会很有趣的。
 ====================
 
 ====================
@@ -1054,5 +1054,5 @@ length 58
 ====================
 Both are humble happiness that I seized with my own hands.
 ====================
-Both are humble happiness that I seized with my own hands.
+和小智一起、把快乐的事情全部做遍。
 ====================

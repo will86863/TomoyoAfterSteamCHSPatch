@@ -9,7 +9,7 @@ length 43
 ====================
 \"Did you want to ask me something again?\"
 ====================
-\"Did you want to ask me something again?\"
+又想要问什么？
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 61
 ====================
 \"For now, I know that Yawara-chan will do the programming.\"
 ====================
-\"For now, I know that Yawara-chan will do the programming.\"
+你也不下手稍微轻点啊
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 31
 ====================
 \"No, I don't think she will.\"
 ====================
-\"No, I don't think she will.\"
+一次又一次、一次又一次、承受着河南子的攻击…
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 38
 ====================
 \"You can create a game then, right?\"
 ====================
-\"You can create a game then, right?\"
+我应该早就不是新手了吧…？
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 18
 ====================
 \"Well, sort of.\"
 ====================
-\"Well, sort of.\"
+说着、又有精力了。
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 37
 ====================
 \"But it'd be impossible by myself.\"
 ====================
-\"But it'd be impossible by myself.\"
+现在不是逃避的时候。
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 75
 ====================
 \"Furthermore, at the very least, we need someone to handle the graphics.\"
 ====================
-\"Furthermore, at the very least, we need someone to handle the graphics.\"
+但是也没什么办法来对付对手的攻击。
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 30
 ====================
 \"Yawara-chan can't do that?\"
 ====================
-\"Yawara-chan can't do that?\"
+…我要继续…
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 31
 ====================
 \"A programmer can't do that.\"
 ====================
-\"A programmer can't do that.\"
+如果拉开距离的话只是被打。
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 125
 ====================
 \"In the past, you could have a single person handle multiple tasks, but you really need to distribute the work these days.\"
 ====================
-\"In the past, you could have a single person handle multiple tasks, but you really need to distribute the work these days.\"
+右眼睁开一条缝、看到对方果然也由于疲累而变得呼吸粗重了。
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 58
 ====================
 \"After all, hardware keeps getting better and better...\"
 ====================
-\"After all, hardware keeps getting better and better...\"
+背部就如同针刺一般地疼痛。对方的肘击吗。
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 54
 ====================
 Takafumi spouts line after line in a foreign language.
 ====================
-Takafumi spouts line after line in a foreign language.
+但是、已经没什么要紧了。
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 34
 ====================
 It's starting to make me sleepy...
 ====================
-It's starting to make me sleepy...
+我伸出双脚、靠着体重把他按倒在地。
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 15
 ====================
 \"HAHAHAHAHA!\"
 ====================
-\"HAHAHAHAHA!\"
+反击来了。
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 49
 ====================
 Whoa, Takafumi has turned into a foreigner again!
 ====================
-Whoa, Takafumi has turned into a foreigner again!
+正中面门、把我打得向后仰去。
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 47
 ====================
 \"Oh! I've finally come to the land of Japan!\"
 ====================
-\"Oh! I've finally come to the land of Japan!\"
+哇、怎么搞得这副半死不活的样子
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 52
 ====================
 \"I got into the country with a handmade passport!\"
 ====================
-\"I got into the country with a handmade passport!\"
+哎？姐姐的话、带小智出去了
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 18
 ====================
 Isn't that bad...?
 ====================
-Isn't that bad...?
+还让我告诉你她没事
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 23
 ====================
 \"Oh! You Sony? Sony?\"
 ====================
-\"Oh! You Sony? Sony?\"
+这倒是没有问
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 25
 ====================
 No, that's not a human...
 ====================
-No, that's not a human...
+难道我完全搞错了…？
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 30
 ====================
 \"You, Panasonic? Panasonic?\"
 ====================
-\"You, Panasonic? Panasonic?\"
+…你们都在干什么？
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 27
 ====================
 I'm not Panasonic either...
 ====================
-I'm not Panasonic either...
+不能不去。
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 36
 ====================
 \"Then Toto? You Toto-made, right?\"
 ====================
-\"Then Toto? You Toto-made, right?\"
+全身的疼痛让我恼火。
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 42
 ====================
 You're saying that on purpose, aren't you?
 ====================
-You're saying that on purpose, aren't you?
+干脆全部都麻痹了好了。
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 41
 ====================
 \"Oh! It was Toto, Toto-made! HAHAHAHA!\"
 ====================
-\"Oh! It was Toto, Toto-made! HAHAHAHA!\"
+好几次似乎都要昏过去了。
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 36
 ====================
 He's definitely doing it on purpose.
 ====================
-He's definitely doing it on purpose.
+再坚持一下吧。
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 44
 ====================
 \"Nii-chan, were you even listening to me?\"
 ====================
-\"Nii-chan, were you even listening to me?\"
+等到找到她们两个。
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 23
 ====================
 He finishes explaining.
 ====================
-He finishes explaining.
+看到智代了。
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 54
 ====================
 \"Yeah, I was. You said that on purpose, didn't you?\"
 ====================
-\"Yeah, I was. You said that on purpose, didn't you?\"
+总之ＯＳ变身后的奥特曼已经明白了
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 34
 ====================
 \"Why is he getting all angry...\"
 ====================
-\"Why is he getting all angry...\"
+不、这已经不对了
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 27
 ====================
 \"What, I look Toto-made?\"
 ====================
-\"What, I look Toto-made?\"
+那个ＯＳ是怎么做出来的？
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 52
 ====================
 \"No, I have no idea what you are talking about...\"
 ====================
-\"No, I have no idea what you are talking about...\"
+还需要说明吗？真没办法…
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 31
 ====================
 \"What, I look like a urinal?\"
 ====================
-\"What, I look like a urinal?\"
+我就那么像ＹＡＷＡＲＡ吗？
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 28
 ====================
 \"No, I never said that...\"
 ====================
-\"No, I never said that...\"
+不、一点也想不出哪里像了…
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 19
 ====================
 \"You, Toto-made?\"
 ====================
-\"You, Toto-made?\"
+ＹＯＵ是一郎ー？
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 11
 ====================
 \"No, no.\"
 ====================
-\"No, no.\"
+我是鹰文
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 67
 ====================
 \"How is it? Being spoken to like that makes you feel bad, right?\"
 ====================
-\"How is it? Being spoken to like that makes you feel bad, right?\"
+不管怎么说、坂上鹰文这个名字念起来还真是拗口啊？
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 34
 ====================
 \"What did I do to deserve this?\"
 ====================
-\"What did I do to deserve this?\"
+真拿你没办法…很长的、做好心理准备啊
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 19
 ====================
 \"You, Toto-made?\"
 ====================
-\"You, Toto-made?\"
+ＹＯＵ是武士？
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 17
 ====================
 \"You're wrong.\"
 ====================
-\"You're wrong.\"
+嘎哦
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 45
 ====================
 \"You reading some advertising guide again?\"
 ====================
-\"You reading some advertising guide again?\"
+你在看什么呢
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 18
 ====================
 \"Yeah, sort of.\"
 ====================
-\"Yeah, sort of.\"
+嗯？征集指南
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 17
 ====================
 \"Naming again?\"
 ====================
-\"Naming again?\"
+给我等等
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 94
 ====================
 \"No, this time I'm trying to do something more challenging and am writing a drama scenario.\"
 ====================
-\"No, this time I'm trying to do something more challenging and am writing a drama scenario.\"
+嗯、当然不可能真的爆炸的、只是设定如此而
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 37
 ====================
 \"That's too much of an increase...\"
 ====================
-\"That's too much of an increase...\"
+那么２号还会有人乘吗
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 38
 ====================
 \"I finished the first part already.\"
 ====================
-\"I finished the first part already.\"
+你还真顽固啊。这样可不行哦？
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 63
 ====================
 \"Say everyone, since we're all here, want to do it together?\"
 ====================
-\"Say everyone, since we're all here, want to do it together?\"
+征集金山的吉祥物金太和阿银的孩子的名字吗…
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 12
 ====================
 \"Do what?\"
 ====================
-\"Do what?\"
+给我等等
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 60
 ====================
 \"The drama, of course. I already have the roles assigned.\"
 ====================
-\"The drama, of course. I already have the roles assigned.\"
+征集从西澳大利亚运来的４头考拉的名字吗…
 ====================
 
 ====================
@@ -548,7 +548,7 @@ length 71
 ====================
 As she speaks, she distributes scraps of notebook paper to each person.
 ====================
-As she speaks, she distributes scraps of notebook paper to each person.
+算了、别在乎这种细枝末节了。反正谁都分不清这些考拉的
 ====================
 
 ====================
@@ -559,7 +559,7 @@ length 42
 ====================
 The title is \"The Great Detective Tomo\".
 ====================
-The title is \"The Great Detective Tomo\".
+征集能让人感觉放松的新温泉的名字吗…
 ====================
 
 ====================
@@ -570,7 +570,7 @@ length 280
 ====================
 \"This is the story about the attractive detective Tomo, who has been turned into a child by medicine created by the Organization of Darkness. Despite that, she retains her intelligence and puts adults to shame as a mystery detective by solving one difficult case after another.\"
 ====================
-\"This is the story about the attractive detective Tomo, who has been turned into a child by medicine created by the Organization of Darkness. Despite that, she retains her intelligence and puts adults to shame as a mystery detective by solving one difficult case after another.\"
+灼热地狱
 ====================
 
 ====================
@@ -581,7 +581,7 @@ length 35
 ====================
 \"I've heard that story before...\"
 ====================
-\"I've heard that story before...\"
+啊、随她去吧。我不会阻止你了
 ====================
 
 ====================
@@ -592,7 +592,7 @@ length 186
 ====================
 \"Tomo will be the protagonist, a detective who's been turned into a child. And you'll be an elite detective, Takafumi'll be an elite detecteive, and Senpai will be an elite detective.\"
 ====================
-\"Tomo will be the protagonist, a detective who's been turned into a child. And you'll be an elite detective, Takafumi'll be an elite detecteive, and Senpai will be an elite detective.\"
+下一个是…
 ====================
 
 ====================
@@ -603,7 +603,7 @@ length 37
 ====================
 \"Why do we all have the same role?\"
 ====================
-\"Why do we all have the same role?\"
+又在看征集指南吗？
 ====================
 
 ====================
@@ -614,7 +614,7 @@ length 108
 ====================
 \"You don't get it, do you? Being able to outwit all the other elite detectives is what makes her special.\"
 ====================
-\"You don't get it, do you? Being able to outwit all the other elite detectives is what makes her special.\"
+不、这次挑战的是难度又有提升的标语和宣传口号征集
 ====================
 
 ====================
@@ -625,7 +625,7 @@ length 33
 ====================
 \"Oh, so that's how it works...\"
 ====================
-\"Oh, so that's how it works...\"
+我都不知道怎么说好了
 ====================
 
 ====================
@@ -636,7 +636,7 @@ length 60
 ====================
 \"Ok, let's start from when we arrive at the murder scene!\"
 ====================
-\"Ok, let's start from when we arrive at the murder scene!\"
+没错没错、从富士山的角度、对人们所说的
 ====================
 
 ====================
@@ -647,7 +647,7 @@ length 116
 ====================
 \"Inspector, it seems that all the windows and doors inside were locked from the inside when the victim was found.\"
 ====================
-\"Inspector, it seems that all the windows and doors inside were locked from the inside when the victim was found.\"
+虽然我不明白这个哪里好了、不过你加油吧…
 ====================
 
 ====================
@@ -658,7 +658,7 @@ length 42
 ====================
 \"What? In other words, it means that...\"
 ====================
-\"What? In other words, it means that...\"
+还是别管她了吧…。
 ====================
 
 ====================
@@ -669,7 +669,7 @@ length 73
 ====================
 \"What does it mean? I have no clue at all. What are you talking about?\"
 ====================
-\"What does it mean? I have no clue at all. What are you talking about?\"
+什么意思？我一点都不明白　你是在说什么？
 ====================
 
 ====================
@@ -680,7 +680,7 @@ length 41
 ====================
 \"Inspector, we've got new information.\"
 ====================
-\"Inspector, we've got new information.\"
+警长、又有新的情报了
 ====================
 
 ====================
@@ -691,7 +691,7 @@ length 95
 ====================
 \"It seems that two days ago, another member of the club the victim was in also went missing.\"
 ====================
-\"It seems that two days ago, another member of the club the victim was in also went missing.\"
+受害者所属小组中的一人、两天前就失踪了
 ====================
 
 ====================
@@ -702,7 +702,7 @@ length 9
 ====================
 \"What?\"
 ====================
-\"What?\"
+什么？
 ====================
 
 ====================
@@ -713,7 +713,7 @@ length 39
 ====================
 \"Who are you? I have no clue at all.\"
 ====================
-\"Who are you? I have no clue at all.\"
+你是谁？光是这一点我就不明白
 ====================
 
 ====================
@@ -724,7 +724,7 @@ length 21
 ====================
 \"Hold on a minute.\"
 ====================
-\"Hold on a minute.\"
+给我等等
 ====================
 
 ====================
@@ -735,7 +735,7 @@ length 37
 ====================
 \"What is it? It was going so well.\"
 ====================
-\"What is it? It was going so well.\"
+干什么嘛、正演到精彩的地方
 ====================
 
 ====================
@@ -746,7 +746,7 @@ length 41
 ====================
 \"Why is the elite detective so stupid?\"
 ====================
-\"Why is the elite detective so stupid?\"
+精英刑警、也实在是太弱智了吧？
 ====================
 
 ====================
@@ -757,7 +757,7 @@ length 78
 ====================
 \"I mean, she's dumber even than your average person, let alone a detective.\"
 ====================
-\"I mean, she's dumber even than your average person, let alone a detective.\"
+而且这种弱智、别说是做刑警了、就算是对于普通人来说也太夸张了啊
 ====================
 
 ====================
@@ -768,7 +768,7 @@ length 93
 ====================
 \"It'll make the play even more exciting, so we're going with it. You don't seem to get it.\"
 ====================
-\"It'll make the play even more exciting, so we're going with it. You don't seem to get it.\"
+这样都是为了让演出更加热烈、观众们会原谅的啦、你真是不开窍啊ー
 ====================
 
 ====================
@@ -779,7 +779,7 @@ length 13
 ====================
 \"Really...\"
 ====================
-\"Really...\"
+是这样吗…
 ====================
 
 ====================
@@ -790,7 +790,7 @@ length 92
 ====================
 \"They need to do some investigating. Otherwise it won't feel like they've been outwitted.\"
 ====================
-\"They need to do some investigating. Otherwise it won't feel like they've been outwitted.\"
+至少要让他们好好搜查一下吧。不然的话怎么体现得出小智的优越啊
 ====================
 
 ====================
@@ -801,7 +801,7 @@ length 51
 ====================
 \"Hm, well then, how about something like this...\"
 ====================
-\"Hm, well then, how about something like this...\"
+嗯、这样的话、就这么改吧…
 ====================
 
 ====================
@@ -812,7 +812,7 @@ length 73
 ====================
 She takes the ballpoint pen in her hand and quickly scribbles some notes.
 ====================
-She takes the ballpoint pen in her hand and quickly scribbles some notes.
+她拿出了笔、然后在笔记本上奋笔疾书了好一会儿。
 ====================
 
 ====================
@@ -823,7 +823,7 @@ length 43
 ====================
 \"Ok, finished. I'm counting on everyone.\"
 ====================
-\"Ok, finished. I'm counting on everyone.\"
+好了、完成。拜托各位了
 ====================
 
 ====================
@@ -834,7 +834,7 @@ length 61
 ====================
 \"Ok, let's start from when you arrive at the murder scene!\"
 ====================
-\"Ok, let's start from when you arrive at the murder scene!\"
+那么、从进入杀人现场的那一幕、ＳＴＡＲＴ！
 ====================
 
 ====================
@@ -845,7 +845,7 @@ length 40
 ====================
 \"A murder in a closed room, eh... Hm.\"
 ====================
-\"A murder in a closed room, eh... Hm.\"
+密室杀人吗…嗯
 ====================
 
 ====================
@@ -856,7 +856,7 @@ length 35
 ====================
 \"Inspector, please look at this.\"
 ====================
-\"Inspector, please look at this.\"
+警长、请看这里
 ====================
 
 ====================
@@ -867,7 +867,7 @@ length 67
 ====================
 \"Even when the front door is locked, there is still a small gap.\"
 ====================
-\"Even when the front door is locked, there is still a small gap.\"
+关于这扇大门、就算是上了锁、但是门框上还是有一个小小的间隙
 ====================
 
 ====================
@@ -878,7 +878,7 @@ length 37
 ====================
 \"What? In other words, it means...\"
 ====================
-\"What? In other words, it means...\"
+什么？那也就是说…
 ====================
 
 ====================
@@ -889,7 +889,7 @@ length 39
 ====================
 \"It means the criminal is very thin.\"
 ====================
-\"It means the criminal is very thin.\"
+犯人是一个薄薄一片的家伙啦
 ====================
 
 ====================
@@ -900,7 +900,7 @@ length 60
 ====================
 \"Yes, no doubt about it. We believe the criminal is thin.\"
 ====================
-\"Yes, no doubt about it. We believe the criminal is thin.\"
+对、不会有错。犯人就是一个薄薄一片的家伙
 ====================
 
 ====================
@@ -911,7 +911,7 @@ length 45
 ====================
 \"What is it? Did you figure something out?\"
 ====================
-\"What is it? Did you figure something out?\"
+怎么了、知道什么了吗
 ====================
 
 ====================
@@ -922,7 +922,7 @@ length 57
 ====================
 \"We know a defining feature of the culprit: he's thin.\"
 ====================
-\"We know a defining feature of the culprit: he's thin.\"
+犯人的特征就是薄薄一片
 ====================
 
 ====================
@@ -933,7 +933,7 @@ length 75
 ====================
 \"Expand the investigation to every thin person! Leave no stone unturned!\"
 ====================
-\"Expand the investigation to every thin person! Leave no stone unturned!\"
+去张贴通缉令、找出薄薄一片的家伙来！任何一个薄薄一片的家伙都别放过！
 ====================
 
 ====================
@@ -944,7 +944,7 @@ length 21
 ====================
 \"Hold on a minute.\"
 ====================
-\"Hold on a minute.\"
+给我等等
 ====================
 
 ====================
@@ -955,7 +955,7 @@ length 37
 ====================
 \"What is it? It was going so well.\"
 ====================
-\"What is it? It was going so well.\"
+干什么吗、正演到精彩的地方
 ====================
 
 ====================
@@ -966,7 +966,7 @@ length 60
 ====================
 \"Your first script was stupid, but this one is no better.\"
 ====================
-\"Your first script was stupid, but this one is no better.\"
+虽然刚才的已经很愚蠢了、但是这个也很愚蠢不是吗
 ====================
 
 ====================
@@ -977,7 +977,7 @@ length 62
 ====================
 \"You do nothing but complain. Why don't you give it a try?!\"
 ====================
-\"You do nothing but complain. Why don't you give it a try?!\"
+怎么尽给我提些意见啊、你来写写看！
 ====================
 
 ====================
@@ -988,7 +988,7 @@ length 51
 ====================
 \"No, I'm not looking to become a scriptwriter...\"
 ====================
-\"No, I'm not looking to become a scriptwriter...\"
+不用了、我又不是以写剧本为目标的…
 ====================
 
 ====================
@@ -999,7 +999,7 @@ length 103
 ====================
 \"Also, if it's a detective story, you have to have some mystery in it. The last one was too obvious.\"
 ====================
-\"Also, if it's a detective story, you have to have some mystery in it. The last one was too obvious.\"
+还有、就是推理方面、让迷藏得更加深一点吧。刚才的那个提示真是太明显了
 ====================
 
 ====================
@@ -1010,7 +1010,7 @@ length 51
 ====================
 \"Hm, well then, how about something like this...\"
 ====================
-\"Hm, well then, how about something like this...\"
+嗯、那么、就这么改吧…
 ====================
 
 ====================
@@ -1021,7 +1021,7 @@ length 73
 ====================
 She takes the ballpoint pen in her hand and quickly scribbles some notes.
 ====================
-She takes the ballpoint pen in her hand and quickly scribbles some notes.
+她拿出了笔、然后在笔记本上又奋笔疾书了好一会儿。
 ====================
 
 ====================
@@ -1032,7 +1032,7 @@ length 43
 ====================
 \"Ok, finished. I'm counting on everyone.\"
 ====================
-\"Ok, finished. I'm counting on everyone.\"
+好、完成了。拜托大家了
 ====================
 
 ====================
@@ -1043,7 +1043,7 @@ length 60
 ====================
 \"Ok, let's start from when we arrive at the murder scene!\"
 ====================
-\"Ok, let's start from when we arrive at the murder scene!\"
+那么、从进入杀人现场的那一幕、ＳＴＡＲＴ！
 ====================
 
 ====================
@@ -1054,7 +1054,7 @@ length 116
 ====================
 \"This is the crime scene, eh... Oh... this is rather bad... I feel like puking... Or maybe it's morning sickness.\"
 ====================
-\"This is the crime scene, eh... Oh... this is rather bad... I feel like puking... Or maybe it's morning sickness.\"
+这里就是杀人现场吗…呜…这种惨不忍睹的样子…真让我想吐…或许是妊娠反应也说不定
 ====================
 
 ====================
@@ -1065,7 +1065,7 @@ length 20
 ====================
 \"Congratulations.\"
 ====================
-\"Congratulations.\"
+那真是恭喜了
 ====================
 
 ====================
@@ -1076,7 +1076,7 @@ length 74
 ====================
 \"What an imprudent person you are. Okay, let's start the investigation.\"
 ====================
-\"What an imprudent person you are. Okay, let's start the investigation.\"
+你还真是不谨慎啊。好了、开始搜查吧
 ====================
 
 ====================
@@ -1087,7 +1087,7 @@ length 41
 ====================
 \"Inspector, this is the murder weapon.\"
 ====================
-\"Inspector, this is the murder weapon.\"
+警长、凶器在这里
 ====================
 
 ====================
@@ -1098,7 +1098,7 @@ length 59
 ====================
 \"A Japanese sword, huh? How mysterious. Let me see it...\"
 ====================
-\"A Japanese sword, huh? How mysterious. Let me see it...\"
+用日本刀还真是诡异啊…让我看看
 ====================
 
 ====================
@@ -1109,7 +1109,7 @@ length 83
 ====================
 \"Hm, it fits nicely in my hands. Let me grab it and get rid of the fingerprints.\"
 ====================
-\"Hm, it fits nicely in my hands. Let me grab it and get rid of the fingerprints.\"
+哼、好好地握握看。手感不错。这样握着、让指纹消失吧
 ====================
 
 ====================
@@ -1120,7 +1120,7 @@ length 49
 ====================
 \"Don't do that! You'll ruin our investigation!\"
 ====================
-\"Don't do that! You'll ruin our investigation!\"
+别这样做啊、否则搜查会变得很困难不是吗！
 ====================
 
 ====================
@@ -1131,7 +1131,7 @@ length 87
 ====================
 \"Isn't this interesting in its own way? Umph. Don't get in my way, or I'll kill you!\"
 ====================
-\"Isn't this interesting in its own way? Umph. Don't get in my way, or I'll kill you!\"
+这样才有趣不是吗、来、别妨碍我、我要砍死你！
 ====================
 
 ====================
@@ -1142,7 +1142,7 @@ length 14
 ====================
 \"Gya------!\"
 ====================
-\"Gya------!\"
+呀ーーーーーー！
 ====================
 
 ====================
@@ -1153,7 +1153,7 @@ length 102
 ====================
 \"Ah, look at that. I really killed him! I only wanted to grab the sword! I didn't mean to kill him!\"
 ====================
-\"Ah, look at that. I really killed him! I only wanted to grab the sword! I didn't mean to kill him!\"
+啊、怎么回事、真的砍下去了！我只是想要握一下而已！并没有想杀你啊！
 ====================
 
 ====================
@@ -1164,7 +1164,7 @@ length 48
 ====================
 \"But while I'm at it, you should die too----!\"
 ====================
-\"But while I'm at it, you should die too----!\"
+那接着、你也要死ーーーー！
 ====================
 
 ====================
@@ -1175,7 +1175,7 @@ length 21
 ====================
 \"Hold on a minute.\"
 ====================
-\"Hold on a minute.\"
+给我等等
 ====================
 
 ====================
@@ -1186,7 +1186,7 @@ length 37
 ====================
 \"What is it? It was going so well.\"
 ====================
-\"What is it? It was going so well.\"
+干什么嘛、正演到精彩的地方
 ====================
 
 ====================
@@ -1197,7 +1197,7 @@ length 43
 ====================
 \"The mystery is what this story even is.\"
 ====================
-\"The mystery is what this story even is.\"
+这谜实在是太混乱了、我都摸不着头绪了
 ====================
 
 ====================
@@ -1208,7 +1208,7 @@ length 64
 ====================
 \"You do nothing but complain. Do you want to try doing this?!\"
 ====================
-\"You do nothing but complain. Do you want to try doing this?!\"
+怎么尽给我提些意见啊、你来写写看！
 ====================
 
 ====================
@@ -1219,7 +1219,7 @@ length 51
 ====================
 \"No, I'm not looking to become a scriptwriter...\"
 ====================
-\"No, I'm not looking to become a scriptwriter...\"
+不用了、我又不是以写剧本为目标的…
 ====================
 
 ====================
@@ -1230,7 +1230,7 @@ length 68
 ====================
 \"Since all you do is complain, I'm not going to show you anymore.\"
 ====================
-\"Since all you do is complain, I'm not going to show you anymore.\"
+一直给我提意见、我才不给你看了呢
 ====================
 
 ====================
@@ -1241,5 +1241,5 @@ length 17
 ====================
 \"Is that so...\"
 ====================
-\"Is that so...\"
+啊、是吗…
 ====================

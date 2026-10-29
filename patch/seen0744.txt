@@ -20,7 +20,7 @@ length 15
 ====================
 \"I'm home...\"
 ====================
-\"I'm home...\"
+我回来了…
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 17
 ====================
 There's no reply.
 ====================
-There's no reply.
+没有人回答。
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 20
 ====================
 There's no one here.
 ====================
-There's no one here.
+家里已经没有其他人了。
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 91
 ====================
 I was thinking it's cramped recently, but now that no one's here, it feels really spacious.
 ====================
-I was thinking it's cramped recently, but now that no one's here, it feels really spacious.
+最近还觉得狭窄的房间、现在反而觉得格外的空荡荡。
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 92
 ====================
 Shortly after Takafumi stopped coming, Kanako disappeared too. Without so much as a goodbye.
 ====================
-Shortly after Takafumi stopped coming, Kanako disappeared too. Without so much as a goodbye.
+自从鹰文不再来这里之后不久、河南子也离开了。连一句告别的话语都没有。
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 43
 ====================
 I really want to hear her abusive language.
 ====================
-I really want to hear her abusive language.
+我很想再听到那个令人讨厌的声音。
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 38
 ====================
 I fondly remember the boisterous days.
 ====================
-I fondly remember the boisterous days.
+我很怀念那吵闹的每一天。
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 94
 ====================
 After wallowing in sentimentality for a while, I open the fridge and grab the cold barley tea.
 ====================
-After wallowing in sentimentality for a while, I open the fridge and grab the cold barley tea.
+我一时间沉浸于这种感伤之中、然后打开冰箱想取出冰冷的大麦茶。
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 42
 ====================
 But there isn't any pre-made tea in there.
 ====================
-But there isn't any pre-made tea in there.
+但是、冰箱里没有大麦茶。
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 40
 ====================
 \"That's rare... Tomoyo never forgets.\"
 ====================
-\"That's rare... Tomoyo never forgets.\"
+真少见…智代忘记了吗
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 70
 ====================
 For the time being, I put water in the teapot and put it on the stove.
 ====================
-For the time being, I put water in the teapot and put it on the stove.
+于是我把水倒进水壶、然后放在煤气灶上烧水。
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 67
 ====================
 An intense baseball game in its final innings is playing on the TV.
 ====================
-An intense baseball game in its final innings is playing on the TV.
+电视上正在转播棒球比赛白热化的最终局。
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 44
 ====================
 But most of it doesn't make it past my ears.
 ====================
-But most of it doesn't make it past my ears.
+但是我一点都看不进去。
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 31
 ====================
 The clock says it's after 9 PM.
 ====================
-The clock says it's after 9 PM.
+钟表的时针已经划过了九点。
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 37
 ====================
 I'm beyond worried and am scared now.
 ====================
-I'm beyond worried and am scared now.
+我的担心变成了害怕。
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 33
 ====================
 Was she in some kind of accident?
 ====================
-Was she in some kind of accident?
+不会是出了什么事了吧。
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 40
 ====================
 Or could there have been a kidnapping...
 ====================
-Or could there have been a kidnapping...
+难道被绑架了…
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 25
 ====================
 The phone suddenly rings.
 ====================
-The phone suddenly rings.
+电话突然响了。
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 9
 ====================
 \"Uwah.\"
 ====================
-\"Uwah.\"
+哇
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 13
 ====================
 It scared me.
 ====================
-It scared me.
+我吓了一跳。
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 52
 ====================
 After calming down a little, I pick up the receiver.
 ====================
-After calming down a little, I pick up the receiver.
+我让心情稍微平静了下、拿起话筒。
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 27
 ====================
 \"Hello, this is Okazaki.\"
 ====================
-\"Hello, this is Okazaki.\"
+喂、这里是冈崎家
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 17
 ====================
 \"Ah, Nii-chan?\"
 ====================
-\"Ah, Nii-chan?\"
+『啊、是哥哥吗？』
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 64
 ====================
 It's Takafumi. I feel like I haven't heard his voice in a while.
 ====================
-It's Takafumi. I feel like I haven't heard his voice in a while.
+是鹰文啊。我发觉好久没有听到他的声音了。
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 32
 ====================
 \"...what? It's you, Takafumi.\"
 ====================
-\"...what? It's you, Takafumi.\"
+…什么啊、是鹰文啊
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 63
 ====================
 \"'What?' That's pretty cruel, considering it's been a while.\"
 ====================
-\"'What?' That's pretty cruel, considering it's been a while.\"
+『好久不见了、你这么说好过分啊』
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 38
 ====================
 \"Well, Tomo and Tomoyo aren't here.\"
 ====================
-\"Well, Tomo and Tomoyo aren't here.\"
+不是、因为小智和智代都还没回来、所以我以为是她们
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 37
 ====================
 \"They're here. They're doing fine.\"
 ====================
-\"They're here. They're doing fine.\"
+『她们在我家。总之还算有精神』
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 39
 ====================
 \"Ah I see. Then I can relax... wait.\"
 ====================
-\"Ah I see. Then I can relax... wait.\"
+这样啊。那么我就放心……等一下
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 22
 ====================
 Something isn't right.
 ====================
-Something isn't right.
+我觉得有些不对劲。
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 58
 ====================
 Not Tomoyo, but rather the fact that \"Tomo\" is \"here.\"
 ====================
-Not Tomoyo, but rather the fact that \"Tomo\" is \"here.\"
+不止是智代、连『小智』也在『我家』、那么就是说。
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 35
 ====================
 \"Yeah, it's just as you imagine.\"
 ====================
-\"Yeah, it's just as you imagine.\"
+『嗯、的确如哥哥所想的一样』
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 18
 ====================
 \"Mom found out.\"
 ====================
-\"Mom found out.\"
+『被母亲发现了』
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 44
 ====================
 \"It's become a real big deal at my house.\"
 ====================
-\"It's become a real big deal at my house.\"
+『真是的、我们家现在变得一团糟』
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 38
 ====================
 Takafumi's tone is the same as always.
 ====================
-Takafumi's tone is the same as always.
+鹰文的口气还是和平时没什么区别。
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 44
 ====================
 Has he given up? Or maybe gotten used to it?
 ====================
-Has he given up? Or maybe gotten used to it?
+他已经放弃了吗、还是说已经习惯了。
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 11
 ====================
 \"...how?\"
 ====================
-\"...how?\"
+…怎么会变成这样？
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 67
 ====================
 \"Heh, sorry. It's partially because I was being overly stubborn.\"
 ====================
-\"Heh, sorry. It's partially because I was being overly stubborn.\"
+『嗯、对不起。因为我太倔强了也是原因之一』
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 66
 ====================
 \"Do you remember when you came to my house to try and catch me?\"
 ====================
-\"Do you remember when you came to my house to try and catch me?\"
+『最近哥哥为了找我不是来过我家吗』
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 94
 ====================
 \"At that time, it seems my mom happened to see Nee-chan and Tomo when they came to get you.\"
 ====================
-\"At that time, it seems my mom happened to see Nee-chan and Tomo when they came to get you.\"
+『而姐姐带着小智来接哥哥、然后好像被看到了』
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 94
 ====================
 \"She had a terrifying expression and started pressuring us, asking 'Tomoya-san has a kid?!'\"
 ====================
-\"She had a terrifying expression and started pressuring us, asking 'Tomoya-san has a kid?!'\"
+『母さん、すごい顔して『母亲露出可怕的表情责问『朋也他已经有孩子了吗』
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 62
 ====================
 \"I played dumb, but eventually she found out from Nee-chan.\"
 ====================
-\"I played dumb, but eventually she found out from Nee-chan.\"
+『我装糊涂混了过去、不过姐姐那边穿帮了』
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 34
 ====================
 \"Nee-chan is so bad at lying...\"
 ====================
-\"Nee-chan is so bad at lying...\"
+『因为姐姐不擅长说谎…』
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 36
 ====================
 I don't understand. I don't want to.
 ====================
-I don't understand. I don't want to.
+我不明白。也不想去明白。
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 75
 ====================
 After I force myself to swallow his words, I'm struck by tremendous regret.
 ====================
-After I force myself to swallow his words, I'm struck by tremendous regret.
+对于自己当初逞强做出的承诺感到无比后悔。
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 44
 ====================
 This originated from my thoughtless actions.
 ====================
-This originated from my thoughtless actions.
+一切都是因为我不加思考行动的结果。
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 34
 ====================
 \"Ah, it's not your fault, okay?\"
 ====================
-\"Ah, it's not your fault, okay?\"
+『不过这不是哥哥的错啊？』
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 50
 ====================
 \"It was an impossible situation from the start.\"
 ====================
-\"It was an impossible situation from the start.\"
+『因为本来就是不合情理的事情』
 ====================
 
 ====================
@@ -548,7 +548,7 @@ length 64
 ====================
 \"Sorry for getting you wrapped up in our family's disputes...\"
 ====================
-\"Sorry for getting you wrapped up in our family's disputes...\"
+『对不起、把哥哥卷进我家的家庭纠纷了…』
 ====================
 
 ====================
@@ -559,7 +559,7 @@ length 42
 ====================
 That is something you'd say to a stranger.
 ====================
-That is something you'd say to a stranger.
+鹰文用仿佛是外人的语气说着这些话。
 ====================
 
 ====================
@@ -570,7 +570,7 @@ length 32
 ====================
 \"...hello? Are you listening?\"
 ====================
-\"...hello? Are you listening?\"
+『…喂？在听吗？』
 ====================
 
 ====================
@@ -581,7 +581,7 @@ length 28
 ====================
 \"...yeah, I can hear you.\"
 ====================
-\"...yeah, I can hear you.\"
+…啊、听着呢
 ====================
 
 ====================
@@ -592,7 +592,7 @@ length 39
 ====================
 \"I'm in the middle of hating myself.\"
 ====================
-\"I'm in the middle of hating myself.\"
+觉得有些讨厌自己了
 ====================
 
 ====================
@@ -603,7 +603,7 @@ length 37
 ====================
 \"Stop thinking you're responsible.\"
 ====================
-\"Stop thinking you're responsible.\"
+『不要认为那是你的责任』
 ====================
 
 ====================
@@ -614,7 +614,7 @@ length 42
 ====================
 \"We're okay right now. I'll call again.\"
 ====================
-\"We're okay right now. I'll call again.\"
+『现在已经没事了。我以后再打电话给你』
 ====================
 
 ====================
@@ -625,7 +625,7 @@ length 12
 ====================
 \"...yeah.\"
 ====================
-\"...yeah.\"
+…嗯
 ====================
 
 ====================
@@ -636,7 +636,7 @@ length 46
 ====================
 I put the receiver back and fall to the floor.
 ====================
-I put the receiver back and fall to the floor.
+我放下话筒、感觉天旋地转。
 ====================
 
 ====================
@@ -647,7 +647,7 @@ length 37
 ====================
 I don't want to think about anything.
 ====================
-I don't want to think about anything.
+我不想去考虑任何东西。
 ====================
 
 ====================
@@ -658,7 +658,7 @@ length 37
 ====================
 I just want to be buried where I lie.
 ====================
-I just want to be buried where I lie.
+只想就这样消沉下去、然后被掩埋于其中。
 ====================
 
 ====================
@@ -669,7 +669,7 @@ length 44
 ====================
 Unable to sleep, I roll around in the futon.
 ====================
-Unable to sleep, I roll around in the futon.
+我睡不着、在被子里翻来覆去。
 ====================
 
 ====================
@@ -680,7 +680,7 @@ length 90
 ====================
 I hear the rattle of something unlocking, followed by the sound of the front door opening.
 ====================
-I hear the rattle of something unlocking, followed by the sound of the front door opening.
+伴随着轻轻的『喀嚓』一声、古旧的前门被打开了。
 ====================
 
 ====================
@@ -691,7 +691,7 @@ length 25
 ====================
 \"...were you sleeping?\"
 ====================
-\"...were you sleeping?\"
+…睡着了吗？
 ====================
 
 ====================
@@ -702,7 +702,7 @@ length 14
 ====================
 \"I'm awake.\"
 ====================
-\"I'm awake.\"
+醒着
 ====================
 
 ====================
@@ -713,7 +713,7 @@ length 13
 ====================
 \"...I see.\"
 ====================
-\"...I see.\"
+…嗯
 ====================
 
 ====================
@@ -724,7 +724,7 @@ length 70
 ====================
 Tomoyo takes off her shoes, sits next to the futon, and takes my hand.
 ====================
-Tomoyo takes off her shoes, sits next to the futon, and takes my hand.
+智代脱下鞋、坐在被子旁边、握住了我的手。
 ====================
 
 ====================
@@ -735,7 +735,7 @@ length 36
 ====================
 \"Are you okay without the lights?\"
 ====================
-\"Are you okay without the lights?\"
+不用开灯吗？
 ====================
 
 ====================
@@ -746,7 +746,7 @@ length 23
 ====================
 \"I'm fine for now...\"
 ====================
-\"I'm fine for now...\"
+就这样好了…
 ====================
 
 ====================
@@ -757,7 +757,7 @@ length 26
 ====================
 ...there's a long silence.
 ====================
-...there's a long silence.
+…一段长时间的沉默。
 ====================
 
 ====================
@@ -768,7 +768,7 @@ length 64
 ====================
 I consider apologizing any number of times. Any dozens of times.
 ====================
-I consider apologizing any number of times. Any dozens of times.
+我多次想开口道歉。
 ====================
 
 ====================
@@ -779,7 +779,7 @@ length 34
 ====================
 But nothing comes out of my mouth.
 ====================
-But nothing comes out of my mouth.
+但是我什么都没说。
 ====================
 
 ====================
@@ -790,7 +790,7 @@ length 76
 ====================
 My deep regret and anger at myself laugh scornfully at my shallow apologies.
 ====================
-My deep regret and anger at myself laugh scornfully at my shallow apologies.
+深深的后悔以及对自己的气愤一起嘲笑着我肤浅的歉意。
 ====================
 
 ====================
@@ -801,7 +801,7 @@ length 13
 ====================
 \"...sorry.\"
 ====================
-\"...sorry.\"
+…对不起
 ====================
 
 ====================
@@ -812,7 +812,7 @@ length 28
 ====================
 \"I couldn't... hide Tomo.\"
 ====================
-\"I couldn't... hide Tomo.\"
+小智的事情…我没有隐瞒住
 ====================
 
 ====================
@@ -823,7 +823,7 @@ length 12
 ====================
 Please stop.
 ====================
-Please stop.
+不要这样。
 ====================
 
 ====================
@@ -834,7 +834,7 @@ length 31
 ====================
 That's what I should be saying.
 ====================
-That's what I should be saying.
+这应该是我说的。
 ====================
 
 ====================
@@ -845,7 +845,7 @@ length 51
 ====================
 \"At first... she thought that Tomo was your kid.\"
 ====================
-\"At first... she thought that Tomo was your kid.\"
+一开始…他们认为小智是你的孩子
 ====================
 
 ====================
@@ -856,7 +856,7 @@ length 57
 ====================
 \"I endured it without telling her the circumstances...\"
 ====================
-\"I endured it without telling her the circumstances...\"
+于是我为了不暴露事实而忍着什么都没说…
 ====================
 
 ====================
@@ -867,7 +867,7 @@ length 46
 ====================
 \"But my mother started speaking ill of you.\"
 ====================
-\"But my mother started speaking ill of you.\"
+但是母亲逐渐把矛头转向你
 ====================
 
 ====================
@@ -878,7 +878,7 @@ length 54
 ====================
 \"I couldn't bear it anymore, and spoke back to her.\"
 ====================
-\"I couldn't bear it anymore, and spoke back to her.\"
+我实在忍耐不下去了、于是开口反驳
 ====================
 
 ====================
@@ -889,7 +889,7 @@ length 55
 ====================
 \"I told her that Tomoya was protecting our family...\"
 ====================
-\"I told her that Tomoya was protecting our family...\"
+我说、朋也是为了保护我们这个家…
 ====================
 
 ====================
@@ -900,7 +900,7 @@ length 47
 ====================
 \"So that our family could live peacefully...\"
 ====================
-\"So that our family could live peacefully...\"
+为了能让我们一家和睦相处…
 ====================
 
 ====================
@@ -911,7 +911,7 @@ length 74
 ====================
 \"Even to his own detriment, he was protecting me and Tomo, and you two.\"
 ====================
-\"Even to his own detriment, he was protecting me and Tomo, and you two.\"
+即使让自己身处不利也要保护我和小智、还有我的双亲
 ====================
 
 ====================
@@ -922,7 +922,7 @@ length 109
 ====================
 \"He's desperately protecting the kid whom our father gave life to despite having no obligation to do so...\"
 ====================
-\"He's desperately protecting the kid whom our father gave life to despite having no obligation to do so...\"
+拼命地保护着与他自己毫无关系、父亲的孩子…
 ====================
 
 ====================
@@ -933,7 +933,7 @@ length 16
 ====================
 \"I'm sorry...\"
 ====================
-\"I'm sorry...\"
+对不起…
 ====================
 
 ====================
@@ -944,7 +944,7 @@ length 26
 ====================
 \"I'm... really sorry...\"
 ====================
-\"I'm... really sorry...\"
+真的…对不起…
 ====================
 
 ====================
@@ -955,7 +955,7 @@ length 14
 ====================
 She's sobbing.
 ====================
-She's sobbing.
+抽泣的声音。
 ====================
 
 ====================
@@ -966,7 +966,7 @@ length 47
 ====================
 She grasps the hand that she's holding tightly.
 ====================
-She grasps the hand that she's holding tightly.
+握着我的手也越来越紧。
 ====================
 
 ====================
@@ -977,7 +977,7 @@ length 9
 ====================
 \"No...\"
 ====================
-\"No...\"
+不是这样…
 ====================
 
 ====================
@@ -988,7 +988,7 @@ length 27
 ====================
 \"I couldn't do anything.\"
 ====================
-\"I couldn't do anything.\"
+我什么也没能做到
 ====================
 
 ====================
@@ -999,7 +999,7 @@ length 39
 ====================
 \"There must have been another way...\"
 ====================
-\"There must have been another way...\"
+应该有其他办法的…
 ====================
 
 ====================
@@ -1010,7 +1010,7 @@ length 50
 ====================
 \"If only I hadn't done something unnecessary...\"
 ====================
-\"If only I hadn't done something unnecessary...\"
+如果我不做那样多余的事的话…
 ====================
 
 ====================
@@ -1021,7 +1021,7 @@ length 73
 ====================
 \"If I'd been a little more considerate, this wouldn't have happened...\"
 ====================
-\"If I'd been a little more considerate, this wouldn't have happened...\"
+如果我再小心一点、事情就不会变成这样了…
 ====================
 
 ====================
@@ -1032,7 +1032,7 @@ length 31
 ====================
 \"If only I'd tried harder...\"
 ====================
-\"If only I'd tried harder...\"
+如果我能更努力一些的话…
 ====================
 
 ====================
@@ -1043,7 +1043,7 @@ length 43
 ====================
 The teeth I'd been gritting, start grating.
 ====================
-The teeth I'd been gritting, start grating.
+我紧紧地咬着牙、发出了『嘎吱嘎吱』的声音。
 ====================
 
 ====================
@@ -1054,7 +1054,7 @@ length 53
 ====================
 Is that the sound of my life gradually falling apart?
 ====================
-Is that the sound of my life gradually falling apart?
+不知为什么我觉得这仿佛是我们至今为止的生活逐渐崩溃的声音一般。
 ====================
 
 ====================
@@ -1065,7 +1065,7 @@ length 26
 ====================
 \"...I should head back.\"
 ====================
-\"...I should head back.\"
+…我差不多要回去了
 ====================
 
 ====================
@@ -1076,7 +1076,7 @@ length 9
 ====================
 \"Yeah.\"
 ====================
-\"Yeah.\"
+嗯
 ====================
 
 ====================
@@ -1087,7 +1087,7 @@ length 66
 ====================
 \"Sorry... I left without saying anything, so I have to go home.\"
 ====================
-\"Sorry... I left without saying anything, so I have to go home.\"
+对不起…因为我什么都没说就跑出来了、所以必须回去
 ====================
 
 ====================
@@ -1098,7 +1098,7 @@ length 25
 ====================
 \"Don't worry about me.\"
 ====================
-\"Don't worry about me.\"
+不用在意我这边
 ====================
 
 ====================
@@ -1109,7 +1109,7 @@ length 20
 ====================
 \"I'll call again.\"
 ====================
-\"I'll call again.\"
+我会打电话来的
 ====================
 
 ====================
@@ -1120,7 +1120,7 @@ length 42
 ====================
 Tomoyo leaves the dark room like she came.
 ====================
-Tomoyo leaves the dark room like she came.
+智代和来时一样、离开了这个一片漆黑的房间。
 ====================
 
 ====================
@@ -1131,7 +1131,7 @@ length 23
 ====================
 Honestly, I'm grateful.
 ====================
-Honestly, I'm grateful.
+说实话、我很感激她。
 ====================
 
 ====================
@@ -1142,7 +1142,7 @@ length 86
 ====================
 It was presumptuous from the start to think that someone like me could protect anyone.
 ====================
-It was presumptuous from the start to think that someone like me could protect anyone.
+一切都是因为我说要保护她们这句狂妄的话而起。
 ====================
 
 ====================
@@ -1153,7 +1153,7 @@ length 57
 ====================
 Until half a year ago, I couldn't even look after myself.
 ====================
-Until half a year ago, I couldn't even look after myself.
+就在半年前、我还连自己都照顾不好。
 ====================
 
 ====================
@@ -1164,7 +1164,7 @@ length 45
 ====================
 I dreamed of living a happy life with Tomoyo.
 ====================
-I dreamed of living a happy life with Tomoyo.
+和智代两个人一起憧憬着幸福的生活。
 ====================
 
 ====================
@@ -1175,7 +1175,7 @@ length 66
 ====================
 I started to feel that I could do anything if I tried hard enough.
 ====================
-I started to feel that I could do anything if I tried hard enough.
+幻想着只要努力的话、什么都可以做到。
 ====================
 
 ====================
@@ -1186,7 +1186,7 @@ length 32
 ====================
 And in the end, what could I do?
 ====================
-And in the end, what could I do?
+但是结果、我做到了什么？
 ====================
 
 ====================
@@ -1197,7 +1197,7 @@ length 18
 ====================
 Just try and fail.
 ====================
-Just try and fail.
+只是挑战、然后失败而已。
 ====================
 
 ====================
@@ -1208,7 +1208,7 @@ length 12
 ====================
 \"...haha.\"
 ====================
-\"...haha.\"
+…哈哈
 ====================
 
 ====================
@@ -1219,7 +1219,7 @@ length 39
 ====================
 I start laughing at all these memories.
 ====================
-I start laughing at all these memories.
+想到这里、我不禁笑出了声。
 ====================
 
 ====================
@@ -1230,7 +1230,7 @@ length 76
 ====================
 When was it? I remember being grateful to the god that left her here for me.
 ====================
-When was it? I remember being grateful to the god that left her here for me.
+记得什么时候我感谢过把智代留给我的神明。
 ====================
 
 ====================
@@ -1241,7 +1241,7 @@ length 57
 ====================
 I don't mean to complain, but I just want you to tell me.
 ====================
-I don't mean to complain, but I just want you to tell me.
+而现在我并不想去恨那个神明、只是希望他能告诉我。
 ====================
 
 ====================
@@ -1252,7 +1252,7 @@ length 30
 ====================
 What would you have had me do?
 ====================
-What would you have had me do?
+他到底想让我怎么样。
 ====================
 
 ====================
@@ -1263,7 +1263,7 @@ length 22
 ====================
 ...I'm going to sleep.
 ====================
-...I'm going to sleep.
+…睡吧。
 ====================
 
 ====================
@@ -1274,7 +1274,7 @@ length 58
 ====================
 After laughing for a while, I turn over and close my eyes.
 ====================
-After laughing for a while, I turn over and close my eyes.
+笑了一阵、然后翻个身闭上了眼睛。
 ====================
 
 ====================
@@ -1285,7 +1285,7 @@ length 28
 ====================
 I'm getting tired of regret.
 ====================
-I'm getting tired of regret.
+对后悔也差不多感到厌倦了。
 ====================
 
 ====================
@@ -1296,7 +1296,7 @@ length 43
 ====================
 \"Excuse me, could you carry this for me?\"
 ====================
-\"Excuse me, could you carry this for me?\"
+请问、能不能帮我把这个搬走？
 ====================
 
 ====================
@@ -1307,7 +1307,7 @@ length 21
 ====================
 \"Yes, that's fine.\"
 ====================
-\"Yes, that's fine.\"
+好的、当然可以
 ====================
 
 ====================
@@ -1318,7 +1318,7 @@ length 25
 ====================
 My body moves on its own.
 ====================
-My body moves on its own.
+身体本能地行动着。
 ====================
 
 ====================
@@ -1329,7 +1329,7 @@ length 76
 ====================
 I don't know since when, but I've also learned to use an amiable expression.
 ====================
-I don't know since when, but I've also learned to use an amiable expression.
+不知何时我已经忘记了什么是亲切、唯一记得的就是这种表情。
 ====================
 
 ====================
@@ -1340,7 +1340,7 @@ length 86
 ====================
 \"If there's a breakdown or anything, please tell me. Here's my contact information.\"
 ====================
-\"If there's a breakdown or anything, please tell me. Here's my contact information.\"
+如果发生什么故障、请随时找我。这是我的联络方式
 ====================
 
 ====================
@@ -1351,7 +1351,7 @@ length 49
 ====================
 I think I'm doing pretty well as a working adult.
 ====================
-I think I'm doing pretty well as a working adult.
+我觉得作为社会的一员已经做得很好了。
 ====================
 
 ====================
@@ -1362,7 +1362,7 @@ length 48
 ====================
 Of course, it's only thanks to Tomoyo's support.
 ====================
-Of course, it's only thanks to Tomoyo's support.
+当然有智代支持着我。
 ====================
 
 ====================
@@ -1373,7 +1373,7 @@ length 72
 ====================
 What happened at her house after that... I don't think about it anymore.
 ====================
-What happened at her house after that... I don't think about it anymore.
+而我也没有去考虑过…在那之后、智代的父母家变成什么样了。
 ====================
 
 ====================
@@ -1384,7 +1384,7 @@ length 37
 ====================
 I can't look after anyone but myself.
 ====================
-I can't look after anyone but myself.
+我已经无法照顾除了自己以外的任何人了。
 ====================
 
 ====================
@@ -1395,5 +1395,5 @@ length 47
 ====================
 With her as my support, I'm living again today.
 ====================
-With her as my support, I'm living again today.
+在智代的支持下、我今天也还活着。
 ====================

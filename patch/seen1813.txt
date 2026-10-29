@@ -9,7 +9,7 @@ length 81
 ====================
 Since I couldn't come up with anything, we ended up staying the night here again.
 ====================
-Since I couldn't come up with anything, we ended up staying the night here again.
+一个点子也想不出、今天最后也住在了这里。
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 98
 ====================
 I'm worried that I'll drag my feet too long and the holiday will end before I accomplish anything.
 ====================
-I'm worried that I'll drag my feet too long and the holiday will end before I accomplish anything.
+就这样拖拖拉拉地什么都不做、一直担心着休假的结束。
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 54
 ====================
 The anxiety makes me restless and unable to sit still.
 ====================
-The anxiety makes me restless and unable to sit still.
+焦虑让我静不下心来。
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 81
 ====================
 I tell everyone I am going for a walk, and start strolling along a mountain road.
 ====================
-I tell everyone I am going for a walk, and start strolling along a mountain road.
+我说要去散步、走在了山路上。
 ====================
 
 ====================
@@ -53,7 +53,7 @@ length 32
 ====================
 I see Takafumi chasing after me.
 ====================
-I see Takafumi chasing after me.
+鹰文也从后面追了上来。
 ====================
 
 ====================
@@ -64,7 +64,7 @@ length 15
 ====================
 \"What is it?\"
 ====================
-\"What is it?\"
+干什么
 ====================
 
 ====================
@@ -75,7 +75,7 @@ length 46
 ====================
 \"It's just because you look kind of gloomy.\"
 ====================
-\"It's just because you look kind of gloomy.\"
+看着你阴着一张脸
 ====================
 
 ====================
@@ -86,7 +86,7 @@ length 9
 ====================
 \"Do I?\"
 ====================
-\"Do I?\"
+是吗？
 ====================
 
 ====================
@@ -97,7 +97,7 @@ length 51
 ====================
 Until he had mentioned it, I hadn't noticed at all.
 ====================
-Until he had mentioned it, I hadn't noticed at all.
+直到他这样说了我才发现。
 ====================
 
 ====================
@@ -108,7 +108,7 @@ length 68
 ====================
 \"It feels like Nee-chan is only there in body, but not in spirit.\"
 ====================
-\"It feels like Nee-chan is only there in body, but not in spirit.\"
+觉得姐姐也有点心不在焉的
 ====================
 
 ====================
@@ -119,7 +119,7 @@ length 61
 ====================
 \"Even though we've come this far, we can't go any further.\"
 ====================
-\"Even though we've come this far, we can't go any further.\"
+虽然走到了这一步、但是好像走到头了呢
 ====================
 
 ====================
@@ -130,7 +130,7 @@ length 66
 ====================
 \"In the end, it doesn't seem like there's anything we can do...\"
 ====================
-\"In the end, it doesn't seem like there's anything we can do...\"
+结果还是一事无成啊…
 ====================
 
 ====================
@@ -141,7 +141,7 @@ length 88
 ====================
 After all, someone like me cannot create something as extraordinary as a future or hope.
 ====================
-After all, someone like me cannot create something as extraordinary as a future or hope.
+未来与希望这类东西、根本不是凭我就能做得出来的。
 ====================
 
 ====================
@@ -152,7 +152,7 @@ length 96
 ====================
 Perhaps a rich guy or some big shot somewhere would be able to, but I'm just a poor working man.
 ====================
-Perhaps a rich guy or some big shot somewhere would be able to, but I'm just a poor working man.
+也许哪里的资本家或者大人物能做得到的吧。但是我只是一个微不足道的劳动者而已。
 ====================
 
 ====================
@@ -163,7 +163,7 @@ length 73
 ====================
 Fixing broken vacuum cleaners and washing machines is about all I can do.
 ====================
-Fixing broken vacuum cleaners and washing machines is about all I can do.
+要说我能做到的、也就只是修理坏掉了的吸尘器和洗衣机而已。
 ====================
 
 ====================
@@ -174,7 +174,7 @@ length 69
 ====================
 We keep walking for a while, and eventually arrive at the trash heap.
 ====================
-We keep walking for a while, and eventually arrive at the trash heap.
+走着走着、就到了垃圾山。
 ====================
 
 ====================
@@ -185,7 +185,7 @@ length 78
 ====================
 I sit down on a rock, and gaze at the village, barely visible in the distance.
 ====================
-I sit down on a rock, and gaze at the village, barely visible in the distance.
+我找了块石头坐了下来、远远眺望着若隐若现的村子。
 ====================
 
 ====================
@@ -196,7 +196,7 @@ length 88
 ====================
 The moonlit farmland and the lights in the buildings are the only things that I can see.
 ====================
-The moonlit farmland and the lights in the buildings are the only things that I can see.
+月光照着农田、只能看到大房子的路灯。
 ====================
 
 ====================
@@ -207,7 +207,7 @@ length 41
 ====================
 Until I get sleepy, I keep looking at it.
 ====================
-Until I get sleepy, I keep looking at it.
+我一直看着这些、直到泛起困意。
 ====================
 
 ====================
@@ -218,7 +218,7 @@ length 17
 ====================
 August 13th (Fri)
 ====================
-August 13th (Fri)
+８月１３日（星期五）
 ====================
 
 ====================
@@ -229,7 +229,7 @@ length 52
 ====================
 I've been staying inside the room since the morning.
 ====================
-I've been staying inside the room since the morning.
+第二天、从早上开始我就把自己关在房间里。
 ====================
 
 ====================
@@ -240,7 +240,7 @@ length 13
 ====================
 \"Tomoya...\"
 ====================
-\"Tomoya...\"
+朋也…
 ====================
 
 ====================
@@ -251,7 +251,7 @@ length 33
 ====================
 \"I want you to listen to me...\"
 ====================
-\"I want you to listen to me...\"
+我希望你能听我说…
 ====================
 
 ====================
@@ -262,7 +262,7 @@ length 22
 ====================
 \"It's about Tomo...\"
 ====================
-\"It's about Tomo...\"
+有关小智…
 ====================
 
 ====================
@@ -273,7 +273,7 @@ length 53
 ====================
 \"Should we... really bring her back to her mother?\"
 ====================
-\"Should we... really bring her back to her mother?\"
+真的…应该让她回到母亲身边吗？
 ====================
 
 ====================
@@ -284,7 +284,7 @@ length 79
 ====================
 This must have been on Tomoyo's mind ever since we heard Tomo's mother's story.
 ====================
-This must have been on Tomoyo's mind ever since we heard Tomo's mother's story.
+大概从小智母亲那里听了那些之后、智代就一直只在想着这些吧。
 ====================
 
 ====================
@@ -295,7 +295,7 @@ length 24
 ====================
 \"Of course we should.\"
 ====================
-\"Of course we should.\"
+应该
 ====================
 
 ====================
@@ -306,7 +306,7 @@ length 24
 ====================
 \"Should we really...?\"
 ====================
-\"Should we really...?\"
+是这样吗…
 ====================
 
 ====================
@@ -317,7 +317,7 @@ length 55
 ====================
 \"Don't you think... that might be a little hasty...?\"
 ====================
-\"Don't you think... that might be a little hasty...?\"
+说不定、那是错误的呢…？
 ====================
 
 ====================
@@ -328,7 +328,7 @@ length 41
 ====================
 Timidly, she shares her thoughts with me.
 ====================
-Timidly, she shares her thoughts with me.
+她战战兢兢地说道。
 ====================
 
 ====================
@@ -339,7 +339,7 @@ length 59
 ====================
 \"I've tried thinking about it from Tomo's point of view.\"
 ====================
-\"I've tried thinking about it from Tomo's point of view.\"
+我也站在小智的立场上考虑过了
 ====================
 
 ====================
@@ -350,7 +350,7 @@ length 45
 ====================
 \"I think Tomo was abandoned by her mother.\"
 ====================
-\"I think Tomo was abandoned by her mother.\"
+我觉得小智、被她母亲舍弃了
 ====================
 
 ====================
@@ -361,7 +361,7 @@ length 44
 ====================
 \"...we are in agreement with that, right?\"
 ====================
-\"...we are in agreement with that, right?\"
+…关于这一点你没有异议吧？
 ====================
 
 ====================
@@ -372,7 +372,7 @@ length 9
 ====================
 \"Yeah.\"
 ====================
-\"Yeah.\"
+嗯、没有
 ====================
 
 ====================
@@ -383,7 +383,7 @@ length 67
 ====================
 \"On the day she found out, Tomo was hurt and cried her eyes out.\"
 ====================
-\"On the day she found out, Tomo was hurt and cried her eyes out.\"
+知道真相的那一天、小智受伤了、一直都在哭泣
 ====================
 
 ====================
@@ -394,7 +394,7 @@ length 76
 ====================
 \"And I comforted her... telling her that I'd always be there by her side.\"
 ====================
-\"And I comforted her... telling her that I'd always be there by her side.\"
+我一直在她身边…安慰着她
 ====================
 
 ====================
@@ -405,7 +405,7 @@ length 37
 ====================
 \"The next day, she stopped crying.\"
 ====================
-\"The next day, she stopped crying.\"
+第二天开始就没有再哭了
 ====================
 
 ====================
@@ -416,7 +416,7 @@ length 33
 ====================
 \"Tomo overcame that sadness...\"
 ====================
-\"Tomo overcame that sadness...\"
+小智…已经克服了那种悲伤了
 ====================
 
 ====================
@@ -427,7 +427,7 @@ length 71
 ====================
 \"She hasn't overcome it, and she's still suffering from it even now.\"
 ====================
-\"She hasn't overcome it, and she's still suffering from it even now.\"
+没有克服。现在也一定还在悲伤中
 ====================
 
 ====================
@@ -438,7 +438,7 @@ length 46
 ====================
 \"I see... So that's how you see it, Tomoya.\"
 ====================
-\"I see... So that's how you see it, Tomoya.\"
+是吗…朋也是这么想的啊
 ====================
 
 ====================
@@ -449,7 +449,7 @@ length 9
 ====================
 \"Yeah.\"
 ====================
-\"Yeah.\"
+嗯
 ====================
 
 ====================
@@ -460,7 +460,7 @@ length 31
 ====================
 \"Well, even if she is sad...\"
 ====================
-\"Well, even if she is sad...\"
+好了、就算还在悲伤、但是…
 ====================
 
 ====================
@@ -471,7 +471,7 @@ length 36
 ====================
 \"She still has me for her mother.\"
 ====================
-\"She still has me for her mother.\"
+还有我这个母亲在
 ====================
 
 ====================
@@ -482,7 +482,7 @@ length 49
 ====================
 \"And I think that sadness will fade with time.\"
 ====================
-\"And I think that sadness will fade with time.\"
+我觉得我能治愈她的悲伤的
 ====================
 
 ====================
@@ -493,7 +493,7 @@ length 12
 ====================
 \"Perhaps.\"
 ====================
-\"Perhaps.\"
+也许吧
 ====================
 
 ====================
@@ -504,7 +504,7 @@ length 24
 ====================
 \"Yeah, I bet it will.\"
 ====================
-\"Yeah, I bet it will.\"
+嗯、一定可以的
 ====================
 
 ====================
@@ -515,7 +515,7 @@ length 29
 ====================
 \"I have confidence in her.\"
 ====================
-\"I have confidence in her.\"
+我有这个自信
 ====================
 
 ====================
@@ -526,7 +526,7 @@ length 98
 ====================
 \"But I want you to consider what would happen if, hypothetically, we return Tomo to her mother.\"
 ====================
-\"But I want you to consider what would happen if, hypothetically, we return Tomo to her mother.\"
+但是、假设现在、设想一下把小智带到母亲的身边的话
 ====================
 
 ====================
@@ -537,7 +537,7 @@ length 45
 ====================
 \"Think about it from Tomo's point of view.\"
 ====================
-\"Think about it from Tomo's point of view.\"
+站在小智的立场
 ====================
 
 ====================
@@ -548,7 +548,7 @@ length 25
 ====================
 \"What would happen...?\"
 ====================
-\"What would happen...?\"
+会怎么样…？
 ====================
 
 ====================
@@ -559,7 +559,7 @@ length 45
 ====================
 \"She'll get her life with her mother back.\"
 ====================
-\"She'll get her life with her mother back.\"
+能重新和母亲一起生活了
 ====================
 
 ====================
@@ -570,7 +570,7 @@ length 12
 ====================
 \"Exactly.\"
 ====================
-\"Exactly.\"
+没错
 ====================
 
 ====================
@@ -581,7 +581,7 @@ length 49
 ====================
 \"But sadly... that will only last for so long.\"
 ====================
-\"But sadly... that will only last for so long.\"
+但是…虽然很可悲、但是这种时间不会持续太久
 ====================
 
 ====================
@@ -592,7 +592,7 @@ length 9
 ====================
 \"Yeah.\"
 ====================
-\"Yeah.\"
+嗯
 ====================
 
 ====================
@@ -603,7 +603,7 @@ length 52
 ====================
 \"Tomo will lose her mother right before her eyes.\"
 ====================
-\"Tomo will lose her mother right before her eyes.\"
+小智的母亲会在她的眼前死去
 ====================
 
 ====================
@@ -614,7 +614,7 @@ length 41
 ====================
 \"Just imagine how sad that would be...\"
 ====================
-\"Just imagine how sad that would be...\"
+这种悲伤究竟会多么地令人心碎啊…
 ====================
 
 ====================
@@ -625,7 +625,7 @@ length 98
 ====================
 \"She lost her mother once, and after she thinks she's got her back, she loses her once again...\"
 ====================
-\"She lost her mother once, and after she thinks she's got her back, she loses her once again...\"
+一度失去、然后刚以为又回到身边的时候、却再度失去…
 ====================
 
 ====================
@@ -636,7 +636,7 @@ length 77
 ====================
 \"It's almost like God is playing a terrible prank on her, don't you think?\"
 ====================
-\"It's almost like God is playing a terrible prank on her, don't you think?\"
+就好像、神的恶作剧一样不是吗
 ====================
 
 ====================
@@ -647,7 +647,7 @@ length 57
 ====================
 \"Isn't having her go through that sadness once enough?\"
 ====================
-\"Isn't having her go through that sadness once enough?\"
+悲伤一次还不够吗
 ====================
 
 ====================
@@ -658,7 +658,7 @@ length 51
 ====================
 \"She doesn't have to suffer that much, does she?\"
 ====================
-\"She doesn't have to suffer that much, does she?\"
+让她不用背负那么多不可以吗
 ====================
 
 ====================
@@ -669,7 +669,7 @@ length 27
 ====================
 \"She's still so young...\"
 ====================
-\"She's still so young...\"
+她还只有那么小啊…
 ====================
 
 ====================
@@ -680,7 +680,7 @@ length 99
 ====================
 \"If she has to go through all those unfortunate things one after another... That's just too sad.\"
 ====================
-\"If she has to go through all those unfortunate things one after another... That's just too sad.\"
+让她不用背负那么多不可以吗
 ====================
 
 ====================
@@ -691,7 +691,7 @@ length 38
 ====================
 \"Haven't we done enough already...?\"
 ====================
-\"Haven't we done enough already...?\"
+已经够了啊…够了…
 ====================
 
 ====================
@@ -702,7 +702,7 @@ length 76
 ====================
 \"To begin with, this could've been over without us knowing any of this...\"
 ====================
-\"To begin with, this could've been over without us knowing any of this...\"
+而且说到底、我们本来也能就这么一无所知地了结的…
 ====================
 
 ====================
@@ -713,7 +713,7 @@ length 68
 ====================
 \"It's only because... you were so desperate to find this place...\"
 ====================
-\"It's only because... you were so desperate to find this place...\"
+如果没有那么拼命地…找到这里来的话…
 ====================
 
 ====================
@@ -724,7 +724,7 @@ length 24
 ====================
 \"So please, Tomoya...\"
 ====================
-\"So please, Tomoya...\"
+所以、朋也…
 ====================
 
 ====================
@@ -735,7 +735,7 @@ length 17
 ====================
 \"Let's just...\"
 ====================
-\"Let's just...\"
+我们、也就这样…
 ====================
 
 ====================
@@ -746,7 +746,7 @@ length 13
 ====================
 \"...leave.\"
 ====================
-\"...leave.\"
+离开这里吧
 ====================
 
 ====================
@@ -757,7 +757,7 @@ length 41
 ====================
 That's the conclusion Tomoyo has come to.
 ====================
-That's the conclusion Tomoyo has come to.
+这就是智代所找到的答案。
 ====================
 
 ====================
@@ -768,7 +768,7 @@ length 14
 ====================
 However, I... 
 ====================
-However, I... 
+但是、我…不是。
 ====================
 
 ====================
@@ -779,7 +779,7 @@ length 26
 ====================
 have a different solution.
 ====================
-have a different solution.
+有不同的答案。
 ====================
 
 ====================
@@ -790,7 +790,7 @@ length 8
 ====================
 \"I...\"
 ====================
-\"I...\"
+我…
 ====================
 
 ====================
@@ -801,7 +801,7 @@ length 61
 ====================
 \"Even if that's the case, I think they should be together.\"
 ====================
-\"Even if that's the case, I think they should be together.\"
+认为即使这样、也应该让她们俩一起度过
 ====================
 
 ====================
@@ -812,7 +812,7 @@ length 11
 ====================
 \"Why...?\"
 ====================
-\"Why...?\"
+为什么…
 ====================
 
 ====================
@@ -823,7 +823,7 @@ length 27
 ====================
 \"Because they're family.\"
 ====================
-\"Because they're family.\"
+因为她们是母女
 ====================
 
 ====================
@@ -834,7 +834,7 @@ length 25
 ====================
 \"That's all I can say.\"
 ====================
-\"That's all I can say.\"
+我只能这么说
 ====================
 
 ====================
@@ -845,7 +845,7 @@ length 17
 ====================
 \"Is that so...\"
 ====================
-\"Is that so...\"
+是吗…
 ====================
 
 ====================
@@ -856,7 +856,7 @@ length 70
 ====================
 Tomoyo silently turns toward Takafumi, looking straight into his eyes.
 ====================
-Tomoyo silently turns toward Takafumi, looking straight into his eyes.
+智代一言不发地看向鹰文。
 ====================
 
 ====================
@@ -867,7 +867,7 @@ length 32
 ====================
 \"What do you think, Takafumi?\"
 ====================
-\"What do you think, Takafumi?\"
+鹰文又怎么想呢？
 ====================
 
 ====================
@@ -878,7 +878,7 @@ length 69
 ====================
 \"In my opinion, Nee-chan, I think you're scared to let go of Tomo.\"
 ====================
-\"In my opinion, Nee-chan, I think you're scared to let go of Tomo.\"
+我认为姐姐只是害怕离开小智而已
 ====================
 
 ====================
@@ -889,7 +889,7 @@ length 21
 ====================
 \"What do you mean?\"
 ====================
-\"What do you mean?\"
+那是什么意思…
 ====================
 
 ====================
@@ -900,7 +900,7 @@ length 47
 ====================
 \"I think I explained this properly to you...\"
 ====================
-\"I think I explained this properly to you...\"
+我已经说明得很清楚了啊…
 ====================
 
 ====================
@@ -911,7 +911,7 @@ length 62
 ====================
 \"I think that was just you finally finding the best excuse.\"
 ====================
-\"I think that was just you finally finding the best excuse.\"
+觉得你只是找到了一个适当的理由而已
 ====================
 
 ====================
@@ -922,7 +922,7 @@ length 19
 ====================
 \"That's wrong...\"
 ====================
-\"That's wrong...\"
+不是…
 ====================
 
 ====================
@@ -933,7 +933,7 @@ length 25
 ====================
 \"You're accusing me...\"
 ====================
-\"You're accusing me...\"
+这是借口…
 ====================
 
 ====================
@@ -944,7 +944,7 @@ length 48
 ====================
 \"I should ask you two. What's wrong with you?\"
 ====================
-\"I should ask you two. What's wrong with you?\"
+你们究竟又是怎么想的呢
 ====================
 
 ====================
@@ -955,7 +955,7 @@ length 57
 ====================
 \"Are you really thinking about what's best for her...?\"
 ====================
-\"Are you really thinking about what's best for her...?\"
+有好好地为小智考虑过吗…
 ====================
 
 ====================
@@ -966,7 +966,7 @@ length 52
 ====================
 \"If you are, how could you say things like that?!\"
 ====================
-\"If you are, how could you say things like that?!\"
+即使这样、还能说出这种话吗…
 ====================
 
 ====================
@@ -977,7 +977,7 @@ length 39
 ====================
 \"The way you two think is strange...\"
 ====================
-\"The way you two think is strange...\"
+倒是你们很有问题…
 ====================
 
 ====================
@@ -988,7 +988,7 @@ length 26
 ====================
 \"That's just strange...\"
 ====================
-\"That's just strange...\"
+绝对有问题…
 ====================
 
 ====================
@@ -999,7 +999,7 @@ length 34
 ====================
 Tomoyo is being somewhat deranged.
 ====================
-Tomoyo is being somewhat deranged.
+智代已经陷入了半混乱状态了。
 ====================
 
 ====================
@@ -1010,7 +1010,7 @@ length 58
 ====================
 \"Since when did you guys become such horrible people...\"
 ====================
-\"Since when did you guys become such horrible people...\"
+你们是从什么时候开始变成了这么无情的人的…
 ====================
 
 ====================
@@ -1021,7 +1021,7 @@ length 102
 ====================
 In Tomoyo's eyes, Takafumi and I must be terrible people who would simply let Tomo die in front of us.
 ====================
-In Tomoyo's eyes, Takafumi and I must be terrible people who would simply let Tomo die in front of us.
+智代已经把我和鹰文当成了对小智坐视不管的无情的人了吧。
 ====================
 
 ====================
@@ -1032,7 +1032,7 @@ length 37
 ====================
 Perhaps that's one way to look at it.
 ====================
-Perhaps that's one way to look at it.
+从某方面来说确实是这样。
 ====================
 
 ====================
@@ -1043,7 +1043,7 @@ length 50
 ====================
 However, her way of thinking is far too one-sided.
 ====================
-However, her way of thinking is far too one-sided.
+但是、这种想法实在是太主观了。
 ====================
 
 ====================
@@ -1054,7 +1054,7 @@ length 81
 ====================
 I want to persuade her, but I don't think I would be able to explain it clearly. 
 ====================
-I want to persuade her, but I don't think I would be able to explain it clearly. 
+虽然想要反驳、但是我却不能很好地说明。
 ====================
 
 ====================
@@ -1065,7 +1065,7 @@ length 39
 ====================
 \"What are you going to do from here?\"
 ====================
-\"What are you going to do from here?\"
+接下来怎么办呢？
 ====================
 
 ====================
@@ -1076,7 +1076,7 @@ length 52
 ====================
 When Tomoyo has gone to the bathroom, Takafumi asks.
 ====================
-When Tomoyo has gone to the bathroom, Takafumi asks.
+智代去了洗手间之后、鹰文这么问到。
 ====================
 
 ====================
@@ -1087,7 +1087,7 @@ length 32
 ====================
 \"I can't think of anything...\"
 ====================
-\"I can't think of anything...\"
+我不知道…
 ====================
 
 ====================
@@ -1098,7 +1098,7 @@ length 16
 ====================
 Takafumi groans.
 ====================
-Takafumi groans.
+鹰文嗯了一声。
 ====================
 
 ====================
@@ -1109,7 +1109,7 @@ length 79
 ====================
 \"Sorry, I need to head outside for a bit. Think you can watch Tomoyo for me?\"
 ====================
-\"Sorry, I need to head outside for a bit. Think you can watch Tomoyo for me?\"
+抱歉我想出去走走、你能帮我看着智代吗
 ====================
 
 ====================
@@ -1120,5 +1120,5 @@ length 11
 ====================
 \"Sure...\"
 ====================
-\"Sure...\"
+嗯…
 ====================

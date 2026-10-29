@@ -9,7 +9,7 @@ length 15
 ====================
 July 24th (Sat)
 ====================
-July 24th (Sat)
+７月２４日（星期六）
 ====================
 
 ====================
@@ -20,7 +20,7 @@ length 44
 ====================
 Even during work, I continue image training.
 ====================
-Even during work, I continue image training.
+工作时我也在进行着想象练习。
 ====================
 
 ====================
@@ -31,7 +31,7 @@ length 73
 ====================
 I can already remember the keys' positions even without the keyboard now.
 ====================
-I can already remember the keys' positions even without the keyboard now.
+现在就算不看键盘、也能想起按键的排列。
 ====================
 
 ====================
@@ -42,7 +42,7 @@ length 70
 ====================
 (I keep mastering abilities that have absolutely no use for my job...)
 ====================
-(I keep mastering abilities that have absolutely no use for my job...)
+（真是的、怎么总是学会些和工作无关的东西啊…）
 ====================
 
 ====================
@@ -53,5 +53,5 @@ length 51
 ====================
 Even on my day off, I spend all my time practicing.
 ====================
-Even on my day off, I spend all my time practicing.
+所有的休息日也都用在了练习上。
 ====================

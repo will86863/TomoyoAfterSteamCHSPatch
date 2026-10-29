@@ -374,3 +374,12 @@ tools/gap_body.json
 tools/patch_pairs.json
 guide/patch_pairs.json
 guide/scr/
+
+# 编译产物与发布包
+Release/
+Debug/
+x86/
+VersionInjectionPatch/*.txt.bak
+VersionInjectionPatch/SEEN_CHS.TXT
+release_out/
+_test_g00.zip

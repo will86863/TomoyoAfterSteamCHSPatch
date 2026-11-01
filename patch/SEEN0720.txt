@@ -1,0 +1,3467 @@
+type seen720
+count 315
+
+====================
+index 1
+offset 272
+name NULL
+length 15
+====================
+July 20th (Tue)
+====================
+７月２０日（星期二）
+====================
+
+====================
+index 2
+offset 1200
+name NULL
+length 25
+====================
+The sun is blazing today.
+====================
+烈日炎炎。
+====================
+
+====================
+index 3
+offset 1241
+name NULL
+length 43
+====================
+The sunlight is harsh and scorches my skin.
+====================
+毒辣的阳光、灼烧着人的肌肤。
+====================
+
+====================
+index 4
+offset 1334
+name Tomoya
+length 14
+====================
+\"...so hot.\"
+====================
+…热死了ー
+====================
+
+====================
+index 5
+offset 1364
+name NULL
+length 67
+====================
+I wipe the ceaselessly flowing sweat with the towel around my neck.
+====================
+我用围在脖子边上的毛巾擦了擦脸上流个不停的汗水。
+====================
+
+====================
+index 6
+offset 1871
+name NULL
+length 110
+====================
+Organizing the things we've picked up from the piles of items outside is the hardest part of my job in summer.
+====================
+整理堆积的回收品的工作、在盛夏是最辛苦的工作了。
+====================
+
+====================
+index 7
+offset 1997
+name NULL
+length 71
+====================
+I hear some high-pitched voices mixed in with the cries of the cicadas.
+====================
+尖锐的叫喊声混杂在蝉鸣声中传了过来。
+====================
+
+====================
+index 8
+offset 2118
+name Tomoya
+length 10
+====================
+\"Again?\"
+====================
+又来了
+====================
+
+====================
+index 9
+offset 2178
+name Tomoya
+length 47
+====================
+\"Hey now, it's dangerous; don't go in there.\"
+====================
+喂喂、这里危险不许进来
+====================
+
+====================
+index 10
+offset 2241
+name NULL
+length 55
+====================
+I turn toward the direction of the voices and say this.
+====================
+我朝着声音传来的方向喊了过去。
+====================
+
+====================
+index 11
+offset 2345
+name Child
+length 14
+====================
+\"Uwah, run!\"
+====================
+呜哇ー、快跑ー
+====================
+
+====================
+index 12
+offset 2375
+name NULL
+length 27
+====================
+They scatter like the wind.
+====================
+一下子就跑得无影无踪了。
+====================
+
+====================
+index 13
+offset 2418
+name NULL
+length 79
+====================
+Occasionally, kids come in and use the mountain of junk as a play area for fun.
+====================
+垃圾山很好玩吗？经常有小孩子把这里当成是游乐场。
+====================
+
+====================
+index 14
+offset 2513
+name NULL
+length 58
+====================
+I chase them away when I spot them, but it's never ending.
+====================
+我看到了就把他们赶出去、但总是赶不光。
+====================
+
+====================
+index 15
+offset 2587
+name NULL
+length 37
+====================
+As I'm heading back, I suddenly stop.
+====================
+准备回去工作的时候、我突然停下了脚步。
+====================
+
+====================
+index 16
+offset 2640
+name NULL
+length 31
+====================
+It's before noon, on a weekday.
+====================
+现在是上午、而且不是休息日。
+====================
+
+====================
+index 17
+offset 2687
+name NULL
+length 70
+====================
+Elementary school kids shouldn't be out playing at this time of day...
+====================
+这种时候会有小学生来玩…
+====================
+
+====================
+index 18
+offset 2807
+name Tomoya
+length 21
+====================
+(Ah... that's right.)
+====================
+（啊…是啊）
+====================
+
+====================
+index 19
+offset 2844
+name NULL
+length 24
+====================
+...it's summer vacation.
+====================
+…现在是暑假。
+====================
+
+====================
+index 20
+offset 2884
+name NULL
+length 60
+====================
+I remember the days when I would pass the time lazing about.
+====================
+我想起了无忧无虑的过去。
+====================
+
+====================
+index 21
+offset 2960
+name NULL
+length 28
+====================
+I don't want them to return.
+====================
+但是我没有想要回到过去。
+====================
+
+====================
+index 22
+offset 3004
+name NULL
+length 31
+====================
+My life right now isn't so bad.
+====================
+现在也不是那么不好。
+====================
+
+====================
+index 23
+offset 3051
+name NULL
+length 52
+====================
+I'm living a humble little life the best that I can.
+====================
+即使是平淡的、微不足道的生活、但是确实是在努力地生活着。
+====================
+
+====================
+index 24
+offset 4785
+name Kanako
+length 30
+====================
+\"All right, to the dungeon!\"
+====================
+好、让我们出发去地下城
+====================
+
+====================
+index 25
+offset 4831
+name NULL
+length 24
+====================
+Kanako suddenly cuts in.
+====================
+河南子突然插话进来。
+====================
+
+====================
+index 26
+offset 4905
+name Tomoya
+length 8
+====================
+\"Huh?\"
+====================
+哈？
+====================
+
+====================
+index 27
+offset 5236
+name Kanako
+length 83
+====================
+\"It's summer vacation. What else is there to do other than going to the dungeon?\"
+====================
+已经暑假了、不去地下城还能干啥啊
+====================
+
+====================
+index 28
+offset 5369
+name Tomoya
+length 32
+====================
+\"What do you mean by dungeon?\"
+====================
+地下城是什么啊
+====================
+
+====================
+index 29
+offset 5451
+name Kanako
+length 27
+====================
+\"In a role-playing game.\"
+====================
+角色扮演游戏的舞台
+====================
+
+====================
+index 30
+offset 5528
+name Tomoya
+length 16
+====================
+\"Where is it?\"
+====================
+哪有这种东西啊
+====================
+
+====================
+index 31
+offset 5594
+name Kanako
+length 25
+====================
+\"Inside that computer.\"
+====================
+在这个电脑里
+====================
+
+====================
+index 32
+offset 5635
+name NULL
+length 34
+====================
+She points at Takafumi's computer.
+====================
+河南子指着鹰文的电脑。
+====================
+
+====================
+index 33
+offset 5993
+name Takafumi
+length 8
+====================
+\"Eeh?\"
+====================
+哎？
+====================
+
+====================
+index 34
+offset 6323
+name Kanako
+length 53
+====================
+\"You were running something like an RPG. I saw it.\"
+====================
+河南子看到了、像ＲＰＧ一样的东西
+====================
+
+====================
+index 35
+offset 6700
+name Takafumi
+length 93
+====================
+\"That was for a presentation to show that I can do stuff like that too, not for playing...\"
+====================
+那只是用来做演示用的、还不能玩…
+====================
+
+====================
+index 36
+offset 6845
+name Takafumi
+length 41
+====================
+\"The characters are all AI controlled.\"
+====================
+角色也只有ＡＩ行动的…
+====================
+
+====================
+index 37
+offset 7208
+name Kanako
+length 25
+====================
+\"Eh? We can't play it?\"
+====================
+哎？玩不了吗？
+====================
+
+====================
+index 38
+offset 7557
+name Takafumi
+length 88
+====================
+\"We could use them if we needed to... but there's no content, like story or anything.\"
+====================
+动还是能动的…但是没有内容啦、故事什么的
+====================
+
+====================
+index 39
+offset 7968
+name Kanako
+length 33
+====================
+\"Story... you mean a scenario?\"
+====================
+故事…就是指的剧本吗？
+====================
+
+====================
+index 40
+offset 8053
+name Takafumi
+length 46
+====================
+\"I've already got a bad feeling about this.\"
+====================
+我有不好的预感了
+====================
+
+====================
+index 41
+offset 8422
+name Kanako
+length 33
+====================
+\"Hire me as a scenario writer.\"
+====================
+就雇用我作为脚本作者吧
+====================
+
+====================
+index 42
+offset 8779
+name Takafumi
+length 28
+====================
+\"You want me to pay you?!\"
+====================
+你还要领工资啊
+====================
+
+====================
+index 43
+offset 9130
+name Kanako
+length 91
+====================
+\"It'll definitely be interesting, so it'll sell, and blow Dragon Quest out of the water.\"
+====================
+我保证会很有趣的、绝对能卖掉的、恶龙什么的根本不是对手
+====================
+
+====================
+index 44
+offset 9545
+name Takafumi
+length 102
+====================
+\"I get the feeling you'll definitely write something completely nonsensical that only we would get.\"
+====================
+你肯定只会写一些只有熟人才看得懂的莫名其妙的东西吧…
+====================
+
+====================
+index 45
+offset 9970
+name Kanako
+length 157
+====================
+\"That's not true. I write major works. To the extent that I'm known for making the people of Shikoku, who people wondered if they were capable of it, cry!\"
+====================
+哪有那回事、我会写一些大众化的内容、而且会让整个四国中的人都为之流泪不已的招牌作
+====================
+
+====================
+index 46
+offset 10209
+name Takafumi
+length 39
+====================
+\"Why so geographically specific....?\"
+====================
+为什么会变成这样啊…
+====================
+
+====================
+index 47
+offset 10571
+name Kanako
+length 17
+====================
+\"Come on, RPG!\"
+====================
+呐、ＲＰＧ～
+====================
+
+====================
+index 48
+offset 10912
+name Takafumi
+length 9
+====================
+\"Um...\"
+====================
+嗯…
+====================
+
+====================
+index 49
+offset 11244
+name Kanako
+length 32
+====================
+\"You want to play too, right?\"
+====================
+你也想做吧？
+====================
+
+====================
+index 50
+offset 11292
+name NULL
+length 68
+====================
+She turns to me with a shining face and tries to get me on her side.
+====================
+河南子想拉我一起、灿烂地笑着转了过来。
+====================
+
+====================
+index 51
+offset 11399
+name NULL
+length 4
+====================
+I do
+====================
+不想
+====================
+
+====================
+index 52
+offset 11408
+name NULL
+length 7
+====================
+I don't
+====================
+我不想
+====================
+
+====================
+index 53
+offset 11521
+name Tomoya
+length 9
+====================
+\"I do.\"
+====================
+想
+====================
+
+====================
+index 54
+offset 11852
+name Kanako
+length 51
+====================
+\"See, look!! Everyone wants to play, you idiot!!\"
+====================
+好、那么就出发前往地下城！
+====================
+
+====================
+index 55
+offset 12227
+name Takafumi
+length 132
+====================
+\"I don't understand why you have to speak so badly of me, but if Nii-chan says he wants to as well, I guess I've got no choice...\"
+====================
+不、现在还没做好准备
+====================
+
+====================
+index 56
+offset 12682
+name Kanako
+length 30
+====================
+\"All right, to the dungeon!\"
+====================
+好、让我们出发前往迷宫！
+====================
+
+====================
+index 57
+offset 12764
+name Takafumi
+length 27
+====================
+\"No, it's not ready yet.\"
+====================
+算是吧…
+====================
+
+====================
+index 58
+offset 12916
+name Tomoya
+length 12
+====================
+\"I don't.\"
+====================
+不想
+====================
+
+====================
+index 59
+offset 13251
+name Kanako
+length 29
+====================
+\"Why? RPGs are great. RPG.\"
+====================
+为什么啊、ＲＰＧ不是挺好嘛、ＲＰＧー
+====================
+
+====================
+index 60
+offset 13600
+name Tomoya
+length 33
+====================
+\"Why is she fixated on an RPG?\"
+====================
+为什么那家伙这么执着于ＲＰＧ啊
+====================
+
+====================
+index 61
+offset 13649
+name NULL
+length 15
+====================
+I ask Takafumi.
+====================
+我向鹰文问道。
+====================
+
+====================
+index 62
+offset 13988
+name Takafumi
+length 86
+====================
+\"She's not really fixated. If you just want to play, isn't Minesweeper good enough?\"
+====================
+并不是执着在ＲＰＧ上吧。只是想玩的话、玩扫雷不就好了？
+====================
+
+====================
+index 63
+offset 14397
+name Kanako
+length 47
+====================
+\"Minesweeper? That's good too! Mwhahahahaha.\"
+====================
+扫雷啊、这个也不错呢！哇咔咔咔咔
+====================
+
+====================
+index 64
+offset 14823
+name Kanako
+length 28
+====================
+\"All right, to the beach!\"
+====================
+好、那就去海边
+====================
+
+====================
+index 65
+offset 14867
+name NULL
+length 24
+====================
+Kanako suddenly cuts in.
+====================
+河南子突然插话进来。
+====================
+
+====================
+index 66
+offset 14907
+name NULL
+length 60
+====================
+Takafumi and I simultaneously look at Kanako and go \"huh?\"
+====================
+我和鹰文同时『哈？』地一声看着河南子。
+====================
+
+====================
+index 67
+offset 15290
+name Kanako
+length 81
+====================
+\"It's summer vacation. What else is there to do other than going to the beach?\"
+====================
+暑假了啊、不去海边还能去哪里啊
+====================
+
+====================
+index 68
+offset 15421
+name Tomoya
+length 37
+====================
+\"Well, there are plenty of things.\"
+====================
+还有很多地方可以去吧
+====================
+
+====================
+index 69
+offset 15781
+name Kanako
+length 39
+====================
+\"Why? The beach is great. The beach.\"
+====================
+为什么啊、海边不是挺好的嘛、海边ー
+====================
+
+====================
+index 70
+offset 16140
+name Tomoya
+length 36
+====================
+\"Why is she fixated on the beach?\"
+====================
+这家伙为什么这么执着于去海边啊
+====================
+
+====================
+index 71
+offset 16192
+name NULL
+length 15
+====================
+I ask Takafumi.
+====================
+我向鹰文问道。
+====================
+
+====================
+index 72
+offset 16531
+name Takafumi
+length 89
+====================
+\"She's not really fixated. If you just want to play, aren't the mountains good enough?\"
+====================
+并不是执着在想去海边啦。只是想去一个地方玩的话、山上不也可以吗？
+====================
+
+====================
+index 73
+offset 16943
+name Kanako
+length 49
+====================
+\"The mountains? That's good too! Mwhahahahaha.\"
+====================
+山上啊、这个也不错呢！哇咔咔咔咔
+====================
+
+====================
+index 74
+offset 17322
+name Takafumi
+length 8
+====================
+\"See.\"
+====================
+看吧
+====================
+
+====================
+index 75
+offset 17380
+name Tomoya
+length 42
+====================
+\"So basically she just wants to play...\"
+====================
+也就是说只是想玩而已啊…
+====================
+
+====================
+index 76
+offset 17745
+name Kanako
+length 96
+====================
+\"You want to play too, don't you? How do you feel like passing the long summer vacation? Hmm?\"
+====================
+你也想玩的吧？这么长的暑假打算怎么过啊？嗯ー？
+====================
+
+====================
+index 77
+offset 17891
+name Tomoya
+length 41
+====================
+\"I'll pass it working as I usually do.\"
+====================
+就平常地上上班度过而已
+====================
+
+====================
+index 78
+offset 18254
+name Kanako
+length 53
+====================
+\"Eh, a part-time job? Is there something you want?\"
+====================
+哎、打工啊、有什么想要的东西吗？
+====================
+
+====================
+index 79
+offset 18357
+name Tomoya
+length 26
+====================
+\"No, I'm a working man.\"
+====================
+不、我是正式员工了
+====================
+
+====================
+index 80
+offset 18705
+name Kanako
+length 10
+====================
+\"Eh...?\"
+====================
+哎…？
+====================
+
+====================
+index 81
+offset 19037
+name Kanako
+length 34
+====================
+\"Uwah! You're a working adult!!\"
+====================
+呜哇！你已经是社会人士了啊！！
+====================
+
+====================
+index 82
+offset 19121
+name Tomoya
+length 53
+====================
+\"I'm the one who's surprised you didn't know that.\"
+====================
+我倒觉得更让我吃惊的是你还不知道这件事啊
+====================
+
+====================
+index 83
+offset 19496
+name Kanako
+length 80
+====================
+\"I see. What the heck. That means not everyone is on vacation starting today.\"
+====================
+是啊、这样啊、大家今天以后也不会休息了呢
+====================
+
+====================
+index 84
+offset 19592
+name NULL
+length 56
+====================
+She says it kind of sadly, which makes me kind of happy.
+====================
+看到河南子好像有些寂寞地说出这句话、不知为什么我有些高兴。
+====================
+
+====================
+index 85
+offset 19970
+name Kanako
+length 24
+====================
+\"Aah, is working fun?\"
+====================
+啊啊、工作很快乐吗？
+====================
+
+====================
+index 86
+offset 20044
+name Tomoya
+length 56
+====================
+\"It's not that fun, but I get a sense of fulfillment.\"
+====================
+虽然不能说是快乐、但是有充实感的确很不错的
+====================
+
+====================
+index 87
+offset 20150
+name Tomoya
+length 47
+====================
+\"What about you? Do you enjoy being so lazy?\"
+====================
+倒是你、这么一直懒洋洋的很快乐吗？
+====================
+
+====================
+index 88
+offset 20521
+name Takafumi
+length 63
+====================
+\"He's right. You've got time, so work. Find a part-time job.\"
+====================
+是啊是啊。既然这么有时间的话、河南子也去劳动吧。去找工来打吧
+====================
+
+====================
+index 89
+offset 20907
+name Kanako
+length 40
+====================
+\"It's not like you're working either.\"
+====================
+这么说你小子倒是也去工作啊
+====================
+
+====================
+index 90
+offset 21271
+name Takafumi
+length 94
+====================
+\"I've had a part-time job since before vacation started. It's SE work, so I can do it here.\"
+====================
+暑假放假前我就开始打工了。ＳＥ的工作、所以在家里也能做
+====================
+
+====================
+index 91
+offset 21688
+name Kanako
+length 46
+====================
+\"What's that? Sounds easy. Can I do it too?\"
+====================
+这是什么、好像很轻松的样子。我也能做吗？
+====================
+
+====================
+index 92
+offset 21786
+name Takafumi
+length 15
+====================
+\"Impossible.\"
+====================
+不可能
+====================
+
+====================
+index 93
+offset 22123
+name Kanako
+length 45
+====================
+\"I wouldn't do it even if you asked me to!\"
+====================
+就算你求我我也不干ーっっ！
+====================
+
+====================
+index 94
+offset 22218
+name Tomoya
+length 34
+====================
+\"What kind of work do you want?\"
+====================
+那你要做什么好
+====================
+
+====================
+index 95
+offset 22575
+name Kanako
+length 7
+====================
+\"SE.\"
+====================
+ＳＥ
+====================
+
+====================
+index 96
+offset 22906
+name Takafumi
+length 27
+====================
+\"What does it stand for?\"
+====================
+知道这是什么的缩写吗？
+====================
+
+====================
+index 97
+offset 23256
+name Kanako
+length 30
+====================
+\"Su... Super... Electric...\"
+====================
+Ｓｕ…Ｓｕｐｅｒ…Ｅｌｅｃｔｒｉｃ…
+====================
+
+====================
+index 98
+offset 23610
+name Takafumi
+length 50
+====================
+\"Eh... there's more? You've run out of letters.\"
+====================
+嗯…接下来呢？缩写的首字母已经用光了哦
+====================
+
+====================
+index 99
+offset 23983
+name Kanako
+length 14
+====================
+\"That's it.\"
+====================
+没有了
+====================
+
+====================
+index 100
+offset 24320
+name Kanako
+length 19
+====================
+\"Super Electric.\"
+====================
+Ｓｕｐｅｒ　Ｅｌｅｃｔｒｉｃ
+====================
+
+====================
+index 101
+offset 24391
+name Takafumi
+length 10
+====================
+\"Wrong.\"
+====================
+噗ー
+====================
+
+====================
+index 102
+offset 24723
+name Kanako
+length 29
+====================
+\"Then I withdraw my offer!\"
+====================
+这种工作、跪下请我干我也不干ー！
+====================
+
+====================
+index 103
+offset 25364
+name Tomoyo
+length 38
+====================
+\"Guys, I can hear you from outside.\"
+====================
+你们几个、外面都能听到了哦
+====================
+
+====================
+index 104
+offset 25418
+name NULL
+length 66
+====================
+Tomoyo and Tomo are standing in the doorway holding shopping bags.
+====================
+门口的智代正拎着购物袋站在那里。
+====================
+
+====================
+index 105
+offset 25829
+name Takafumi
+length 23
+====================
+\"It's mostly Kanako.\"
+====================
+主要就是河南子
+====================
+
+====================
+index 106
+offset 25902
+name Tomoya
+length 55
+====================
+\"It's summer vacation, so she's unusually excitable.\"
+====================
+到了暑假、这家伙就变得异常兴奋了
+====================
+
+====================
+index 107
+offset 26279
+name Kanako
+length 36
+====================
+\"Don't treat me like I'm a child.\"
+====================
+别把别人说的和小孩子一样
+====================
+
+====================
+index 108
+offset 26365
+name Tomoya
+length 52
+====================
+\"You are a child. You just play around every day.\"
+====================
+就是小孩子吧。明明每天都在玩
+====================
+
+====================
+index 109
+offset 26739
+name Kanako
+length 89
+====================
+\"The moment it comes to light that you're a working adult, you start acting big, shit.\"
+====================
+刚被人揭穿社会人士的身份就装老、可恶
+====================
+
+====================
+index 110
+offset 26878
+name Tomoya
+length 27
+====================
+\"No, I wasn't hiding it.\"
+====================
+不、我根本没隐藏身份
+====================
+
+====================
+index 111
+offset 27228
+name Tomoyo
+length 48
+====================
+\"Kanako, there's something I want to say too.\"
+====================
+河南子、我也想说你几句
+====================
+
+====================
+index 112
+offset 27562
+name NULL
+length 45
+====================
+Tomoyo sits down directly in front of Kanako.
+====================
+智代坐到了河南子的正对面。
+====================
+
+====================
+index 113
+offset 27930
+name Kanako
+length 8
+====================
+\"Heh?\"
+====================
+我？
+====================
+
+====================
+index 114
+offset 28261
+name Tomoyo
+length 11
+====================
+\"Kanako.\"
+====================
+河南子
+====================
+
+====================
+index 115
+offset 28288
+name NULL
+length 46
+====================
+She says her name again and turns to face her.
+====================
+再一次叫河南子的名字、面向她。
+====================
+
+====================
+index 116
+offset 28384
+name Tomoyo
+length 56
+====================
+\"If you just idly pass the time, nothing will change.\"
+====================
+如果就这么松松垮垮地过下去的话、什么都不会改变
+====================
+
+====================
+index 117
+offset 28490
+name Tomoyo
+length 45
+====================
+\"Isn't it important to smooth things over?\"
+====================
+让事情慢慢变好、这不是最重要的吗？
+====================
+
+====================
+index 118
+offset 28857
+name Kanako
+length 23
+====================
+\"Smooth things over?\"
+====================
+让事情慢慢变好？
+====================
+
+====================
+index 119
+offset 29202
+name Kanako
+length 63
+====================
+\"Hm, okay, will you convince my mother to not get remarried?\"
+====================
+那么、能说服我母亲放弃再婚吗
+====================
+
+====================
+index 120
+offset 29281
+name NULL
+length 102
+====================
+That's right. I'd forgotten, but her mother's remarriage was the original reason for her staying here.
+====================
+是啊。我都忘了、河南子到这里来的原因、就是她母亲再婚的事情。
+====================
+
+====================
+index 121
+offset 29706
+name Tomoyo
+length 32
+====================
+\"I have no say in the matter.\"
+====================
+不…这不是我能够说的事情
+====================
+
+====================
+index 122
+offset 29788
+name Tomoyo
+length 98
+====================
+\"But if you talk to her and get to better understand each other's feelings, I think it'll help.\"
+====================
+但是、如果双方好好交谈、能够互相理解对方的心情的话、我想事情是会变好的
+====================
+
+====================
+index 123
+offset 30208
+name Kanako
+length 34
+====================
+\"Wow, what a textbook response.\"
+====================
+哇、简直就是教科书一样的说教
+====================
+
+====================
+index 124
+offset 30292
+name Tomoya
+length 53
+====================
+\"Are you that opposed to your mother's remarriage?\"
+====================
+你就这么讨厌你母亲再婚吗
+====================
+
+====================
+index 125
+offset 30667
+name Kanako
+length 8
+====================
+\"Yes.\"
+====================
+讨厌
+====================
+
+====================
+index 126
+offset 30725
+name Tomoya
+length 31
+====================
+\"This is hard to say, but...\"
+====================
+虽然很难说出口…
+====================
+
+====================
+index 127
+offset 30806
+name Tomoya
+length 46
+====================
+\"Are you still hung up on your dead father?\"
+====================
+难道你还不能忘记死去的父亲吗
+====================
+
+====================
+index 128
+offset 31174
+name Kanako
+length 31
+====================
+\"Of course there's that too.\"
+====================
+当然也有这方面的原因
+====================
+
+====================
+index 129
+offset 31528
+name Kanako
+length 37
+====================
+\"But this... symbolizes something.\"
+====================
+但是、这个啊…是象征性的东西
+====================
+
+====================
+index 130
+offset 31615
+name Kanako
+length 65
+====================
+\"That the never ending love that he believed in doesn't exist.\"
+====================
+这说明那个人所坚信的永恒的爱是不存在的
+====================
+
+====================
+index 131
+offset 31730
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 132
+offset 31793
+name Kanako
+length 43
+====================
+\"If something like that doesn't exist...\"
+====================
+既然不存在这种东西…
+====================
+
+====================
+index 133
+offset 32159
+name Kanako
+length 49
+====================
+\"It's better to enjoy life as much as you can.\"
+====================
+那么人生唯一的目标不就是享受了吗
+====================
+
+====================
+index 134
+offset 32258
+name Kanako
+length 31
+====================
+\"I... like living here idly.\"
+====================
+我呢、自从到这边来住以后就喜欢住在这里了
+====================
+
+====================
+index 135
+offset 32339
+name Kanako
+length 13
+====================
+\"It's fun.\"
+====================
+因为很开心
+====================
+
+====================
+index 136
+offset 32402
+name Kanako
+length 28
+====================
+\"Nothing here is painful.\"
+====================
+也没有让人痛苦的事情
+====================
+
+====================
+index 137
+offset 32716
+name NULL
+length 58
+====================
+Her words sound pretty sincere and leave me with no reply.
+====================
+这段话确实是真心话、我也没有说什么。
+====================
+
+====================
+index 138
+offset 32790
+name NULL
+length 63
+====================
+It seems the same goes for Tomoyo, and we sit there in silence.
+====================
+智代也和我一样、陷入到沉默之中。
+====================
+
+====================
+index 139
+offset 32869
+name NULL
+length 86
+====================
+Only Tomo seems confused and looks around at everyone with an unreserved restlessness.
+====================
+只有小智好像有些不可思议的样子、天真地看着大家的脸。
+====================
+
+====================
+index 140
+offset 33277
+name Kanako
+length 70
+====================
+\"Ah, I've brought everyone down even though it's summer vacation...\"
+====================
+啊啊、明明到暑假了却没什么激情了…
+====================
+
+====================
+index 141
+offset 33397
+name Kanako
+length 26
+====================
+\"I'll go buy ice cream.\"
+====================
+我去买冰激凌
+====================
+
+====================
+index 142
+offset 33743
+name Tomoya
+length 66
+====================
+\"See, you really were excited because it was summer vacation...\"
+====================
+果然放暑假还是很激动的嘛…
+====================
+
+====================
+index 143
+offset 33850
+name NULL
+length 43
+====================
+Kanako stands up alone and leaves the room.
+====================
+河南子一个人站了起来、走出房间。
+====================
+
+====================
+index 144
+offset 33943
+name Tomoyo
+length 13
+====================
+\"Kanako...\"
+====================
+河南子…
+====================
+
+====================
+index 145
+offset 33972
+name NULL
+length 68
+====================
+After hearing the sound of the door closing, Tomoyo speaks her name.
+====================
+听到门关上的声音、智代说起了她的想法。
+====================
+
+====================
+index 146
+offset 34364
+name Tomoyo
+length 54
+====================
+\"Despite what she says, she's suffering, isn't she?\"
+====================
+她虽然那么说、但其实还是很痛苦的吧
+====================
+
+====================
+index 147
+offset 34493
+name Tomoyo
+length 53
+====================
+\"Somehow... she looks like she's looking for help.\"
+====================
+总觉得…她在寻求着救助
+====================
+
+====================
+index 148
+offset 34634
+name Tomoya
+length 15
+====================
+\"Eh? Really?\"
+====================
+诶？是吗？
+====================
+
+====================
+index 149
+offset 34972
+name Tomoyo
+length 46
+====================
+\"What..? It didn't look that way to you...?\"
+====================
+怎么…朋也不这么觉得吗…
+====================
+
+====================
+index 150
+offset 35341
+name Tomoyo
+length 83
+====================
+\"It was obvious enough that I could tell even though I don't know her that well.\"
+====================
+我和她并不是非常熟悉不过我也这么觉得
+====================
+
+====================
+index 151
+offset 35474
+name Tomoyo
+length 39
+====================
+\"I thought you would have noticed...\"
+====================
+我以为朋也也会察觉到的…
+====================
+
+====================
+index 152
+offset 35563
+name Tomoya
+length 47
+====================
+\"My relationship with her is even shallower.\"
+====================
+我就更加不了解她了啊
+====================
+
+====================
+index 153
+offset 35660
+name Tomoyo
+length 66
+====================
+\"If you mean how long you've known each other, then yes, but...\"
+====================
+从时间上来说确实是这样…
+====================
+
+====================
+index 154
+offset 36049
+name Tomoyo
+length 19
+====================
+\"Well, whatever.\"
+====================
+算了、也好
+====================
+
+====================
+index 155
+offset 36118
+name Tomoyo
+length 35
+====================
+\"I want to do something for her.\"
+====================
+我想帮她做些什么
+====================
+
+====================
+index 156
+offset 36169
+name NULL
+length 70
+====================
+The sound of Takafumi tapping away at the keys gets noticeably louder.
+====================
+鹰文咔嚓咔嚓敲键盘的声音变响了。
+====================
+
+====================
+index 157
+offset 36289
+name Tomoyo
+length 13
+====================
+\"Let's go.\"
+====================
+出去吧
+====================
+
+====================
+index 158
+offset 36588
+name NULL
+length 26
+====================
+She prompts and stands up.
+====================
+智代催促着我。
+====================
+
+====================
+index 159
+offset 37809
+name Tomoyo
+length 40
+====================
+\"I think Kanako still loves Takafumi.\"
+====================
+我认为河南子现在还喜欢着鹰文
+====================
+
+====================
+index 160
+offset 37899
+name Tomoya
+length 11
+====================
+\"Really?\"
+====================
+是吗？
+====================
+
+====================
+index 161
+offset 37960
+name Tomoyo
+length 51
+====================
+\"Wasn't her goal from the start to see Takafumi?\"
+====================
+最开始难道不就是为了见鹰文吗
+====================
+
+====================
+index 162
+offset 38061
+name Tomoya
+length 69
+====================
+\"No, didn't she leave because she opposed her mother's remarriage?\"
+====================
+不、她不是说因为讨厌母亲的再婚吗？
+====================
+
+====================
+index 163
+offset 38453
+name Tomoyo
+length 38
+====================
+\"I think that was just the impetus.\"
+====================
+我想这只不过是个机会而已
+====================
+
+====================
+index 164
+offset 38541
+name Tomoyo
+length 54
+====================
+\"I think she came to ascertain Takafumi's feelings.\"
+====================
+我认为她是过来确认鹰文的意思的
+====================
+
+====================
+index 165
+offset 38645
+name Tomoya
+length 47
+====================
+\"But Takafumi doesn't seem to be interested.\"
+====================
+但是、鹰文好像看不出来有什么意思
+====================
+
+====================
+index 166
+offset 39015
+name Tomoyo
+length 11
+====================
+\"Really?\"
+====================
+是吗？
+====================
+
+====================
+index 167
+offset 39076
+name Tomoya
+length 32
+====================
+\"Eh? Isn't that how it looks?\"
+====================
+嗯、你看得出来有什么吗？
+====================
+
+====================
+index 168
+offset 39431
+name Tomoyo
+length 65
+====================
+\"Yes... it is. I'm his sister, so I can say that definitively.\"
+====================
+嗯…有。我是姐姐所以我能确定
+====================
+
+====================
+index 169
+offset 39546
+name Tomoya
+length 41
+====================
+\"So, why don't they get back together?\"
+====================
+那、为什么两个人不能继续了呢？
+====================
+
+====================
+index 170
+offset 39637
+name Tomoya
+length 47
+====================
+\"Just because there hasn't been a reason to?\"
+====================
+仅仅是因为缺少一个契机吗？
+====================
+
+====================
+index 171
+offset 40007
+name Tomoyo
+length 65
+====================
+\"I think something happened that we probably don't know about.\"
+====================
+大概是有我们不知道的什么问题存在吧
+====================
+
+====================
+index 172
+offset 40122
+name Tomoya
+length 45
+====================
+\"If so... it'd be from when they broke up.\"
+====================
+如果有的话…那两个人分别的时候
+====================
+
+====================
+index 173
+offset 40217
+name Tomoya
+length 49
+====================
+\"Something must have happened three years ago.\"
+====================
+也就是三年前、大概发生了什么吧
+====================
+
+====================
+index 174
+offset 40589
+name Tomoyo
+length 22
+====================
+\"Three years ago...\"
+====================
+三年前吗…
+====================
+
+====================
+index 175
+offset 40627
+name NULL
+length 33
+====================
+Tomoyo suddenly narrows her eyes.
+====================
+智代微微眯上了眼睛。
+====================
+
+====================
+index 176
+offset 40710
+name Tomoyo
+length 49
+====================
+\"Takafumi jumped into traffic three years ago.\"
+====================
+鹰文冲到公路上也是三年前
+====================
+
+====================
+index 177
+offset 40809
+name Tomoyo
+length 41
+====================
+\"Kanako's father died three years ago.\"
+====================
+河南子的父亲去世也是三年前
+====================
+
+====================
+index 178
+offset 40900
+name Tomoyo
+length 38
+====================
+\"And they broke up three years ago.\"
+====================
+然后、两个人分手也是三年前
+====================
+
+====================
+index 179
+offset 40954
+name NULL
+length 24
+====================
+She's quiet for a while.
+====================
+智代沉默了一会儿。
+====================
+
+====================
+index 180
+offset 41028
+name Tomoya
+length 17
+====================
+\"What's wrong?\"
+====================
+怎么了
+====================
+
+====================
+index 181
+offset 41368
+name Tomoyo
+length 11
+====================
+\"Well...\"
+====================
+不…
+====================
+
+====================
+index 182
+offset 41429
+name Tomoya
+length 31
+====================
+\"Do you know something else?\"
+====================
+你还知道什么事情吗？
+====================
+
+====================
+index 183
+offset 41510
+name Tomoyo
+length 16
+====================
+\"No, I don't.\"
+====================
+不、没有了
+====================
+
+====================
+index 184
+offset 41576
+name Tomoya
+length 41
+====================
+\"Then I'll ask Takafumi himself later.\"
+====================
+那、接下来就去问鹰文本人吧
+====================
+
+====================
+index 185
+offset 41940
+name Tomoyo
+length 82
+====================
+\"That won't be easy. I'm his older sister, and I don't even know much about it.\"
+====================
+这可不是容易的事情哦。就算我是他姐姐也知道的不多
+====================
+
+====================
+index 186
+offset 42072
+name Tomoya
+length 9
+====================
+\"True.\"
+====================
+是啊
+====================
+
+====================
+index 187
+offset 42404
+name Tomoyo
+length 30
+====================
+\"What do you plan on doing?\"
+====================
+打算怎么办？
+====================
+
+====================
+index 188
+offset 42484
+name Tomoya
+length 33
+====================
+\"I'll try asking him directly.\"
+====================
+直接问他
+====================
+
+====================
+index 189
+offset 42840
+name Tomoyo
+length 26
+====================
+\"You shouldn't do that.\"
+====================
+我想这个还是不要了
+====================
+
+====================
+index 190
+offset 42916
+name Tomoyo
+length 22
+====================
+\"This is a warning.\"
+====================
+这是忠告
+====================
+
+====================
+index 191
+offset 42988
+name Tomoyo
+length 81
+====================
+\"Don't think you can simply get it out of him. You'll end up losing his trust.\"
+====================
+别以为能够很轻松地打听到什么。会对你失去信任的哦
+====================
+
+====================
+index 192
+offset 43190
+name Tomoya
+length 39
+====================
+\"I was just thinking the same thing.\"
+====================
+我也差不多这么想
+====================
+
+====================
+index 193
+offset 43279
+name Tomoyo
+length 23
+====================
+\"I want to help her.\"
+====================
+我想帮他们
+====================
+
+====================
+index 194
+offset 43318
+name NULL
+length 70
+====================
+The sound of Takafumi tapping away at the keys gets noticeably louder.
+====================
+鹰文敲打键盘的声音又大了起来。
+====================
+
+====================
+index 195
+offset 43404
+name NULL
+length 62
+====================
+I give Tomoyo a look that says \"let's go outside for a bit\".
+====================
+智代使了个眼色叫我出去一会儿。
+====================
+
+====================
+index 196
+offset 44400
+name Tomoya
+length 35
+====================
+\"If Kanako wants to be helped...\"
+====================
+如果河南子寻求帮助的话…
+====================
+
+====================
+index 197
+offset 44485
+name Tomoya
+length 28
+====================
+\"It would be by Takafumi.\"
+====================
+那肯定是找鹰文了
+====================
+
+====================
+index 198
+offset 44529
+name NULL
+length 21
+====================
+I talk while walking.
+====================
+我边走边说。
+====================
+
+====================
+index 199
+offset 44600
+name Tomoya
+length 48
+====================
+\"It was her goal from the start to see him...\"
+====================
+最初河南子也就是为了要和那家伙见面…
+====================
+
+====================
+index 200
+offset 44698
+name Tomoya
+length 40
+====================
+\"I think Kanako still loves Takafumi.\"
+====================
+我认为河南子现在也喜欢着鹰文
+====================
+
+====================
+index 201
+offset 44788
+name Tomoya
+length 63
+====================
+\"I don't know what happened between those two in the past...\"
+====================
+虽然不知道过去他们两个之间发生了什么…
+====================
+
+====================
+index 202
+offset 44901
+name Tomoya
+length 34
+====================
+\"But Kanako came here to see...\"
+====================
+河南子是来确认的
+====================
+
+====================
+index 203
+offset 44985
+name Tomoya
+length 51
+====================
+\"...whether or not Takafumi still loves her too.\"
+====================
+鹰文是不是也仍然喜欢着自己
+====================
+
+====================
+index 204
+offset 45359
+name Tomoyo
+length 41
+====================
+\"Yeah... you're right. I think so too.\"
+====================
+嗯…是的。我也这么想
+====================
+
+====================
+index 205
+offset 45450
+name Tomoyo
+length 53
+====================
+\"One way or another, those two make a good couple.\"
+====================
+不管怎么说、这两个人还是挺配的
+====================
+
+====================
+index 206
+offset 45553
+name Tomoyo
+length 35
+====================
+\"Seriously, they're so contrary.\"
+====================
+真是不直率的家伙啊
+====================
+
+====================
+index 207
+offset 45638
+name Tomoya
+length 85
+====================
+\"If he's not willing to talk about it, then there is something keeping them apart.\"
+====================
+这么说的话、大概是因为什么我们不知道的事情导致他们分手了吧
+====================
+
+====================
+index 208
+offset 46046
+name Tomoyo
+length 14
+====================
+\"Really...?\"
+====================
+是这样吗…？
+====================
+
+====================
+index 209
+offset 46110
+name Tomoya
+length 13
+====================
+\"Probably.\"
+====================
+是的吧
+====================
+
+====================
+index 210
+offset 46173
+name Tomoya
+length 42
+====================
+\"Three years ago, when they broke up...\"
+====================
+问题是两个人分开的时候
+====================
+
+====================
+index 211
+offset 46265
+name Tomoya
+length 43
+====================
+\"...it's very likely something happened.\"
+====================
+也就是三年前发生了什么
+====================
+
+====================
+index 212
+offset 46631
+name Tomoyo
+length 23
+====================
+\"Three years ago...?\"
+====================
+三年前…
+====================
+
+====================
+index 213
+offset 46670
+name NULL
+length 33
+====================
+Tomoyo suddenly narrows her eyes.
+====================
+智代微微眯上了眼睛。
+====================
+
+====================
+index 214
+offset 46753
+name Tomoya
+length 49
+====================
+\"Takafumi jumped into traffic three years ago.\"
+====================
+鹰文冲到公路上也是三年前
+====================
+
+====================
+index 215
+offset 46852
+name Tomoya
+length 41
+====================
+\"Kanako's father died three years ago.\"
+====================
+河南子的父亲去世也是三年前
+====================
+
+====================
+index 216
+offset 46943
+name Tomoya
+length 38
+====================
+\"And they broke up three years ago.\"
+====================
+然后、两个人分手也是三年前
+====================
+
+====================
+index 217
+offset 47031
+name Tomoya
+length 18
+====================
+\"Right, Tomoyo?\"
+====================
+我说、智代
+====================
+
+====================
+index 218
+offset 47099
+name Tomoya
+length 85
+====================
+\"What happened three years ago... whatever you know is fine, so could you tell me?\"
+====================
+三年前发生的事、你还知道什么、告诉我好吗
+====================
+
+====================
+index 219
+offset 47474
+name NULL
+length 24
+====================
+After a short silence...
+====================
+稍稍沉默了一会儿…
+====================
+
+====================
+index 220
+offset 47548
+name Tomoyo
+length 11
+====================
+\"Yeah...\"
+====================
+嗯…
+====================
+
+====================
+index 221
+offset 47575
+name NULL
+length 9
+====================
+She nods.
+====================
+智代点点头。
+====================
+
+====================
+index 222
+offset 48479
+name Tomoyo
+length 63
+====================
+\"Kanako's father was the coach for the track and field team.\"
+====================
+河南子的父亲、是田径部的顾问
+====================
+
+====================
+index 223
+offset 48592
+name Tomoyo
+length 56
+====================
+\"Takafumi idolized him and was doing track and field.\"
+====================
+鹰文因为仰慕那个人所以加入了田径部
+====================
+
+====================
+index 224
+offset 48698
+name Tomoyo
+length 34
+====================
+\"He was a long-distance runner.\"
+====================
+是长跑运动员
+====================
+
+====================
+index 225
+offset 48782
+name Tomoyo
+length 71
+====================
+\"Her father died... three months after Takafumi jumped into traffic.\"
+====================
+她父亲去世…是鹰文冲上公路的３个月后
+====================
+
+====================
+index 226
+offset 48903
+name Tomoyo
+length 46
+====================
+\"It was shortly after he left the hospital.\"
+====================
+出院后不久的事情
+====================
+
+====================
+index 227
+offset 48999
+name Tomoyo
+length 79
+====================
+\"Her father had a weak heart... and he collapsed from a heart attack, and...\"
+====================
+他本来心脏就不好…心脏病突发而倒下了…
+====================
+
+====================
+index 228
+offset 49128
+name Tomoyo
+length 11
+====================
+\"Then...\"
+====================
+然后…
+====================
+
+====================
+index 229
+offset 49189
+name Tomoyo
+length 55
+====================
+\"After that... Takafumi and Kanako became estranged.\"
+====================
+在这个状况下…鹰文和河南子就渐渐疏远了
+====================
+
+====================
+index 230
+offset 49294
+name Tomoyo
+length 22
+====================
+\"That's all I know.\"
+====================
+我知道的事情就只有这些了
+====================
+
+====================
+index 231
+offset 49366
+name Tomoyo
+length 19
+====================
+\"Isn't that sad?\"
+====================
+真是让人难受啊
+====================
+
+====================
+index 232
+offset 49438
+name Tomoya
+length 26
+====================
+\"Thanks, that's enough.\"
+====================
+谢谢、够了。
+====================
+
+====================
+index 233
+offset 49514
+name Tomoya
+length 37
+====================
+\"Later, I'll ask Takafumi himself.\"
+====================
+下面就直接去问鹰文本人吧
+====================
+
+====================
+index 234
+offset 49874
+name Tomoyo
+length 23
+====================
+\"That won't be easy.\"
+====================
+这不是容易的事情哦
+====================
+
+====================
+index 235
+offset 49947
+name Tomoya
+length 17
+====================
+\"Probably not.\"
+====================
+是啊
+====================
+
+====================
+index 236
+offset 50014
+name Tomoyo
+length 30
+====================
+\"What do you plan on doing?\"
+====================
+你打算怎么做？
+====================
+
+====================
+index 237
+offset 50083
+name NULL
+length 16
+====================
+Ask him directly
+====================
+直接问他
+====================
+
+====================
+index 238
+offset 50104
+name NULL
+length 25
+====================
+Avoid asking him directly
+====================
+别去问
+====================
+
+====================
+index 239
+offset 50235
+name Tomoya
+length 33
+====================
+\"I'll try asking him directly.\"
+====================
+我直接去问他
+====================
+
+====================
+index 240
+offset 50591
+name Tomoyo
+length 26
+====================
+\"You shouldn't do that.\"
+====================
+我认为还是不要比较好
+====================
+
+====================
+index 241
+offset 50667
+name Tomoyo
+length 22
+====================
+\"This is a warning.\"
+====================
+这是忠告
+====================
+
+====================
+index 242
+offset 50739
+name Tomoyo
+length 81
+====================
+\"Don't think you can simply get it out of him. You'll end up losing his trust.\"
+====================
+别以为能轻松打听到。会让他不再信任你
+====================
+
+====================
+index 243
+offset 50859
+name NULL
+length 16
+====================
+Heed her warning
+====================
+听从这个忠告
+====================
+
+====================
+index 244
+offset 50880
+name NULL
+length 9
+====================
+Ignore it
+====================
+不听忠告
+====================
+
+====================
+index 245
+offset 50995
+name Tomoya
+length 52
+====================
+\"In that case, I'll try and think of another way.\"
+====================
+那就想想有没有其他办法吧
+====================
+
+====================
+index 246
+offset 51370
+name Tomoyo
+length 9
+====================
+\"Okay.\"
+====================
+嗯
+====================
+
+====================
+index 247
+offset 51491
+name Tomoya
+length 44
+====================
+\"Everything is a straight-forward battle.\"
+====================
+什么事情都要直接面对
+====================
+
+====================
+index 248
+offset 51858
+name Tomoyo
+length 57
+====================
+\"I see... it looks like it'd be pointless to stop you.\"
+====================
+是吗…看来就算阻止你也没用了
+====================
+
+====================
+index 249
+offset 52816
+name Tomoya
+length 18
+====================
+\"Hey, Takafumi.\"
+====================
+喂、鹰文
+====================
+
+====================
+index 250
+offset 52850
+name NULL
+length 56
+====================
+I follow Takafumi as he's on his way home and catch him.
+====================
+我追上正在回家的鹰文、把他拦了下来。
+====================
+
+====================
+index 251
+offset 53230
+name Takafumi
+length 35
+====================
+\"Why are you standing in my way?\"
+====================
+突然挡在别人面前、有什么事情吗？
+====================
+
+====================
+index 252
+offset 53315
+name Tomoya
+length 20
+====================
+\"We need to talk.\"
+====================
+有话对你说
+====================
+
+====================
+index 253
+offset 53387
+name Takafumi
+length 15
+====================
+\"About what?\"
+====================
+什么？
+====================
+
+====================
+index 254
+offset 53452
+name Tomoya
+length 46
+====================
+\"What happened with Kanako three years ago?\"
+====================
+你和河南子三年前发生了什么吗？
+====================
+
+====================
+index 255
+offset 53514
+name NULL
+length 23
+====================
+I ask him straight out.
+====================
+我直接开口问他。
+====================
+
+====================
+index 256
+offset 53861
+name Takafumi
+length 28
+====================
+\"...I've told you before.\"
+====================
+…我以前说过的吧
+====================
+
+====================
+index 257
+offset 53939
+name Tomoya
+length 40
+====================
+\"Yeah, that you jumped into the road.\"
+====================
+嗯、你冲到公路当中
+====================
+
+====================
+index 258
+offset 54303
+name Takafumi
+length 14
+====================
+\"That's it.\"
+====================
+就只是这样
+====================
+
+====================
+index 259
+offset 54367
+name Tomoya
+length 54
+====================
+\"That's not enough. Something happened with Kanako.\"
+====================
+肯定不止这样。肯定和河南子之间发生了什么
+====================
+
+====================
+index 260
+offset 54745
+name Takafumi
+length 34
+====================
+\"It has nothing to do with you.\"
+====================
+和哥哥你没关系啦
+====================
+
+====================
+index 261
+offset 54829
+name Tomoya
+length 12
+====================
+\"It does.\"
+====================
+有的
+====================
+
+====================
+index 262
+offset 55165
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 263
+offset 55502
+name Takafumi
+length 43
+====================
+\"...we were just going out and broke up.\"
+====================
+…只是交往了又分手了而已
+====================
+
+====================
+index 264
+offset 55597
+name Takafumi
+length 70
+====================
+\"I've said it plenty of times, but me and Kanako are through, okay?\"
+====================
+我说过很多次了、我已经和河南子结束了不是吗？
+====================
+
+====================
+index 265
+offset 55719
+name Takafumi
+length 24
+====================
+\"It's a common story.\"
+====================
+这种事情经常发生啦
+====================
+
+====================
+index 266
+offset 55793
+name Tomoya
+length 37
+====================
+\"Okay, what about track and field?\"
+====================
+那田径呢？
+====================
+
+====================
+index 267
+offset 55846
+name NULL
+length 53
+====================
+I decide to change the direction of the conversation.
+====================
+我决定换个话题。
+====================
+
+====================
+index 268
+offset 55949
+name Tomoya
+length 41
+====================
+\"Won't you tell me about your teacher?\"
+====================
+能对我说说你恩师的事情吗
+====================
+
+====================
+index 269
+offset 56314
+name Takafumi
+length 29
+====================
+\"I know of no such person.\"
+====================
+我哪有什么恩师
+====================
+
+====================
+index 270
+offset 56393
+name Tomoya
+length 32
+====================
+\"You do. I heard from Tomoyo.\"
+====================
+肯定有的。我从智代那里听说了
+====================
+
+====================
+index 271
+offset 56477
+name Takafumi
+length 68
+====================
+\"Gossiping like that... even though it's none of your business...\"
+====================
+这样到处打听…明明跟你没关系…
+====================
+
+====================
+index 272
+offset 56869
+name Takafumi
+length 25
+====================
+\"You know, Nii-chan...\"
+====================
+我说、老哥…
+====================
+
+====================
+index 273
+offset 56946
+name Takafumi
+length 50
+====================
+\"Even I have things I don't want to talk about.\"
+====================
+就算是我、也有不想说的事。
+====================
+
+====================
+index 274
+offset 57048
+name Takafumi
+length 37
+====================
+\"And there are times I get pissed.\"
+====================
+也有会让我火大的时候。
+====================
+
+====================
+index 275
+offset 57137
+name Takafumi
+length 21
+====================
+\"Like right now...\"
+====================
+比如现在…
+====================
+
+====================
+index 276
+offset 57208
+name Tomoya
+length 42
+====================
+\"...what do you plan on doing about it?\"
+====================
+…你打算怎么办？
+====================
+
+====================
+index 277
+offset 57574
+name Takafumi
+length 9
+====================
+\"This!\"
+====================
+这样！
+====================
+
+====================
+index 278
+offset 57905
+name NULL
+length 7
+====================
+*Whack*
+====================
+啪嚓！
+====================
+
+====================
+index 279
+offset 57928
+name NULL
+length 65
+====================
+My face is pushed far to the side as Takafumi lands a hard punch.
+====================
+鹰文一记重拳打来、我的脸被猛地打向一侧。
+====================
+
+====================
+index 280
+offset 58043
+name Tomoya
+length 27
+====================
+\"That hurts... you punk!\"
+====================
+直接去问他
+====================
+
+====================
+index 281
+offset 58086
+name NULL
+length 55
+====================
+I move to return the blow, but that's not what happens.
+====================
+我正要还手、可事情并没有那样发展。
+====================
+
+====================
+index 282
+offset 58464
+name Tomoyo
+length 12
+====================
+\"Stop it.\"
+====================
+住手。
+====================
+
+====================
+index 283
+offset 58492
+name NULL
+length 26
+====================
+Tomoyo is holding my fist.
+====================
+智代抓住了我的拳头。
+====================
+
+====================
+index 284
+offset 58841
+name Tomoyo
+length 26
+====================
+\"You shouldn't fight...\"
+====================
+你们不该打架…
+====================
+
+====================
+index 285
+offset 58917
+name Tomoyo
+length 43
+====================
+\"Haven't you two always gotten along...?\"
+====================
+我认为还是不要比较好
+====================
+
+====================
+index 286
+offset 59010
+name Tomoyo
+length 31
+====================
+\"How did it come to this...?\"
+====================
+这是忠告
+====================
+
+====================
+index 287
+offset 59057
+name NULL
+length 54
+====================
+Hearing her poignant voice, we finally cool our heads.
+====================
+听到她那带着痛楚的声音、我们终于冷静了下来。
+====================
+
+====================
+index 288
+offset 59435
+name Takafumi
+length 52
+====================
+\"...it's fine, as long as everyone is having fun.\"
+====================
+…没关系、只要大家都能开心就好。
+====================
+
+====================
+index 289
+offset 59539
+name Takafumi
+length 13
+====================
+\"Right...?\"
+====================
+对吧…？
+====================
+
+====================
+index 290
+offset 59875
+name Tomoyo
+length 14
+====================
+\"Of course.\"
+====================
+别以为能够很轻松地打听到什么。会对你失去信任的哦
+====================
+
+====================
+index 291
+offset 60213
+name Takafumi
+length 36
+====================
+\"Then let's keep going as we are.\"
+====================
+那就保持现在这样继续下去吧。
+====================
+
+====================
+index 292
+offset 60301
+name Takafumi
+length 21
+====================
+\"That'd be fine...\"
+====================
+那样也好…
+====================
+
+====================
+index 293
+offset 60608
+name NULL
+length 20
+====================
+Takafumi turns away.
+====================
+听从这个忠告
+====================
+
+====================
+index 294
+offset 60680
+name Takafumi
+length 11
+====================
+\"See ya.\"
+====================
+回头见。
+====================
+
+====================
+index 295
+offset 60707
+name NULL
+length 29
+====================
+And like that, he walks away.
+====================
+不听智代的
+====================
+
+====================
+index 296
+offset 61059
+name Tomoyo
+length 52
+====================
+\"Tomoya, you need to reflect on what you've done.\"
+====================
+朋也、你得好好反省一下自己做的事。
+====================
+
+====================
+index 297
+offset 61161
+name Tomoya
+length 18
+====================
+\"Yeah, sorry...\"
+====================
+那就想想看有没有其他的什么方法吧
+====================
+
+====================
+index 298
+offset 61651
+name NULL
+length 7
+====================
+BAD END
+====================
+ＢＡＤ　ＥＮＤ
+====================
+
+====================
+index 299
+offset 62093
+name NULL
+length 61
+====================
+Every day or so, I would throw the same question at Takafumi.
+====================
+隔三差五、我就会向鹰文抛出同样的问题。
+====================
+
+====================
+index 300
+offset 62170
+name NULL
+length 65
+====================
+Even so, Takafumi was stubborn and continued to refuse to answer.
+====================
+即便如此、鹰文依然固执、始终拒绝回答。
+====================
+
+====================
+index 301
+offset 62251
+name NULL
+length 40
+====================
+Gradually, Takafumi stopped coming over.
+====================
+渐渐地、鹰文不再过来了。
+====================
+
+====================
+index 302
+offset 62307
+name NULL
+length 61
+====================
+Even if I tried to call him over through Tomoyo, he wouldn't.
+====================
+就算我托智代去叫他、他也不肯来。
+====================
+
+====================
+index 303
+offset 63533
+name Tomoyo
+length 34
+====================
+\"You should give him some time.\"
+====================
+给他一些时间吧。
+====================
+
+====================
+index 304
+offset 63617
+name Tomoyo
+length 35
+====================
+\"Could you leave him be for now?\"
+====================
+嗯
+====================
+
+====================
+index 305
+offset 63702
+name Tomoya
+length 26
+====================
+\"...yeah, I understand.\"
+====================
+…嗯、我明白。
+====================
+
+====================
+index 306
+offset 63744
+name NULL
+length 85
+====================
+Tomoyo isn't blaming me, but it's a fact that me setting Takafumi off is hurting her.
+====================
+智代并没有责怪我、可我把鹰文惹毛这件事、确实在伤害着她。
+====================
+
+====================
+index 307
+offset 63845
+name NULL
+length 43
+====================
+If only I hadn't meddled in his business...
+====================
+要是我没去多管他的闲事就好了…
+====================
+
+====================
+index 308
+offset 64028
+name Tomoya
+length 60
+====================
+\"Even if I ask him directly, he probably won't tell me...\"
+====================
+就算直接问他估计他也不会说的…
+====================
+
+====================
+index 309
+offset 64138
+name Tomoya
+length 35
+====================
+\"I'll try thinking of something.\"
+====================
+还是想想有什么其他办法好了
+====================
+
+====================
+index 310
+offset 64496
+name Tomoyo
+length 9
+====================
+\"Okay.\"
+====================
+嗯
+====================
+
+====================
+index 311
+offset 64838
+name Tomoyo
+length 24
+====================
+\"Takafumi trusts you.\"
+====================
+鹰文信赖着你
+====================
+
+====================
+index 312
+offset 64912
+name Tomoyo
+length 17
+====================
+\"He loves you.\"
+====================
+他喜欢你的
+====================
+
+====================
+index 313
+offset 64979
+name Tomoyo
+length 47
+====================
+\"I want you to let it stay that way forever.\"
+====================
+我希望能一直是这样
+====================
+
+====================
+index 314
+offset 65076
+name Tomoyo
+length 19
+====================
+\"That's my hope.\"
+====================
+这是我的希望
+====================
+
+====================
+index 315
+offset 65145
+name Tomoya
+length 9
+====================
+\"Yeah.\"
+====================
+嗯
+====================

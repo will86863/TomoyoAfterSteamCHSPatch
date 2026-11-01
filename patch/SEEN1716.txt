@@ -1,0 +1,1245 @@
+type seen1716
+count 113
+
+====================
+index 1
+offset 551
+name Takafumi
+length 43
+====================
+\"Did you want to ask me something again?\"
+====================
+你又想问我什么了吗？
+====================
+
+====================
+index 2
+offset 653
+name Tomoya
+length 61
+====================
+\"For now, I know that Yawara-chan will do the programming.\"
+====================
+目前我只知道、程序是YAWARA来做的。
+====================
+
+====================
+index 3
+offset 1041
+name Takafumi
+length 31
+====================
+\"No, I don't think she will.\"
+====================
+不、我觉得她不会做。
+====================
+
+====================
+index 4
+offset 1122
+name Tomoya
+length 38
+====================
+\"You can create a game then, right?\"
+====================
+那你自己不就能做游戏了吗？
+====================
+
+====================
+index 5
+offset 1484
+name Takafumi
+length 18
+====================
+\"Well, sort of.\"
+====================
+嗯、算是吧。
+====================
+
+====================
+index 6
+offset 1554
+name Takafumi
+length 37
+====================
+\"But it'd be impossible by myself.\"
+====================
+不过光靠我一个人是不可能的。
+====================
+
+====================
+index 7
+offset 1643
+name Takafumi
+length 75
+====================
+\"Furthermore, at the very least, we need someone to handle the graphics.\"
+====================
+而且、至少还得有人负责美术。
+====================
+
+====================
+index 8
+offset 1777
+name Tomoya
+length 30
+====================
+\"Yawara-chan can't do that?\"
+====================
+YAWARA不能做吗？
+====================
+
+====================
+index 9
+offset 1862
+name Takafumi
+length 31
+====================
+\"A programmer can't do that.\"
+====================
+程序员做不了那个。
+====================
+
+====================
+index 10
+offset 2217
+name Takafumi
+length 125
+====================
+\"In the past, you could have a single person handle multiple tasks, but you really need to distribute the work these days.\"
+====================
+以前的话、一个人可以兼顾好几项工作、可现在必须把活分下去才行。
+====================
+
+====================
+index 11
+offset 2394
+name Takafumi
+length 58
+====================
+\"After all, hardware keeps getting better and better...\"
+====================
+毕竟硬件的性能越来越好了…
+====================
+
+====================
+index 12
+offset 2471
+name NULL
+length 54
+====================
+Takafumi spouts line after line in a foreign language.
+====================
+鹰文叽里咕噜地吐出一串外星话。
+====================
+
+====================
+index 13
+offset 2541
+name NULL
+length 34
+====================
+It's starting to make me sleepy...
+====================
+我开始犯困了…
+====================
+
+====================
+index 14
+offset 2902
+name Takafumi
+length 15
+====================
+\"HAHAHAHAHA!\"
+====================
+HAHAHAHAHA!
+====================
+
+====================
+index 15
+offset 2933
+name NULL
+length 49
+====================
+Whoa, Takafumi has turned into a foreigner again!
+====================
+哇、鹰文又变成外国人了！
+====================
+
+====================
+index 16
+offset 3034
+name Takafumi
+length 47
+====================
+\"Oh! I've finally come to the land of Japan!\"
+====================
+OH！我终于来到日本这片土地了！
+====================
+
+====================
+index 17
+offset 3133
+name Takafumi
+length 52
+====================
+\"I got into the country with a handmade passport!\"
+====================
+我是拿手工做的护照入境的！
+====================
+
+====================
+index 18
+offset 3201
+name NULL
+length 18
+====================
+Isn't that bad...?
+====================
+这样不妙吧…？
+====================
+
+====================
+index 19
+offset 3271
+name Takafumi
+length 23
+====================
+\"Oh! You Sony? Sony?\"
+====================
+OH！YOU、是SONY吗？SONY？
+====================
+
+====================
+index 20
+offset 3310
+name NULL
+length 25
+====================
+No, that's not a human...
+====================
+不、那才不是人呢…
+====================
+
+====================
+index 21
+offset 3387
+name Takafumi
+length 30
+====================
+\"You, Panasonic? Panasonic?\"
+====================
+YOU、是PANASONIC吗？PANASONIC？
+====================
+
+====================
+index 22
+offset 3433
+name NULL
+length 27
+====================
+I'm not Panasonic either...
+====================
+我也不是松下电器啊…
+====================
+
+====================
+index 23
+offset 3512
+name Takafumi
+length 36
+====================
+\"Then Toto? You Toto-made, right?\"
+====================
+那么是TOTO？YOU是MADE IN TOTO吧？
+====================
+
+====================
+index 24
+offset 3594
+name NULL
+length 42
+====================
+You're saying that on purpose, aren't you?
+====================
+你是故意的吧？
+====================
+
+====================
+index 25
+offset 3688
+name Takafumi
+length 41
+====================
+\"Oh! It was Toto, Toto-made! HAHAHAHA!\"
+====================
+OH！原来是TOTO、MADE IN TOTO啊！HAHAHAHA！
+====================
+
+====================
+index 26
+offset 3745
+name NULL
+length 36
+====================
+He's definitely doing it on purpose.
+====================
+他绝对是故意的。
+====================
+
+====================
+index 27
+offset 4108
+name Takafumi
+length 44
+====================
+\"Nii-chan, were you even listening to me?\"
+====================
+老哥、你有在好好听我说吗？
+====================
+
+====================
+index 28
+offset 4168
+name NULL
+length 23
+====================
+He finishes explaining.
+====================
+他说完了。
+====================
+
+====================
+index 29
+offset 4241
+name Tomoya
+length 54
+====================
+\"Yeah, I was. You said that on purpose, didn't you?\"
+====================
+嗯、听着呢。你是故意的吧？
+====================
+
+====================
+index 30
+offset 4619
+name Takafumi
+length 34
+====================
+\"Why is he getting all angry...\"
+====================
+他干嘛突然生气啊…
+====================
+
+====================
+index 31
+offset 4810
+name Tomoya
+length 27
+====================
+\"What, I look Toto-made?\"
+====================
+怎么、我像MADE IN TOTO的吗？
+====================
+
+====================
+index 32
+offset 5321
+name Takafumi
+length 52
+====================
+\"No, I have no idea what you are talking about...\"
+====================
+不、我完全不明白你在说什么…
+====================
+
+====================
+index 33
+offset 5500
+name Tomoya
+length 31
+====================
+\"What, I look like a urinal?\"
+====================
+怎么、我看起来像马桶吗？
+====================
+
+====================
+index 34
+offset 6015
+name Takafumi
+length 28
+====================
+\"No, I never said that...\"
+====================
+不、我可没说过那种话…
+====================
+
+====================
+index 35
+offset 6170
+name Tomoya
+length 19
+====================
+\"You, Toto-made?\"
+====================
+YOU、是MADE IN TOTO吗？
+====================
+
+====================
+index 36
+offset 6673
+name Takafumi
+length 11
+====================
+\"No, no.\"
+====================
+不、不是。
+====================
+
+====================
+index 37
+offset 6734
+name Tomoya
+length 67
+====================
+\"How is it? Being spoken to like that makes you feel bad, right?\"
+====================
+怎么样？被人这么说、心情很不舒服吧？
+====================
+
+====================
+index 38
+offset 7125
+name Takafumi
+length 34
+====================
+\"What did I do to deserve this?\"
+====================
+我到底做了什么要受这种罪啊？
+====================
+
+====================
+index 39
+offset 7286
+name Tomoya
+length 19
+====================
+\"You, Toto-made?\"
+====================
+YOU、是MADE IN TOTO吗？
+====================
+
+====================
+index 40
+offset 7789
+name Takafumi
+length 17
+====================
+\"You're wrong.\"
+====================
+你搞错了。
+====================
+
+====================
+index 41
+offset 8366
+name Tomoya
+length 45
+====================
+\"You reading some advertising guide again?\"
+====================
+你又在看什么广告指南了？
+====================
+
+====================
+index 42
+offset 8893
+name Kanako
+length 18
+====================
+\"Yeah, sort of.\"
+====================
+是啊、差不多吧。
+====================
+
+====================
+index 43
+offset 8961
+name Tomoya
+length 17
+====================
+\"Naming again?\"
+====================
+又在起名字了？
+====================
+
+====================
+index 44
+offset 9031
+name Kanako
+length 94
+====================
+\"No, this time I'm trying to do something more challenging and am writing a drama scenario.\"
+====================
+不是、这次我想挑战点更有难度的、正在写剧本。
+====================
+
+====================
+index 45
+offset 9175
+name Tomoya
+length 37
+====================
+\"That's too much of an increase...\"
+====================
+这跨度也太大了…
+====================
+
+====================
+index 46
+offset 9262
+name Kanako
+length 38
+====================
+\"I finished the first part already.\"
+====================
+第一部分我已经写完了。
+====================
+
+====================
+index 47
+offset 9623
+name Kanako
+length 63
+====================
+\"Say everyone, since we're all here, want to do it together?\"
+====================
+大家、既然人都在、要不要一起演？
+====================
+
+====================
+index 48
+offset 9736
+name Tomoya
+length 12
+====================
+\"Do what?\"
+====================
+演什么？
+====================
+
+====================
+index 49
+offset 10071
+name Kanako
+length 60
+====================
+\"The drama, of course. I already have the roles assigned.\"
+====================
+当然是演戏啊。角色我都分配好了。
+====================
+
+====================
+index 50
+offset 10576
+name NULL
+length 71
+====================
+As she speaks, she distributes scraps of notebook paper to each person.
+====================
+她一边说着、一边把笔记本撕成的小纸片发给每个人。
+====================
+
+====================
+index 51
+offset 10663
+name NULL
+length 42
+====================
+The title is \"The Great Detective Tomo\".
+====================
+题目是『名侦探小智』。
+====================
+
+====================
+index 52
+offset 11083
+name Kanako
+length 280
+====================
+\"This is the story about the attractive detective Tomo, who has been turned into a child by medicine created by the Organization of Darkness. Despite that, she retains her intelligence and puts adults to shame as a mystery detective by solving one difficult case after another.\"
+====================
+这是关于那位魅力十足的名侦探小智的故事。她被黑暗组织制造的药物变成了小孩、却依然保留着智慧、接连侦破疑难案件、让大人们颜面扫地。
+====================
+
+====================
+index 53
+offset 11468
+name Tomoya
+length 35
+====================
+\"I've heard that story before...\"
+====================
+我好像在哪听过这个故事…
+====================
+
+====================
+index 54
+offset 11865
+name Kanako
+length 186
+====================
+\"Tomo will be the protagonist, a detective who's been turned into a child. And you'll be an elite detective, Takafumi'll be an elite detecteive, and Senpai will be an elite detective.\"
+====================
+小智是主角、也就是被变成小孩的侦探。然后你是精英刑警、鹰文是精英刑警、学姐也是精英刑警。
+====================
+
+====================
+index 55
+offset 12101
+name Tomoya
+length 37
+====================
+\"Why do we all have the same role?\"
+====================
+为什么大家的角色都一样啊？
+====================
+
+====================
+index 56
+offset 12461
+name Kanako
+length 108
+====================
+\"You don't get it, do you? Being able to outwit all the other elite detectives is what makes her special.\"
+====================
+你还不明白吗？能把其他精英刑警全都比下去、这才是她的厉害之处。
+====================
+
+====================
+index 57
+offset 12619
+name Tomoya
+length 33
+====================
+\"Oh, so that's how it works...\"
+====================
+哦、原来是这么回事…
+====================
+
+====================
+index 58
+offset 12975
+name Kanako
+length 60
+====================
+\"Ok, let's start from when we arrive at the murder scene!\"
+====================
+好、那就从我们到达案发现场开始吧！
+====================
+
+====================
+index 59
+offset 13974
+name Tomoya
+length 116
+====================
+\"Inspector, it seems that all the windows and doors inside were locked from the inside when the victim was found.\"
+====================
+警部、发现遗体的时候、房里的门窗似乎全都是从内侧锁上的。
+====================
+
+====================
+index 60
+offset 14413
+name Tomoyo
+length 42
+====================
+\"What? In other words, it means that...\"
+====================
+什么？也就是说…
+====================
+
+====================
+index 61
+offset 14778
+name Tomoyo
+length 73
+====================
+\"What does it mean? I have no clue at all. What are you talking about?\"
+====================
+是什么意思啊？我完全不明白。你在说什么？
+====================
+
+====================
+index 62
+offset 15175
+name Takafumi
+length 41
+====================
+\"Inspector, we've got new information.\"
+====================
+警部、我们得到了新情报。
+====================
+
+====================
+index 63
+offset 15268
+name Takafumi
+length 95
+====================
+\"It seems that two days ago, another member of the club the victim was in also went missing.\"
+====================
+据说两天前、被害者所属社团的另一名成员也失踪了。
+====================
+
+====================
+index 64
+offset 15686
+name Tomoyo
+length 9
+====================
+\"What?\"
+====================
+什么？
+====================
+
+====================
+index 65
+offset 16018
+name Tomoyo
+length 39
+====================
+\"Who are you? I have no clue at all.\"
+====================
+你是谁啊？我完全不明白。
+====================
+
+====================
+index 66
+offset 16399
+name Tomoya
+length 21
+====================
+\"Hold on a minute.\"
+====================
+等一下。
+====================
+
+====================
+index 67
+offset 16764
+name Kanako
+length 37
+====================
+\"What is it? It was going so well.\"
+====================
+怎么了？明明进展得这么顺利。
+====================
+
+====================
+index 68
+offset 16851
+name Tomoya
+length 41
+====================
+\"Why is the elite detective so stupid?\"
+====================
+为什么精英刑警会这么蠢啊？
+====================
+
+====================
+index 69
+offset 16942
+name Tomoya
+length 78
+====================
+\"I mean, she's dumber even than your average person, let alone a detective.\"
+====================
+我是说、她比普通人还笨、更别说当侦探了。
+====================
+
+====================
+index 70
+offset 17343
+name Kanako
+length 93
+====================
+\"It'll make the play even more exciting, so we're going with it. You don't seem to get it.\"
+====================
+这样戏会更好看、就这么演下去。看来你是不懂啊。
+====================
+
+====================
+index 71
+offset 17486
+name Tomoya
+length 13
+====================
+\"Really...\"
+====================
+真是的…
+====================
+
+====================
+index 72
+offset 18066
+name Tomoya
+length 92
+====================
+\"They need to do some investigating. Otherwise it won't feel like they've been outwitted.\"
+====================
+他们得去做些调查才行。不然就显不出被比下去的滋味了。
+====================
+
+====================
+index 73
+offset 18641
+name Kanako
+length 51
+====================
+\"Hm, well then, how about something like this...\"
+====================
+嗯、那这样的话怎么样…
+====================
+
+====================
+index 74
+offset 18978
+name NULL
+length 73
+====================
+She takes the ballpoint pen in her hand and quickly scribbles some notes.
+====================
+她拿起圆珠笔、唰唰地写了几笔。
+====================
+
+====================
+index 75
+offset 19374
+name Kanako
+length 43
+====================
+\"Ok, finished. I'm counting on everyone.\"
+====================
+好、写完了。各位、拜托了。
+====================
+
+====================
+index 76
+offset 19740
+name Kanako
+length 61
+====================
+\"Ok, let's start from when you arrive at the murder scene!\"
+====================
+好、那就从你们到达案发现场开始吧！
+====================
+
+====================
+index 77
+offset 21010
+name Tomoyo
+length 40
+====================
+\"A murder in a closed room, eh... Hm.\"
+====================
+密室杀人啊…嗯。
+====================
+
+====================
+index 78
+offset 21374
+name Takafumi
+length 35
+====================
+\"Inspector, please look at this.\"
+====================
+警部、请看这个。
+====================
+
+====================
+index 79
+offset 21733
+name Takafumi
+length 67
+====================
+\"Even when the front door is locked, there is still a small gap.\"
+====================
+即使大门上了锁、这里还是有一道小小的缝隙。
+====================
+
+====================
+index 80
+offset 22123
+name Tomoyo
+length 37
+====================
+\"What? In other words, it means...\"
+====================
+什么？也就是说…
+====================
+
+====================
+index 81
+offset 22483
+name Tomoyo
+length 39
+====================
+\"It means the criminal is very thin.\"
+====================
+也就是说、犯人是瘦子。
+====================
+
+====================
+index 82
+offset 22846
+name Takafumi
+length 60
+====================
+\"Yes, no doubt about it. We believe the criminal is thin.\"
+====================
+是的、不会有错。我们认为犯人是瘦子。
+====================
+
+====================
+index 83
+offset 23226
+name Tomoya
+length 45
+====================
+\"What is it? Did you figure something out?\"
+====================
+怎么了？你们发现了什么吗？
+====================
+
+====================
+index 84
+offset 23595
+name Takafumi
+length 57
+====================
+\"We know a defining feature of the culprit: he's thin.\"
+====================
+我们查明了犯人的一个特征、就是他很瘦。
+====================
+
+====================
+index 85
+offset 23975
+name Tomoyo
+length 75
+====================
+\"Expand the investigation to every thin person! Leave no stone unturned!\"
+====================
+把搜查范围扩大到所有瘦子身上！一个都不能漏！
+====================
+
+====================
+index 86
+offset 24392
+name Tomoya
+length 21
+====================
+\"Hold on a minute.\"
+====================
+等一下。
+====================
+
+====================
+index 87
+offset 24757
+name Kanako
+length 37
+====================
+\"What is it? It was going so well.\"
+====================
+怎么了？明明进展得这么顺利。
+====================
+
+====================
+index 88
+offset 24844
+name Tomoya
+length 60
+====================
+\"Your first script was stupid, but this one is no better.\"
+====================
+你第一版剧本很蠢、这一版也没好到哪去。
+====================
+
+====================
+index 89
+offset 24957
+name Kanako
+length 62
+====================
+\"You do nothing but complain. Why don't you give it a try?!\"
+====================
+你就只会抱怨。那你自己来写啊？！
+====================
+
+====================
+index 90
+offset 25069
+name Tomoya
+length 51
+====================
+\"No, I'm not looking to become a scriptwriter...\"
+====================
+不、我没打算当什么剧本家…
+====================
+
+====================
+index 91
+offset 25690
+name Tomoya
+length 103
+====================
+\"Also, if it's a detective story, you have to have some mystery in it. The last one was too obvious.\"
+====================
+再说、既然是侦探故事、总得有点悬念吧。上一版太一目了然了。
+====================
+
+====================
+index 92
+offset 26276
+name Kanako
+length 51
+====================
+\"Hm, well then, how about something like this...\"
+====================
+嗯、那这样的话怎么样…
+====================
+
+====================
+index 93
+offset 26613
+name NULL
+length 73
+====================
+She takes the ballpoint pen in her hand and quickly scribbles some notes.
+====================
+她拿起圆珠笔、唰唰地写了几笔。
+====================
+
+====================
+index 94
+offset 27009
+name Kanako
+length 43
+====================
+\"Ok, finished. I'm counting on everyone.\"
+====================
+好、写完了。各位、拜托了。
+====================
+
+====================
+index 95
+offset 27375
+name Kanako
+length 60
+====================
+\"Ok, let's start from when we arrive at the murder scene!\"
+====================
+好、那就从我们到达案发现场开始吧！
+====================
+
+====================
+index 96
+offset 28644
+name Tomoyo
+length 116
+====================
+\"This is the crime scene, eh... Oh... this is rather bad... I feel like puking... Or maybe it's morning sickness.\"
+====================
+这就是案发现场啊…哦…这可真是够呛…我觉得要吐了…也许这是孕吐吧。
+====================
+
+====================
+index 97
+offset 29084
+name Takafumi
+length 20
+====================
+\"Congratulations.\"
+====================
+恭喜。
+====================
+
+====================
+index 98
+offset 29427
+name Tomoyo
+length 74
+====================
+\"What an imprudent person you are. Okay, let's start the investigation.\"
+====================
+你这人真是没分寸。好了、开始搜查吧。
+====================
+
+====================
+index 99
+offset 29821
+name Tomoya
+length 41
+====================
+\"Inspector, this is the murder weapon.\"
+====================
+警部、这是凶器。
+====================
+
+====================
+index 100
+offset 30185
+name Tomoyo
+length 59
+====================
+\"A Japanese sword, huh? How mysterious. Let me see it...\"
+====================
+日本刀啊？真是神秘。让我看看…
+====================
+
+====================
+index 101
+offset 30567
+name Tomoyo
+length 83
+====================
+\"Hm, it fits nicely in my hands. Let me grab it and get rid of the fingerprints.\"
+====================
+嗯、正合我手。那我就握一下、把指纹擦掉吧。
+====================
+
+====================
+index 102
+offset 30974
+name Takafumi
+length 49
+====================
+\"Don't do that! You'll ruin our investigation!\"
+====================
+别那样做！会把我们的搜查毁掉的！
+====================
+
+====================
+index 103
+offset 31346
+name Tomoyo
+length 87
+====================
+\"Isn't this interesting in its own way? Umph. Don't get in my way, or I'll kill you!\"
+====================
+这不也挺有意思的嘛？嗯。别碍事、不然我杀了你！
+====================
+
+====================
+index 104
+offset 31795
+name Takafumi
+length 14
+====================
+\"Gya------!\"
+====================
+呜哇——！
+====================
+
+====================
+index 105
+offset 32132
+name Tomoyo
+length 102
+====================
+\"Ah, look at that. I really killed him! I only wanted to grab the sword! I didn't mean to kill him!\"
+====================
+啊、你看、我真的把他杀了！我只是想握一下刀而已！我不是故意要杀他的！
+====================
+
+====================
+index 106
+offset 32557
+name Tomoyo
+length 48
+====================
+\"But while I'm at it, you should die too----!\"
+====================
+不过既然都这样了、你也一起去死吧——！
+====================
+
+====================
+index 107
+offset 33036
+name Tomoya
+length 21
+====================
+\"Hold on a minute.\"
+====================
+等一下。
+====================
+
+====================
+index 108
+offset 33401
+name Kanako
+length 37
+====================
+\"What is it? It was going so well.\"
+====================
+怎么了？明明进展得这么顺利。
+====================
+
+====================
+index 109
+offset 33488
+name Tomoya
+length 43
+====================
+\"The mystery is what this story even is.\"
+====================
+这个故事到底是什么、这本身就是最大的谜。
+====================
+
+====================
+index 110
+offset 33584
+name Kanako
+length 64
+====================
+\"You do nothing but complain. Do you want to try doing this?!\"
+====================
+你就只会抱怨。那你自己来演看看啊？！
+====================
+
+====================
+index 111
+offset 33698
+name Tomoya
+length 51
+====================
+\"No, I'm not looking to become a scriptwriter...\"
+====================
+不、我没打算当什么剧本家…
+====================
+
+====================
+index 113
+offset 34775
+name Kanako
+length 68
+====================
+\"Since all you do is complain, I'm not going to show you anymore.\"
+====================
+既然你只会抱怨、我就不给你看了。
+====================
+
+====================
+index 114
+offset 34893
+name Tomoya
+length 17
+====================
+\"Is that so...\"
+====================
+这样啊…
+====================

@@ -1,0 +1,1564 @@
+type seen7150
+count 142
+
+====================
+index 1
+offset 1239
+name NULL
+length 35
+====================
+Increases attack power for 5 turns.
+====================
+提升攻击力、持续５回合。
+====================
+
+====================
+index 4
+offset 1577
+name NULL
+length 40
+====================
+Deal damage to the surrounding 3x3 area.
+====================
+对周围３×３范围造成伤害。
+====================
+
+====================
+index 7
+offset 2000
+name NULL
+length 47
+====================
+Increases everyone except Kanako's attack power
+====================
+提升除河南子以外所有人的攻击力、
+====================
+
+====================
+index 8
+offset 2072
+name NULL
+length 12
+====================
+for 5 turns.
+====================
+持续５回合。
+====================
+
+====================
+index 10
+offset 2444
+name NULL
+length 22
+====================
+Cockroach Bait Attack.
+====================
+蟑螂饵攻击。
+====================
+
+====================
+index 11
+offset 2491
+name NULL
+length 40
+====================
+Deal damage to the surrounding 4x4 area.
+====================
+对周围４×４范围造成伤害。
+====================
+
+====================
+index 13
+offset 2928
+name NULL
+length 12
+====================
+Summon Fuko.
+====================
+召唤风子。
+====================
+
+====================
+index 16
+offset 3263
+name NULL
+length 48
+====================
+Hold position and enter a defensive stance while
+====================
+保持原位进入防御姿态、同时
+====================
+
+====================
+index 17
+offset 3336
+name NULL
+length 55
+====================
+enemies focus their attacks on the caster for one turn.
+====================
+让敌人集中攻击施术者一回合。
+====================
+
+====================
+index 19
+offset 3708
+name NULL
+length 55
+====================
+Increases Tomoya and Tomoyo's attack power for 5 turns.
+====================
+提升朋也和智代的攻击力、持续５回合。
+====================
+
+====================
+index 22
+offset 4106
+name NULL
+length 23
+====================
+Summon Fuko as a decoy.
+====================
+召唤风子作为诱饵。
+====================
+
+====================
+index 23
+offset 4154
+name NULL
+length 35
+====================
+Enemies focus their attacks on her.
+====================
+敌人会集中攻击她。
+====================
+
+====================
+index 25
+offset 4529
+name NULL
+length 52
+====================
+Greatly increases unarmed attack power for 10 turns.
+====================
+大幅提升徒手攻击力、持续１０回合。
+====================
+
+====================
+index 26
+offset 4606
+name NULL
+length 38
+====================
+Will occasionally cause instant death.
+====================
+偶尔会造成即死。
+====================
+
+====================
+index 28
+offset 5001
+name NULL
+length 21
+====================
+The will of the town.
+====================
+小镇的意志。
+====================
+
+====================
+index 29
+offset 5047
+name NULL
+length 40
+====================
+Deal damage to the surrounding 8x8 area.
+====================
+对周围８×８范围造成伤害。
+====================
+
+====================
+index 31
+offset 5399
+name NULL
+length 35
+====================
+Increases attack power for 5 turns.
+====================
+提升攻击力、持续５回合。
+====================
+
+====================
+index 34
+offset 5717
+name NULL
+length 31
+====================
+Blow an enemy away with a kick.
+====================
+用踢击把敌人踢飞。
+====================
+
+====================
+index 35
+offset 5773
+name NULL
+length 37
+====================
+Deal damage to all enemies in a line.
+====================
+对一直线上的所有敌人造成伤害。
+====================
+
+====================
+index 37
+offset 6127
+name NULL
+length 44
+====================
+Enemies focus on attacking Tomoyo for 1 turn
+====================
+敌人会集中攻击智代１回合、
+====================
+
+====================
+index 38
+offset 6196
+name NULL
+length 32
+====================
+and Tomoya recovers some health.
+====================
+同时朋也恢复少量生命。
+====================
+
+====================
+index 40
+offset 6525
+name NULL
+length 55
+====================
+Move towards Tomo to protect her when using \"attack\".
+====================
+使用『攻击』时、朝小智移动以保护她。
+====================
+
+====================
+index 43
+offset 6863
+name NULL
+length 45
+====================
+Jump to the center of the floor and do damage
+====================
+跳到场地中央、落地时
+====================
+
+====================
+index 44
+offset 6933
+name NULL
+length 41
+====================
+upon landing to the surrounding 6x6 area.
+====================
+对周围６×６范围造成伤害。
+====================
+
+====================
+index 46
+offset 7391
+name NULL
+length 45
+====================
+Enemies focus on attacking Tomoyo for 2 turns
+====================
+敌人会集中攻击智代２回合、
+====================
+
+====================
+index 47
+offset 7461
+name NULL
+length 32
+====================
+and Tomoya recovers some health.
+====================
+同时朋也恢复少量生命。
+====================
+
+====================
+index 49
+offset 7790
+name NULL
+length 29
+====================
+All enemies flee for 2 turns.
+====================
+所有敌人逃跑、持续２回合。
+====================
+
+====================
+index 52
+offset 8102
+name NULL
+length 36
+====================
+For 2 turns, if an ally is attacked,
+====================
+持续２回合、若有同伴受到攻击、
+====================
+
+====================
+index 53
+offset 8163
+name NULL
+length 24
+====================
+teleport to the attacker
+====================
+就会传送到攻击者身边、
+====================
+
+====================
+index 54
+offset 8212
+name NULL
+length 31
+====================
+and immediately counter-attack.
+====================
+并立刻进行反击。
+====================
+
+====================
+index 55
+offset 8494
+name NULL
+length 54
+====================
+Kick all enemies in the surrounding 3x3 area 10 times.
+====================
+对周围３×３范围内的所有敌人连踢１０次。
+====================
+
+====================
+index 58
+offset 8871
+name NULL
+length 28
+====================
+Humanity's final trump card.
+====================
+人类的最终王牌。
+====================
+
+====================
+index 59
+offset 8924
+name NULL
+length 40
+====================
+Greatly increases all stats for 5 turns.
+====================
+大幅提升所有能力、持续５回合。
+====================
+
+====================
+index 61
+offset 9316
+name NULL
+length 46
+====================
+Increases chance of critical hits for 5 turns.
+====================
+提升会心一击的几率、持续５回合。
+====================
+
+====================
+index 64
+offset 9745
+name NULL
+length 42
+====================
+Spit, paralyzing all enemies within range.
+====================
+吐出唾沫、使范围内所有敌人陷入麻痹。
+====================
+
+====================
+index 67
+offset 10130
+name NULL
+length 55
+====================
+Move towards Tomo to protect her when using \"attack\".
+====================
+使用『攻击』时、朝小智移动以保护她。
+====================
+
+====================
+index 70
+offset 10508
+name NULL
+length 23
+====================
+Deal damage to 3 lines.
+====================
+对３条直线造成伤害。
+====================
+
+====================
+index 71
+offset 10556
+name NULL
+length 44
+====================
+Moves Kanako to the edge of the battlefield.
+====================
+把河南子移动到战场边缘。
+====================
+
+====================
+index 73
+offset 10897
+name NULL
+length 49
+====================
+When near death, enjoy the Papico-brand ice cream
+====================
+濒死时会享用藏起来的帕皮可冰淇淋、
+====================
+
+====================
+index 74
+offset 10971
+name NULL
+length 46
+====================
+you've been hiding to restore all your health.
+====================
+恢复全部生命。
+====================
+
+====================
+index 76
+offset 11294
+name NULL
+length 46
+====================
+Enemies focus on attacking Kanako for 3 turns.
+====================
+敌人会集中攻击河南子３回合。
+====================
+
+====================
+index 79
+offset 11683
+name NULL
+length 19
+====================
+You attack so fast,
+====================
+你的攻击快到、
+====================
+
+====================
+index 80
+offset 11727
+name NULL
+length 51
+====================
+your two-handed or one-handed sword becomes a blur.
+====================
+双手剑或单手剑都化作一道残影。
+====================
+
+====================
+index 81
+offset 11803
+name NULL
+length 32
+====================
+Gain another attack for 3 turns.
+====================
+获得额外一次攻击、持续３回合。
+====================
+
+====================
+index 82
+offset 12146
+name NULL
+length 37
+====================
+100% critical hit chance for 5 turns.
+====================
+会心一击几率１００％、持续５回合。
+====================
+
+====================
+index 85
+offset 12646
+name NULL
+length 48
+====================
+Creates a shock wave by punching the ground with
+====================
+用拳头击打地面、
+====================
+
+====================
+index 86
+offset 12719
+name NULL
+length 10
+====================
+your fist.
+====================
+制造出冲击波。
+====================
+
+====================
+index 87
+offset 12754
+name NULL
+length 41
+====================
+Deals damage to the surrounding 6x6 area.
+====================
+对周围６×６范围造成伤害。
+====================
+
+====================
+index 88
+offset 13126
+name NULL
+length 30
+====================
+Transcendent secret technique.
+====================
+超凡的秘技。
+====================
+
+====================
+index 89
+offset 13184
+name NULL
+length 52
+====================
+Greatly increases unarmed attack power for 10 turns.
+====================
+大幅提升徒手攻击力、持续１０回合。
+====================
+
+====================
+index 90
+offset 13261
+name NULL
+length 39
+====================
+33% chance to instantly kill the enemy.
+====================
+有３３％的几率使敌人即死。
+====================
+
+====================
+index 91
+offset 13566
+name NULL
+length 46
+====================
+Increases everyone's attack power for 5 turns.
+====================
+提升所有人的攻击力、持续５回合。
+====================
+
+====================
+index 94
+offset 13935
+name NULL
+length 43
+====================
+All allies move towards Tomo to protect her
+====================
+使用『攻击』时、所有同伴都朝小智移动
+====================
+
+====================
+index 95
+offset 14003
+name NULL
+length 22
+====================
+when using \"attack\".
+====================
+以保护她。
+====================
+
+====================
+index 97
+offset 14282
+name NULL
+length 49
+====================
+Causes a random number of enemies to fall asleep.
+====================
+使随机数量的敌人陷入睡眠。
+====================
+
+====================
+index 100
+offset 14654
+name NULL
+length 44
+====================
+Enemies focus on attacking Tomo for 2 turns.
+====================
+敌人会集中攻击小智２回合。
+====================
+
+====================
+index 103
+offset 15021
+name NULL
+length 50
+====================
+Teleports everyone except the caster to the enemy.
+====================
+把除施术者以外的所有人传送到敌人身边。
+====================
+
+====================
+index 106
+offset 15414
+name NULL
+length 28
+====================
+Enemies will not attack Tomo
+====================
+在小智通过普通攻击命中之前、
+====================
+
+====================
+index 107
+offset 15467
+name NULL
+length 37
+====================
+until she hits with a regular attack.
+====================
+敌人不会攻击她。
+====================
+
+====================
+index 109
+offset 15861
+name NULL
+length 41
+====================
+Increases everyone's defense for 5 turns.
+====================
+提升所有人的防御力、持续５回合。
+====================
+
+====================
+index 112
+offset 16225
+name NULL
+length 44
+====================
+Enemies won't target the caster for 5 turns.
+====================
+施术者５回合内不会被敌人盯上。
+====================
+
+====================
+index 115
+offset 16612
+name NULL
+length 39
+====================
+Increases everyone's speed for 5 turns.
+====================
+提升所有人的速度、持续５回合。
+====================
+
+====================
+index 118
+offset 16974
+name NULL
+length 20
+====================
+Forbidden overdrive.
+====================
+禁忌的超载。
+====================
+
+====================
+index 119
+offset 17019
+name NULL
+length 40
+====================
+Greatly increases all stats for 5 turns.
+====================
+大幅提升所有能力、持续５回合。
+====================
+
+====================
+index 121
+offset 17546
+name NULL
+length 38
+====================
+Have a 33% chance to counter when hit.
+====================
+受击时有３３％的几率反击。
+====================
+
+====================
+index 124
+offset 17867
+name NULL
+length 53
+====================
+Increases attack power when using a two-handed sword.
+====================
+使用双手剑时提升攻击力。
+====================
+
+====================
+index 127
+offset 18263
+name NULL
+length 28
+====================
+Double the number of attacks
+====================
+双剑使用时、
+====================
+
+====================
+index 128
+offset 18316
+name NULL
+length 22
+====================
+when using two swords.
+====================
+攻击次数翻倍。
+====================
+
+====================
+index 130
+offset 18635
+name NULL
+length 44
+====================
+Increases evasion when using a one-handed or
+====================
+使用单手剑或双手剑时、
+====================
+
+====================
+index 131
+offset 18704
+name NULL
+length 17
+====================
+two-handed sword.
+====================
+提升回避率。
+====================
+
+====================
+index 132
+offset 18746
+name NULL
+length 27
+====================
+Dodge the next two attacks.
+====================
+回避接下来的两次攻击。
+====================
+
+====================
+index 133
+offset 19024
+name NULL
+length 44
+====================
+When using a one-handed or two-handed sword,
+====================
+使用单手剑或双手剑时、
+====================
+
+====================
+index 134
+offset 19093
+name NULL
+length 40
+====================
+deal damage to the surrounding 3x3 area.
+====================
+对周围３×３范围造成伤害。
+====================
+
+====================
+index 136
+offset 19425
+name NULL
+length 53
+====================
+Increases attack power when using a two-handed sword.
+====================
+使用双手剑时提升攻击力。
+====================
+
+====================
+index 139
+offset 19821
+name NULL
+length 28
+====================
+Double the number of attacks
+====================
+双剑使用时、
+====================
+
+====================
+index 140
+offset 19874
+name NULL
+length 22
+====================
+when using two swords.
+====================
+攻击次数翻倍。
+====================
+
+====================
+index 142
+offset 20193
+name NULL
+length 19
+====================
+When using a spear,
+====================
+使用长枪时、
+====================
+
+====================
+index 143
+offset 20237
+name NULL
+length 40
+====================
+deal damage to the surrounding 3x3 area.
+====================
+对周围３×３范围造成伤害。
+====================
+
+====================
+index 145
+offset 20554
+name NULL
+length 44
+====================
+Increases evasion when using a one-handed or
+====================
+使用单手剑或双手剑时、
+====================
+
+====================
+index 146
+offset 20623
+name NULL
+length 17
+====================
+two-handed sword.
+====================
+提升回避率。
+====================
+
+====================
+index 147
+offset 20665
+name NULL
+length 29
+====================
+Dodge the next three attacks.
+====================
+回避接下来的三次攻击。
+====================
+
+====================
+index 148
+offset 20945
+name NULL
+length 19
+====================
+When using a spear,
+====================
+使用长枪时、
+====================
+
+====================
+index 149
+offset 20989
+name NULL
+length 40
+====================
+deal damage to the surrounding 5x5 area.
+====================
+对周围５×５范围造成伤害。
+====================
+
+====================
+index 151
+offset 21321
+name NULL
+length 33
+====================
+Increases attack power when using
+====================
+使用单手剑或双手剑时、
+====================
+
+====================
+index 152
+offset 21379
+name NULL
+length 33
+====================
+a one-handed or two-handed sword.
+====================
+提升攻击力。
+====================
+
+====================
+index 154
+offset 21689
+name NULL
+length 48
+====================
+Heal anyone in critical condition up to 3 times.
+====================
+最多３次、为濒死的同伴恢复生命。
+====================
+
+====================
+index 157
+offset 22080
+name NULL
+length 44
+====================
+When using a one-handed or two-handed sword,
+====================
+使用单手剑或双手剑时、
+====================
+
+====================
+index 158
+offset 22149
+name NULL
+length 32
+====================
+hit up to eight tiles in a line.
+====================
+命中一条直线上的八个格。
+====================
+
+====================
+index 160
+offset 22458
+name NULL
+length 41
+====================
+Increases evasion when using a one-handed
+====================
+使用单手剑或双手剑时、
+====================
+
+====================
+index 161
+offset 22524
+name NULL
+length 20
+====================
+or two-handed sword.
+====================
+提升回避率。
+====================
+
+====================
+index 162
+offset 22569
+name NULL
+length 28
+====================
+Dodge the next four attacks.
+====================
+回避接下来的四次攻击。
+====================
+
+====================
+index 163
+offset 22848
+name NULL
+length 21
+====================
+Ultimate sword skill.
+====================
+究极剑技。
+====================
+
+====================
+index 164
+offset 22894
+name NULL
+length 44
+====================
+When using a one-handed or two-handed sword,
+====================
+使用单手剑或双手剑时、
+====================
+
+====================
+index 165
+offset 22963
+name NULL
+length 44
+====================
+deal damage 5 times to enemies within range.
+====================
+对范围内敌人造成５次伤害。
+====================
+
+====================
+index 166
+offset 23353
+name NULL
+length 39
+====================
+Reduces defense and increases strength.
+====================
+降低防御、提升力量。
+====================
+
+====================
+index 169
+offset 23675
+name NULL
+length 42
+====================
+Increases attack power when dual-wielding.
+====================
+双持时提升攻击力。
+====================
+
+====================
+index 172
+offset 24040
+name NULL
+length 37
+====================
+When anyone is in critical condition,
+====================
+当任何人陷入濒死时、
+====================
+
+====================
+index 173
+offset 24102
+name NULL
+length 24
+====================
+everyone recovers 100HP.
+====================
+所有人恢复１００ＨＰ。
+====================
+
+====================
+index 175
+offset 24443
+name NULL
+length 48
+====================
+The strength of your first direct attack will be
+====================
+你第一次直接攻击的威力将会
+====================
+
+====================
+index 176
+offset 24516
+name NULL
+length 18
+====================
+greatly increased.
+====================
+大幅提升。
+====================
+
+====================
+index 178
+offset 24831
+name NULL
+length 43
+====================
+Increases attack power when using a katana.
+====================
+使用刀时提升攻击力。
+====================
+
+====================
+index 181
+offset 25172
+name NULL
+length 33
+====================
+Improves chance of finding items.
+====================
+提高发现道具的几率。
+====================
+
+====================
+index 184
+offset 25508
+name NULL
+length 34
+====================
+Attack twice with a single dagger.
+====================
+用一把短剑攻击两次。
+====================
+
+====================
+index 185
+offset 25567
+name NULL
+length 47
+====================
+Uses main hand dagger if dual-wielding daggers.
+====================
+双持短剑时会使用主手的短剑。
+====================
+
+====================
+index 187
+offset 25911
+name NULL
+length 31
+====================
+When using a projectile weapon,
+====================
+使用投掷武器时、
+====================
+
+====================
+index 188
+offset 25967
+name NULL
+length 40
+====================
+deal damage to the surrounding 4x4 area.
+====================
+对周围４×４范围造成伤害。
+====================
+
+====================
+index 190
+offset 26304
+name NULL
+length 16
+====================
+Increases speed.
+====================
+提升速度。
+====================
+
+====================
+index 193
+offset 26623
+name NULL
+length 34
+====================
+Increases chance of critical hits.
+====================
+提升会心一击的几率。
+====================
+
+====================
+index 196
+offset 26995
+name NULL
+length 34
+====================
+Attack twice with a single dagger.
+====================
+用一把短剑攻击两次。
+====================
+
+====================
+index 197
+offset 27054
+name NULL
+length 47
+====================
+Uses main hand dagger if dual-wielding daggers.
+====================
+双持短剑时会使用主手的短剑。
+====================
+
+====================
+index 199
+offset 27398
+name NULL
+length 31
+====================
+When using a projectile weapon,
+====================
+使用投掷武器时、
+====================
+
+====================
+index 200
+offset 27454
+name NULL
+length 40
+====================
+deal damage to the surrounding 4x4 area.
+====================
+对周围４×４范围造成伤害。
+====================
+
+====================
+index 202
+offset 27791
+name NULL
+length 16
+====================
+Increases speed.
+====================
+提升速度。
+====================
+
+====================
+index 205
+offset 28110
+name NULL
+length 44
+====================
+Enemies won't target the caster for 4 turns.
+====================
+施术者４回合内不会被敌人盯上。
+====================
+
+====================
+index 208
+offset 28437
+name NULL
+length 34
+====================
+Increases chance of critical hits.
+====================
+提升会心一击的几率。
+====================
+
+====================
+index 211
+offset 28809
+name NULL
+length 34
+====================
+Attack twice with a single dagger.
+====================
+用一把短剑攻击两次。
+====================
+
+====================
+index 212
+offset 28868
+name NULL
+length 47
+====================
+Uses main hand dagger if dual-wielding daggers.
+====================
+双持短剑时会使用主手的短剑。
+====================
+
+====================
+index 214
+offset 29212
+name NULL
+length 16
+====================
+Increases speed.
+====================
+提升速度。
+====================
+
+====================
+index 217
+offset 29531
+name NULL
+length 40
+====================
+Enemies won't target caster for 4 turns.
+====================
+施术者４回合内不会被敌人盯上。
+====================
+
+====================
+index 220
+offset 29854
+name NULL
+length 34
+====================
+Increases chance of critical hits.
+====================
+提升会心一击的几率。
+====================
+
+====================
+index 223
+offset 30211
+name NULL
+length 46
+====================
+Your next direct attack is guaranteed to kill.
+====================
+你的下一次直接攻击必定使敌人即死。
+====================
+
+====================
+index 226
+offset 30555
+name NULL
+length 42
+====================
+Deal damage to a 3x3 area with a fireball.
+====================
+用火球对３×３范围造成伤害。
+====================
+
+====================
+index 229
+offset 30980
+name NULL
+length 35
+====================
+Confuse a random number of enemies.
+====================
+使随机数量的敌人陷入混乱。
+====================
+
+====================
+index 232
+offset 31358
+name NULL
+length 38
+====================
+Deal damage to 3 lines with lightning.
+====================
+用雷电对３条直线造成伤害。
+====================
+
+====================
+index 235
+offset 31719
+name NULL
+length 39
+====================
+Cast fireballs for 3 consecutive turns,
+====================
+连续３回合施放火球、
+====================
+
+====================
+index 236
+offset 31783
+name NULL
+length 24
+====================
+each hitting a 3x3 area.
+====================
+每次命中３×３范围。
+====================
+
+====================
+index 238
+offset 32204
+name NULL
+length 41
+====================
+Deal damage to a 5x5 area with lightning.
+====================
+用雷电对５×５范围造成伤害。
+====================
+
+====================
+index 241
+offset 32663
+name NULL
+length 35
+====================
+Heal someone in critical condition.
+====================
+为濒死的同伴恢复生命。
+====================
+
+====================
+index 244
+offset 33001
+name NULL
+length 48
+====================
+Heal anyone in critical condition up to 3 times.
+====================
+最多３次、为濒死的同伴恢复生命。
+====================
+
+====================
+index 247
+offset 33392
+name NULL
+length 38
+====================
+Increases defense when using a shield.
+====================
+使用盾牌时提升防御力。
+====================
+
+====================
+index 250
+offset 33733
+name NULL
+length 31
+====================
+Confuse all enemies for 1 turn.
+====================
+使所有敌人混乱１回合。
+====================
+
+====================
+index 253
+offset 34107
+name NULL
+length 46
+====================
+Everyone dodges all enemy attacks for 3 turns.
+====================
+所有人回避所有敌人的攻击、持续３回合。
+====================
+
+====================
+index 256
+offset 34531
+name NULL
+length 38
+====================
+Increases defense when using a shield.
+====================
+使用盾牌时提升防御力。
+====================
+
+====================
+index 259
+offset 34872
+name NULL
+length 39
+====================
+Cast fireballs for 5 consecutive turns,
+====================
+连续５回合施放火球、
+====================
+
+====================
+index 260
+offset 34936
+name NULL
+length 24
+====================
+each hitting a 3x3 area.
+====================
+每次命中３×３范围。
+====================
+
+====================
+index 262
+offset 35357
+name NULL
+length 39
+====================
+Cast lightning for 2 consecutive turns,
+====================
+连续２回合施放雷电、
+====================
+
+====================
+index 263
+offset 35421
+name NULL
+length 24
+====================
+each hitting a 5x5 area.
+====================
+每次命中５×５范围。
+====================
+
+====================
+index 265
+offset 35862
+name NULL
+length 40
+====================
+Cast fireballs for 10 consecutive turns,
+====================
+连续１０回合施放火球、
+====================
+
+====================
+index 266
+offset 35927
+name NULL
+length 24
+====================
+each hitting a 3x3 area.
+====================
+每次命中３×３范围。
+====================
+
+====================
+index 268
+offset 36348
+name NULL
+length 15
+====================
+Ultimate magic.
+====================
+究极魔法。
+====================
+
+====================
+index 269
+offset 36388
+name NULL
+length 44
+====================
+Deal damage to an 8x8 area with a meteorite.
+====================
+用陨石对８×８范围造成伤害。
+====================
+
+====================
+index 271
+offset 36726
+name NULL
+length 17
+====================
+Takafumi / Dispel
+====================
+鹰文／驱散
+====================

@@ -1,0 +1,2279 @@
+type seen5004
+count 207
+
+====================
+index 1
+offset 52
+name NULL
+length 13
+====================
+After - Day 5
+====================
+Ａｆｔｅｒ第五天
+====================
+
+====================
+index 2
+offset 526
+name NULL
+length 46
+====================
+It's a holiday today, so there are no classes.
+====================
+由于今天是节日、学校放假了。
+====================
+
+====================
+index 3
+offset 622
+name Tomoya
+length 64
+====================
+\"What should we do today? We can't go to school on a day off.\"
+====================
+今天打算怎么过？学校休息的话就不能进去了吧
+====================
+
+====================
+index 4
+offset 1009
+name Tomoyo
+length 100
+====================
+\"Yeah. To start, I was thinking about going shopping. After all, you're running low on groceries.\"
+====================
+嗯。我想先去买点东西。家里的食物已经没有多少了
+====================
+
+====================
+index 5
+offset 1159
+name Tomoyo
+length 109
+====================
+\"Even though I bring food from my home and leave some in your fridge, it's about time for you to stock up.\"
+====================
+即使我从自己家里拿了一些到这边来、可能也不是很够。要出去买一些来了
+====================
+
+====================
+index 6
+offset 1284
+name NULL
+length 8
+====================
+I agree.
+====================
+我赞成这个意见。
+====================
+
+====================
+index 7
+offset 1308
+name NULL
+length 115
+====================
+Whenever I went out these past few days, the only place I went was school. We should take a breather and cut loose.
+====================
+这几天一直往学校跑、也应该稍微放松一下了。
+====================
+
+====================
+index 8
+offset 2283
+name NULL
+length 34
+====================
+We head for the shopping district.
+====================
+我们两人一同往商店街走去。
+====================
+
+====================
+index 9
+offset 2367
+name Tomoya
+length 41
+====================
+\"This area's changed a lot, hasn't it?\"
+====================
+这一带已经变了很多啊
+====================
+
+====================
+index 10
+offset 2731
+name Tomoyo
+length 77
+====================
+\"Ah, that's true. It's much more developed compared to what it used to be.\"
+====================
+啊、是呢。与以前相比、繁华了不少啊
+====================
+
+====================
+index 11
+offset 2858
+name Tomoyo
+length 49
+====================
+\"There are a lot more people living here, too.\"
+====================
+因为这个城镇的人口增加了吧
+====================
+
+====================
+index 12
+offset 3193
+name NULL
+length 44
+====================
+I walk down the street together with Tomoyo.
+====================
+和智代走在这条街上。
+====================
+
+====================
+index 13
+offset 3253
+name NULL
+length 78
+====================
+It goes without saying. The scenery looks very different from what I remember.
+====================
+当然、这里的样子已经和我记忆中的大不相同了。
+====================
+
+====================
+index 14
+offset 3347
+name NULL
+length 106
+====================
+So much that I would think \"I didn't know there was a building here\" and \"so there was a street here\".
+====================
+『这里竟然有这样一栋建筑物啊』、或者『这里什么时候有一条路了？』这样。
+====================
+
+====================
+index 15
+offset 3469
+name NULL
+length 49
+====================
+We can't help but succumb to the passage of time.
+====================
+切实地感觉到了从我身边流逝的时间。
+====================
+
+====================
+index 16
+offset 3568
+name Tomoya
+length 16
+====================
+\"What's that?\"
+====================
+那是什么？
+====================
+
+====================
+index 17
+offset 3600
+name NULL
+length 72
+====================
+A pink machine sticking out onto the street corner catches my attention.
+====================
+我被街角处稍稍露出的粉红色机器吸引了目光。
+====================
+
+====================
+index 18
+offset 3722
+name Tomoya
+length 26
+====================
+\"Is that... the arcade?\"
+====================
+那里是…游戏厅吗？
+====================
+
+====================
+index 19
+offset 3764
+name NULL
+length 50
+====================
+I hypothesize based on how lively it seems inside.
+====================
+想象着建筑物里嘈杂的样子。
+====================
+
+====================
+index 20
+offset 3830
+name NULL
+length 106
+====================
+I used to go to the arcade pretty often when I was in middle school, even though students weren't allowed.
+====================
+初中时候经常到里面去玩的。虽然本来学生是禁止进入的。
+====================
+
+====================
+index 21
+offset 3952
+name NULL
+length 69
+====================
+However, this isn't the one I went to. There was another one in town.
+====================
+只是、当时游戏厅并不是在这。在这个镇里、应该还有一处地方的。
+====================
+
+====================
+index 22
+offset 4037
+name NULL
+length 48
+====================
+In comparison, this one seems to be much larger.
+====================
+比起那里、这个的规模更加大。
+====================
+
+====================
+index 23
+offset 4408
+name Tomoyo
+length 28
+====================
+\"Yeah, that's the arcade.\"
+====================
+嗯、那里是游戏厅
+====================
+
+====================
+index 24
+offset 4486
+name Tomoyo
+length 35
+====================
+\"Though, I didn't go there much.\"
+====================
+虽然我从来没有进去过
+====================
+
+====================
+index 25
+offset 4537
+name NULL
+length 20
+====================
+I am very intrigued.
+====================
+突然有了兴趣。
+====================
+
+====================
+index 26
+offset 4607
+name Tomoya
+length 21
+====================
+\"Shall we drop by?\"
+====================
+稍微去看看可以吗？
+====================
+
+====================
+index 27
+offset 4678
+name Tomoyo
+length 9
+====================
+\"Okay.\"
+====================
+嗯
+====================
+
+====================
+index 28
+offset 5010
+name Tomoyo
+length 94
+====================
+\"However, it was just completed this last spring, so I don't think you've ever been inside.\"
+====================
+只是、这里是今年春天才建好的、我想你的话应该还没有去过
+====================
+
+====================
+index 29
+offset 5154
+name Tomoya
+length 44
+====================
+\"Did I used to go to the other one a lot?\"
+====================
+另一个地方、我是不是经常去的？
+====================
+
+====================
+index 30
+offset 5521
+name Tomoyo
+length 94
+====================
+\"It seemed so. I couldn't go considering my situation back then, so I felt rather left out.\"
+====================
+好像是这样。因为我自己的立场、是不能去那里的
+====================
+
+====================
+index 31
+offset 5665
+name Tomoya
+length 14
+====================
+\"Situation?\"
+====================
+立场？
+====================
+
+====================
+index 32
+offset 6002
+name Tomoyo
+length 44
+====================
+\"Yeah. It was against school regulations.\"
+====================
+嗯。因为校规禁止的原因
+====================
+
+====================
+index 33
+offset 6096
+name Tomoyo
+length 100
+====================
+\"It wouldn't look too good if the student council president was caught doing something like that.\"
+====================
+学生会长总不能带头去那吧
+====================
+
+====================
+index 34
+offset 6212
+name NULL
+length 17
+====================
+...wait a second.
+====================
+…等等。
+====================
+
+====================
+index 35
+offset 6245
+name NULL
+length 47
+====================
+I just heard something I've never heard before.
+====================
+刚才、听到了以前从没听到的词语。
+====================
+
+====================
+index 36
+offset 6342
+name Tomoya
+length 30
+====================
+\"Student council president?\"
+====================
+学生会长？
+====================
+
+====================
+index 37
+offset 6695
+name Tomoyo
+length 89
+====================
+\"Yeah, that's right. I was the student council president. Do you know what that means?\"
+====================
+嗯、是啊。学生会长。朋也不知道学生会长的意思吗？
+====================
+
+====================
+index 38
+offset 7107
+name Tomoyo
+length 72
+====================
+\"A student council president is the president of the student council,\"
+====================
+学生会的会长、就叫做学生会长
+====================
+
+====================
+index 39
+offset 7229
+name Tomoyo
+length 65
+====================
+\"and the student council represents the entire student body...\"
+====================
+学生会、就是代表全校学生…
+====================
+
+====================
+index 40
+offset 7344
+name Tomoya
+length 29
+====================
+\"Well, I know that, but...\"
+====================
+啊、这个我知道…
+====================
+
+====================
+index 41
+offset 7423
+name Tomoya
+length 85
+====================
+\"...this is the first time I've heard that you were the student council president.\"
+====================
+不过我还是第一次听说智代就是那个学生会长
+====================
+
+====================
+index 42
+offset 7831
+name Tomoyo
+length 12
+====================
+\"I see...\"
+====================
+这样啊…
+====================
+
+====================
+index 43
+offset 7859
+name NULL
+length 33
+====================
+She thinks about it for a moment.
+====================
+智代稍微考虑了一下。
+====================
+
+====================
+index 44
+offset 7942
+name Tomoyo
+length 23
+====================
+\"I haven't told you?\"
+====================
+以前没说过吗
+====================
+
+====================
+index 45
+offset 8015
+name Tomoya
+length 43
+====================
+\"No, this is the first I've heard of it.\"
+====================
+嗯。第一次听说
+====================
+
+====================
+index 46
+offset 8381
+name Tomoyo
+length 40
+====================
+\"Well, it's not like it's a big deal.\"
+====================
+反正也不是什么大不了的事情吧
+====================
+
+====================
+index 47
+offset 8471
+name Tomoya
+length 77
+====================
+\"Then I've been, you know... going out with the student council president?\"
+====================
+那、我、那个…是不是在和学生会长交往啊？
+====================
+
+====================
+index 48
+offset 8598
+name Tomoyo
+length 24
+====================
+\"Something like that.\"
+====================
+别这样说啊
+====================
+
+====================
+index 49
+offset 8672
+name Tomoyo
+length 64
+====================
+\"Though, I wasn't elected until after we started hanging out.\"
+====================
+本来、我们交往的时候我还没有当选哪
+====================
+
+====================
+index 50
+offset 8786
+name Tomoya
+length 65
+====================
+\"I've been friends with a really amazing person, haven't I...?\"
+====================
+我原来是这么厉害的家伙的熟人啊…
+====================
+
+====================
+index 51
+offset 9174
+name Tomoyo
+length 31
+====================
+\"It's not like that, Tomoya.\"
+====================
+错了哦、朋也
+====================
+
+====================
+index 52
+offset 9255
+name Tomoyo
+length 41
+====================
+\"We aren't just friends. We're lovers.\"
+====================
+不是熟人。是恋人
+====================
+
+====================
+index 53
+offset 9312
+name NULL
+length 19
+====================
+Tomoyo corrects me.
+====================
+智代订正了我的话语。
+====================
+
+====================
+index 54
+offset 9381
+name Tomoya
+length 27
+====================
+\"Oh, yeah, that's right.\"
+====================
+啊、是啊
+====================
+
+====================
+index 55
+offset 9458
+name Tomoya
+length 62
+====================
+\"It's like I'm seeing you as a much more impressive person.\"
+====================
+突然感觉到智代是个厉害家伙呢
+====================
+
+====================
+index 56
+offset 9843
+name Tomoyo
+length 62
+====================
+\"Being student council president isn't all that impressive.\"
+====================
+学生会长也没那么厉害啦
+====================
+
+====================
+index 57
+offset 9921
+name NULL
+length 44
+====================
+So Tomoyo was the student council president.
+====================
+智代是学生会长。
+====================
+
+====================
+index 58
+offset 9981
+name NULL
+length 52
+====================
+Isn't that supposed to be an important memory to me?
+====================
+这对我的记忆来说不是什么重要的事情吗。
+====================
+
+====================
+index 59
+offset 10049
+name NULL
+length 54
+====================
+There are probably more details that I've yet to hear.
+====================
+还没听说过这些事情的来龙去脉。
+====================
+
+====================
+index 60
+offset 10119
+name NULL
+length 52
+====================
+Apparently, I was considered a delinquent at school.
+====================
+我似乎是学校的不良学生。
+====================
+
+====================
+index 61
+offset 10187
+name NULL
+length 94
+====================
+There must have been problems if I, a delinquent, went out with the student council president.
+====================
+然后这样的我和学生会长开始交往、肯定是发生了什么事情。
+====================
+
+====================
+index 62
+offset 10297
+name NULL
+length 52
+====================
+Tomoyo seems like she really forgot to mention this.
+====================
+而智代似乎完全忘记说这件事情了。
+====================
+
+====================
+index 63
+offset 10365
+name NULL
+length 13
+====================
+I wonder why.
+====================
+为什么。
+====================
+
+====================
+index 64
+offset 10394
+name NULL
+length 18
+====================
+I start wondering.
+====================
+脑海中有些疑问。
+====================
+
+====================
+index 65
+offset 10462
+name Tomoyo
+length 36
+====================
+\"That's a... photo sticker booth.\"
+====================
+那个是大头贴机
+====================
+
+====================
+index 66
+offset 10578
+name Tomoya
+length 7
+====================
+\"Eh?\"
+====================
+诶？
+====================
+
+====================
+index 67
+offset 10601
+name NULL
+length 51
+====================
+I'm caught off guard by the sudden change in topic.
+====================
+突然改变的话题让我无所适从。
+====================
+
+====================
+index 68
+offset 10975
+name Tomoyo
+length 70
+====================
+\"That machine over there. You asked about that earlier, didn't you?\"
+====================
+就是放在那里的机器啊。刚才你问过我的吧
+====================
+
+====================
+index 69
+offset 11095
+name Tomoya
+length 54
+====================
+\"Ah, yeah. That's right, now that you mention it...\"
+====================
+哦、嗯。这么说的话、确实有这么回事
+====================
+
+====================
+index 70
+offset 11199
+name Tomoyo
+length 66
+====================
+\"...it's a machine that takes a photo and puts it on a sticker.\"
+====================
+是可以照像然后变成贴纸的机器
+====================
+
+====================
+index 71
+offset 11315
+name Tomoyo
+length 61
+====================
+\"It was a popular thing for girls to do several years ago.\"
+====================
+不久以前在女孩子中很流行
+====================
+
+====================
+index 72
+offset 11426
+name Tomoya
+length 34
+====================
+\"Heh, things sure have changed.\"
+====================
+嗯、变了不少呢
+====================
+
+====================
+index 73
+offset 11476
+name NULL
+length 111
+====================
+Whenever you think of arcades, it's all about fighting games and strip mahjong. You'd think it's a man's world.
+====================
+以前说起游戏厅的话、都是对战游戏啊脱衣麻将什么的。是男人和男人的世界。
+====================
+
+====================
+index 74
+offset 11603
+name NULL
+length 44
+====================
+It seems that girls are going nowadays, too.
+====================
+最近、也常有女孩子来玩了吗。
+====================
+
+====================
+index 75
+offset 11697
+name Tomoyo
+length 75
+====================
+\"Hey, how about we take a photo? It's been a while since I've taken one.\"
+====================
+对了、要不要照一张。我也很久没玩过了
+====================
+
+====================
+index 76
+offset 11822
+name Tomoyo
+length 47
+====================
+\"It would be lonely if I take one by myself.\"
+====================
+一个人照的话、有点寂寞的
+====================
+
+====================
+index 77
+offset 11919
+name Tomoyo
+length 48
+====================
+\"It's really something friends and lovers do.\"
+====================
+本来就是要和朋友啊恋人啊一起照的
+====================
+
+====================
+index 78
+offset 12017
+name Tomoya
+length 17
+====================
+\"I don't mind.\"
+====================
+我没所谓啊
+====================
+
+====================
+index 79
+offset 12320
+name NULL
+length 52
+====================
+I'm also rather interested. I support this proposal.
+====================
+我也有了点兴趣、于是赞成了这个提案。
+====================
+
+====================
+index 80
+offset 12388
+name NULL
+length 53
+====================
+Tomoyo takes a coin out of her wallet and puts it in.
+====================
+智代从钱包里拿出一枚硬币投了进去。
+====================
+
+====================
+index 81
+offset 12457
+name NULL
+length 49
+====================
+The screen brightens; Tomoyo and I are displayed.
+====================
+银幕开始慢慢地明亮了起来、里面映射出智代和我的脸。
+====================
+
+====================
+index 82
+offset 12522
+name NULL
+length 62
+====================
+It looks like we can choose a picture frame and add some text.
+====================
+好像能选择照片的框和往照片上写的字。
+====================
+
+====================
+index 83
+offset 12907
+name Tomoyo
+length 30
+====================
+\"Right. Let's go with this.\"
+====================
+嗯。就这样
+====================
+
+====================
+index 84
+offset 12953
+name NULL
+length 59
+====================
+Tomoyo chooses a heart frame and puts us under an umbrella.
+====================
+智代选择了心形的边框、然后还画上了情人伞。
+====================
+
+====================
+index 85
+offset 13062
+name Tomoya
+length 34
+====================
+\"Isn't that kinda embarrassing?\"
+====================
+有点难为情啊
+====================
+
+====================
+index 86
+offset 13419
+name Tomoyo
+length 37
+====================
+\"It's fine once in a while, right?\"
+====================
+偶尔玩玩没有关系吧
+====================
+
+====================
+index 87
+offset 13472
+name NULL
+length 35
+====================
+Having said that, she grabs my arm.
+====================
+说着、挽住了我的手臂。
+====================
+
+====================
+index 88
+offset 13793
+name NULL
+length 38
+====================
+I end up staring at her involuntarily.
+====================
+禁不住往我身边看去。
+====================
+
+====================
+index 89
+offset 13847
+name NULL
+length 14
+====================
+She's so soft.
+====================
+真柔软。
+====================
+
+====================
+index 90
+offset 13877
+name NULL
+length 45
+====================
+I can feel something pressing against my arm.
+====================
+有一种不一样的触感。
+====================
+
+====================
+index 91
+offset 13938
+name NULL
+length 18
+====================
+This feeling is...
+====================
+这个感觉是…
+====================
+
+====================
+index 92
+offset 13972
+name NULL
+length 17
+====================
+It couldn't be...
+====================
+不会是…
+====================
+
+====================
+index 93
+offset 14005
+name NULL
+length 7
+====================
+*Click*
+====================
+咔嚓。
+====================
+
+====================
+index 94
+offset 14028
+name NULL
+length 50
+====================
+Suddenly, there's the sound of the camera shutter.
+====================
+突然快门的声音响了。
+====================
+
+====================
+index 95
+offset 14094
+name NULL
+length 30
+====================
+Tomoyo had pressed the switch.
+====================
+是智代按下了按钮的原因。
+====================
+
+====================
+index 96
+offset 14447
+name Tomoyo
+length 75
+====================
+\"Look, we ended up taking an awkward photo, since you were looking away.\"
+====================
+喂、朋也你在看着旁边、结果照出了一张奇怪的照片啊
+====================
+
+====================
+index 97
+offset 14538
+name NULL
+length 34
+====================
+She says that, but she's giggling.
+====================
+虽然这么说着、智代却笑了起来。
+====================
+
+====================
+index 98
+offset 14588
+name NULL
+length 27
+====================
+I'm sure it was on purpose.
+====================
+果然是故意的。
+====================
+
+====================
+index 99
+offset 14665
+name Tomoya
+length 34
+====================
+\"At least give me some warning.\"
+====================
+在照之前要先和我说下嘛
+====================
+
+====================
+index 100
+offset 14715
+name NULL
+length 37
+====================
+I complain to her for the hell of it.
+====================
+还是抱怨了一下。
+====================
+
+====================
+index 101
+offset 15038
+name NULL
+length 76
+====================
+After a little while, four small pictures make their way out of the machine.
+====================
+等了一会儿、机器吐出了四张小小的照片。
+====================
+
+====================
+index 102
+offset 15130
+name NULL
+length 65
+====================
+As expected, I looked very weird because I was looking at Tomoyo.
+====================
+和想象中的一样、我看着智代的脸显得非常奇怪。
+====================
+
+====================
+index 103
+offset 15211
+name NULL
+length 11
+====================
+This sucks.
+====================
+照得真难看。
+====================
+
+====================
+index 104
+offset 15545
+name Tomoyo
+length 29
+====================
+\"Hehe. Tomoya, you weirdo.\"
+====================
+嘿嘿。好奇怪啊、朋也
+====================
+
+====================
+index 105
+offset 15590
+name NULL
+length 23
+====================
+She looks rather happy.
+====================
+智代显得很高兴。
+====================
+
+====================
+index 106
+offset 15936
+name Tomoyo
+length 28
+====================
+\"They're little stickers.\"
+====================
+这个可以当贴纸用
+====================
+
+====================
+index 107
+offset 16014
+name Tomoyo
+length 62
+====================
+\"It used to be popular to exchange these with your friends.\"
+====================
+不久前、大家很流行和朋友交换这个
+====================
+
+====================
+index 108
+offset 16092
+name NULL
+length 49
+====================
+Having said that, Tomoyo takes one off the sheet.
+====================
+说着、智代取下了一枚。
+====================
+
+====================
+index 109
+offset 16157
+name NULL
+length 28
+====================
+She slaps it on my forehead.
+====================
+啪地一下贴到了我的额头上。
+====================
+
+====================
+index 110
+offset 16508
+name Tomoyo
+length 32
+====================
+\"Mm. That's Tomoya all right.\"
+====================
+嗯。是朋也
+====================
+
+====================
+index 111
+offset 16556
+name NULL
+length 30
+====================
+It feels fuzzy on my forehead.
+====================
+额头上像爬着什么东西一样。
+====================
+
+====================
+index 112
+offset 16602
+name NULL
+length 94
+====================
+The adhesive is meant to be used on paper. It should fall right off if it's stuck to a person.
+====================
+这东西本来是要贴在纸上的吧。贴在人身上的话、一会儿就会掉下来了。
+====================
+
+====================
+index 113
+offset 16712
+name NULL
+length 35
+====================
+Regardless, don't stick that on me.
+====================
+虽然是这么说、我还是叫她不要贴的好。
+====================
+
+====================
+index 114
+offset 16763
+name NULL
+length 43
+====================
+When I move to rip it off, Tomoyo stops me.
+====================
+在我正准备取下来的时候、智代阻止了我。
+====================
+
+====================
+index 115
+offset 17129
+name Tomoyo
+length 59
+====================
+\"Come on, isn't it okay? I wish it'd stay there forever.\"
+====================
+不是很好嘛。一直贴着好了
+====================
+
+====================
+index 116
+offset 17238
+name Tomoya
+length 25
+====================
+\"I can't wash my face.\"
+====================
+那就不能洗脸了
+====================
+
+====================
+index 117
+offset 17313
+name Tomoyo
+length 42
+====================
+\"Even if you don't, you're cool enough.\"
+====================
+就算不洗脸也已经很帅了
+====================
+
+====================
+index 118
+offset 17405
+name Tomoya
+length 29
+====================
+\"It's already falling off.\"
+====================
+很快就会掉下来了哦
+====================
+
+====================
+index 119
+offset 17484
+name Tomoyo
+length 40
+====================
+\"Let's reinforce it with scotch tape.\"
+====================
+用透明胶带固定住吧
+====================
+
+====================
+index 120
+offset 17847
+name Tomoyo
+length 47
+====================
+\"Yeah. Let's do that as soon as we get home.\"
+====================
+嗯。回家后就这么干
+====================
+
+====================
+index 121
+offset 17944
+name Tomoya
+length 49
+====================
+\"Wait. It's embarrassing enough to start with.\"
+====================
+等等。我很难为情的啊
+====================
+
+====================
+index 122
+offset 18043
+name Tomoya
+length 35
+====================
+\"It'd make me look like a freak.\"
+====================
+看起来就好像我是什么怪人一样
+====================
+
+====================
+index 123
+offset 18401
+name Tomoyo
+length 42
+====================
+\"I'm just kidding. Don't be so serious.\"
+====================
+开玩笑的。别当真啊
+====================
+
+====================
+index 124
+offset 18732
+name NULL
+length 45
+====================
+After a quick laugh, she seems a little down.
+====================
+智代笑了下、却显出了一张寂寞的脸。
+====================
+
+====================
+index 125
+offset 18827
+name Tomoyo
+length 92
+====================
+\"However, I would like it if you carried my photo. That way I can always be by your side.\"
+====================
+但是、我希望你能保留着我的照片。然后、一直放在身边
+====================
+
+====================
+index 126
+offset 18969
+name Tomoyo
+length 86
+====================
+\"That way, if you forget about me again, you might be able to remember immediately.\"
+====================
+这样的话、即使忘记了可能也会立即想起我来的
+====================
+
+====================
+index 127
+offset 19378
+name Tomoyo
+length 21
+====================
+\"Isn't that right?\"
+====================
+是吧？
+====================
+
+====================
+index 128
+offset 19427
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 129
+offset 19456
+name NULL
+length 38
+====================
+I have no idea how to respond to that.
+====================
+我不知道该怎样去回答。
+====================
+
+====================
+index 130
+offset 19817
+name Tomoyo
+length 32
+====================
+\"Sorry... forget I said that.\"
+====================
+对不起…没事
+====================
+
+====================
+index 131
+offset 19899
+name Tomoyo
+length 74
+====================
+\"Anyway, I will take the other three. You get the one on your forehead.\"
+====================
+首先、我拿掉这三枚、朋也就是额头上的一枚
+====================
+
+====================
+index 132
+offset 20023
+name Tomoyo
+length 59
+====================
+\"Make sure to stick it firmly so that you don't lose it.\"
+====================
+好好地贴在头上、不要掉了哦
+====================
+
+====================
+index 133
+offset 20368
+name NULL
+length 76
+====================
+For a moment, I just keep walking while holding my hand against my forehead.
+====================
+我就只好暂时用手按住额头走路了。
+====================
+
+====================
+index 134
+offset 20460
+name NULL
+length 116
+====================
+I eventually realize it would be impossible to do that forever. And so, I'll just keep it safe in my pocket for now.
+====================
+但也总不能一直都是这样、于是我小心地将贴纸放进了裤子口袋里。
+====================
+
+====================
+index 135
+offset 20592
+name NULL
+length 60
+====================
+Since it's kind of small, I wrap it up with my handkerchief.
+====================
+因为是很小的东西、就用手帕包住了。
+====================
+
+====================
+index 136
+offset 20668
+name NULL
+length 77
+====================
+When Tomoyo sees me doing this, she watches on quietly, looking at me in joy.
+====================
+智代默默地看着我这么做、看起来很高兴。
+====================
+
+====================
+index 137
+offset 20764
+name NULL
+length 48
+====================
+Next, we go to the supermarket to buy groceries.
+====================
+然后、我们就去超市购买食物。
+====================
+
+====================
+index 138
+offset 20828
+name NULL
+length 118
+====================
+There's an older lady sitting by herself at the dango display. The \"Big Dango Family\" theme is playing on cassette. 
+====================
+在卖团子的地方、有一个老奶奶坐在那里、录音机里放着『团子大家族』的歌。
+====================
+
+====================
+index 139
+offset 21026
+name Tomoya
+length 26
+====================
+\"Is that still popular?\"
+====================
+还在流行这个啊
+====================
+
+====================
+index 140
+offset 21068
+name NULL
+length 66
+====================
+From what I remember, there was a huge dango fad throughout Japan.
+====================
+在我还有记忆的那段时间里、日本正好是团子热的时候。
+====================
+
+====================
+index 141
+offset 21150
+name NULL
+length 143
+====================
+It's a song that both children and the elderly know, and it was said that this would be in the singing competition show at the end of the year.
+====================
+不仅是小孩子、连大人们也都知道这首歌、据说连新年的红白歌合战都出场了。
+====================
+
+====================
+index 142
+offset 21309
+name NULL
+length 55
+====================
+Did it actually become such a famous and timeless song?
+====================
+简直可以说是国民性的歌了。
+====================
+
+====================
+index 143
+offset 21687
+name Tomoyo
+length 113
+====================
+\"Sorry to tell you, but it's not. This dango stand is pretty much the only place you can still hear this song.\"
+====================
+很可惜不是了。能听到这首歌的地方、可能也就只有这个团子店了
+====================
+
+====================
+index 144
+offset 21850
+name Tomoya
+length 19
+====================
+\"I suppose so...\"
+====================
+是啊…
+====================
+
+====================
+index 145
+offset 22330
+name NULL
+length 85
+====================
+After dropping off our haul at home and having some lunch, we head toward the school.
+====================
+把东西放在家里、吃了午饭以后、就一起去了学校。
+====================
+
+====================
+index 146
+offset 22878
+name NULL
+length 66
+====================
+We can't get into the building today. Instead, we go to the field.
+====================
+因为今天进不去教学楼、所以只是走到了操场为止。
+====================
+
+====================
+index 147
+offset 22960
+name NULL
+length 115
+====================
+Since this is where I learned that I can't play basketball the other day, this place has left me with a sour taste.
+====================
+由于前几天在这里知道了自己不能打篮球的事情、所以对这里并没有什么好印象。
+====================
+
+====================
+index 148
+offset 23091
+name NULL
+length 66
+====================
+Even though it's a holiday, the baseball team is here practicing. 
+====================
+虽然是节日、但是棒球部还是在练习。
+====================
+
+====================
+index 149
+offset 23173
+name NULL
+length 79
+====================
+Tomoyo is thinking of something. She gazes toward them at the end of the field.
+====================
+智代好像在考虑着什么的样子、在操场的一边望着他们训练的样子。
+====================
+
+====================
+index 150
+offset 23268
+name NULL
+length 49
+====================
+With nothing else to do, I space out next to her.
+====================
+没办法、我也只能呆呆地站在她的身边。
+====================
+
+====================
+index 151
+offset 23333
+name NULL
+length 157
+====================
+A metal bat clinking against a ball, a ball slamming into a mitt, a teammate chanting a cheer: a myriad of sounds meld together to form a captivating melody.
+====================
+金属球棒的击打声、球被手套接住的声音、球员的叫声、全部混杂在一起传了过来。
+====================
+
+====================
+index 152
+offset 23506
+name NULL
+length 88
+====================
+Even if I don't want to, I can feel just how every single one of those sounds is moving.
+====================
+即使我不愿意听到他们运动的声音、但是这些声音还是固执地传进了我的耳朵里。
+====================
+
+====================
+index 153
+offset 23644
+name Tomoya
+length 8
+====================
+\"Hey.\"
+====================
+我说
+====================
+
+====================
+index 154
+offset 23668
+name NULL
+length 47
+====================
+I was just thinking I wanted to be elsewhere...
+====================
+我很想换块地方。
+====================
+
+====================
+index 155
+offset 23731
+name NULL
+length 7
+====================
+When...
+====================
+这时。
+====================
+
+====================
+index 156
+offset 23788
+name Member
+length 31
+====================
+\"Is that you, Sakagami-san?!\"
+====================
+这不是坂上吗
+====================
+
+====================
+index 157
+offset 23835
+name NULL
+length 53
+====================
+The pitcher from the baseball field shouts toward us.
+====================
+在操场上练习投球的一个家伙、注意到我们后叫了起来。
+====================
+
+====================
+index 158
+offset 23904
+name NULL
+length 22
+====================
+He then heads our way.
+====================
+然后朝我们走了过来。
+====================
+
+====================
+index 159
+offset 23942
+name NULL
+length 86
+====================
+He must be the captain. The rest of the team stops for a break as he leaves the field.
+====================
+是队长吧。在他离开操场以后、其他的部员们也纷纷停下了练习。
+====================
+
+====================
+index 160
+offset 24044
+name NULL
+length 28
+====================
+He grins as he sees my face.
+====================
+那人认出了我、朝我笑着。
+====================
+
+====================
+index 161
+offset 24122
+name Member
+length 36
+====================
+\"You're here too, Okazaki-senpai.\"
+====================
+冈崎学长也在一起啊
+====================
+
+====================
+index 162
+offset 24174
+name NULL
+length 30
+====================
+Apparently, he knows who I am.
+====================
+他似乎知道我的事情。
+====================
+
+====================
+index 163
+offset 24220
+name NULL
+length 58
+====================
+Judging by how he says it, we must have been fairly close.
+====================
+那声音听起来的感觉、似乎我们的关系很不错。
+====================
+
+====================
+index 164
+offset 24328
+name Member
+length 40
+====================
+\"Will you join us for practice again?\"
+====================
+再来和我们练习吧
+====================
+
+====================
+index 165
+offset 24418
+name Tomoya
+length 13
+====================
+\"Practice?\"
+====================
+练习？
+====================
+
+====================
+index 166
+offset 24481
+name Member
+length 29
+====================
+\"Yes, please. Like before.\"
+====================
+是的、拜托了。就像以前一样
+====================
+
+====================
+index 167
+offset 24833
+name Tomoyo
+length 74
+====================
+\"I didn't have any intentions to do so today. We're just here to watch.\"
+====================
+不、今天不是打算来干这个的。只是站在边上看看而已
+====================
+
+====================
+index 168
+offset 24923
+name NULL
+length 26
+====================
+Tomoyo moves to intercept.
+====================
+智代插话进来。
+====================
+
+====================
+index 169
+offset 25269
+name Member
+length 31
+====================
+\"Is that so? That's a shame.\"
+====================
+这样啊…太可惜了
+====================
+
+====================
+index 170
+offset 25350
+name Member
+length 74
+====================
+\"It would really give everyone a boost if Sakagami-senpai were to join.\"
+====================
+坂上学姐如果一起来练习的话、大家都会更有干劲的
+====================
+
+====================
+index 171
+offset 25747
+name Tomoyo
+length 50
+====================
+\"Isn't it about time for you to leave the team?\"
+====================
+你应该就快要退部了吧？
+====================
+
+====================
+index 172
+offset 25847
+name Member
+length 57
+====================
+\"Well, I would like to, but we're kind of shorthanded.\"
+====================
+嗯、确实是打算这样啊。但是部员的人数不够
+====================
+
+====================
+index 173
+offset 25954
+name Member
+length 70
+====================
+\"I have to keep practicing with them until the Fall season is over.\"
+====================
+所以在秋天运动会结束之前、不能不陪他们一起练习啊
+====================
+
+====================
+index 174
+offset 26074
+name Member
+length 61
+====================
+\"That's why we would love it if you would join in, Senpai.\"
+====================
+所以、如果学姐也能一起来的话那就太高兴了
+====================
+
+====================
+index 175
+offset 26458
+name Tomoyo
+length 34
+====================
+\"Sorry. Today's not a good day.\"
+====================
+不好意思。今天可能不行
+====================
+
+====================
+index 176
+offset 26542
+name Member
+length 40
+====================
+\"No, it's fine. Some other time then.\"
+====================
+啊、没关系。那还请你多多关照了
+====================
+
+====================
+index 177
+offset 26868
+name NULL
+length 52
+====================
+With that said, he bows and heads back to the field.
+====================
+说了这些以后、他行了一个礼又回到了操场上。
+====================
+
+====================
+index 178
+offset 26936
+name NULL
+length 98
+====================
+The other members look over and appear disappointed when they see that Tomoyo isn't going to join.
+====================
+其他的部员们都在看着这里、当知道智代不加入他们以后、看起来好像都很失望。
+====================
+
+====================
+index 179
+offset 27050
+name NULL
+length 41
+====================
+The field returns to its previous clamor.
+====================
+操场上的声音再次响起。
+====================
+
+====================
+index 180
+offset 27141
+name Tomoya
+length 45
+====================
+\"You're acquainted with the baseball team?\"
+====================
+和棒球部的人认识？
+====================
+
+====================
+index 181
+offset 27509
+name Tomoyo
+length 21
+====================
+\"Yeah, somewhat...\"
+====================
+嗯、算是吧…
+====================
+
+====================
+index 182
+offset 27580
+name Tomoyo
+length 63
+====================
+\"I met them as part of my student council election campaign.\"
+====================
+是竞选学生会长的一环来着
+====================
+
+====================
+index 183
+offset 27693
+name Tomoya
+length 7
+====================
+\"Eh?\"
+====================
+诶？
+====================
+
+====================
+index 184
+offset 28023
+name Tomoyo
+length 66
+====================
+\"It was something you suggested. It was almost like a turf war.\"
+====================
+是朋也你提出来的主意。那简直就像踢馆一样
+====================
+
+====================
+index 185
+offset 28412
+name Tomoyo
+length 120
+====================
+\"I was against it. I didn't know how to play baseball anyway, and I didn't want to turn it into a popularity contest.\"
+====================
+本来我是反对的。别说我没打过棒球、而且我也讨厌这种像聚集人气一样的方法
+====================
+
+====================
+index 186
+offset 28548
+name NULL
+length 14
+====================
+She's pouting.
+====================
+智代稍稍皱起了眉头。
+====================
+
+====================
+index 187
+offset 28851
+name NULL
+length 33
+====================
+But then, she puts on a big grin.
+====================
+然后突然笑了起来。
+====================
+
+====================
+index 188
+offset 28934
+name Tomoyo
+length 63
+====================
+\"Yeah. Now that I think about it, that was rather enjoyable.\"
+====================
+嗯。现在想起来、当时还真是快乐呢
+====================
+
+====================
+index 189
+offset 29283
+name NULL
+length 134
+====================
+Having taken notice of Tomoyo's reflexes, Sunohara and I challenged various clubs in order to raise her popularity among the students.
+====================
+亲眼见识过智代运动神经的我和春原一起、为了让智代在一般学生中更加出名、向各俱乐部发起了挑战。
+====================
+
+====================
+index 190
+offset 29433
+name NULL
+length 95
+====================
+I didn't participate much because of my bad shoulder. That's where Sunohara came in and helped.
+====================
+因为肩膀的原因所以实际上我并没有参加、于是春原连我的份也一起努力了。
+====================
+
+====================
+index 191
+offset 29544
+name NULL
+length 50
+====================
+Tomoyo played pitcher and Sunohara played catcher.
+====================
+智代是投手、春原是捕手。
+====================
+
+====================
+index 192
+offset 29610
+name NULL
+length 54
+====================
+I feel as if I have a vague recollection of that time.
+====================
+似乎当时的样子就浮现在了眼前一般。
+====================
+
+====================
+index 193
+offset 29680
+name NULL
+length 57
+====================
+This Sunohara guy's face is still blocked out in my mind.
+====================
+只是春原的脸我回忆不起来、被打上了马赛克。
+====================
+
+====================
+index 194
+offset 29759
+name NULL
+length 99
+====================
+And so, just as I wished, the baseball team has been idolizing Tomoyo ever since she defeated them.
+====================
+是、就如我所想的那样、彻底打败了棒球部的智代、从那时起就被棒球部所仰慕。
+====================
+
+====================
+index 195
+offset 29874
+name NULL
+length 36
+====================
+No, it's not just the baseball team.
+====================
+不、不仅仅是棒球部。
+====================
+
+====================
+index 196
+offset 29926
+name NULL
+length 96
+====================
+After defeating the softball team, kendo team, and many others, Tomoyo became extremely popular.
+====================
+智代赢了垒球部、剑道部等等其他很多俱乐部的比赛、得到了极高的人气。
+====================
+
+====================
+index 197
+offset 30375
+name Tomoyo
+length 78
+====================
+\"If all that hadn't happened, the election may have turned out differently.\"
+====================
+如果没有这个事情、说不定结果就不是那样了
+====================
+
+====================
+index 198
+offset 30503
+name Tomoya
+length 32
+====================
+\"I don't think it would have.\"
+====================
+没这样的事情
+====================
+
+====================
+index 199
+offset 30551
+name NULL
+length 85
+====================
+Since I don't actually remember that time, I don't know the details of what happened.
+====================
+我不记得当时的事情、所以详细的情况并不清楚。
+====================
+
+====================
+index 200
+offset 30652
+name NULL
+length 32
+====================
+Regardless, that's what I think.
+====================
+但是我还是这么认为。
+====================
+
+====================
+index 201
+offset 30734
+name Tomoya
+length 131
+====================
+\"Since this is you we're talking about, I think you would have been elected as student council president no matter what, Tomoyo.\"
+====================
+如果是智代的话、无论发生什么都会当选学生会长的
+====================
+
+====================
+index 202
+offset 30915
+name Tomoya
+length 46
+====================
+\"I know this from seeing who you are today.\"
+====================
+只要看到现在的智代、我就能明白了
+====================
+
+====================
+index 203
+offset 31011
+name Tomoya
+length 34
+====================
+\"Since you're so captivating...\"
+====================
+非常的有魅力…
+====================
+
+====================
+index 204
+offset 31061
+name NULL
+length 37
+====================
+Saying this is a little embarrassing.
+====================
+说了这句话、感到有些害羞。
+====================
+
+====================
+index 205
+offset 31421
+name Tomoyo
+length 24
+====================
+\"...I see. Thank you.\"
+====================
+…是吗？谢谢
+====================
+
+====================
+index 206
+offset 31495
+name Tomoyo
+length 52
+====================
+\"Your words always manage to cheer me up, Tomoya.\"
+====================
+朋也的话一直能让我恢复精力呢
+====================
+
+====================
+index 207
+offset 31833
+name NULL
+length 65
+====================
+And so, just like that, we gaze at the field until practice ends.
+====================
+结果就这样、我们一直看到练习结束。
+====================

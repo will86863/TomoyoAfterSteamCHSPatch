@@ -1,0 +1,926 @@
+type seen7910
+count 84
+
+====================
+index 1
+offset 1932
+name Takafumi
+length 56
+====================
+\"Welcome to the magical castle in which we were born.\"
+====================
+欢迎来到我们诞生的这座魔法城堡。
+====================
+
+====================
+index 2
+offset 2038
+name Tomoya
+length 66
+====================
+\"Is this fantasy-themed? That's quite a casual getup you're in.\"
+====================
+这是奇幻风格吗？你这身打扮还挺随便的。
+====================
+
+====================
+index 3
+offset 2156
+name Takafumi
+length 38
+====================
+\"We didn't have a good CG designer.\"
+====================
+因为我们没请到好的原画师。
+====================
+
+====================
+index 4
+offset 2244
+name Tomoya
+length 31
+====================
+\"Don't just kill the mood...\"
+====================
+别一句话就把气氛搞砸啊…
+====================
+
+====================
+index 5
+offset 2327
+name Takafumi
+length 123
+====================
+\"Since long ago, this castle has been a laboratory for magicians who worked hard to develop better and better Takafumis.\"
+====================
+很久以前、这座城堡就是魔术师们为了让鹰文越来越好而不断研究的实验室。
+====================
+
+====================
+index 6
+offset 2502
+name Takafumi
+length 100
+====================
+\"These days, Takafumis live among humans, helping them with chores such as cooking and laundry...\"
+====================
+如今、鹰文们已经融入人类之中、帮他们做饭、洗衣之类的家务…
+====================
+
+====================
+index 7
+offset 2654
+name Takafumi
+length 69
+====================
+\"At night, they are even well-loved by others as male prostitutes.\"
+====================
+到了晚上、他们甚至作为男娼而广受喜爱。
+====================
+
+====================
+index 8
+offset 2782
+name Tomoya
+length 18
+====================
+\"Urrrgggghhh...\"
+====================
+呃呃呃…
+====================
+
+====================
+index 9
+offset 2855
+name Takafumi
+length 110
+====================
+\"No. 054, who was accidentally born under a contract with the devil, was when the project finally took off.\"
+====================
+偶然与恶魔签下契约而诞生的０５４号、才是这个计划真正起飞的开端。
+====================
+
+====================
+index 10
+offset 3017
+name Takafumi
+length 61
+====================
+\"Starting with him, the Takafumis finally gained emotions.\"
+====================
+以他为契机、鹰文们终于获得了感情。
+====================
+
+====================
+index 11
+offset 3130
+name Takafumi
+length 57
+====================
+\"By the way, the devil he made a contract with is gay.\"
+====================
+顺便说一句、和他签约的那个恶魔是个同性恋。
+====================
+
+====================
+index 12
+offset 3237
+name Tomoya
+length 18
+====================
+\"Urrrgggghhh...\"
+====================
+呃呃呃…
+====================
+
+====================
+index 13
+offset 3307
+name Takafumi
+length 103
+====================
+\"After using No. 054 as the catalyst for their nurturing, today's Takafumis have reached prosperity.\"
+====================
+把０５４号当作培育的触媒之后、今天的鹰文们迎来了繁荣。
+====================
+
+====================
+index 14
+offset 3462
+name Takafumi
+length 60
+====================
+\"Without him, our history would have been very different.\"
+====================
+没有他的话、我们的历史大概会完全不同吧。
+====================
+
+====================
+index 15
+offset 3574
+name Takafumi
+length 55
+====================
+\"However, ten days ago, on the night of the storm...\"
+====================
+然而、十天前、那个暴风雨之夜…
+====================
+
+====================
+index 16
+offset 3681
+name Takafumi
+length 49
+====================
+\"No. 054 suddenly disappeared without a trace.\"
+====================
+０５４号突然毫无踪迹地消失了。
+====================
+
+====================
+index 17
+offset 3782
+name Takafumi
+length 51
+====================
+\"The magicians tried their best to look for him.\"
+====================
+魔术师们竭尽全力寻找他。
+====================
+
+====================
+index 18
+offset 3885
+name Takafumi
+length 74
+====================
+\"And the other Takafumis also banded together to look for their parent.\"
+====================
+其他的鹰文们也团结起来、一起寻找他们的父亲。
+====================
+
+====================
+index 19
+offset 4011
+name Takafumi
+length 78
+====================
+\"After many Takafumis lost their lives, they finally found his whereabouts.\"
+====================
+在折损了许多鹰文之后、他们终于查到了他的下落。
+====================
+
+====================
+index 20
+offset 4141
+name Takafumi
+length 93
+====================
+\"He is deep inside the labyrinth that sprawls under this castle, where the beastmen dwell.\"
+====================
+他就在这座城堡地下蔓延的迷宫深处、也就是兽人们居住的地方。
+====================
+
+====================
+index 21
+offset 4286
+name Takafumi
+length 31
+====================
+\"'How do you know,' you ask?\"
+====================
+你问『你们怎么知道的』？
+====================
+
+====================
+index 22
+offset 4369
+name Takafumi
+length 87
+====================
+\"The other Takafumis found out by selling themselves as prostitutes to the beastmen.\"
+====================
+是其他的鹰文们靠卖身给兽人问出来的。
+====================
+
+====================
+index 23
+offset 4515
+name Tomoya
+length 18
+====================
+\"Urrrgggghhh...\"
+====================
+呃呃呃…
+====================
+
+====================
+index 24
+offset 4588
+name Takafumi
+length 94
+====================
+\"The beastmen were belligerent and fierce. The magicians could do nothing to defeat them...\"
+====================
+兽人生性好战又凶暴。魔术师们根本拿他们没办法…
+====================
+
+====================
+index 25
+offset 4734
+name Takafumi
+length 98
+====================
+\"That's why we posted notices throughout the continent, and oh how the brave warriors gathered.\"
+====================
+所以我们在全大陆张贴了告示、没想到勇敢的战士们纷纷聚集而来。
+====================
+
+====================
+index 26
+offset 4884
+name Takafumi
+length 62
+====================
+\"Touted as the 'Red Fang of Rigaldo', Tomoya the Swordsman.\"
+====================
+被赞为『里卡尔多的红牙』的剑士、朋也。
+====================
+
+====================
+index 27
+offset 4996
+name Tomoya
+length 18
+====================
+\"Oh, that's me.\"
+====================
+哦、是我。
+====================
+
+====================
+index 28
+offset 5066
+name Takafumi
+length 63
+====================
+\"Lauded as the 'Red Fang of Zarionti', Tomoyo the Swordsman.\"
+====================
+被颂为『扎利恩提的红牙』的剑士、智代。
+====================
+
+====================
+index 29
+offset 5226
+name Tomoyo
+length 14
+====================
+\"That's me.\"
+====================
+是我。
+====================
+
+====================
+index 30
+offset 5292
+name Takafumi
+length 66
+====================
+\"Acclaimed as the 'Red Fang of Torcoone', Kanako the Swordsman.\"
+====================
+被称扬为『托尔库内的红牙』的剑士、河南子。
+====================
+
+====================
+index 31
+offset 5455
+name Kanako
+length 14
+====================
+\"Greetings.\"
+====================
+有礼了。
+====================
+
+====================
+index 32
+offset 5566
+name Tomoya
+length 39
+====================
+\"Wait a minute, we're all swordsmen!\"
+====================
+等等、我们全都是剑士啊！
+====================
+
+====================
+index 33
+offset 5655
+name Tomoya
+length 38
+====================
+\"You even gave us the same moniker.\"
+====================
+连称号都给我们弄成一样的了。
+====================
+
+====================
+index 34
+offset 5792
+name Takafumi
+length 36
+====================
+\"Yep... they are indeed the same.\"
+====================
+嗯…确实是一样的。
+====================
+
+====================
+index 35
+offset 5880
+name Takafumi
+length 65
+====================
+\"You can switch jobs, so get on your levelling and branch out.\"
+====================
+职业是可以转的、所以你们就边练级边拓展吧。
+====================
+
+====================
+index 36
+offset 5995
+name Tomoya
+length 39
+====================
+\"You sure seem to be taking it easy.\"
+====================
+你还真是悠哉啊。
+====================
+
+====================
+index 37
+offset 6086
+name Takafumi
+length 96
+====================
+\"The ruler of this castle (My Lord) and magician, Tomo-sama, will also be part of your party.\"
+====================
+这座城堡的城主（我的主人）、同时也是魔术师的智大人、也会加入你们的队伍。
+====================
+
+====================
+index 38
+offset 6234
+name Takafumi
+length 126
+====================
+\"Incidentally, since My Lord has practiced the secret art of rejuvenation far too often, she looks pretty much like a loli.\"
+====================
+顺便一提、因为主人大人把返老还童的秘术用得太多了、看起来完全就像个小女孩。
+====================
+
+====================
+index 39
+offset 6455
+name Tomo
+length 37
+====================
+\"'Tis my pleasure to meet you all.\"
+====================
+诸位、请多指教。
+====================
+
+====================
+index 40
+offset 6542
+name Tomoya
+length 28
+====================
+\"What a stupid setting...\"
+====================
+什么乱七八糟的设定啊…
+====================
+
+====================
+index 41
+offset 6669
+name Takafumi
+length 156
+====================
+\"As the one who possesses the emotion 'Melancholy', I, Takafumi No. 068, shall accompany you as the operator until you reach the fifth underground floor.\"
+====================
+身为持有『忧郁』这一感情的我、鹰文０６８号、将以引导者的身份陪同各位、直到你们抵达地下五层。
+====================
+
+====================
+index 42
+offset 6875
+name Tomoya
+length 40
+====================
+\"So that's why you sound so gloomy...\"
+====================
+怪不得你的语气这么阴沉…
+====================
+
+====================
+index 43
+offset 6967
+name Takafumi
+length 24
+====================
+\"Now, to the dungeon!\"
+====================
+那么、向地下城出发吧！
+====================
+
+====================
+index 44
+offset 7193
+name Takafumi
+length 19
+====================
+\"Welcome back...\"
+====================
+欢迎回来…
+====================
+
+====================
+index 45
+offset 7309
+name Kanako
+length 20
+====================
+\"You damned pest!\"
+====================
+你这个臭虫！
+====================
+
+====================
+index 46
+offset 7428
+name Takafumi
+length 48
+====================
+\"Huh? How is it my fault... I'm in despair...\"
+====================
+咦？这怎么能怪我…我好绝望…
+====================
+
+====================
+index 48
+offset 8371
+name Tomo
+length 11
+====================
+\"Phew...\"
+====================
+呼…
+====================
+
+====================
+index 49
+offset 8432
+name Tomoya
+length 30
+====================
+\"How's Takafumi holding up?\"
+====================
+鹰文怎么样了？
+====================
+
+====================
+index 50
+offset 8557
+name Tomo
+length 33
+====================
+\"His life was spared, somehow.\"
+====================
+总算保住了一条命。
+====================
+
+====================
+index 51
+offset 8640
+name Tomoya
+length 25
+====================
+\"So it was that bad...\"
+====================
+有那么严重吗…
+====================
+
+====================
+index 52
+offset 8713
+name Tomo
+length 47
+====================
+\"Regardless, No. 054 will have to stay here.\"
+====================
+总之、０５４号必须留在这里。
+====================
+
+====================
+index 53
+offset 8810
+name Tomoya
+length 43
+====================
+\"Seriously? That makes things difficult.\"
+====================
+真的吗？那就麻烦了。
+====================
+
+====================
+index 54
+offset 8903
+name Tomoya
+length 58
+====================
+\"I wonder if we can beat those Golems without Takafumi.\"
+====================
+没有鹰文的话、我们打得过那些魔像吗。
+====================
+
+====================
+index 55
+offset 9058
+name Tomoya
+length 22
+====================
+\"Hey, you, No. 068.\"
+====================
+喂、你、０６８号。
+====================
+
+====================
+index 56
+offset 9179
+name Takafumi
+length 27
+====================
+\"What do you need of me?\"
+====================
+您有什么吩咐？
+====================
+
+====================
+index 57
+offset 9256
+name Tomoya
+length 39
+====================
+\"Come fight the Golems in his place.\"
+====================
+你去代替他打那些魔像。
+====================
+
+====================
+index 58
+offset 9347
+name Takafumi
+length 11
+====================
+\"No way.\"
+====================
+恕难从命。
+====================
+
+====================
+index 59
+offset 9408
+name Tomoya
+length 49
+====================
+\"Bastard, I'll throw you in there by force....\"
+====================
+混蛋、那我就把你硬扔进去…
+====================
+
+====================
+index 60
+offset 9552
+name Tomo
+length 28
+====================
+\"Come now, calm yourself.\"
+====================
+好了好了、请冷静。
+====================
+
+====================
+index 61
+offset 9630
+name Tomoya
+length 36
+====================
+\"With the current situation? Why?\"
+====================
+这种情况你还让我冷静？为什么？
+====================
+
+====================
+index 62
+offset 9714
+name Tomo
+length 97
+====================
+\"Takafumis who possess only a single emotion cannot fight. They do not have the will to do so.\"
+====================
+只持有单一感情的鹰文是无法战斗的。他们没有战斗的意志。
+====================
+
+====================
+index 63
+offset 9859
+name Tomo
+length 55
+====================
+\"You'd just be sending him to his death for nothing.\"
+====================
+那样只会让他白白送死。
+====================
+
+====================
+index 64
+offset 9964
+name Tomoya
+length 11
+====================
+\"Damn...\"
+====================
+可恶…
+====================
+
+====================
+index 65
+offset 10074
+name Takafumi
+length 24
+====================
+\"This guy's an idiot!\"
+====================
+这家伙是个笨蛋！
+====================
+
+====================
+index 66
+offset 10148
+name Tomoya
+length 36
+====================
+\"Don't rub people the wrong way!!\"
+====================
+别随便惹人生气啊！！
+====================
+
+====================
+index 67
+offset 10236
+name Takafumi
+length 67
+====================
+\"Calm down. I've been doing my job as the operator so chill out.\"
+====================
+请冷静。我一直都在履行引导者的职责、所以请放松点。
+====================
+
+====================
+index 68
+offset 10353
+name Tomoya
+length 45
+====================
+\"This guy's really getting on my nerves...\"
+====================
+这家伙真是让人火大…
+====================
+
+====================
+index 69
+offset 10495
+name Tomoyo
+length 68
+====================
+\"That means... the fate of mankind has been entrusted to us four.\"
+====================
+也就是说…人类的命运就托付给我们四个人了。
+====================
+
+====================
+index 70
+offset 10613
+name Tomoya
+length 22
+====================
+\"Are we heading in?\"
+====================
+我们要进去了吗？
+====================
+
+====================
+index 71
+offset 10685
+name Tomoyo
+length 21
+====================
+\"We have to go in.\"
+====================
+必须进去。
+====================
+
+====================
+index 72
+offset 10801
+name Tomo
+length 94
+====================
+\"Now, I know you are feeling really down, Princess, but you need to get a hold of yourself.\"
+====================
+好了、我知道你现在非常消沉、公主殿下、但请你振作起来。
+====================
+
+====================
+index 73
+offset 10992
+name Kanako
+length 11
+====================
+\"Yeah...\"
+====================
+嗯…
+====================
+
+====================
+index 74
+offset 11100
+name Kanako
+length 38
+====================
+\"I will definitely avenge Takafumi.\"
+====================
+我一定要为鹰文报仇。
+====================
+
+====================
+index 75
+offset 11188
+name Kanako
+length 26
+====================
+\"Wait for me, Takafumi.\"
+====================
+等着我、鹰文。
+====================
+
+====================
+index 76
+offset 11661
+name Takafumi
+length 28
+====================
+\"Hey, guys, are you okay?\"
+====================
+喂、各位、你们没事吧？
+====================
+
+====================
+index 77
+offset 11786
+name Kanako
+length 13
+====================
+\"Takafumi!\"
+====================
+鹰文！
+====================
+
+====================
+index 78
+offset 11849
+name Tomoya
+length 26
+====================
+\"You can stand up now?!\"
+====================
+你都能站起来了？！
+====================
+
+====================
+index 79
+offset 11970
+name Tomo
+length 90
+====================
+\"No, take a good look. This is a holographic video. He is still in bed at the hospital.\"
+====================
+不、仔细看。这是立体影像。他还在医院的床上躺着。
+====================
+
+====================
+index 80
+offset 12159
+name Takafumi
+length 44
+====================
+\"Okay, listen up. I don't have much time.\"
+====================
+好、听我说。我没有多少时间。
+====================
+
+====================
+index 81
+offset 12255
+name Takafumi
+length 30
+====================
+\"There are three days left.\"
+====================
+只剩下三天了。
+====================
+
+====================
+index 82
+offset 12337
+name Takafumi
+length 48
+====================
+\"We must bring down their base in three days.\"
+====================
+我们必须在这三天里攻下他们的据点。
+====================
+
+====================
+index 83
+offset 12437
+name Takafumi
+length 51
+====================
+\"Otherwise... we will disappear from this world.\"
+====================
+否则…我们就会从这个世界上消失。
+====================
+
+====================
+index 84
+offset 12540
+name Takafumi
+length 11
+====================
+\"Got it?\"
+====================
+明白了吗？
+====================
+
+====================
+index 85
+offset 12648
+name Kanako
+length 16
+====================
+\"...I got it.\"
+====================
+…我明白了。
+====================

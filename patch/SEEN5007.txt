@@ -1,0 +1,4369 @@
+type seen5007
+count 397
+
+====================
+index 1
+offset 52
+name NULL
+length 12
+====================
+After - Last
+====================
+Ａｆｔｅｒ最终日
+====================
+
+====================
+index 2
+offset 503
+name NULL
+length 24
+====================
+It is a bright fall day.
+====================
+秋高气爽的日子。
+====================
+
+====================
+index 3
+offset 543
+name NULL
+length 48
+====================
+I watch as a red dragonfly flies in front of me.
+====================
+我用目光追逐着眼前飞过的红蜻蜓。
+====================
+
+====================
+index 4
+offset 607
+name NULL
+length 86
+====================
+Going in a circle, the dragonfly traces a line in the sky until it flies out of sight.
+====================
+只见它突然在空中划了一个圈、然后就飞到视野外去了。
+====================
+
+====================
+index 5
+offset 743
+name Tomoyo
+length 48
+====================
+\"Tomoya, what are you doing spacing out here?\"
+====================
+朋也、你在发什么呆呢
+====================
+
+====================
+index 6
+offset 841
+name Tomoya
+length 16
+====================
+\"N-Nothing...\"
+====================
+嗯、啊啊
+====================
+
+====================
+index 7
+offset 1297
+name NULL
+length 57
+====================
+The two of us are standing in front of an isolated house.
+====================
+我们站在一户人家门口。
+====================
+
+====================
+index 8
+offset 1370
+name NULL
+length 31
+====================
+I won't say it feels nostalgic.
+====================
+并没有感到有多么的怀念。
+====================
+
+====================
+index 9
+offset 1417
+name NULL
+length 31
+====================
+But it really has been a while.
+====================
+但是、确实能感觉到已经很久没来了。
+====================
+
+====================
+index 10
+offset 1464
+name NULL
+length 121
+====================
+In my memories, I remember coming home every day, but in reality it must have been years since the last time I came back.
+====================
+虽然在记忆中仍然是每天都会回到这里、但是实际上却已经过了好多年了吧。
+====================
+
+====================
+index 11
+offset 1601
+name NULL
+length 35
+====================
+I cross the threshold of the house,
+====================
+跨进门槛里。
+====================
+
+====================
+index 12
+offset 1652
+name NULL
+length 81
+====================
+and upon looking closer, the deterioration of the walls is worse than I remember.
+====================
+仔细地看看、墙上的裂纹比记忆中的更加严重。
+====================
+
+====================
+index 13
+offset 1749
+name NULL
+length 68
+====================
+It gives off this sad impression that it may collapse at any moment.
+====================
+觉得好像随时会塌方一样、让人不免产生一种寂寞感。
+====================
+
+====================
+index 14
+offset 1833
+name NULL
+length 46
+====================
+In this house, one man has always lived alone.
+====================
+这间屋子里、一直住着一个男人。
+====================
+
+====================
+index 15
+offset 1895
+name NULL
+length 78
+====================
+It feels as though the building's condition exemplifies the heart of this man.
+====================
+而我觉得这间房子好像也显示着那个男人的内心一般。
+====================
+
+====================
+index 16
+offset 1989
+name NULL
+length 35
+====================
+Tomoyo and I have come to meet him.
+====================
+我和智代是来见他的。
+====================
+
+====================
+index 17
+offset 2040
+name NULL
+length 49
+====================
+To inform him that I am to undergo the operation.
+====================
+为了告诉他我决定做手术。
+====================
+
+====================
+index 18
+offset 2105
+name NULL
+length 41
+====================
+And also, that Tomoyo and I have married.
+====================
+以及我已经和智代结婚了这件事。
+====================
+
+====================
+index 19
+offset 2196
+name Tomoyo
+length 37
+====================
+\"Tomoya, could you please open it?\"
+====================
+朋也来开门吧
+====================
+
+====================
+index 20
+offset 2249
+name NULL
+length 23
+====================
+There is a single gate.
+====================
+一扇门。
+====================
+
+====================
+index 21
+offset 2288
+name NULL
+length 45
+====================
+That is all that separates me and this house.
+====================
+仅仅是这样一件东西、就将我和这个家隔开了。
+====================
+
+====================
+index 22
+offset 2349
+name NULL
+length 41
+====================
+Gripping it in my right hand, I hesitate.
+====================
+我的右手搭上了门把、却犹豫了。
+====================
+
+====================
+index 23
+offset 2406
+name NULL
+length 50
+====================
+I remember what Tomoyo told me before we got here.
+====================
+我回想起了来这里之前智代告诉我的事。
+====================
+
+====================
+index 24
+offset 3620
+name Tomoyo
+length 69
+====================
+\"Before we meet Naoyuki-san, there is something I should tell you.\"
+====================
+在见到直幸先生之前、有一件事要告诉你
+====================
+
+====================
+index 25
+offset 3739
+name Tomoyo
+length 29
+====================
+\"It's about your shoulder.\"
+====================
+就是朋也的肩膀
+====================
+
+====================
+index 26
+offset 3784
+name NULL
+length 39
+====================
+I can't raise my arm above my shoulder.
+====================
+只能抬到肩膀高度的右手腕。
+====================
+
+====================
+index 27
+offset 3839
+name NULL
+length 64
+====================
+I heard that due to my shoulder, I had to give up on basketball.
+====================
+她告诉我就是因为这个肩膀的原因、我放弃了篮球。
+====================
+
+====================
+index 28
+offset 3919
+name NULL
+length 51
+====================
+However, I haven't heard the cause from Tomoyo yet.
+====================
+但是、造成这个的原因智代却没有告诉我。
+====================
+
+====================
+index 29
+offset 4020
+name Tomoyo
+length 62
+====================
+\"...I think it would be unfair to keep the reason from you.\"
+====================
+…我觉得如果不把这件事说出来的话、会很卑鄙
+====================
+
+====================
+index 30
+offset 4132
+name Tomoya
+length 11
+====================
+\"Unfair?\"
+====================
+卑鄙？
+====================
+
+====================
+index 31
+offset 4193
+name Tomoyo
+length 11
+====================
+\"Yeah...\"
+====================
+嗯…
+====================
+
+====================
+index 32
+offset 4254
+name Tomoyo
+length 83
+====================
+\"Actually, I know what caused your shoulder problem. I heard it from you before.\"
+====================
+我知道原因。这是以前朋也告诉我的
+====================
+
+====================
+index 33
+offset 4387
+name Tomoyo
+length 40
+====================
+\"I think it's okay if I tell you now.\"
+====================
+我想现在告诉朋也的话也已经没有关系了
+====================
+
+====================
+index 34
+offset 4477
+name Tomoyo
+length 25
+====================
+\"No, you have to know.\"
+====================
+不、应该说你必须要知道
+====================
+
+====================
+index 35
+offset 4788
+name NULL
+length 42
+====================
+And then, Tomoyo begins to tell the story.
+====================
+然后、智代就告诉了我一切。
+====================
+
+====================
+index 36
+offset 4846
+name NULL
+length 32
+====================
+The story itself is a short one.
+====================
+话本身很短。
+====================
+
+====================
+index 37
+offset 4894
+name NULL
+length 69
+====================
+She says that my father was the cause of my right shoulder's problem.
+====================
+我的右肩、是因为父亲的关系才弄成这样的。
+====================
+
+====================
+index 38
+offset 4979
+name NULL
+length 32
+====================
+That is all the story was about.
+====================
+仅此而已。
+====================
+
+====================
+index 39
+offset 5027
+name NULL
+length 89
+====================
+Because of it, the \"me\" that I don't remember abhorred my father even more than before.
+====================
+我所不记得的『我』、也因为这个关系和父亲闹僵了。
+====================
+
+====================
+index 40
+offset 5132
+name NULL
+length 27
+====================
+And then, so did my father.
+====================
+而且、父亲也是。
+====================
+
+====================
+index 41
+offset 5175
+name NULL
+length 38
+====================
+He began to keep his distance from me.
+====================
+和我拉开了距离。
+====================
+
+====================
+index 42
+offset 5229
+name NULL
+length 72
+====================
+Even though I am his son, he approached me as if we were only strangers.
+====================
+…明明是自己的孩子、却好像对待他人一般对待着。
+====================
+
+====================
+index 43
+offset 5317
+name NULL
+length 37
+====================
+But it's not like he is cold-hearted.
+====================
+但是、并不是说对我很冷淡。
+====================
+
+====================
+index 44
+offset 5370
+name NULL
+length 41
+====================
+Rather, she says he became more intimate.
+====================
+反而甚至可以说是很亲密。
+====================
+
+====================
+index 45
+offset 5427
+name NULL
+length 56
+====================
+He talked to me as if he were talking to a close friend.
+====================
+就好像跟很亲近的人说话一般对着我说话。
+====================
+
+====================
+index 46
+offset 5499
+name NULL
+length 20
+====================
+I couldn't stand it.
+====================
+而这也是我所不能忍受的。
+====================
+
+====================
+index 47
+offset 5535
+name NULL
+length 61
+====================
+Having only heard it from Tomoyo, I can't quite grasp it all.
+====================
+仅仅从智代的口中听到这些、确实没有太多的感触。
+====================
+
+====================
+index 48
+offset 5612
+name NULL
+length 77
+====================
+However, I understood that our relationship has become worse than I remember.
+====================
+但是、我和父亲的关系、确实比我所记得的那个时候要差得多。
+====================
+
+====================
+index 49
+offset 6012
+name Tomoyo
+length 43
+====================
+\"I have met Naoyuki-san countless times.\"
+====================
+我见过好几次直幸先生
+====================
+
+====================
+index 50
+offset 6105
+name Tomoyo
+length 79
+====================
+\"Before you lost your memory, I also met him when we just started going out.\"
+====================
+在你丧失记忆之前、我们刚开始交往的时候就已经见过了
+====================
+
+====================
+index 51
+offset 6234
+name Tomoyo
+length 67
+====================
+\"To me, I didn't believe he was the man you described him to be.\"
+====================
+在我看来、那个人根本就不像你所说的那样
+====================
+
+====================
+index 52
+offset 6351
+name Tomoyo
+length 38
+====================
+\"He seemed to be suffering as well.\"
+====================
+在我看来、那个人也一直饱受痛苦
+====================
+
+====================
+index 53
+offset 6712
+name Tomoyo
+length 25
+====================
+\"That's why, Tomoya...\"
+====================
+所以…朋也
+====================
+
+====================
+index 54
+offset 6753
+name NULL
+length 34
+====================
+I shake my head from side to side.
+====================
+我摇了摇头。
+====================
+
+====================
+index 55
+offset 6837
+name Tomoya
+length 40
+====================
+\"To tell you the truth, I don't know.\"
+====================
+说实话、我不明白
+====================
+
+====================
+index 56
+offset 6927
+name Tomoya
+length 59
+====================
+\"When I found out my shoulder was broken, I was shocked.\"
+====================
+知道我的肩膀受伤的时候、我真的很震惊
+====================
+
+====================
+index 57
+offset 7036
+name Tomoya
+length 85
+====================
+\"I heard from you what kind of school life I had since I couldn't play basketball.\"
+====================
+智代告诉了我那个失去篮球的我究竟是过着怎样的学校生活
+====================
+
+====================
+index 58
+offset 7171
+name Tomoya
+length 112
+====================
+\"And just now, I heard from you that it was caused by my old man, and what that had done to our relationship.\"
+====================
+也告诉了我原因是因为父亲、而我因此也疏远父亲的事
+====================
+
+====================
+index 59
+offset 7333
+name Tomoya
+length 68
+====================
+\"But... right now I only have memories of up until middle school.\"
+====================
+但是…现在的我只有到中学为止的记忆
+====================
+
+====================
+index 60
+offset 7451
+name Tomoya
+length 51
+====================
+\"My only memories of him are of a worthless man.\"
+====================
+我所知的他是个不检点的男人
+====================
+
+====================
+index 61
+offset 7552
+name Tomoya
+length 76
+====================
+\"Nobody could rely on him, and he didn't have that great of a job either.\"
+====================
+不仅靠不住、而且工作也是很普通的
+====================
+
+====================
+index 62
+offset 7678
+name Tomoya
+length 34
+====================
+\"Just barely making a living...\"
+====================
+只是勉勉强强地挣着钱过着日子…
+====================
+
+====================
+index 63
+offset 7762
+name Tomoya
+length 44
+====================
+\"It didn't matter if he was there or not.\"
+====================
+感觉就像是个可有可无的人…
+====================
+
+====================
+index 64
+offset 7856
+name Tomoya
+length 34
+====================
+\"That's the kind of guy he was.\"
+====================
+我就是这么认为的
+====================
+
+====================
+index 65
+offset 7940
+name Tomoya
+length 78
+====================
+\"But Tomoyo, because you said you wanted to tell him that we got married...\"
+====================
+但是智代你、却让我来跟他说我们结婚的事…
+====================
+
+====================
+index 66
+offset 8068
+name Tomoya
+length 57
+====================
+\"That's why... I'm only going today because you asked.\"
+====================
+所以…今天我只是看着你的面子来的
+====================
+
+====================
+index 67
+offset 8175
+name Tomoya
+length 70
+====================
+\"I don't know what you're thinking, but... don't get your hopes up.\"
+====================
+虽然我不知道智代你在想什么…但是还是别太期待我能做什么
+====================
+
+====================
+index 68
+offset 8295
+name Tomoyo
+length 9
+====================
+\"Yeah.\"
+====================
+嗯
+====================
+
+====================
+index 69
+offset 8743
+name NULL
+length 66
+====================
+I ring the bell and without waiting for a response, open the gate.
+====================
+我按了下门铃、也不等有人回应就打开了门。
+====================
+
+====================
+index 70
+offset 8825
+name NULL
+length 29
+====================
+Momentarily, I take a breath.
+====================
+一瞬间、我深深地吸了口气。
+====================
+
+====================
+index 71
+offset 8870
+name NULL
+length 51
+====================
+That worthless man has lived countless years alone.
+====================
+那个不检点的男人已经一个人渡过了多少个春秋。
+====================
+
+====================
+index 72
+offset 8937
+name NULL
+length 51
+====================
+I prepare myself for what could possibly be inside.
+====================
+家里已经是什么样子多少也有点心理准备了。
+====================
+
+====================
+index 73
+offset 9004
+name NULL
+length 10
+====================
+However...
+====================
+但是…
+====================
+
+====================
+index 74
+offset 9723
+name NULL
+length 66
+====================
+The first thing I see is my father waiting for us on the doorstep.
+====================
+首先映入眼帘的是一直在门口等着我们的父亲。
+====================
+
+====================
+index 75
+offset 9805
+name NULL
+length 53
+====================
+Compared to what I remember, he has aged quite a bit.
+====================
+比记忆中的样子要老得多。
+====================
+
+====================
+index 76
+offset 9874
+name NULL
+length 50
+====================
+His hair has turned white, and wrinkles stand out.
+====================
+头发变得花白、皱纹也很明显。
+====================
+
+====================
+index 77
+offset 9940
+name NULL
+length 31
+====================
+But that was the father I knew.
+====================
+但是、他确实是我所知道的那个父亲。
+====================
+
+====================
+index 78
+offset 10294
+name Naoyuki
+length 42
+====================
+\"I've been waiting for you, Tomoya-kun.\"
+====================
+我一直在等你哦、朋也君
+====================
+
+====================
+index 79
+offset 10387
+name Naoyuki
+length 42
+====================
+\"Tomoyo-san, I'm glad you came as well.\"
+====================
+智代小姐也来了呢
+====================
+
+====================
+index 80
+offset 10480
+name Naoyuki
+length 27
+====================
+\"Now, let's head inside.\"
+====================
+来、快进来吧
+====================
+
+====================
+index 81
+offset 10793
+name NULL
+length 63
+====================
+As we were prompted, Tomoyo and I take off our shoes and enter.
+====================
+被他催促着、我和智代脱下了鞋子。
+====================
+
+====================
+index 82
+offset 10872
+name NULL
+length 82
+====================
+My father, walking a little in front of us, looks as though he has gotten smaller.
+====================
+走在我们前面的父亲、看起来瘦小了很多。
+====================
+
+====================
+index 83
+offset 10970
+name NULL
+length 66
+====================
+Exiting the narrow corridor, we immediately enter the living room.
+====================
+走过狭窄的走廊、很快就到了客厅。
+====================
+
+====================
+index 84
+offset 11052
+name NULL
+length 59
+====================
+My father passes us in the living room and then disappears.
+====================
+父亲让我们坐在客厅、自己去准备茶水了。
+====================
+
+====================
+index 85
+offset 11127
+name NULL
+length 23
+====================
+I look around the room.
+====================
+我环视着房间。
+====================
+
+====================
+index 86
+offset 11166
+name NULL
+length 95
+====================
+The tatami mats are frayed, a draft comes in through the window, and the air is somewhat humid.
+====================
+有点残破的榻榻米、漏风的窗户、还有略感湿漉漉的空气。
+====================
+
+====================
+index 87
+offset 11277
+name NULL
+length 36
+====================
+It feels as if years have passed by.
+====================
+确实可以感受得到岁月的流逝。
+====================
+
+====================
+index 88
+offset 11329
+name NULL
+length 15
+====================
+But it is tidy.
+====================
+但是、却很干净。
+====================
+
+====================
+index 89
+offset 11360
+name NULL
+length 60
+====================
+In the hallway and in the room, there is no dust to be seen.
+====================
+不管是走廊还是房间、都一尘不染。
+====================
+
+====================
+index 90
+offset 11436
+name NULL
+length 43
+====================
+It appears to have been thoroughly cleaned.
+====================
+好像经常都会打扫一样。
+====================
+
+====================
+index 91
+offset 11529
+name Tomoya
+length 45
+====================
+\"Tomoyo, did you say we were coming today?\"
+====================
+智代、你跟他说了我们今天会来吗？
+====================
+
+====================
+index 92
+offset 11590
+name NULL
+length 34
+====================
+Tomoyo shakes her head in silence.
+====================
+智代默默地摇了摇头。
+====================
+
+====================
+index 93
+offset 11640
+name NULL
+length 43
+====================
+I wonder how my father knew we were coming.
+====================
+为什么父亲会知道我们要来呢…。
+====================
+
+====================
+index 94
+offset 11699
+name NULL
+length 34
+====================
+Before long, he comes in with tea.
+====================
+不久、父亲就端着茶进来了。
+====================
+
+====================
+index 95
+offset 12056
+name Naoyuki
+length 39
+====================
+\"It's not much, but help yourselves.\"
+====================
+没什么好东西招待你们
+====================
+
+====================
+index 96
+offset 12111
+name NULL
+length 47
+====================
+The tea cups he handed us are a little chipped.
+====================
+他拿出的茶杯、杯口都有点破损了。
+====================
+
+====================
+index 97
+offset 12174
+name NULL
+length 41
+====================
+The three of us sit around the tea table.
+====================
+三个人围着桌子。
+====================
+
+====================
+index 98
+offset 12231
+name NULL
+length 39
+====================
+He alternates as he looks at our faces.
+====================
+父亲交替着看着我们俩的脸。
+====================
+
+====================
+index 99
+offset 12321
+name Naoyuki
+length 45
+====================
+\"It's been a while, hasn't it, Tomoya-kun?\"
+====================
+好久不见了呢、朋也君
+====================
+
+====================
+index 100
+offset 12416
+name Tomoya
+length 8
+====================
+\"Why?\"
+====================
+为什么
+====================
+
+====================
+index 101
+offset 12474
+name Tomoya
+length 34
+====================
+\"Why didn't you come even once?\"
+====================
+为什么你一次都没有来呢
+====================
+
+====================
+index 102
+offset 12831
+name Naoyuki
+length 11
+====================
+\"Yeah...\"
+====================
+嗯
+====================
+
+====================
+index 103
+offset 12893
+name Naoyuki
+length 20
+====================
+\"...I wonder why.\"
+====================
+…为什么呢
+====================
+
+====================
+index 104
+offset 12929
+name NULL
+length 40
+====================
+He speaks as if he truly was a stranger.
+====================
+他的口气好像是在说其他人的事情一般。
+====================
+
+====================
+index 105
+offset 12985
+name NULL
+length 51
+====================
+Just as Tomoyo said, he thinks of me as a stranger.
+====================
+果然、他就像智代所说的那样、把我当作外人了吗。
+====================
+
+====================
+index 106
+offset 13359
+name Tomoyo
+length 49
+====================
+\"Naoyuki-san, we came to speak with you today.\"
+====================
+直幸先生、我们今天来是有事想跟你说
+====================
+
+====================
+index 107
+offset 13424
+name NULL
+length 43
+====================
+Before I could say anything, Tomoyo speaks.
+====================
+在我说话之前、智代先开口了。
+====================
+
+====================
+index 108
+offset 13517
+name Tomoyo
+length 54
+====================
+\"I'm really sorry to tell you after the fact but...\"
+====================
+很抱歉过了这么久才告诉你…
+====================
+
+====================
+index 109
+offset 13621
+name Tomoyo
+length 23
+====================
+\"I'm an Okazaki now.\"
+====================
+我们已经办理结婚手续了
+====================
+
+====================
+index 110
+offset 13930
+name NULL
+length 53
+====================
+Clutching my hand, she raises them to show my father.
+====================
+她握着我的手、让他看了我们的戒指。
+====================
+
+====================
+index 111
+offset 14306
+name Naoyuki
+length 11
+====================
+\"Really?\"
+====================
+是吗…
+====================
+
+====================
+index 112
+offset 14368
+name Naoyuki
+length 20
+====================
+\"Congratulations.\"
+====================
+真是恭喜二位了
+====================
+
+====================
+index 113
+offset 14711
+name Tomoyo
+length 61
+====================
+\"In addition, I have one more important thing to tell you.\"
+====================
+还有…另外一件重要的事也要告诉您
+====================
+
+====================
+index 114
+offset 14822
+name Tomoyo
+length 48
+====================
+\"Tomoya... has decided to have the operation.\"
+====================
+朋也他…决定做手术了
+====================
+
+====================
+index 115
+offset 15193
+name Naoyuki
+length 11
+====================
+\"Really?\"
+====================
+是吗…
+====================
+
+====================
+index 116
+offset 15220
+name NULL
+length 78
+====================
+This \"Really?\" has a completely different sound to it than the previous one.
+====================
+这次的话、和刚才那句『是吗』有着完全不一样的语气。
+====================
+
+====================
+index 117
+offset 15314
+name NULL
+length 37
+====================
+It was a complex, worried \"Really?\"
+====================
+是一声复杂的…好像非常担心的『是吗』。
+====================
+
+====================
+index 118
+offset 15401
+name Tomoya
+length 89
+====================
+\"The operation will surely succeed. And when it does, Tomoyo and I will live together.\"
+====================
+手术一定会成功的。然后、我就会和智代一起生活
+====================
+
+====================
+index 119
+offset 15506
+name NULL
+length 39
+====================
+I tried my best to pretend to be tough.
+====================
+我尽力地说得很坚定。
+====================
+
+====================
+index 120
+offset 15561
+name NULL
+length 46
+====================
+I don't want a guy like him worrying about me.
+====================
+不想让这样的家伙为我担心。
+====================
+
+====================
+index 121
+offset 15657
+name Tomoya
+length 63
+====================
+\"Once that happens... I will probably never come here again.\"
+====================
+这样的话…我就不会再回来了
+====================
+
+====================
+index 122
+offset 16040
+name Tomoya
+length 27
+====================
+\"Well, let's go. Tomoyo.\"
+====================
+好了、走吧。智代
+====================
+
+====================
+index 123
+offset 16356
+name NULL
+length 30
+====================
+Tomoyo hesitates for a moment.
+====================
+智代犹豫了一会儿。
+====================
+
+====================
+index 124
+offset 16672
+name NULL
+length 47
+====================
+After hesitating, she eventually comes with me.
+====================
+最后还是跟着我走了。
+====================
+
+====================
+index 125
+offset 16769
+name Tomoya
+length 16
+====================
+\"See ya, Dad.\"
+====================
+再见了、父亲
+====================
+
+====================
+index 126
+offset 16835
+name Tomoya
+length 43
+====================
+\"We may never meet again, but take care.\"
+====================
+可能再也见不到了、你要保重身体
+====================
+
+====================
+index 127
+offset 16894
+name NULL
+length 54
+====================
+With those words, I head for the door at a brisk pace.
+====================
+这么说着、我加快脚步往门口走去。
+====================
+
+====================
+index 128
+offset 16964
+name NULL
+length 30
+====================
+My father doesn't say a thing.
+====================
+父亲什么也没有说。
+====================
+
+====================
+index 129
+offset 17010
+name NULL
+length 31
+====================
+He doesn't accompany us either.
+====================
+也没有跟过来。
+====================
+
+====================
+index 130
+offset 17057
+name NULL
+length 24
+====================
+...it is anti-climactic.
+====================
+…就是这么简单。
+====================
+
+====================
+index 131
+offset 17097
+name NULL
+length 33
+====================
+With this, our relationship ends.
+====================
+就这样、我和父亲的缘分就这么断了。
+====================
+
+====================
+index 132
+offset 17996
+name NULL
+length 46
+====================
+I finally notice that Tomoyo isn't next to me.
+====================
+我发现智代并没有走在身边。
+====================
+
+====================
+index 133
+offset 18058
+name NULL
+length 68
+====================
+Turning around, Tomoyo is peeking inside the house through a window.
+====================
+回过头、看到智代正在从窗户看着家里。
+====================
+
+====================
+index 134
+offset 18176
+name Tomoya
+length 31
+====================
+\"Tomoyo, what are you doing?\"
+====================
+智代、你在干什么
+====================
+
+====================
+index 135
+offset 18530
+name Tomoyo
+length 13
+====================
+\"Tomoya...\"
+====================
+朋也…
+====================
+
+====================
+index 136
+offset 18559
+name NULL
+length 52
+====================
+Tomoyo looks at me as if she wants to say something.
+====================
+智代看着我的眼睛像是要诉说着什么。
+====================
+
+====================
+index 137
+offset 18661
+name Tomoyo
+length 27
+====================
+\"You should take a look.\"
+====================
+你也来看看
+====================
+
+====================
+index 138
+offset 18974
+name NULL
+length 40
+====================
+Having said that, she makes room for me.
+====================
+她说着、让开了一步。
+====================
+
+====================
+index 139
+offset 19030
+name NULL
+length 47
+====================
+At this point... what does she have to show me?
+====================
+事到如今…又要让我看什么呢。
+====================
+
+====================
+index 140
+offset 19093
+name NULL
+length 46
+====================
+The glass in the window was starting to crack.
+====================
+窗子上的玻璃、已经有了几道裂纹。
+====================
+
+====================
+index 141
+offset 19155
+name NULL
+length 37
+====================
+The cracks were reinforced with tape.
+====================
+裂纹都用胶带补上了。
+====================
+
+====================
+index 142
+offset 19208
+name NULL
+length 52
+====================
+Does he not even have the money to buy a new window?
+====================
+就连换块玻璃的钱都没有了吗。
+====================
+
+====================
+index 143
+offset 19276
+name NULL
+length 45
+====================
+As suggested by Tomoyo, I look into the room.
+====================
+智代催着我、向房间里看去。
+====================
+
+====================
+index 144
+offset 19337
+name NULL
+length 16
+====================
+No one is there.
+====================
+没有一个人。
+====================
+
+====================
+index 145
+offset 19369
+name NULL
+length 58
+====================
+The room we were in just a moment ago is completely empty.
+====================
+刚才我们还在的那间房间、已经空无一人了。
+====================
+
+====================
+index 146
+offset 19443
+name NULL
+length 36
+====================
+My dad probably went somewhere else.
+====================
+父亲去了别的地方吗。
+====================
+
+====================
+index 147
+offset 19495
+name NULL
+length 63
+====================
+Without really trying to search for him, I look at the hallway.
+====================
+我自然地看往走廊。
+====================
+
+====================
+index 148
+offset 19574
+name NULL
+length 16
+====================
+My dad is there.
+====================
+父亲站在那里。
+====================
+
+====================
+index 149
+offset 19606
+name NULL
+length 30
+====================
+He is kneeling in the hallway.
+====================
+一个人呆呆地站在那里。
+====================
+
+====================
+index 150
+offset 19652
+name NULL
+length 17
+====================
+What is he doing?
+====================
+在干什么呢？
+====================
+
+====================
+index 151
+offset 19685
+name NULL
+length 42
+====================
+My father is moving his hands really hard.
+====================
+父亲卖力地动着手。
+====================
+
+====================
+index 152
+offset 19743
+name NULL
+length 38
+====================
+He's holding a dustcloth in his hands.
+====================
+手里捏着一块抹布。
+====================
+
+====================
+index 153
+offset 19797
+name NULL
+length 22
+====================
+My father is cleaning.
+====================
+父亲、正在做着扫除。
+====================
+
+====================
+index 154
+offset 19835
+name NULL
+length 22
+====================
+Polishing the hallway.
+====================
+擦着走廊的地板。
+====================
+
+====================
+index 155
+offset 19873
+name NULL
+length 10
+====================
+Earnestly.
+====================
+独自埋头地。
+====================
+
+====================
+index 156
+offset 19899
+name NULL
+length 16
+====================
+Whole-heartedly.
+====================
+一心不乱地。
+====================
+
+====================
+index 157
+offset 19931
+name NULL
+length 51
+====================
+Even from where I am, I can tell that he's serious.
+====================
+从远处看去、父亲的表情非常认真。
+====================
+
+====================
+index 158
+offset 19998
+name NULL
+length 88
+====================
+So much so, that this is the first time I've seen him put so much effort into something.
+====================
+我还是第一次看见父亲为了一件事而这么认真。
+====================
+
+====================
+index 159
+offset 20136
+name Tomoya
+length 35
+====================
+\"What exactly... is he doing...?\"
+====================
+那家伙…究竟在干什么…？
+====================
+
+====================
+index 160
+offset 20494
+name Tomoyo
+length 19
+====================
+\"Tomoya, I knew.\"
+====================
+朋也、我知道的
+====================
+
+====================
+index 161
+offset 20563
+name Tomoyo
+length 54
+====================
+\"Your father has been cleaning the house like that.\"
+====================
+父亲他、一直都像那样做着扫除
+====================
+
+====================
+index 162
+offset 20667
+name Tomoyo
+length 88
+====================
+\"Day in and day out, waiting for you, even though he knew you probably wouldn't come.\"
+====================
+每天、每天都是。为的是等着不知何时会回来的朋也
+====================
+
+====================
+index 163
+offset 20805
+name Tomoyo
+length 43
+====================
+\"He carefully cleans and airs the house.\"
+====================
+认真地扫除着、换着家里的空气
+====================
+
+====================
+index 164
+offset 20898
+name Tomoyo
+length 65
+====================
+\"He keeps cleaning from the time he comes home until midnight.\"
+====================
+从下午回来开始、一直做到半夜
+====================
+
+====================
+index 165
+offset 21013
+name Tomoyo
+length 76
+====================
+\"For three years, he has been keeping the house clean and tidy every day.\"
+====================
+这三年间、每天都像这样清扫着家里
+====================
+
+====================
+index 166
+offset 21139
+name Tomoyo
+length 42
+====================
+\"So that you can come back at any time.\"
+====================
+为的是不管朋也什么时候回来都能看到这样一个干净的家
+====================
+
+====================
+index 167
+offset 21473
+name NULL
+length 38
+====================
+My father has been cleaning the house?
+====================
+父亲做着扫除？
+====================
+
+====================
+index 168
+offset 21527
+name NULL
+length 66
+====================
+Certainly, the room is so clean there wasn't even a speck of dust.
+====================
+确实、家里干净得一尘不染。
+====================
+
+====================
+index 169
+offset 21609
+name NULL
+length 64
+====================
+It wasn't that he knew I would be coming today and cleaned up...
+====================
+那么、不是因为知道了我今天会回来…
+====================
+
+====================
+index 170
+offset 21689
+name NULL
+length 50
+====================
+He did it so that I could come back at any time...
+====================
+而是因为让我在任何时候回来时都能看到这样一个干净的家吗…。
+====================
+
+====================
+index 171
+offset 21755
+name NULL
+length 57
+====================
+My father surely knows that I'm renting my own apartment.
+====================
+父亲当然已经知道我在外头租了房子的吧。
+====================
+
+====================
+index 172
+offset 21828
+name NULL
+length 77
+====================
+And that even if my memories return, I wouldn't be coming back to this house.
+====================
+也知道就算我恢复了记忆、也不会回到这里来的。
+====================
+
+====================
+index 173
+offset 21921
+name NULL
+length 78
+====================
+Because of our falling out in the past, we should have already cut all ties...
+====================
+毕竟以前发生了那么多事、我们已经离得很远了啊…
+====================
+
+====================
+index 174
+offset 22015
+name NULL
+length 49
+====================
+My father shouldn't have a reason to wait for me.
+====================
+父亲应该、已经完全没有再等我的理由了啊。
+====================
+
+====================
+index 175
+offset 22114
+name Tomoya
+length 11
+====================
+\"Why...?\"
+====================
+为什么…
+====================
+
+====================
+index 176
+offset 22454
+name Tomoyo
+length 45
+====================
+\"That's because you're family, aren't you?\"
+====================
+因为…你们是一家人不是吗？
+====================
+
+====================
+index 177
+offset 22515
+name NULL
+length 87
+====================
+She answers; her voice sounds as though she pities me for not understanding the reason.
+====================
+她用近乎悲伤的声音告诉着我原因。
+====================
+
+====================
+index 178
+offset 22652
+name Tomoyo
+length 51
+====================
+\"Ever since you first collapsed three years ago,\"
+====================
+从朋也最初入院的三年前开始…
+====================
+
+====================
+index 179
+offset 22753
+name Tomoyo
+length 64
+====================
+\"your father has been preparing for the day you would return.\"
+====================
+不管什么时候、父亲都已经准备好了
+====================
+
+====================
+index 180
+offset 22867
+name Tomoyo
+length 59
+====================
+\"Preparing for the day that you may need to rely on him.\"
+====================
+为了你可能会回来的那一天
+====================
+
+====================
+index 181
+offset 22976
+name Tomoyo
+length 56
+====================
+\"It didn't matter when you came back to this house...\"
+====================
+因为不知道你什么时候会回来…
+====================
+
+====================
+index 182
+offset 23082
+name Tomoyo
+length 47
+====================
+\"He has always been preparing for the day...\"
+====================
+而回来的时候可能又需要他来守护着你…
+====================
+
+====================
+index 183
+offset 23179
+name Tomoyo
+length 47
+====================
+\"...that he needs to protect you once again.\"
+====================
+…他一直、都在为这一天做着准备
+====================
+
+====================
+index 184
+offset 23276
+name Tomoyo
+length 33
+====================
+\"You have always been his son.\"
+====================
+你永远、都是那个人的孩子啊
+====================
+
+====================
+index 185
+offset 23359
+name Tomoyo
+length 21
+====================
+\"Isn't that right?\"
+====================
+不是吗？
+====================
+
+====================
+index 186
+offset 23430
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 187
+offset 23459
+name NULL
+length 66
+====================
+Were I to say anything, it would have ended up in a tearful voice.
+====================
+感觉那些话说出口、就会哭出来一般。
+====================
+
+====================
+index 188
+offset 23964
+name NULL
+length 41
+====================
+...I will probably never come here again.
+====================
+…我大概不会再回来了。
+====================
+
+====================
+index 189
+offset 24021
+name NULL
+length 39
+====================
+We may never meet again, but take care.
+====================
+…可能再也见不到了、你要保重身体。
+====================
+
+====================
+index 190
+offset 24079
+name NULL
+length 57
+====================
+Even though I left him with such sharp parting remarks...
+====================
+我都说了那么绝情的话了…
+====================
+
+====================
+index 191
+offset 24170
+name NULL
+length 32
+====================
+He continues to clean the house.
+====================
+但是、父亲还在坚持着扫除。
+====================
+
+====================
+index 192
+offset 24218
+name NULL
+length 24
+====================
+Even from today onwards.
+====================
+从今天开始也会坚持。
+====================
+
+====================
+index 193
+offset 24258
+name NULL
+length 23
+====================
+With his shrunken body.
+====================
+用那瘦小的身体。
+====================
+
+====================
+index 194
+offset 24297
+name NULL
+length 15
+====================
+His aging body.
+====================
+老去的身体。
+====================
+
+====================
+index 195
+offset 24331
+name NULL
+length 20
+====================
+He and I are family.
+====================
+我和那个人是一家人。
+====================
+
+====================
+index 196
+offset 24367
+name NULL
+length 47
+====================
+Ever since I was born, and from now on; always.
+====================
+从我出生开始、一直到将来都是。
+====================
+
+====================
+index 197
+offset 24897
+name Tomoya
+length 21
+====================
+\"Dad... Thank you.\"
+====================
+父亲…谢谢你
+====================
+
+====================
+index 198
+offset 24968
+name Tomoya
+length 22
+====================
+\"I'll come again...\"
+====================
+我…还会再来的
+====================
+
+====================
+index 199
+offset 25006
+name NULL
+length 35
+====================
+I only say that through the window.
+====================
+我隔着窗这么说道。
+====================
+
+====================
+index 200
+offset 25057
+name NULL
+length 36
+====================
+After that, nothing else would come.
+====================
+然后就再也说不出话来了。
+====================
+
+====================
+index 201
+offset 25109
+name NULL
+length 69
+====================
+Whatever else I have left to say has already been buried by my tears.
+====================
+泪水早已决堤。
+====================
+
+====================
+index 202
+offset 25197
+name NULL
+length 24
+====================
+Tomoyo holds me tightly.
+====================
+智代抱着我。
+====================
+
+====================
+index 203
+offset 25237
+name NULL
+length 43
+====================
+We may not be able to reconcile right away.
+====================
+也许、短时间内还不能和好…
+====================
+
+====================
+index 204
+offset 25296
+name NULL
+length 49
+====================
+This awkward relationship will likely continue...
+====================
+这种别扭的关系、也还将继续吧…。
+====================
+
+====================
+index 205
+offset 25361
+name NULL
+length 75
+====================
+Even if it takes as much time as it took to get to this point to recover...
+====================
+即使能变得和过去一样、可能也要花费相当多的时间吧。
+====================
+
+====================
+index 206
+offset 25452
+name NULL
+length 25
+====================
+...it's going to be okay.
+====================
+即使如此也没有问题。
+====================
+
+====================
+index 207
+offset 25496
+name NULL
+length 62
+====================
+My father will probably still be cleaning even after we leave.
+====================
+即使我们回去之后、父亲也会一直坚持着扫除吧。
+====================
+
+====================
+index 208
+offset 25574
+name NULL
+length 134
+====================
+He will probably continue to shine the floors and windows with a rag, keeping the house clean and without a speck of dust to be found.
+====================
+一直会用抹布擦着地板和窗户、让家里继续一尘不染吧。
+====================
+
+====================
+index 209
+offset 25724
+name NULL
+length 25
+====================
+For the next day we come.
+====================
+为了我们下次来的时候。
+====================
+
+====================
+index 210
+offset 25765
+name NULL
+length 36
+====================
+That day... is probably not far off.
+====================
+这一天…应该不会太远。
+====================
+
+====================
+index 211
+offset 26685
+name NULL
+length 46
+====================
+That day, it's just the two of us in the room.
+====================
+这一天、我们俩一直都呆在房间里。
+====================
+
+====================
+index 212
+offset 26747
+name NULL
+length 56
+====================
+We don't talk much, and instead watch TV and read books.
+====================
+也没说什么话、只是看着电视、读着书。
+====================
+
+====================
+index 213
+offset 26819
+name NULL
+length 27
+====================
+I take a bath after dinner.
+====================
+吃完晚饭、就洗了澡。
+====================
+
+====================
+index 214
+offset 26862
+name NULL
+length 23
+====================
+The day passes quickly.
+====================
+真是眨眼即逝的一天啊。
+====================
+
+====================
+index 215
+offset 27748
+name NULL
+length 81
+====================
+Having finished her bath after I had taken one, Tomoyo steps out of the bathroom.
+====================
+在我之后、智代也洗完澡出来了。
+====================
+
+====================
+index 216
+offset 27845
+name NULL
+length 36
+====================
+Tomoyo's long, wet hair startles me.
+====================
+看着刚洗完澡的她的长头发、我的内心一阵悸动。
+====================
+
+====================
+index 217
+offset 28204
+name Tomoyo
+length 22
+====================
+\"What's the matter?\"
+====================
+怎么啦？
+====================
+
+====================
+index 218
+offset 28276
+name Tomoya
+length 20
+====================
+\"Eh? N-Nothing...\"
+====================
+呃？　没、没什么…
+====================
+
+====================
+index 219
+offset 28616
+name Tomoyo
+length 33
+====================
+\"You're such a weirdo, Tomoya.\"
+====================
+奇怪的朋也
+====================
+
+====================
+index 220
+offset 28665
+name NULL
+length 31
+====================
+...I feel a little embarrassed.
+====================
+…感觉有些难为情。
+====================
+
+====================
+index 221
+offset 29605
+name NULL
+length 38
+====================
+We decided to go to bed early tonight.
+====================
+然后、今天就这样早早地睡了。
+====================
+
+====================
+index 222
+offset 29659
+name NULL
+length 44
+====================
+I will be admitted to the hospital tomorrow.
+====================
+终于明天就要入院了。
+====================
+
+====================
+index 223
+offset 29719
+name NULL
+length 55
+====================
+If the operation succeeds, I won't be back for a while.
+====================
+如果成功了的话、暂时也就回不了家了。
+====================
+
+====================
+index 224
+offset 29790
+name NULL
+length 58
+====================
+I'll be parting ways with this room until I am discharged.
+====================
+直到出院、都要和这个家暂别了。
+====================
+
+====================
+index 225
+offset 29864
+name NULL
+length 14
+====================
+If it fails...
+====================
+如果…失败了的话。
+====================
+
+====================
+index 226
+offset 29919
+name NULL
+length 29
+====================
+...then I will never again...
+====================
+就再也…
+====================
+
+====================
+index 227
+offset 29964
+name NULL
+length 31
+====================
+I don't want to think about it.
+====================
+不想去想。
+====================
+
+====================
+index 228
+offset 30011
+name NULL
+length 40
+====================
+I don't want to think about it... but...
+====================
+不想去想…吗。
+====================
+
+====================
+index 229
+offset 30067
+name NULL
+length 67
+====================
+The more I think about it, the more unpleasant this starts to feel.
+====================
+越是这样想、厌恶的心情就越是一点一滴地积存起来。
+====================
+
+====================
+index 230
+offset 30150
+name NULL
+length 69
+====================
+Even though this isn't something I ever thought about up until now...
+====================
+明明至今为止都从没考虑过这事。
+====================
+
+====================
+index 231
+offset 30235
+name NULL
+length 69
+====================
+...or rather, I have always avoided thinking about it up until now...
+====================
+又或者是、明明都不会去想的。
+====================
+
+====================
+index 232
+offset 30320
+name NULL
+length 74
+====================
+Now that I have come this far, the unpleasant feeling has certainly grown.
+====================
+到现在、只有厌恶的心情是确实膨胀了起来的。
+====================
+
+====================
+index 233
+offset 30444
+name Tomoya
+length 47
+====================
+(I shouldn't think about unnecessary things...)
+====================
+（不是去想些不相干的事情…）
+====================
+
+====================
+index 234
+offset 30507
+name NULL
+length 19
+====================
+This is... anxiety.
+====================
+那份正体…正是不安。
+====================
+
+====================
+index 235
+offset 30542
+name NULL
+length 36
+====================
+I am feeling anxious... for my life.
+====================
+自己的性命…对自己的性命抱持的不安。
+====================
+
+====================
+index 236
+offset 30594
+name NULL
+length 53
+====================
+The anxiety is slowly weighing me down more and more.
+====================
+那已经逐渐变成一座大山、压得我喘不过气来。
+====================
+
+====================
+index 237
+offset 30663
+name NULL
+length 47
+====================
+Unable to keep my eyelids shut, I open my eyes.
+====================
+没办法合上眼。
+====================
+
+====================
+index 238
+offset 30726
+name NULL
+length 29
+====================
+...there is nothing I can do.
+====================
+…什么办法也没有。
+====================
+
+====================
+index 239
+offset 30771
+name NULL
+length 62
+====================
+It feels like I will be crushed by this feeling at any moment.
+====================
+就算是现在、也被沉重地压迫着。
+====================
+
+====================
+index 240
+offset 30849
+name NULL
+length 66
+====================
+Up until now... I have never before... felt this uneasy even once.
+====================
+如此程度的不安、至今为止、到此为止…从都没有感觉到过。
+====================
+
+====================
+index 241
+offset 30934
+name NULL
+length 43
+====================
+I look at Tomoyo, who is asleep next to me.
+====================
+看了看睡在身边的智代。
+====================
+
+====================
+index 242
+offset 31027
+name Tomoya
+length 11
+====================
+(Tomoyo...)
+====================
+（智代…）
+====================
+
+====================
+index 243
+offset 31088
+name Tomoya
+length 12
+====================
+(Save me...)
+====================
+（救救我…）
+====================
+
+====================
+index 244
+offset 31116
+name NULL
+length 51
+====================
+I can't help but want to cry out and tell her that.
+====================
+想这样说、想这样哭着央求。
+====================
+
+====================
+index 245
+offset 31183
+name NULL
+length 56
+====================
+I want to share this anxious feeling inside me with her.
+====================
+想要将现在抱持的所有不安一口气倾泄一空。
+====================
+
+====================
+index 246
+offset 31289
+name Tomoya
+length 11
+====================
+(.........)
+====================
+（………）
+====================
+
+====================
+index 247
+offset 31316
+name NULL
+length 20
+====================
+But I can't do that.
+====================
+然而、做不到。
+====================
+
+====================
+index 248
+offset 31352
+name NULL
+length 37
+====================
+I am sure Tomoyo is feeling the same.
+====================
+…就算是智代、也一定有着相同的感受吧。
+====================
+
+====================
+index 249
+offset 31405
+name NULL
+length 36
+====================
+In that case... I can't lose either.
+====================
+既然如此…就算是我、也不能输。
+====================
+
+====================
+index 250
+offset 31457
+name NULL
+length 50
+====================
+I get out of the futon and sit down by the window.
+====================
+我掀开被子、来到窗边坐下。
+====================
+
+====================
+index 251
+offset 31523
+name NULL
+length 48
+====================
+I lift the curtain a little and peek at the sky.
+====================
+一点点地挪动窗帘、从那里仰视着天空。
+====================
+
+====================
+index 252
+offset 31587
+name NULL
+length 34
+====================
+...the moon is hanging in the sky.
+====================
+…夜空下挂着一弯细月。
+====================
+
+====================
+index 253
+offset 31637
+name NULL
+length 76
+====================
+It is small and barely visible, looking like it will disappear any time now.
+====================
+是那种看上去就快消失的、轮廓非常小的月亮。
+====================
+
+====================
+index 254
+offset 31729
+name NULL
+length 56
+====================
+The night view is hardly what you would call impressive,
+====================
+这应该算不了什么的、普通的夜晚景象。
+====================
+
+====================
+index 255
+offset 31801
+name NULL
+length 57
+====================
+and yet it is being burned into my heart for some reason.
+====================
+然而却不知为什么灼烧着我内心深处。
+====================
+
+====================
+index 256
+offset 31911
+name Tomoyo
+length 11
+====================
+\"Tomoya.\"
+====================
+朋也
+====================
+
+====================
+index 257
+offset 31972
+name Tomoya
+length 7
+====================
+\"Eh?\"
+====================
+呃？
+====================
+
+====================
+index 258
+offset 31995
+name NULL
+length 43
+====================
+I turn to look at the source of that voice.
+====================
+顺着声音回过头。
+====================
+
+====================
+index 259
+offset 32361
+name Tomoya
+length 23
+====================
+\"A-Ah... are you up?\"
+====================
+啊、啊啊…醒了吗
+====================
+
+====================
+index 260
+offset 32434
+name Tomoyo
+length 9
+====================
+\"Yeah.\"
+====================
+嗯
+====================
+
+====================
+index 261
+offset 32474
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 262
+offset 32807
+name Tomoyo
+length 22
+====================
+\"Are you crying...?\"
+====================
+在哭吗…？
+====================
+
+====================
+index 263
+offset 32879
+name Tomoya
+length 10
+====================
+\"Eh...?\"
+====================
+呃…
+====================
+
+====================
+index 264
+offset 33175
+name NULL
+length 28
+====================
+I touch my eye with my hand.
+====================
+把手贴到了眼上。
+====================
+
+====================
+index 265
+offset 33219
+name NULL
+length 87
+====================
+...it seems I started to cry; tears are dripping down my face without me even noticing.
+====================
+…在不知不觉间、泪水已经涌了出来…顺着脸颊直往下流。
+====================
+
+====================
+index 266
+offset 33626
+name Tomoyo
+length 14
+====================
+\"...Tomoya.\"
+====================
+…朋也
+====================
+
+====================
+index 267
+offset 33656
+name NULL
+length 40
+====================
+Tomoyo walks up to me and leans forward.
+====================
+智代走近我身旁、弯下了腰。
+====================
+
+====================
+index 268
+offset 34016
+name Tomoyo
+length 25
+====================
+\"...don't cry so much.\"
+====================
+…别哭了
+====================
+
+====================
+index 269
+offset 34057
+name NULL
+length 24
+====================
+She wipes away my tears.
+====================
+轻轻地拭去了我的眼泪。
+====================
+
+====================
+index 270
+offset 34398
+name Tomoya
+length 31
+====================
+\"There's nothing I can do...\"
+====================
+已经什么办法也没有了啊…
+====================
+
+====================
+index 271
+offset 34445
+name NULL
+length 52
+====================
+And those words just naturally came out of my mouth.
+====================
+紧接着说出了口。
+====================
+
+====================
+index 272
+offset 34547
+name Tomoya
+length 41
+====================
+\"I might... make you cry once again...\"
+====================
+我、说不定是在等你哭泣也说不一定…
+====================
+
+====================
+index 273
+offset 34908
+name Tomoyo
+length 14
+====================
+\"...yeah...\"
+====================
+…嗯…
+====================
+
+====================
+index 274
+offset 34972
+name Tomoyo
+length 23
+====================
+\"I am sure I will...\"
+====================
+一定、会哭的吧…
+====================
+
+====================
+index 275
+offset 35045
+name Tomoyo
+length 49
+====================
+\"I am sure I will cry harder than I ever have.\"
+====================
+像至今为止从不曾有过那般哭出来
+====================
+
+====================
+index 276
+offset 35414
+name Tomoyo
+length 10
+====================
+\"But...\"
+====================
+可是
+====================
+
+====================
+index 277
+offset 35474
+name Tomoyo
+length 19
+====================
+\"I have faith...\"
+====================
+请你相信
+====================
+
+====================
+index 278
+offset 35543
+name Tomoyo
+length 36
+====================
+\"...that I won't lose it anymore.\"
+====================
+已经、不会再失去了
+====================
+
+====================
+index 279
+offset 35629
+name Tomoyo
+length 64
+====================
+\"I am sure... that I won't lose the strength you've given me.\"
+====================
+你所给予的那份坚强、一定…不会再失去的了
+====================
+
+====================
+index 280
+offset 36013
+name Tomoyo
+length 11
+====================
+\"Tomoya.\"
+====================
+朋也
+====================
+
+====================
+index 281
+offset 36074
+name Tomoyo
+length 39
+====================
+\"The you in my heart made me strong.\"
+====================
+是在我心中的你、给予了我坚强
+====================
+
+====================
+index 282
+offset 36163
+name Tomoyo
+length 40
+====================
+\"Does that me inside of your heart...\"
+====================
+而在你心中的我…
+====================
+
+====================
+index 283
+offset 36253
+name Tomoyo
+length 26
+====================
+\"...make you strong...?\"
+====================
+又能否给予你坚强呢…？
+====================
+
+====================
+index 284
+offset 36562
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 285
+offset 36587
+name NULL
+length 28
+====================
+I place my hand on my chest.
+====================
+我把手贴到了胸口。
+====================
+
+====================
+index 286
+offset 36631
+name NULL
+length 10
+====================
+...Tomoyo.
+====================
+…智代。
+====================
+
+====================
+index 287
+offset 36657
+name NULL
+length 6
+====================
+I nod.
+====================
+我点了点头。
+====================
+
+====================
+index 288
+offset 36983
+name Tomoyo
+length 9
+====================
+\"Yeah.\"
+====================
+嗯
+====================
+
+====================
+index 289
+offset 37008
+name NULL
+length 37
+====================
+Tomoyo nods as well and smiles at me.
+====================
+智代也点点头、朝我微笑着。
+====================
+
+====================
+index 290
+offset 37061
+name NULL
+length 16
+====================
+...she saved me.
+====================
+…得到救赎了。
+====================
+
+====================
+index 291
+offset 37093
+name NULL
+length 29
+====================
+Her smile is just so calming.
+====================
+这是多么地让人感到得到救赎的笑容啊。
+====================
+
+====================
+index 292
+offset 37442
+name Tomoyo
+length 27
+====================
+\"You may not remember...\"
+====================
+说不定你已经不记得了
+====================
+
+====================
+index 293
+offset 37519
+name Tomoyo
+length 38
+====================
+\"...but we made a promise before...\"
+====================
+以前、曾经约定过
+====================
+
+====================
+index 294
+offset 37607
+name Tomoyo
+length 61
+====================
+\"...that the next time we kiss, we'll kiss like lovers do.\"
+====================
+…这次、做恋人之间的接吻
+====================
+
+====================
+index 295
+offset 37718
+name Tomoya
+length 9
+====================
+\"Eh...\"
+====================
+呃…
+====================
+
+====================
+index 296
+offset 38047
+name Tomoyo
+length 31
+====================
+\"Come on now, look this way.\"
+====================
+喏、看着我
+====================
+
+====================
+index 297
+offset 38128
+name Tomoya
+length 13
+====================
+\"Y-Yeah...\"
+====================
+啊、啊啊
+====================
+
+====================
+index 298
+offset 38157
+name NULL
+length 60
+====================
+I rub my eyes with my sleeve, and look at Tomoyo once again.
+====================
+我用袖口擦了擦眼睛、转身朝向了智代。
+====================
+
+====================
+index 299
+offset 38245
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 300
+offset 38578
+name Tomoyo
+length 42
+====================
+\"I guess this would be your first kiss.\"
+====================
+对你来说、能算是初吻吗
+====================
+
+====================
+index 301
+offset 38940
+name Tomoyo
+length 63
+====================
+\"...I wonder just how many times I've taken your first kiss.\"
+====================
+…这已经是第几次了呢、夺走朋也的初吻
+====================
+
+====================
+index 302
+offset 39019
+name NULL
+length 28
+====================
+She says in a joking manner.
+====================
+像是开玩笑似地说着。
+====================
+
+====================
+index 303
+offset 39063
+name NULL
+length 62
+====================
+However, behind those words... are three years' worth of time.
+====================
+但是、那句话的背面…却包含着那３年的时间。
+====================
+
+====================
+index 304
+offset 39175
+name Tomoya
+length 8
+====================
+\"Hey.\"
+====================
+…呐
+====================
+
+====================
+index 305
+offset 39503
+name Tomoyo
+length 7
+====================
+\"Hm?\"
+====================
+嗯？
+====================
+
+====================
+index 306
+offset 39560
+name Tomoya
+length 27
+====================
+\"Do you mind if I do it?\"
+====================
+由我来可以吗
+====================
+
+====================
+index 307
+offset 39637
+name Tomoya
+length 69
+====================
+\"...it would make me look kind of lame if we keep going like this.\"
+====================
+…这样下去的话、不是很没面子么
+====================
+
+====================
+index 308
+offset 39722
+name NULL
+length 65
+====================
+I'm sure that it has always been Tomoyo who started up until now.
+====================
+至今为止的我、也一定毫无疑问地被智代所需求着吧。
+====================
+
+====================
+index 309
+offset 40107
+name Tomoyo
+length 15
+====================
+\"Hehe, yeah.\"
+====================
+呵呵、说的是呢
+====================
+
+====================
+index 310
+offset 40442
+name Tomoyo
+length 19
+====================
+\"Okay... please.\"
+====================
+那就…拜托了
+====================
+
+====================
+index 311
+offset 40477
+name NULL
+length 33
+====================
+Tomoyo says, and closes her eyes.
+====================
+智代如此这般合上了眼睑。
+====================
+
+====================
+index 312
+offset 40526
+name NULL
+length 32
+====================
+I place my hand on her shoulder.
+====================
+我抱住智代的双肩。
+====================
+
+====================
+index 313
+offset 41285
+name Tomoya
+length 13
+====================
+\"Tomoyo...\"
+====================
+…智代
+====================
+
+====================
+index 314
+offset 41348
+name Tomoyo
+length 11
+====================
+\"Yeah...\"
+====================
+…嗯
+====================
+
+====================
+index 315
+offset 41375
+name NULL
+length 82
+====================
+Our faces are already so close that we can feel each other's breath when we speak.
+====================
+处在即使是说话也能感受到彼此气息的距离。
+====================
+
+====================
+index 316
+offset 41473
+name NULL
+length 35
+====================
+I move my face even closer to hers.
+====================
+靠得更近了一些。
+====================
+
+====================
+index 317
+offset 41524
+name NULL
+length 45
+====================
+...our lips are pressed against each other's.
+====================
+…两片唇合在了一起。
+====================
+
+====================
+index 318
+offset 41619
+name Tomoya
+length 10
+====================
+(...ah...)
+====================
+（…啊啊…）
+====================
+
+====================
+index 319
+offset 41645
+name NULL
+length 22
+====================
+So this is how much...
+====================
+我是如此地…
+====================
+
+====================
+index 320
+offset 41683
+name NULL
+length 17
+====================
+...I love Tomoyo.
+====================
+爱着智代。
+====================
+
+====================
+index 321
+offset 42592
+name NULL
+length 61
+====================
+The two of us go back to sleep... together in a single futon.
+====================
+两人再次缩进了一张被子里睡觉。
+====================
+
+====================
+index 322
+offset 42669
+name NULL
+length 32
+====================
+Tomoyo and I are glued together.
+====================
+我和智代紧贴在一起。
+====================
+
+====================
+index 323
+offset 42717
+name NULL
+length 14
+====================
+Tomoyo's face.
+====================
+智代的脸。
+====================
+
+====================
+index 324
+offset 42747
+name NULL
+length 14
+====================
+Tomoyo's skin.
+====================
+智代的肌肤。
+====================
+
+====================
+index 325
+offset 42777
+name NULL
+length 15
+====================
+Tomoyo's chest.
+====================
+智代的胸。
+====================
+
+====================
+index 326
+offset 42808
+name NULL
+length 40
+====================
+They are all pressed tightly against me.
+====================
+我和她又紧贴在一起了。
+====================
+
+====================
+index 327
+offset 42904
+name Tomoya
+length 33
+====================
+\"You're sweating a little bit.\"
+====================
+你出了不少汗呢
+====================
+
+====================
+index 328
+offset 42987
+name Tomoyo
+length 42
+====================
+\"You dummy... don't say that to a girl.\"
+====================
+笨蛋…这么说女孩子很失礼的
+====================
+
+====================
+index 329
+offset 43079
+name Tomoyo
+length 54
+====================
+\"...you're just as inconsiderate as always, Tomoya.\"
+====================
+…朋也还是那么没神经呢
+====================
+
+====================
+index 330
+offset 43149
+name NULL
+length 28
+====================
+Then Tomoyo suddenly laughs.
+====================
+然后、智代突然笑了起来。
+====================
+
+====================
+index 331
+offset 43227
+name Tomoyo
+length 9
+====================
+\"Hehe.\"
+====================
+呵呵
+====================
+
+====================
+index 332
+offset 43286
+name Tomoyo
+length 33
+====================
+\"That's just like you, Tomoya.\"
+====================
+朋也、果然还是朋也呢
+====================
+
+====================
+index 333
+offset 43369
+name Tomoya
+length 41
+====================
+\"Come on, you're only saying that now?\"
+====================
+什么嘛、现在还说这些
+====================
+
+====================
+index 334
+offset 43460
+name Tomoyo
+length 56
+====================
+\"...that's true. I guess it's a bit late to say that.\"
+====================
+…确实啊。现在还说什么呢
+====================
+
+====================
+index 335
+offset 43566
+name Tomoyo
+length 36
+====================
+\"...it's been a long three years.\"
+====================
+…真是漫长的三年啊
+====================
+
+====================
+index 336
+offset 43655
+name Tomoya
+length 41
+====================
+\"And that's coming to an end tomorrow.\"
+====================
+这一切、明天也就结束了
+====================
+
+====================
+index 337
+offset 43746
+name Tomoyo
+length 12
+====================
+\"...yeah.\"
+====================
+…是啊
+====================
+
+====================
+index 338
+offset 43774
+name NULL
+length 34
+====================
+I bring my face to Tomoyo's chest.
+====================
+我把头靠在了智代的胸口。
+====================
+
+====================
+index 339
+offset 43824
+name NULL
+length 46
+====================
+My ear is touching the left side of her chest.
+====================
+左耳紧贴。
+====================
+
+====================
+index 340
+offset 43920
+name Tomoyo
+length 9
+====================
+\"Ah...\"
+====================
+啊…
+====================
+
+====================
+index 341
+offset 43945
+name NULL
+length 32
+====================
+The bulge there feels very warm.
+====================
+她的身体、非常温暖。
+====================
+
+====================
+index 342
+offset 43993
+name NULL
+length 25
+====================
+Just like Tomoyo's heart.
+====================
+就好像智代的心一般。
+====================
+
+====================
+index 343
+offset 44037
+name NULL
+length 15
+====================
+*Throb* *Throb*
+====================
+咚咚。咚咚。
+====================
+
+====================
+index 344
+offset 44105
+name Tomoya
+length 31
+====================
+\"I can hear your heart beat.\"
+====================
+听见了你的心跳
+====================
+
+====================
+index 345
+offset 44155
+name NULL
+length 43
+====================
+In response, Tomoyo quietly says, \"Yeah.\"
+====================
+听我这么一说、智代也轻轻地嗯了一声。
+====================
+
+====================
+index 346
+offset 44214
+name NULL
+length 43
+====================
+Her heart is beating regularly to a rhythm.
+====================
+以一定的频率跳着。
+====================
+
+====================
+index 347
+offset 44282
+name NULL
+length 15
+====================
+*Throb* *Throb*
+====================
+咚咚。咚咚。
+====================
+
+====================
+index 348
+offset 44316
+name NULL
+length 20
+====================
+Just like a lullaby.
+====================
+就好像摇篮曲一般。
+====================
+
+====================
+index 349
+offset 44352
+name NULL
+length 37
+====================
+Just listening to it puts me at ease.
+====================
+听到了这个声音、就油然而生出一种安心的情绪。
+====================
+
+====================
+index 350
+offset 44442
+name Tomoyo
+length 25
+====================
+\"I can hear yours too.\"
+====================
+也让我听听朋也的心跳吧
+====================
+
+====================
+index 351
+offset 44489
+name NULL
+length 57
+====================
+This time, Tomoyo has her ear laid flat against my chest.
+====================
+这次智代把耳朵贴近了我的胸口。
+====================
+
+====================
+index 352
+offset 44562
+name NULL
+length 42
+====================
+In exchange, I place my hand on her chest.
+====================
+而我则是把手贴到了她的胸上。
+====================
+
+====================
+index 353
+offset 44623
+name NULL
+length 15
+====================
+*Throb* *Throb*
+====================
+咚咚。咚咚。
+====================
+
+====================
+index 354
+offset 44657
+name NULL
+length 34
+====================
+I can feel Tomoyo through my palm.
+====================
+透过手掌、我感受着智代。
+====================
+
+====================
+index 355
+offset 44710
+name NULL
+length 44
+====================
+Right now, we are living to the same rhythm.
+====================
+我们、正以同样的频率跳动着。
+====================
+
+====================
+index 356
+offset 44773
+name NULL
+length 15
+====================
+*Throb* *Throb*
+====================
+咚咚。咚咚。
+====================
+
+====================
+index 357
+offset 44813
+name NULL
+length 26
+====================
+But... from here on out...
+====================
+但是、从此以后也将…
+====================
+
+====================
+index 358
+offset 44855
+name NULL
+length 61
+====================
+...we may not necessarily be able to spend our time together.
+====================
+…却不一定还能一起跳动着。
+====================
+
+====================
+index 359
+offset 44932
+name NULL
+length 27
+====================
+I am feeling anxious again.
+====================
+我又开始不安了。
+====================
+
+====================
+index 360
+offset 44975
+name NULL
+length 68
+====================
+But what I'm feeling isn't something like the fear I felt earlier...
+====================
+不过、这种不安与之前所感到的那种因害怕而产生的不安不同…。
+====================
+
+====================
+index 361
+offset 45059
+name NULL
+length 32
+====================
+Tomoyo has eased me out of that.
+====================
+但是智代却将我的不安带走了。
+====================
+
+====================
+index 362
+offset 45107
+name NULL
+length 39
+====================
+The feeling that is still lingering... 
+====================
+剩下来的…只有对智代的不放心。
+====================
+
+====================
+index 363
+offset 45159
+name NULL
+length 25
+====================
+is my anxiety for Tomoyo.
+====================
+不知道为什么这一点总是残留在我的心中…。
+====================
+
+====================
+index 364
+offset 45200
+name NULL
+length 47
+====================
+I have no idea why only that feeling remains...
+====================
+好像是、透过现在所抱着地肩膀传达过去似的。
+====================
+
+====================
+index 365
+offset 45263
+name NULL
+length 84
+====================
+It feels as if the feeling is flowing into me through these shoulders in my embrace.
+====================
+智代、让我感觉非常地脆弱。
+====================
+
+====================
+index 366
+offset 45363
+name NULL
+length 41
+====================
+Tomoyo feels like such a frail existence.
+====================
+说不定、真正的智代可能更加脆弱…
+====================
+
+====================
+index 367
+offset 45420
+name NULL
+length 70
+====================
+If that's the case, perhaps the real Tomoyo is actually even weaker...
+====================
+说不定、真正的智代可能更加脆弱…
+====================
+
+====================
+index 368
+offset 45506
+name NULL
+length 79
+====================
+Perhaps the me who lived together with Tomoyo had always worried about that...?
+====================
+而和智代一起生活的我、是否也一直在担心着这些事呢…。
+====================
+
+====================
+index 369
+offset 45601
+name NULL
+length 22
+====================
+It strikes me as such.
+====================
+我这么想着。
+====================
+
+====================
+index 370
+offset 45673
+name Tomoya
+length 43
+====================
+\"Tomoyo... you'll be okay now, right...?\"
+====================
+智代…你已经没问题了呢…
+====================
+
+====================
+index 371
+offset 45732
+name NULL
+length 33
+====================
+Those words slip out of my mouth.
+====================
+不知不觉就说出了口。
+====================
+
+====================
+index 372
+offset 45815
+name Tomoyo
+length 7
+====================
+\"Hm?\"
+====================
+嗯？
+====================
+
+====================
+index 373
+offset 45872
+name Tomoya
+length 22
+====================
+\"For three years...\"
+====================
+这三年的时间…
+====================
+
+====================
+index 374
+offset 45944
+name Tomoya
+length 82
+====================
+\"For such a long time... you were able to overcome those painful adversities...\"
+====================
+无论是多么漫长、多么艰苦的逆境、你都挺过来了…
+====================
+
+====================
+index 375
+offset 46076
+name Tomoya
+length 73
+====================
+\"...so from now on, you'll be okay no matter what happens... right...?\"
+====================
+所以、不管将来怎样…你都已经没问题了…
+====================
+
+====================
+index 376
+offset 47161
+name Tomoyo
+length 12
+====================
+\"...yeah.\"
+====================
+…嗯
+====================
+
+====================
+index 377
+offset 47223
+name Tomoya
+length 34
+====================
+\"I see... yeah, that's right...\"
+====================
+嗯…说的是呢…
+====================
+
+====================
+index 378
+offset 47307
+name Tomoya
+length 34
+====================
+\"You're so amazing after all...\"
+====================
+你果然、是个厉害的家伙呢…
+====================
+
+====================
+index 379
+offset 47391
+name Tomoyo
+length 9
+====================
+\"Yeah.\"
+====================
+嗯
+====================
+
+====================
+index 380
+offset 47450
+name Tomoya
+length 49
+====================
+\"From here on out... no matter what happens...\"
+====================
+不管将来…发生怎样的事…
+====================
+
+====================
+index 381
+offset 47549
+name Tomoya
+length 42
+====================
+\"...don't hesitate... and keep going...\"
+====================
+你也可以…不迷惘地前进…
+====================
+
+====================
+index 382
+offset 47641
+name Tomoya
+length 42
+====================
+\"If it's you, I'm sure you can do it...\"
+====================
+我觉得你是一定可以做到的…
+====================
+
+====================
+index 383
+offset 47733
+name Tomoya
+length 21
+====================
+\"Right, Tomoyo...?\"
+====================
+呐、智代…
+====================
+
+====================
+index 384
+offset 48834
+name Tomoya
+length 37
+====================
+\"This is embarrassing, but well...\"
+====================
+虽然有些不好意思…
+====================
+
+====================
+index 385
+offset 48921
+name Tomoya
+length 34
+====================
+\"I'll say it while I can now...\"
+====================
+但是我觉得必须要趁现在说了呢…
+====================
+
+====================
+index 386
+offset 49005
+name Tomoyo
+length 12
+====================
+\"...yeah.\"
+====================
+…嗯
+====================
+
+====================
+index 387
+offset 49067
+name Tomoya
+length 10
+====================
+\"Our...\"
+====================
+我们的…
+====================
+
+====================
+index 388
+offset 49881
+name Tomoya
+length 14
+====================
+\"...love...\"
+====================
+爱…
+====================
+
+====================
+index 389
+offset 50509
+name NULL
+length 8
+====================
+Epilogue
+====================
+尾声
+====================
+
+====================
+index 390
+offset 51886
+name Tomo
+length 16
+====================
+\"You never...\"
+====================
+一直…
+====================
+
+====================
+index 391
+offset 51950
+name Tomo
+length 34
+====================
+\"...you never came to see me...\"
+====================
+一直都没有来看小智…
+====================
+
+====================
+index 392
+offset 52032
+name Tomo
+length 30
+====================
+\"...so Tomo came instead...\"
+====================
+所以、小智来看爸爸了哦…
+====================
+
+====================
+index 393
+offset 52110
+name Tomo
+length 11
+====================
+\"Papa...\"
+====================
+爸爸…
+====================
+
+====================
+index 394
+offset 52169
+name Tomo
+length 55
+====================
+\"...you're the only one that Tomo would call Papa...\"
+====================
+小智会叫“爸爸”的、只有爸爸…
+====================
+
+====================
+index 395
+offset 52272
+name Tomo
+length 12
+====================
+\"...so...\"
+====================
+所以…
+====================
+
+====================
+index 396
+offset 52332
+name Tomo
+length 11
+====================
+\"So...!!\"
+====================
+所以…！！
+====================
+
+====================
+index 397
+offset 52391
+name Tomo
+length 25
+====================
+\"...hang in there...!!\"
+====================
+…加油…！！
+====================

@@ -1,0 +1,1355 @@
+type seen5002
+count 123
+
+====================
+index 1
+offset 52
+name NULL
+length 13
+====================
+After - Day 3
+====================
+Ａｆｔｅｒ第三天
+====================
+
+====================
+index 2
+offset 525
+name NULL
+length 50
+====================
+We visit the school once again the next afternoon.
+====================
+次日、过了午后和以前一样去了学校。
+====================
+
+====================
+index 3
+offset 1435
+name NULL
+length 95
+====================
+The whole campus is so quiet during school hours; I worry that they can hear us in the hallway.
+====================
+学校正在上课、所以让人不禁想到、我们在走廊上的说话声、不会被教室里面的人听见吧。
+====================
+
+====================
+index 4
+offset 1546
+name NULL
+length 57
+====================
+Like yesterday, Tomoyo tells me stories about how we met.
+====================
+而智代、继续着昨天的话题、讲着我们当时相遇之后的事情。
+====================
+
+====================
+index 5
+offset 1925
+name Tomoyo
+length 55
+====================
+\"For some reason, you were really easy to talk with.\"
+====================
+不知道为什么和你就是很谈得来呢
+====================
+
+====================
+index 6
+offset 2030
+name Tomoyo
+length 93
+====================
+\"Though I quickly made friends in my class after transferring, they weren't close friends.\"
+====================
+虽然我刚进班级就交了很多朋友、但是有些时候还是要相互客气的
+====================
+
+====================
+index 7
+offset 2173
+name Tomoyo
+length 100
+====================
+\"Now that I think about it, you and Sunohara were both open with me, even though we had just met.\"
+====================
+想起来、大概是你和春原、都是用真实的自我面对着我的原因吧。虽然我们当时也才认识
+====================
+
+====================
+index 8
+offset 2332
+name Tomoya
+length 47
+====================
+\"So that was Sunohara's true self... Creepy.\"
+====================
+春原的真实面目…有点讨厌呢
+====================
+
+====================
+index 9
+offset 2704
+name Tomoyo
+length 24
+====================
+\"No doubt about that.\"
+====================
+没错
+====================
+
+====================
+index 10
+offset 2744
+name NULL
+length 25
+====================
+She says that and laughs.
+====================
+智代笑着、快步走了上来。
+====================
+
+====================
+index 11
+offset 3091
+name Tomoyo
+length 40
+====================
+\"You guys and I were very much alike.\"
+====================
+我们很相似呢
+====================
+
+====================
+index 12
+offset 3181
+name Tomoya
+length 15
+====================
+\"Is that so?\"
+====================
+…是吗
+====================
+
+====================
+index 13
+offset 3518
+name Tomoyo
+length 51
+====================
+\"Yes. I was quite a rebel in my previous school.\"
+====================
+嗯。我在以前的学校里、也是很堕落的
+====================
+
+====================
+index 14
+offset 3619
+name Tomoyo
+length 45
+====================
+\"I built a wall between myself and others.\"
+====================
+在自己周身筑起高墙
+====================
+
+====================
+index 15
+offset 3714
+name Tomoyo
+length 26
+====================
+\"You two were the same.\"
+====================
+和当时的你们一样
+====================
+
+====================
+index 16
+offset 3756
+name NULL
+length 47
+====================
+I can see that happening for me and Sunohara...
+====================
+说我和春原堕落、那是可以想象的…
+====================
+
+====================
+index 17
+offset 3819
+name NULL
+length 96
+====================
+But I didn't expect Tomoyo to be like that, since she seems like she can get along with anybody.
+====================
+而智代看起来是无论什么事情都能做的比别人好的类型、所以智代的这番话、让我感到有些意外。
+====================
+
+====================
+index 18
+offset 4237
+name Tomoyo
+length 59
+====================
+\"Perhaps that's how we managed to understand each other.\"
+====================
+说不定我和朋也、就是在这一点上感到亲近呢
+====================
+
+====================
+index 19
+offset 4312
+name NULL
+length 43
+====================
+She whispers like she's talking to herself.
+====================
+就像是在自言自语一般地小声说着。
+====================
+
+====================
+index 20
+offset 4371
+name NULL
+length 50
+====================
+I don't know what meaning lies behind her words...
+====================
+说这句话的原因、我却难以知道。
+====================
+
+====================
+index 21
+offset 4437
+name NULL
+length 49
+====================
+...but that part of Tomoyo makes her seem lonely.
+====================
+但是、这样的智代看起来有些寂寞。
+====================
+
+====================
+index 22
+offset 4772
+name NULL
+length 59
+====================
+We head out in order to avoid students coming out of class.
+====================
+为了躲开下课的学生们、我们从学校出来了。
+====================
+
+====================
+index 23
+offset 5691
+name NULL
+length 24
+====================
+It's nice outside today.
+====================
+今天也是好天气啊。
+====================
+
+====================
+index 24
+offset 5731
+name NULL
+length 112
+====================
+It's the end of September, and although it isn't sweltering, the sunlight is still warm enough to make me sweat.
+====================
+已经临近九月末了、太阳虽不是仍如夏天般火辣、但是暖和得还是会让人微微出汗。
+====================
+
+====================
+index 25
+offset 5859
+name NULL
+length 40
+====================
+The weather's great for a little action.
+====================
+被这样的天气所引诱、有点想去运动一下了。
+====================
+
+====================
+index 26
+offset 5915
+name NULL
+length 115
+====================
+Fortunately, the field is empty right now, even though it's after school. Perhaps the clubs are taking the day off.
+====================
+放学后的操场上、由于没有俱乐部来这里活动、而显得有些空旷。
+====================
+
+====================
+index 27
+offset 6046
+name NULL
+length 39
+====================
+There are only a few people still here.
+====================
+只有几个人还留在那里。
+====================
+
+====================
+index 28
+offset 6101
+name NULL
+length 69
+====================
+I'm sure they won't mind if I use a basketball hoop for a little bit.
+====================
+我一个人的话、向他们借用一会儿篮球场应该没有问题吧。
+====================
+
+====================
+index 29
+offset 6492
+name Tomoyo
+length 31
+====================
+\"Tomoya. What are you doing?\"
+====================
+朋也、你想干什么
+====================
+
+====================
+index 30
+offset 6573
+name Tomoya
+length 35
+====================
+\"I'm going to shoot a few hoops.\"
+====================
+只是、有点想打篮球
+====================
+
+====================
+index 31
+offset 6930
+name Tomoyo
+length 16
+====================
+\"What? Don't!\"
+====================
+啊、不行的
+====================
+
+====================
+index 32
+offset 6962
+name NULL
+length 26
+====================
+Tomoyo hurries to stop me.
+====================
+智代慌忙上前阻止。
+====================
+
+====================
+index 33
+offset 7038
+name Tomoya
+length 105
+====================
+\"Why? It's not like I'm going to play against anyone. I'm just going to move my body around for a bit.\"
+====================
+为什么。反正又不是去打比赛、只是稍微活动一下身体而已
+====================
+
+====================
+index 34
+offset 7465
+name Tomoya
+length 55
+====================
+\"My body will go stale if I don't get some exercise.\"
+====================
+如果不活动活动的话、身体也会变迟钝的
+====================
+
+====================
+index 35
+offset 7570
+name Tomoya
+length 64
+====================
+\"I may have amnesia, but I still know how to play basketball.\"
+====================
+就算我现在记忆丧失、打篮球的方法也还是记得的
+====================
+
+====================
+index 36
+offset 7684
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 37
+offset 7747
+name Tomoya
+length 85
+====================
+\"It doesn't seem like anyone is using the court right now, so it's okay, isn't it?\"
+====================
+现在看起来也没有人在用篮球场、稍微打一会儿的话不要紧吧
+====================
+
+====================
+index 38
+offset 8118
+name NULL
+length 77
+====================
+Tomoyo tries to say something else, but I ignore her and walk onto the court.
+====================
+智代似乎还想说什么、但我却没有管她而独自上了篮球场。
+====================
+
+====================
+index 39
+offset 8211
+name NULL
+length 75
+====================
+It looks like someone forgot a ball at the corner near the basketball hoop.
+====================
+在角落上的一个篮框下面、放着一个忘记被整理的篮球。
+====================
+
+====================
+index 40
+offset 8302
+name NULL
+length 13
+====================
+I pick it up.
+====================
+我拿起这个篮球。
+====================
+
+====================
+index 41
+offset 8334
+name NULL
+length 81
+====================
+...I feel a sense of unease as a slight, unexpected pain runs across my shoulder.
+====================
+…有点奇怪的感觉。肩膀微微地有些疼痛。
+====================
+
+====================
+index 42
+offset 8431
+name NULL
+length 58
+====================
+Maybe it's just tight since I haven't used it much lately.
+====================
+大概好长时间没有动过、肩膀已经不灵活了吧。
+====================
+
+====================
+index 43
+offset 8505
+name NULL
+length 25
+====================
+I pay no attention to it.
+====================
+我也没有太在意。
+====================
+
+====================
+index 44
+offset 8546
+name NULL
+length 45
+====================
+Before I know it, Tomoyo comes up next to me.
+====================
+不知道什么时候、智代站在旁边了。
+====================
+
+====================
+index 45
+offset 8879
+name NULL
+length 29
+====================
+She just looks at me quietly.
+====================
+一句话不说地看着我。
+====================
+
+====================
+index 46
+offset 8958
+name Tomoya
+length 17
+====================
+\"What's wrong?\"
+====================
+怎么了？
+====================
+
+====================
+index 47
+offset 8991
+name NULL
+length 40
+====================
+She was trying to stop me before, but...
+====================
+刚才还是不想让我打篮球的样子。
+====================
+
+====================
+index 48
+offset 9081
+name Tomoyo
+length 27
+====================
+\"Um, no... It's nothing.\"
+====================
+嗯。没…没什么
+====================
+
+====================
+index 49
+offset 9158
+name Tomoyo
+length 24
+====================
+\"Do you want to play?\"
+====================
+不玩了吗
+====================
+
+====================
+index 50
+offset 9232
+name Tomoya
+length 15
+====================
+\"Yeah, I do.\"
+====================
+嗯、玩的
+====================
+
+====================
+index 51
+offset 9297
+name Tomoya
+length 65
+====================
+\"It might not look like it, but I'm pretty good at basketball.\"
+====================
+不要看我现在这样、篮球可是我的长项哦
+====================
+
+====================
+index 52
+offset 9412
+name Tomoya
+length 35
+====================
+\"Though, you probably knew that.\"
+====================
+你知道的吧
+====================
+
+====================
+index 53
+offset 9497
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 54
+offset 9796
+name NULL
+length 35
+====================
+I should make a shot, for starters.
+====================
+首先投几个篮试试吧。
+====================
+
+====================
+index 55
+offset 9847
+name NULL
+length 58
+====================
+I stand a little ways from the basket and tilt my head up.
+====================
+面对篮框退后一段距离、脸朝上看。
+====================
+
+====================
+index 56
+offset 9921
+name NULL
+length 29
+====================
+I dribble with my right hand.
+====================
+右手开始运球。
+====================
+
+====================
+index 57
+offset 9966
+name NULL
+length 33
+====================
+I feel the rhythm of it bouncing.
+====================
+把握住节奏。
+====================
+
+====================
+index 58
+offset 10015
+name NULL
+length 18
+====================
+Three, four, five.
+====================
+三次、四次、五次。
+====================
+
+====================
+index 59
+offset 10049
+name NULL
+length 33
+====================
+I place my left hand on the ball.
+====================
+左手护住弹向右手的球。
+====================
+
+====================
+index 60
+offset 10098
+name NULL
+length 52
+====================
+I hold it in both hands, bend my legs and spring up.
+====================
+两只手把球抓住、两腿弯曲、然后弹跳。
+====================
+
+====================
+index 61
+offset 10166
+name NULL
+length 46
+====================
+With that momentum, I shoot toward the basket.
+====================
+顺着这个力量、把球投向篮框。
+====================
+
+====================
+index 62
+offset 10228
+name NULL
+length 12
+====================
+It's simple.
+====================
+很简单。
+====================
+
+====================
+index 63
+offset 10256
+name NULL
+length 59
+====================
+It's a basic movement that I've repeated hundreds of times.
+====================
+是操练过几百回的基本动作了。
+====================
+
+====================
+index 64
+offset 10331
+name NULL
+length 55
+====================
+The ball is supposed to go through the net like always.
+====================
+球一定会穿过篮网的。
+====================
+
+====================
+index 65
+offset 10427
+name NULL
+length 6
+====================
+But...
+====================
+但是…
+====================
+
+====================
+index 66
+offset 10449
+name NULL
+length 73
+====================
+As soon as I raise my hands, there is a severe pain in my right shoulder.
+====================
+两手抬起来准备投球的瞬间、一阵剧痛却从右肩传来。
+====================
+
+====================
+index 67
+offset 10538
+name NULL
+length 16
+====================
+It's unbearable.
+====================
+是无法忍受的疼痛。
+====================
+
+====================
+index 68
+offset 10570
+name NULL
+length 36
+====================
+It's like my shoulder will fall off.
+====================
+痛得似乎就像肩膀已经断掉了。
+====================
+
+====================
+index 69
+offset 10622
+name NULL
+length 70
+====================
+The ball that I was going to shoot just rolls on the ground aimlessly.
+====================
+我准备投出去的球无力地落到了地面上。
+====================
+
+====================
+index 70
+offset 10708
+name NULL
+length 37
+====================
+I whisper as my eyes follow the ball.
+====================
+我看着那个球、低声的说。
+====================
+
+====================
+index 71
+offset 10819
+name Tomoya
+length 18
+====================
+\"What the hell?\"
+====================
+什么啊
+====================
+
+====================
+index 72
+offset 10887
+name Tomoya
+length 31
+====================
+\"What the hell is going on?!\"
+====================
+这、究竟是怎么了啊
+====================
+
+====================
+index 73
+offset 10968
+name Tomoya
+length 50
+====================
+\"Hey, Tomoyo... What is wrong with my shoulder?\"
+====================
+喂、智代…我的肩膀怎么了
+====================
+
+====================
+index 74
+offset 11034
+name NULL
+length 54
+====================
+Is it even possible to play with a shoulder like this?
+====================
+肩膀成了这样也能打篮球。
+====================
+
+====================
+index 75
+offset 11104
+name NULL
+length 52
+====================
+Does this pain have something to do with my amnesia?
+====================
+这个疼痛和我的记忆丧失有什么关系吗。
+====================
+
+====================
+index 76
+offset 11172
+name NULL
+length 31
+====================
+Or is it something from before?
+====================
+还是、更久以前留下来的……？
+====================
+
+====================
+index 77
+offset 11219
+name NULL
+length 27
+====================
+Did Tomoyo know about this?
+====================
+难道智代知道这事情吗。
+====================
+
+====================
+index 78
+offset 11262
+name NULL
+length 33
+====================
+Is that why she tried to stop me?
+====================
+所以才打算阻止我的吗。
+====================
+
+====================
+index 79
+offset 11617
+name Tomoyo
+length 53
+====================
+\"Tomoya, you weren't playing basketball back then.\"
+====================
+朋也、你没有在打篮球
+====================
+
+====================
+index 80
+offset 11720
+name Tomoyo
+length 28
+====================
+\"You weren't on the team.\"
+====================
+也没有进入篮球队
+====================
+
+====================
+index 81
+offset 11798
+name Tomoyo
+length 73
+====================
+\"Because of that injury, you hadn't played basketball for three years.\"
+====================
+由于这个伤、你高中三年、一次篮球都没有打过
+====================
+
+====================
+index 82
+offset 11887
+name NULL
+length 25
+====================
+That's what she tells me.
+====================
+她这么对我说道。
+====================
+
+====================
+index 83
+offset 11962
+name Tomoya
+length 8
+====================
+\"Why?\"
+====================
+为什么
+====================
+
+====================
+index 84
+offset 11986
+name NULL
+length 12
+====================
+I'm shocked.
+====================
+我震惊了。
+====================
+
+====================
+index 85
+offset 12014
+name NULL
+length 53
+====================
+I'm more shocked than when I found out I had amnesia.
+====================
+是比知道自己记忆丧失、还要更令人沮丧的打击。
+====================
+
+====================
+index 86
+offset 12117
+name Tomoya
+length 30
+====================
+\"How did I get this injury?\"
+====================
+为什么我会有这个伤？
+====================
+
+====================
+index 87
+offset 12469
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 88
+offset 12532
+name Tomoya
+length 27
+====================
+\"You do know, don't you?\"
+====================
+智代也不知道吗…？
+====================
+
+====================
+index 89
+offset 12609
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 90
+offset 12672
+name Tomoya
+length 34
+====================
+\"If you know, tell me, damn it!\"
+====================
+如果知道的话、告诉我啊
+====================
+
+====================
+index 91
+offset 12722
+name NULL
+length 41
+====================
+I lose control and end up yelling at her.
+====================
+我不禁大声地喊了出来。
+====================
+
+====================
+index 92
+offset 13085
+name Tomoyo
+length 14
+====================
+\"I'm sorry.\"
+====================
+对不起
+====================
+
+====================
+index 93
+offset 13149
+name Tomoya
+length 31
+====================
+\"No, I went too far, myself.\"
+====================
+不、我也说的太过分了…
+====================
+
+====================
+index 94
+offset 13230
+name Tomoya
+length 58
+====================
+\"Hey, in that case, what was I doing those three years?\"
+====================
+那、我高中三年、都在干什么？
+====================
+
+====================
+index 95
+offset 13338
+name Tomoya
+length 53
+====================
+\"I got into school on a basketball recommendation.\"
+====================
+我应该是因为篮球而被推荐入学的吧
+====================
+
+====================
+index 96
+offset 13441
+name Tomoya
+length 43
+====================
+\"If I wasn't playing basketball, then...\"
+====================
+竟然没有在打篮球…
+====================
+
+====================
+index 97
+offset 13806
+name Tomoyo
+length 95
+====================
+\"From what I heard, you were injured in your last game in middle school, after you enrolled.\"
+====================
+据我听到的传闻、你是在入学决定之后、在初中的最后一次比赛里肩膀开始痛的
+====================
+
+====================
+index 98
+offset 13951
+name Tomoyo
+length 77
+====================
+\"They had already finalized it, so your enrollment wasn't rejected, but...\"
+====================
+因为已经决定入学了、所以也不可能因为这个理由而取消…
+====================
+
+====================
+index 99
+offset 14078
+name Tomoyo
+length 37
+====================
+\"...your shoulder never recovered.\"
+====================
+结果、似乎肩膀也没法治好
+====================
+
+====================
+index 100
+offset 14165
+name Tomoyo
+length 60
+====================
+\"You were a delinquent when I met you for the first time.\"
+====================
+在我们俩个认识之前、你是个不折不扣的不良学生
+====================
+
+====================
+index 101
+offset 14275
+name Tomoyo
+length 54
+====================
+\"Skipping classes, arriving tardy, failing tests...\"
+====================
+翘课、迟到、考试不及格…
+====================
+
+====================
+index 102
+offset 14615
+name NULL
+length 45
+====================
+I already heard that from her previous story.
+====================
+这以前也从智代那里听说过。
+====================
+
+====================
+index 103
+offset 14676
+name NULL
+length 46
+====================
+But this time, it carried a different meaning.
+====================
+但是现在听起来的感觉是完全不同的。
+====================
+
+====================
+index 104
+offset 14738
+name NULL
+length 92
+====================
+All this time, I had thought I was still actively playing basketball, despite a few mishaps.
+====================
+不管学习态度有多不好、但我想我至少还是活跃在篮球场上的。
+====================
+
+====================
+index 105
+offset 14880
+name Tomoya
+length 32
+====================
+\"Was I really that worthless?\"
+====================
+原来我是这样差劲的家伙吗…
+====================
+
+====================
+index 106
+offset 14928
+name NULL
+length 48
+====================
+If I don't have basketball, then what do I have?
+====================
+我没有了篮球…那还剩下什么啊。
+====================
+
+====================
+index 107
+offset 15298
+name Tomoyo
+length 39
+====================
+\"No way. You were an amazing person.\"
+====================
+没这回事。你是个很厉害的人啊
+====================
+
+====================
+index 108
+offset 15353
+name NULL
+length 32
+====================
+She assertively states my worth.
+====================
+智代肯定地说。
+====================
+
+====================
+index 109
+offset 15435
+name Tomoyo
+length 66
+====================
+\"If you were worthless, then I would have never fallen for you.\"
+====================
+如果是差劲的家伙、我是不会喜欢的
+====================
+
+====================
+index 110
+offset 15823
+name Tomoyo
+length 59
+====================
+\"I did fall in love with you, so you can't be worthless.\"
+====================
+我喜欢上了你、这说明你并不是差劲的家伙啊
+====================
+
+====================
+index 111
+offset 15932
+name Tomoyo
+length 37
+====================
+\"Tomoya, you're an amazing person.\"
+====================
+朋也、你是个好人
+====================
+
+====================
+index 112
+offset 15985
+name NULL
+length 38
+====================
+She repeats it, trying to convince me.
+====================
+就像是在劝我一样、一遍遍地说着。
+====================
+
+====================
+index 113
+offset 16073
+name Tomoyo
+length 68
+====================
+\"Sure, you can be perverted and say weird things at times, but...\"
+====================
+虽然确实有时候有点色、还经常说些莫名其妙的话…
+====================
+
+====================
+index 114
+offset 16191
+name Tomoyo
+length 59
+====================
+\"To me, you are the best boyfriend I could ever ask for.\"
+====================
+但你就是我最棒的恋人啊
+====================
+
+====================
+index 115
+offset 16300
+name Tomoyo
+length 54
+====================
+\"I can't count how many times you've helped me out.\"
+====================
+我不知道被你帮助过多少次了
+====================
+
+====================
+index 116
+offset 16404
+name Tomoyo
+length 43
+====================
+\"That's why it's my turn to support you.\"
+====================
+所以、这次轮到我来帮助你
+====================
+
+====================
+index 117
+offset 16463
+name NULL
+length 75
+====================
+There aren't any words I can say to Tomoyo, who is so eager to convince me.
+====================
+对于热心地说着的智代、我一句话也说不出来。
+====================
+
+====================
+index 118
+offset 16588
+name Tomoya
+length 17
+====================
+\"...thank you.\"
+====================
+…谢谢
+====================
+
+====================
+index 119
+offset 16621
+name NULL
+length 22
+====================
+That is all I can say.
+====================
+仅仅说了这一句话。
+====================
+
+====================
+index 120
+offset 16929
+name NULL
+length 57
+====================
+To be honest, I want to know the real cause of my injury.
+====================
+如果真要说的话、我想知道肩膀疼痛的理由。
+====================
+
+====================
+index 121
+offset 17002
+name NULL
+length 23
+====================
+Maybe Tomoyo does know.
+====================
+智代是真的不知道理由吗。
+====================
+
+====================
+index 122
+offset 17041
+name NULL
+length 32
+====================
+She does, but she won't tell me.
+====================
+还是知道、却不想说出来吧。
+====================
+
+====================
+index 123
+offset 17089
+name NULL
+length 20
+====================
+That's what I think.
+====================
+我这样觉得。
+====================

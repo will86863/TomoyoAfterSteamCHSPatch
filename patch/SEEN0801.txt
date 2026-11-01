@@ -1,0 +1,4116 @@
+type seen801
+count 374
+
+====================
+index 1
+offset 263
+name NULL
+length 16
+====================
+August 1st (Sun)
+====================
+８月１日（星期日）
+====================
+
+====================
+index 2
+offset 1192
+name NULL
+length 61
+====================
+There seem to be an unexpectedly high number of participants.
+====================
+参加的人数要比想象中来得多。
+====================
+
+====================
+index 3
+offset 1269
+name NULL
+length 112
+====================
+From the highest level of the temporary stands, we can see the runners in their colorful and varied sports wear.
+====================
+从临时搭建的观众席的最上层、能够看见穿着各式各样运动服的参赛者。
+====================
+
+====================
+index 4
+offset 1397
+name NULL
+length 64
+====================
+Everyone is doing their warm-ups and waiting for the start time.
+====================
+不管是谁都跃跃欲试地、等待着开始的时刻。
+====================
+
+====================
+index 5
+offset 1511
+name Tomoya
+length 38
+====================
+\"How many kilometers is he running?\"
+====================
+要跑多长？
+====================
+
+====================
+index 6
+offset 1872
+name Tomoyo
+length 46
+====================
+\"Takafumi is doing the 15 kilometer course.\"
+====================
+鹰文是１５公里组的
+====================
+
+====================
+index 7
+offset 1934
+name NULL
+length 100
+====================
+That's an overwhelming length. I was dead tired after just the three kilometers we did for practice.
+====================
+真是让人头晕的长度啊、光是我那练习的３公里、就已经让人精疲力尽了。
+====================
+
+====================
+index 8
+offset 2320
+name NULL
+length 82
+====================
+There's a large sketch of the courses up, and the 15 kilometer one is the longest.
+====================
+在一边贴着一张巨大的路线图、最长的路线就是１５公里。
+====================
+
+====================
+index 9
+offset 2418
+name NULL
+length 134
+====================
+It's an intense up and down course where they run up the mountain, do a lap around the park off the path, and run back down the slope.
+====================
+沿着山路往上、然后绕着山上的森林公园一周、最后再沿着坡道下来、真是个跌宕起伏的路线呢。
+====================
+
+====================
+index 10
+offset 2602
+name Tomoya
+length 64
+====================
+\"...shouldn't he have done a course that was a little easier?\"
+====================
+…选一条简单点的路线不行吗？
+====================
+
+====================
+index 11
+offset 2716
+name Tomoya
+length 49
+====================
+\"We didn't even run this distance in practice.\"
+====================
+这种距离、练习的时候也没有跑过的啊
+====================
+
+====================
+index 12
+offset 3088
+name Tomoyo
+length 53
+====================
+\"He used to be totally fine running this distance.\"
+====================
+以前这种距离是很容易就能跑完的
+====================
+
+====================
+index 13
+offset 3191
+name Tomoyo
+length 37
+====================
+\"And we aren't telling him to win.\"
+====================
+而且也不期望什么优胜
+====================
+
+====================
+index 14
+offset 3551
+name Tomoyo
+length 41
+====================
+\"I just want him to run it to the end.\"
+====================
+只是希望他可以跑完
+====================
+
+====================
+index 15
+offset 3642
+name Tomoyo
+length 27
+====================
+\"So he can stop running.\"
+====================
+为了能跑完这段路
+====================
+
+====================
+index 16
+offset 3719
+name Tomoya
+length 23
+====================
+\"I see... good idea.\"
+====================
+是吗…说的也是啊
+====================
+
+====================
+index 17
+offset 4028
+name NULL
+length 51
+====================
+I think we should convey our feelings together too.
+====================
+要是我们的思念也能传达给他就好了。
+====================
+
+====================
+index 18
+offset 4095
+name NULL
+length 35
+====================
+To the always unsatisfied Takafumi.
+====================
+对着总是一脸不满表情的鹰文。
+====================
+
+====================
+index 19
+offset 4146
+name NULL
+length 44
+====================
+Let's cheer him on with all we've got today.
+====================
+我们尽力地为他加油着。
+====================
+
+====================
+index 20
+offset 4240
+name Tomoya
+length 25
+====================
+\"You cheer him on too.\"
+====================
+你也给他加油吧
+====================
+
+====================
+index 21
+offset 4281
+name NULL
+length 62
+====================
+I say and turn around to look at Kanako, who's standing there.
+====================
+我回过头、对站在身后的河南子说道。
+====================
+
+====================
+index 22
+offset 4393
+name Kanako
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 23
+offset 4422
+name NULL
+length 68
+====================
+Takafumi is a little toward the back of the wide open starting area.
+====================
+鹰文在起跑广场的稍后方一点。
+====================
+
+====================
+index 24
+offset 4506
+name NULL
+length 52
+====================
+We call out to him from the roped off entrance area.
+====================
+我们站在拦着绳子的入口侧叫住了他。
+====================
+
+====================
+index 25
+offset 4608
+name Tomoya
+length 22
+====================
+\"Give it your best.\"
+====================
+加油吧
+====================
+
+====================
+index 26
+offset 4955
+name Takafumi
+length 54
+====================
+\"I'll give as much as I can without killing myself.\"
+====================
+我会尽力在不勉强自己的前提下加油的
+====================
+
+====================
+index 27
+offset 5025
+name NULL
+length 52
+====================
+Takafumi responds while he stretches his upper body.
+====================
+鹰文一边做着上身的伸展、一边说道。
+====================
+
+====================
+index 28
+offset 5363
+name NULL
+length 32
+====================
+It's 30 seconds until the start.
+====================
+起跑３０秒之前。
+====================
+
+====================
+index 29
+offset 5411
+name NULL
+length 33
+====================
+The runners take their positions.
+====================
+参加者各就各位。
+====================
+
+====================
+index 30
+offset 5460
+name NULL
+length 53
+====================
+Takafumi looks up slightly with a deadpan expression.
+====================
+鹰文一脸的泄气样、茫然地抬头看着天。
+====================
+
+====================
+index 31
+offset 5562
+name Voice
+length 10
+====================
+\"Ready.\"
+====================
+准备
+====================
+
+====================
+index 32
+offset 5588
+name NULL
+length 48
+====================
+The starter's voice rings out from the speakers.
+====================
+从广播里传来了发令员的声音。
+====================
+
+====================
+index 33
+offset 5666
+name NULL
+length 8
+====================
+*Baaaam*
+====================
+砰啊啊——！
+====================
+
+====================
+index 34
+offset 5690
+name NULL
+length 74
+====================
+The starting cannon fires and the wave of people all start moving at once.
+====================
+发令枪响了、人潮一下子涌了出去。
+====================
+
+====================
+index 35
+offset 6087
+name Tomoyo
+length 21
+====================
+\"Where's Takafumi?\"
+====================
+鹰文在哪里？
+====================
+
+====================
+index 36
+offset 6158
+name Tomoya
+length 15
+====================
+\"Over there.\"
+====================
+在那里
+====================
+
+====================
+index 37
+offset 6189
+name NULL
+length 93
+====================
+He's in the middle of the group, going the same speed as some excessively energetic old guys.
+====================
+他在人群的中央、和一群精神的老爷爷们差不多速度地在跑着。
+====================
+
+====================
+index 38
+offset 6605
+name Tomoyo
+length 42
+====================
+\"Tomoya, Kanako, let's chase after him.\"
+====================
+朋也、河南子、我们追上去吧
+====================
+
+====================
+index 39
+offset 6697
+name Tomoya
+length 8
+====================
+\"Huh?\"
+====================
+哈？
+====================
+
+====================
+index 40
+offset 6721
+name NULL
+length 42
+====================
+I reply, not understanding what she means.
+====================
+我不明所以地反问着。
+====================
+
+====================
+index 41
+offset 7086
+name Tomoyo
+length 33
+====================
+\"We're going to encourage him.\"
+====================
+去训一训鹰文
+====================
+
+====================
+index 42
+offset 7169
+name Tomoyo
+length 37
+====================
+\"He isn't trying to run seriously.\"
+====================
+那家伙没有在认真地跑
+====================
+
+====================
+index 43
+offset 7256
+name Tomoyo
+length 64
+====================
+\"So we're going to chase after him and make him run for real.\"
+====================
+所以、追上他让他好好地跑起来
+====================
+
+====================
+index 44
+offset 7606
+name NULL
+length 45
+====================
+As soon as she says this, she starts running.
+====================
+刚说完、智代就跑了出去。
+====================
+
+====================
+index 45
+offset 7701
+name Tomoya
+length 19
+====================
+\"H-Hey! Hold on!\"
+====================
+喂、喂、稍微等等啊！
+====================
+
+====================
+index 46
+offset 7736
+name NULL
+length 27
+====================
+Flustered, I run after her.
+====================
+我也慌慌张张地跟在了她的身后。
+====================
+
+====================
+index 47
+offset 7813
+name Tomoya
+length 40
+====================
+\"What do you mean by chase after him?\"
+====================
+要怎么追上他啊
+====================
+
+====================
+index 48
+offset 8176
+name Tomoyo
+length 29
+====================
+\"Isn't it obvious? We run.\"
+====================
+还用问吗、当然是跑着追啊
+====================
+
+====================
+index 49
+offset 8258
+name Tomoyo
+length 62
+====================
+\"Luckily, if we take the back path, it's not far from here.\"
+====================
+很幸运、从这里的小路穿过去很近的
+====================
+
+====================
+index 50
+offset 8765
+name NULL
+length 22
+====================
+My breathing is heavy.
+====================
+我的呼吸混乱了。
+====================
+
+====================
+index 51
+offset 8803
+name NULL
+length 16
+====================
+My throat hurts.
+====================
+喉咙也感觉一阵刺痛。
+====================
+
+====================
+index 52
+offset 8835
+name NULL
+length 45
+====================
+My T-shirt is clinging to my back with sweat.
+====================
+Ｔ恤的背部也流满了汗。
+====================
+
+====================
+index 53
+offset 9624
+name Tomoyo
+length 34
+====================
+\"Looks like we made it in time.\"
+====================
+看来赶上了呢
+====================
+
+====================
+index 54
+offset 9708
+name Tomoyo
+length 42
+====================
+\"Oh... this is still the leading group.\"
+====================
+哦…还算是跑在第一集团啊
+====================
+
+====================
+index 55
+offset 10036
+name NULL
+length 65
+====================
+For some reason, it's like I'm participating in the marathon too.
+====================
+不知道为什么、感觉连我都被卷进这场马拉松大会了。
+====================
+
+====================
+index 56
+offset 10117
+name NULL
+length 62
+====================
+When we arrive, the leading group of runners is still passing.
+====================
+在我们到达的时候、正好碰上第一集团通过。
+====================
+
+====================
+index 57
+offset 10195
+name NULL
+length 87
+====================
+The runners, who easily climb the main road, gradually grow slower as more people pass.
+====================
+快步爬上坡道的选手们、越往后速度越来越慢。
+====================
+
+====================
+index 58
+offset 10298
+name NULL
+length 42
+====================
+After about half a minute, Takafumi nears.
+====================
+差不多跑过一半左右的人的时候、鹰文跑来了。
+====================
+
+====================
+index 59
+offset 10663
+name Tomoyo
+length 18
+====================
+\"Takafumi, run!\"
+====================
+鹰文ー、给我跑起来ー
+====================
+
+====================
+index 60
+offset 10697
+name NULL
+length 62
+====================
+In a loud splitting voice, Tomoyo flings encouragement at him.
+====================
+智代大声地吼着唯恐他听不见。
+====================
+
+====================
+index 61
+offset 11048
+name NULL
+length 42
+====================
+Takafumi looks in our direction wide-eyed.
+====================
+鹰文瞪大了眼睛、看着这里。
+====================
+
+====================
+index 62
+offset 11106
+name NULL
+length 38
+====================
+He probably didn't think we'd be here.
+====================
+他根本想不到我们会跑到这里来吧。
+====================
+
+====================
+index 63
+offset 11430
+name NULL
+length 62
+====================
+He was probably going to just cruise for the rest of the race.
+====================
+也许他自己、就是想着要随便敷衍着跑完的吧。
+====================
+
+====================
+index 64
+offset 11508
+name NULL
+length 19
+====================
+As if we'd let you.
+====================
+怎么可能让他得逞。
+====================
+
+====================
+index 65
+offset 11577
+name Tomoya
+length 87
+====================
+\"Takafumi, if you don't run like you're going to die, your punishment won't be over!\"
+====================
+鹰文、你不给我卖力跑到死的话、这场惩罚游戏永远没完哦ー！
+====================
+
+====================
+index 66
+offset 11680
+name NULL
+length 36
+====================
+Takafumi's speed increases a little.
+====================
+鹰文的速度慢慢上来了。
+====================
+
+====================
+index 67
+offset 12039
+name Kanako
+length 33
+====================
+\"So it really is a punishment.\"
+====================
+果然还是惩罚游戏不是么
+====================
+
+====================
+index 68
+offset 12358
+name NULL
+length 63
+====================
+His stride widens and the rhythm of his arm movements improves.
+====================
+他步幅变大了、两腕挥动的节奏也变得协调。
+====================
+
+====================
+index 69
+offset 12744
+name Tomoyo
+length 58
+====================
+\"All right, he's gone back to his old style of running.\"
+====================
+好样的、跑步姿势变得和以前一样了
+====================
+
+====================
+index 70
+offset 12852
+name Tomoyo
+length 31
+====================
+\"Let's go to the next place.\"
+====================
+让我们去下一个地方吧
+====================
+
+====================
+index 71
+offset 12933
+name Tomoya
+length 27
+====================
+\"We're still doing this?\"
+====================
+还要去吗
+====================
+
+====================
+index 72
+offset 14124
+name Tomoyo
+length 15
+====================
+\"We made it.\"
+====================
+赶上了
+====================
+
+====================
+index 73
+offset 14189
+name Tomoya
+length 37
+====================
+\"We've run to a hell of a place...\"
+====================
+竟然能跑到这种地方来啊…
+====================
+
+====================
+index 74
+offset 14242
+name NULL
+length 83
+====================
+Halfway here, it stopped being running and felt more like climbing a mountain path.
+====================
+在半路上已经不是跑了、而是像登山一样了。
+====================
+
+====================
+index 75
+offset 14375
+name Tomoyo
+length 18
+====================
+\"Here he comes.\"
+====================
+来了
+====================
+
+====================
+index 76
+offset 14679
+name NULL
+length 58
+====================
+On the long ascent, Takafumi has raised his chin a little.
+====================
+在长长的上坡路上、鹰文正略微仰着头跑着。
+====================
+
+====================
+index 77
+offset 14753
+name NULL
+length 51
+====================
+His position has improved considerably from before.
+====================
+比之前要靠前好多。
+====================
+
+====================
+index 78
+offset 15127
+name Tomoyo
+length 29
+====================
+\"You can do it if you try!\"
+====================
+果然还是办得到的嘛
+====================
+
+====================
+index 79
+offset 15206
+name Tomoyo
+length 35
+====================
+\"Give it your all until the end!\"
+====================
+坚持到最后ー！
+====================
+
+====================
+index 80
+offset 15566
+name Takafumi
+length 12
+====================
+\"Shut up!\"
+====================
+吵死了
+====================
+
+====================
+index 81
+offset 15594
+name NULL
+length 42
+====================
+His voice makes it all the way back to us.
+====================
+他还能有力气还嘴。
+====================
+
+====================
+index 82
+offset 16800
+name Tomoyo
+length 24
+====================
+\"You're slow, Tomoya.\"
+====================
+太慢了、朋也
+====================
+
+====================
+index 83
+offset 16874
+name Tomoya
+length 44
+====================
+\"That spot looked like I'd die if I fell.\"
+====================
+刚才那个地方要是掉下去了可就死定了啊
+====================
+
+====================
+index 84
+offset 17241
+name Tomoyo
+length 24
+====================
+\"It's easy from here.\"
+====================
+到了这里就好了
+====================
+
+====================
+index 85
+offset 17315
+name Tomoyo
+length 36
+====================
+\"There aren't many ups and downs.\"
+====================
+因为前面没有什么起伏了
+====================
+
+====================
+index 86
+offset 17637
+name NULL
+length 49
+====================
+We've arrived at the entrance to the forest park.
+====================
+我们来到了森林公园的入口处。
+====================
+
+====================
+index 87
+offset 17702
+name NULL
+length 50
+====================
+We've covered more than one-third of the distance.
+====================
+距离上来说是整段的三分之一的地方。
+====================
+
+====================
+index 88
+offset 17768
+name NULL
+length 102
+====================
+It seems like the leading group has already passed. Runners pass by one by one on the shaded footpath.
+====================
+先头部队好像已经跑过去了、树阴下的小路、不时有一两位选手跑了过去。
+====================
+
+====================
+index 89
+offset 17920
+name Tomoya
+length 37
+====================
+\"Isn't it about time he showed up?\"
+====================
+该到了吧
+====================
+
+====================
+index 90
+offset 18280
+name Tomoyo
+length 42
+====================
+\"He was around this position earlier...\"
+====================
+刚才应该还是在这一带的…
+====================
+
+====================
+index 91
+offset 18608
+name NULL
+length 79
+====================
+We spot Takafumi, who has slowed somewhat and is running with the middle group.
+====================
+姗姗来迟地、我们看到鹰文跑在了中间部队里。
+====================
+
+====================
+index 92
+offset 18703
+name NULL
+length 65
+====================
+His steps are small and he's bent somewhat forward while he runs.
+====================
+以小步幅、而且身体前倾的姿态跑着。
+====================
+
+====================
+index 93
+offset 18818
+name Tomoya
+length 36
+====================
+\"Run as if you were about to die.\"
+====================
+以必死之心跑吧！
+====================
+
+====================
+index 94
+offset 18870
+name NULL
+length 23
+====================
+I yell in a loud voice.
+====================
+我大声喊道。
+====================
+
+====================
+index 95
+offset 19218
+name Takafumi
+length 22
+====================
+\"I am going to die!\"
+====================
+真的要死了
+====================
+
+====================
+index 96
+offset 19526
+name NULL
+length 29
+====================
+His voice is almost a shriek.
+====================
+他的声音充满了悲怆。
+====================
+
+====================
+index 97
+offset 19571
+name NULL
+length 66
+====================
+His breathing is hard; his face is pale like he's short on oxygen.
+====================
+呼吸很混乱、脸色也因为缺氧而显得很差。
+====================
+
+====================
+index 98
+offset 19687
+name Tomoya
+length 18
+====================
+\"...is he okay?\"
+====================
+…真的没问题吗？
+====================
+
+====================
+index 99
+offset 20028
+name Tomoyo
+length 19
+====================
+\"I don't know...\"
+====================
+不知道…
+====================
+
+====================
+index 100
+offset 20370
+name Tomoyo
+length 48
+====================
+\"Takafumi! Overtake the guys in front of you!\"
+====================
+鹰文！超上去、就是你眼前那个家伙！
+====================
+
+====================
+index 101
+offset 20434
+name NULL
+length 33
+====================
+She immediately yells out to him.
+====================
+声音立刻就传达到了。
+====================
+
+====================
+index 102
+offset 20906
+name NULL
+length 35
+====================
+We move toward the open area ahead.
+====================
+我们来到了前面的广场。
+====================
+
+====================
+index 103
+offset 20957
+name NULL
+length 72
+====================
+We climb the man-made steps and walk along the continuing mountain path.
+====================
+沿着台阶上行、继续爬着山道。
+====================
+
+====================
+index 104
+offset 21045
+name NULL
+length 94
+====================
+Thankfully, this area has a low grade so that you can make a lap around the park as you climb.
+====================
+为了能正好绕公园一周、这边的山道坡度不是很陡、真是太好了。
+====================
+
+====================
+index 105
+offset 21579
+name NULL
+length 109
+====================
+When we come out of the shade of the trees that surrounds the mountain path, the summer sun beats down on us.
+====================
+一走出围绕着树木的山路、太阳就火辣辣地直射下来。
+====================
+
+====================
+index 106
+offset 21704
+name NULL
+length 80
+====================
+At the end of the rope that's being used as a guide, there's a single huge tree.
+====================
+绳子做的路标的前端、有一颗巨大的树。
+====================
+
+====================
+index 107
+offset 21800
+name NULL
+length 29
+====================
+That's the turn-around point.
+====================
+那里就是折返点。
+====================
+
+====================
+index 108
+offset 21845
+name NULL
+length 111
+====================
+Takafumi's expression is warped, his steps small, and his arms feebly swaying in order to maintain his posture.
+====================
+鹰文的表情扭曲、步幅也变小了、手腕为了维持平衡而微微地挥动着。
+====================
+
+====================
+index 109
+offset 22279
+name Tomoyo
+length 38
+====================
+\"Takafumi! Your legs aren't moving!\"
+====================
+鹰文、你的脚根本就没有在动哦！
+====================
+
+====================
+index 110
+offset 22367
+name Tomoya
+length 33
+====================
+\"Run like you're going to die!\"
+====================
+给我死命地跑啊！
+====================
+
+====================
+index 111
+offset 22686
+name NULL
+length 63
+====================
+I cheer him on the same way I have any number of times already.
+====================
+我们不停地为他加油着。
+====================
+
+====================
+index 112
+offset 22765
+name NULL
+length 23
+====================
+But he doesn't respond.
+====================
+但是、他却没有回应。
+====================
+
+====================
+index 113
+offset 22804
+name NULL
+length 59
+====================
+He doesn't even wave his hands, let alone voice a response.
+====================
+不仅没有声音、就连手都没有挥一下。
+====================
+
+====================
+index 114
+offset 23186
+name Tomoyo
+length 23
+====================
+\"Are you listening?!\"
+====================
+你听到了吗！
+====================
+
+====================
+index 115
+offset 23259
+name Tomoya
+length 14
+====================
+\"Answer us!\"
+====================
+来点反应
+====================
+
+====================
+index 116
+offset 23764
+name NULL
+length 13
+====================
+Haa... haa...
+====================
+哈啊…哈啊…
+====================
+
+====================
+index 117
+offset 24217
+name NULL
+length 26
+====================
+I can hear you. Shut up...
+====================
+听见了啦、吵死了…
+====================
+
+====================
+index 118
+offset 24259
+name NULL
+length 7
+====================
+Geez...
+====================
+真是的…
+====================
+
+====================
+index 119
+offset 24282
+name NULL
+length 13
+====================
+Haa... haa...
+====================
+哈啊…哈啊…
+====================
+
+====================
+index 120
+offset 24311
+name NULL
+length 19
+====================
+Ah, it's no good...
+====================
+啊、不行了…
+====================
+
+====================
+index 121
+offset 24346
+name NULL
+length 28
+====================
+My legs won't move at all...
+====================
+我的腿完全动不了了…
+====================
+
+====================
+index 122
+offset 24390
+name NULL
+length 22
+====================
+I can't run anymore...
+====================
+脚根本抬不起来了…
+====================
+
+====================
+index 123
+offset 24428
+name NULL
+length 25
+====================
+This is enough, right...?
+====================
+这样够了吧…？
+====================
+
+====================
+index 124
+offset 24469
+name NULL
+length 16
+====================
+I'm exhausted...
+====================
+我已经跑不动了…
+====================
+
+====================
+index 125
+offset 24501
+name NULL
+length 20
+====================
+I'm going to stop...
+====================
+已经可以了吧…
+====================
+
+====================
+index 126
+offset 24540
+name NULL
+length 9
+====================
+.........
+====================
+好累…
+====================
+
+====================
+index 127
+offset 24565
+name NULL
+length 6
+====================
+......
+====================
+………
+====================
+
+====================
+index 128
+offset 25436
+name NULL
+length 38
+====================
+...would you come to my house tonight?
+====================
+…今天晚上来我家吗？
+====================
+
+====================
+index 129
+offset 25490
+name NULL
+length 3
+====================
+Eh?
+====================
+诶
+====================
+
+====================
+index 130
+offset 25935
+name NULL
+length 9
+====================
+Sensei...
+====================
+老师…
+====================
+
+====================
+index 131
+offset 25994
+name Sensei
+length 39
+====================
+\"Would you come to my house tonight?\"
+====================
+今晚来我家一趟吧？
+====================
+
+====================
+index 132
+offset 26049
+name NULL
+length 29
+====================
+Ah, so you can lecture me...?
+====================
+啊、又要对我说教吗…？
+====================
+
+====================
+index 133
+offset 26094
+name NULL
+length 54
+====================
+Because I wasn't running seriously during gym class...
+====================
+因为训练的时候、我没有认真地在跑…
+====================
+
+====================
+index 134
+offset 26198
+name Sensei
+length 33
+====================
+\"Ah, no. That's not it at all.\"
+====================
+啊、不是。完全不是那回事。
+====================
+
+====================
+index 135
+offset 26281
+name Sensei
+length 53
+====================
+\"We're having hot pot. I was hoping you'd join us.\"
+====================
+我们要吃火锅。想让你也一起来。
+====================
+
+====================
+index 136
+offset 26384
+name Sensei
+length 75
+====================
+\"I guess it might be hard to so suddenly. Your parents would be worried.\"
+====================
+突然这么说可能有点难吧。你父母会担心的。
+====================
+
+====================
+index 137
+offset 26475
+name NULL
+length 35
+====================
+Ah, no, that wouldn't be a problem.
+====================
+啊、不、没有的事。
+====================
+
+====================
+index 138
+offset 26560
+name Sensei
+length 26
+====================
+\"...well, how about it?\"
+====================
+…那么、怎么样？
+====================
+
+====================
+index 139
+offset 26602
+name NULL
+length 42
+====================
+I don't mind. If I can eat delicious food.
+====================
+好啊。如果能吃到好东西的话。
+====================
+
+====================
+index 140
+offset 26694
+name Sensei
+length 40
+====================
+\"I can't guarantee the taste, hahaha.\"
+====================
+味道我可不敢保证、哈哈哈。
+====================
+
+====================
+index 141
+offset 27617
+name Classmate
+length 32
+====================
+\"Another gangly one has come.\"
+====================
+又来了个瘦巴巴的。
+====================
+
+====================
+index 142
+offset 27702
+name Classmate
+length 24
+====================
+\"You eating properly?\"
+====================
+你有好好吃饭吗？
+====================
+
+====================
+index 143
+offset 27779
+name Classmate
+length 40
+====================
+\"You were like that too not long ago.\"
+====================
+你不久前不也那样吗。
+====================
+
+====================
+index 144
+offset 27872
+name Classmate
+length 67
+====================
+\"Sensei brings them without giving a thought to their potential.\"
+====================
+老师带他们来的时候、也不想想他们能吃多少。
+====================
+
+====================
+index 145
+offset 27990
+name Captain
+length 41
+====================
+\"That's why we never get any stronger!\"
+====================
+所以才强大不起来嘛！
+====================
+
+====================
+index 146
+offset 28084
+name Classmate
+length 34
+====================
+\"Well, eat up. Don't hold back.\"
+====================
+好了、吃吧。别客气。
+====================
+
+====================
+index 147
+offset 28169
+name Captain
+length 58
+====================
+\"Hey, you didn't contribute so much as a penny to this!\"
+====================
+你这家伙、根本一分钱都没出啊！
+====================
+
+====================
+index 148
+offset 28243
+name NULL
+length 11
+====================
+Hahahahaha!
+====================
+哈哈哈哈哈！
+====================
+
+====================
+index 149
+offset 28304
+name Sensei
+length 52
+====================
+\"...Sakagami-kun, no need to hold back. Go ahead.\"
+====================
+…坂上君、不用客气。吃吧。
+====================
+
+====================
+index 150
+offset 28406
+name Sensei
+length 56
+====================
+\"But the dinner table tends to be just a little loud.\"
+====================
+不过饭桌上总是会有点吵。
+====================
+
+====================
+index 151
+offset 28478
+name NULL
+length 7
+====================
+Yeah...
+====================
+哈啊…。
+====================
+
+====================
+index 152
+offset 29332
+name NULL
+length 45
+====================
+Are you guys really the track and field team?
+====================
+你们几个、真的是田径队的吗？
+====================
+
+====================
+index 153
+offset 29427
+name Member
+length 11
+====================
+\"...why?\"
+====================
+…为什么这么问
+====================
+
+====================
+index 154
+offset 29454
+name NULL
+length 19
+====================
+You're really slow.
+====================
+因为你们跑得好慢哦。
+====================
+
+====================
+index 155
+offset 29523
+name Member
+length 36
+====================
+\"What, punk? You picking a fight?\"
+====================
+什么、你这家伙、找打吗
+====================
+
+====================
+index 156
+offset 29609
+name Member
+length 33
+====================
+\"All right, let's have a race.\"
+====================
+那好、我们来比比看吧
+====================
+
+====================
+index 157
+offset 29692
+name Member
+length 87
+====================
+\"I'll show you that although our team is in decline, we still have some fight in it.\"
+====================
+即使我们再不济、也是有骨气的田径队
+====================
+
+====================
+index 158
+offset 30252
+name Member
+length 20
+====================
+\"...haa... haa...\"
+====================
+…哈啊…哈啊…
+====================
+
+====================
+index 159
+offset 30322
+name Member
+length 15
+====================
+\"...sorry...\"
+====================
+…抱歉…
+====================
+
+====================
+index 160
+offset 30387
+name Member
+length 64
+====================
+\"..willing to have one more race? With the captain this time.\"
+====================
+…能再比一次吗？这次是和队长比赛
+====================
+
+====================
+index 161
+offset 31353
+name Member
+length 93
+====================
+\"Bastard, don't run faster than the captain! He's not perfect, but he's still the captain!\"
+====================
+你这家伙、竟然跑得比队长还快！不管怎么说他也是我们的队长啊！
+====================
+
+====================
+index 162
+offset 31499
+name Member
+length 33
+====================
+\"Captain, please do something!\"
+====================
+队长你也争口气啊！
+====================
+
+====================
+index 163
+offset 31583
+name Captain
+length 56
+====================
+\"...I don't care who, come on, someone pass that guy!\"
+====================
+…不管是谁都行、快去个人超过他吧！
+====================
+
+====================
+index 164
+offset 31690
+name Captain
+length 62
+====================
+\"...at this rate, our declining team will be total garbage!\"
+====================
+…再这样下去、不济的田径队可要真的非常不济了！
+====================
+
+====================
+index 165
+offset 31802
+name Member
+length 57
+====================
+\"...it's fine. We never bore fruit in the first place.\"
+====================
+…有什么不好、反正本来也就是这样啦
+====================
+
+====================
+index 166
+offset 31875
+name NULL
+length 14
+====================
+...hahahahaha!
+====================
+…哈哈哈哈哈！
+====================
+
+====================
+index 167
+offset 31940
+name Captain
+length 21
+====================
+\"...bastard, wait!\"
+====================
+…你这家伙、等等！
+====================
+
+====================
+index 168
+offset 33257
+name Captain
+length 56
+====================
+\"...shit. You're incredible. You'll win. First place!\"
+====================
+…混蛋、好厉害啊、你是优胜啊、第一名啊！
+====================
+
+====================
+index 169
+offset 33364
+name Captain
+length 45
+====================
+\"...the bastard is already our team's ace!\"
+====================
+…你、从现在开始任命你为我们队的王牌！
+====================
+
+====================
+index 170
+offset 33425
+name NULL
+length 59
+====================
+No, I don't remember joining the team in the first place...
+====================
+但是、我还没有加入啊…
+====================
+
+====================
+index 171
+offset 33535
+name Captain
+length 81
+====================
+\"...you're our ace. Not a single one of us has won in the district tournament!\"
+====================
+…说你是王牌你就是啦、我们这里的人就连地区的优胜都没拿过呢！
+====================
+
+====================
+index 172
+offset 33667
+name Captain
+length 79
+====================
+\"Shit, this is frustrating, but you're our ace. I'm leaving the team to you!\"
+====================
+混蛋、虽然很不甘心、但是你就是王牌了、田径队就交给你了！
+====================
+
+====================
+index 173
+offset 33796
+name Member
+length 55
+====================
+\"...hey Captain, please don't give away the team....\"
+====================
+…不要啊、队长、还请别放弃我们田径队啊…
+====================
+
+====================
+index 174
+offset 34731
+name Member
+length 31
+====================
+\"Shit, this guy's smart too!\"
+====================
+混蛋、这家伙的头脑也好聪明哦！
+====================
+
+====================
+index 175
+offset 34812
+name Member
+length 42
+====================
+\"But I'm still better looking than him.\"
+====================
+但是论长相我可不会输给你啊
+====================
+
+====================
+index 176
+offset 34904
+name Kanako
+length 22
+====================
+\"...no, you aren't.\"
+====================
+…不、已经输了啦
+====================
+
+====================
+index 177
+offset 34976
+name Member
+length 24
+====================
+\"Kanako, you bastard!\"
+====================
+河南子、你这家伙ー！
+====================
+
+====================
+index 178
+offset 35050
+name Kanako
+length 25
+====================
+\"...hm? You want some?\"
+====================
+…嗯？想打架吗？
+====================
+
+====================
+index 179
+offset 35125
+name Member
+length 27
+====================
+\"...no I don't. Damn it!\"
+====================
+…我可不和你打、混蛋ーーー！
+====================
+
+====================
+index 180
+offset 35168
+name NULL
+length 21
+====================
+What, are you strong?
+====================
+怎么、你很强吗？
+====================
+
+====================
+index 181
+offset 35239
+name Kanako
+length 22
+====================
+\"...hm? I'm strong.\"
+====================
+…嗯？很强哦
+====================
+
+====================
+index 182
+offset 35277
+name NULL
+length 67
+====================
+My older sister is extremely strong too... I wonder who's stronger?
+====================
+我的姐姐也很强呢…究竟谁更强一点呢？
+====================
+
+====================
+index 183
+offset 35394
+name Member
+length 33
+====================
+\"Idiot, obviously it's Kanako.\"
+====================
+笨蛋、当然是河南子啊
+====================
+
+====================
+index 184
+offset 35477
+name Kanako
+length 25
+====================
+\"...I'm the strongest.\"
+====================
+…我可是最强的
+====================
+
+====================
+index 185
+offset 35552
+name Sensei
+length 41
+====================
+\"...hey guys, the food's already done.\"
+====================
+…喂、大家、饭菜已经好了。
+====================
+
+====================
+index 186
+offset 35643
+name Kanako
+length 53
+====================
+\"It's quick because it's cheap meat. It's so thin.\"
+====================
+弄这些便宜的肉倒是手脚挺快的嘛。肉都松松垮垮的
+====================
+
+====================
+index 187
+offset 35746
+name Sensei
+length 14
+====================
+\"...Kanako.\"
+====================
+…河南子。
+====================
+
+====================
+index 188
+offset 35810
+name Sensei
+length 32
+====================
+\"I wonder who you take after.\"
+====================
+真不知道你像谁。
+====================
+
+====================
+index 189
+offset 35892
+name Sensei
+length 37
+====================
+\"Your father has such a weak body.\"
+====================
+你父亲的身体那么弱。
+====================
+
+====================
+index 190
+offset 35979
+name Kanako
+length 33
+====================
+\"...it's the fruits of effort.\"
+====================
+…这可是我努力的结果
+====================
+
+====================
+index 191
+offset 36063
+name Captain
+length 98
+====================
+\"...unlike our track and field team, Kanako can probably get recommended to a good high school.\"
+====================
+…和我们田径队不同、河南子可是能推荐进好的高中的哦
+====================
+
+====================
+index 192
+offset 36177
+name NULL
+length 46
+====================
+Don't put me in the same category as you guys.
+====================
+别把我也包括进去。
+====================
+
+====================
+index 193
+offset 36274
+name Captain
+length 22
+====================
+\"...o-our damn ace!\"
+====================
+…你、你这个王牌混蛋ー！
+====================
+
+====================
+index 194
+offset 36312
+name NULL
+length 43
+====================
+Are you getting mad or admitting defeat...?
+====================
+你那算是生气、还是承认自己的失败呢…。
+====================
+
+====================
+index 195
+offset 37230
+name Member
+length 19
+====================
+\"...how'd it go?\"
+====================
+…怎么样…
+====================
+
+====================
+index 196
+offset 37265
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 197
+offset 37324
+name Member
+length 37
+====================
+\"...no good... I got shot down....\"
+====================
+…不行…被甩了…
+====================
+
+====================
+index 198
+offset 37412
+name Captain
+length 35
+====================
+\"...hahaha! Completely rejected!\"
+====================
+…啊哈哈哈！又失败了哦ーーーー！
+====================
+
+====================
+index 199
+offset 37498
+name Captain
+length 46
+====================
+\"...yahoooooo! You're one of us losers now!\"
+====================
+…呀呵ーーーーー！　你也是失败组的成员啦！
+====================
+
+====================
+index 200
+offset 37595
+name Captain
+length 69
+====================
+\"...you and I are friends forever. All right, let's drink tonight!\"
+====================
+…你和我是永远的挚友啦、好、让我们喝到天亮吧！
+====================
+
+====================
+index 201
+offset 37680
+name NULL
+length 22
+====================
+You guys are underage.
+====================
+你们还是学生吧。
+====================
+
+====================
+index 202
+offset 38584
+name Captain
+length 19
+====================
+\"...how'd it go?\"
+====================
+…如何…
+====================
+
+====================
+index 203
+offset 38619
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 204
+offset 38678
+name Member
+length 21
+====================
+\"She shot me down!\"
+====================
+被甩了！
+====================
+
+====================
+index 205
+offset 38750
+name Captain
+length 48
+====================
+\"...yahoooo! You're one of us starting today!\"
+====================
+…呀呵ーーーー！　从今天开始你也加入我们啦！
+====================
+
+====================
+index 206
+offset 38848
+name Member
+length 51
+====================
+\"...also, there's someone she's interested in...\"
+====================
+…但是、她说她已经有中意的人了…
+====================
+
+====================
+index 207
+offset 38950
+name Captain
+length 10
+====================
+\"...eh?\"
+====================
+…诶？
+====================
+
+====================
+index 208
+offset 39011
+name Captain
+length 11
+====================
+\"...who?\"
+====================
+…在哪里？
+====================
+
+====================
+index 209
+offset 39072
+name Member
+length 16
+====================
+\"...among us.\"
+====================
+…就在我们之间
+====================
+
+====================
+index 210
+offset 39104
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 211
+offset 39164
+name Captain
+length 23
+====================
+\"...who could it be?\"
+====================
+…谁啊、会是…
+====================
+
+====================
+index 212
+offset 39667
+name Captain
+length 26
+====================
+\"...Takafumi, you free?\"
+====================
+…鹰文、现在有空吗
+====================
+
+====================
+index 213
+offset 39709
+name NULL
+length 30
+====================
+Sorry, I'm repairing my shoes.
+====================
+抱歉、我正打算去买果汁。
+====================
+
+====================
+index 214
+offset 39790
+name Captain
+length 28
+====================
+\"...I'll do that for you.\"
+====================
+…抱歉、我正打算去买果汁
+====================
+
+====================
+index 215
+offset 39834
+name NULL
+length 51
+====================
+Eh? You're acting kind of creepy all of a sudden...
+====================
+诶？干什么啊突然、感觉好恶心…
+====================
+
+====================
+index 216
+offset 39936
+name Captain
+length 59
+====================
+\"...Kanako is going shopping. She wants you to help her.\"
+====================
+…河南子要出去买东西、想让你帮忙
+====================
+
+====================
+index 217
+offset 40011
+name NULL
+length 3
+====================
+Me?
+====================
+让我？
+====================
+
+====================
+index 218
+offset 40065
+name Captain
+length 12
+====================
+\"...yeah.\"
+====================
+…是啊
+====================
+
+====================
+index 219
+offset 40538
+name Kanako
+length 78
+====================
+\"...oh, Takafumi, good timing. I'm about to go shopping. Would you help me?\"
+====================
+…哦、鹰文、来得正好、我要出去买东西、你能帮帮我吗
+====================
+
+====================
+index 220
+offset 40632
+name NULL
+length 24
+====================
+Well, you called for me.
+====================
+不是河南子叫我来的吗。
+====================
+
+====================
+index 221
+offset 40706
+name Kanako
+length 10
+====================
+\"...eh?\"
+====================
+…诶？
+====================
+
+====================
+index 222
+offset 40732
+name NULL
+length 3
+====================
+Eh?
+====================
+诶？
+====================
+
+====================
+index 223
+offset 41617
+name Captain
+length 36
+====================
+\"...I'll give you a hint, Takkun.\"
+====================
+…给你个提示、小鹰
+====================
+
+====================
+index 224
+offset 41669
+name NULL
+length 7
+====================
+Takkun?
+====================
+别叫我小鹰…
+====================
+
+====================
+index 225
+offset 41727
+name Captain
+length 24
+====================
+\"The one she likes...\"
+====================
+他啊…
+====================
+
+====================
+index 226
+offset 41802
+name Captain
+length 41
+====================
+\"...is the most thickheaded one of us.\"
+====================
+…是我们里面最迟钝的家伙
+====================
+
+====================
+index 227
+offset 41871
+name Member
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 228
+offset 41900
+name NULL
+length 53
+====================
+Uwah... what is everyone looking at? This is scary...
+====================
+哇…大家干嘛这种眼神…好可怕啊…
+====================
+
+====================
+index 229
+offset 42004
+name Captain
+length 24
+====================
+\"Kanako is waiting...\"
+====================
+河南子在等着呢…
+====================
+
+====================
+index 230
+offset 42079
+name Captain
+length 29
+====================
+\"...for our ace of hearts.\"
+====================
+…恋爱的王牌啊
+====================
+
+====================
+index 231
+offset 42158
+name Member
+length 52
+====================
+\"...Captain, you basically gave him the answer...\"
+====================
+…队长、你都已经把答案说出来了…
+====================
+
+====================
+index 232
+offset 43057
+name NULL
+length 14
+====================
+Hey, Kanako...
+====================
+那个、河南子…
+====================
+
+====================
+index 233
+offset 43121
+name Kanako
+length 10
+====================
+\"...hm?\"
+====================
+…嗯？
+====================
+
+====================
+index 234
+offset 43147
+name NULL
+length 21
+====================
+Well... Kanako-san...
+====================
+不对…河南子小姐…
+====================
+
+====================
+index 235
+offset 43218
+name Kanako
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 236
+offset 43247
+name NULL
+length 36
+====================
+Kanako-san, I am in love with you...
+====================
+我喜欢你…
+====================
+
+====================
+index 237
+offset 43299
+name NULL
+length 35
+====================
+Would you please go out with me...?
+====================
+你可以和我交往吗…
+====================
+
+====================
+index 238
+offset 43384
+name Kanako
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 239
+offset 43852
+name Kanako
+length 12
+====================
+\"...sure.\"
+====================
+…好啊
+====================
+
+====================
+index 240
+offset 43880
+name NULL
+length 10
+====================
+Awesome...
+====================
+成了…
+====================
+
+====================
+index 241
+offset 43971
+name Voice
+length 24
+====================
+\"...hell yeaaaaaaaah!\"
+====================
+…好耶ーーーー！
+====================
+
+====================
+index 242
+offset 44011
+name NULL
+length 5
+====================
+Woah!
+====================
+哇啊！
+====================
+
+====================
+index 243
+offset 44875
+name NULL
+length 36
+====================
+That was my best time this semester!
+====================
+这一刻真是最棒的时刻啊！
+====================
+
+====================
+index 244
+offset 44927
+name NULL
+length 15
+====================
+Sensei, Sensei!
+====================
+老师、老师！
+====================
+
+====================
+index 245
+offset 45397
+name Sensei
+length 31
+====================
+\"...all right, you did well.\"
+====================
+…好了、你做得不错。
+====================
+
+====================
+index 246
+offset 45444
+name NULL
+length 33
+====================
+Now will you let me have Kanako?!
+====================
+那也就是说、你愿意把河南子托付给我了吗！
+====================
+
+====================
+index 247
+offset 45527
+name Sensei
+length 44
+====================
+\"...hahaha, it's still too soon for that.\"
+====================
+…哈哈哈、那还太早了。
+====================
+
+====================
+index 248
+offset 45621
+name Sensei
+length 69
+====================
+\"...you've still got a ways to go before I can give Kanako to you.\"
+====================
+…要我把河南子交给你、你还差得远呢。
+====================
+
+====================
+index 249
+offset 45706
+name NULL
+length 31
+====================
+Then I should run, even faster.
+====================
+只要我跑得更快就好了吧。
+====================
+
+====================
+index 250
+offset 45753
+name NULL
+length 17
+====================
+I'm going to run!
+====================
+我会努力去跑的！
+====================
+
+====================
+index 251
+offset 46674
+name Takafumi
+length 9
+====================
+\"Ah...\"
+====================
+啊…
+====================
+
+====================
+index 252
+offset 47160
+name Takafumi
+length 15
+====================
+\"Uwaaaaaaah!\"
+====================
+呜啊啊啊啊啊啊ーーーーー！
+====================
+
+====================
+index 253
+offset 48120
+name Takafumi
+length 17
+====================
+\"Haa... haa...\"
+====================
+哈啊…哈啊…
+====================
+
+====================
+index 254
+offset 48460
+name Tomoyo
+length 49
+====================
+\"All right, you gave it a good shot, Takafumi.\"
+====================
+很好、你很努力呢、鹰文
+====================
+
+====================
+index 255
+offset 48831
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 256
+offset 48894
+name Tomoya
+length 38
+====================
+\"That was an incredible last burst.\"
+====================
+非常棒的最后冲刺呢
+====================
+
+====================
+index 257
+offset 48984
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 258
+offset 49049
+name Takafumi
+length 11
+====================
+\"...I...\"
+====================
+…我…
+====================
+
+====================
+index 259
+offset 49112
+name Takafumi
+length 11
+====================
+\"...won?\"
+====================
+…取得优胜了吗…？
+====================
+
+====================
+index 260
+offset 49446
+name Tomoyo
+length 9
+====================
+\"No...\"
+====================
+不…
+====================
+
+====================
+index 261
+offset 49507
+name Takafumi
+length 14
+====================
+\"I lost...?\"
+====================
+输了吗…？
+====================
+
+====================
+index 262
+offset 49573
+name Takafumi
+length 25
+====================
+\"I wasn't in first...?\"
+====================
+不是第一名吗…？
+====================
+
+====================
+index 263
+offset 49648
+name Tomoyo
+length 11
+====================
+\"Yeah...\"
+====================
+嗯…
+====================
+
+====================
+index 264
+offset 49711
+name Takafumi
+length 24
+====================
+\"What place was I...?\"
+====================
+第几名…？
+====================
+
+====================
+index 265
+offset 50058
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 266
+offset 50121
+name Tomoyo
+length 11
+====================
+\"Well...\"
+====================
+嗯…
+====================
+
+====================
+index 267
+offset 50452
+name Tomoya
+length 9
+====================
+\"31st.\"
+====================
+３１名
+====================
+
+====================
+index 268
+offset 50513
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 269
+offset 50578
+name Takafumi
+length 10
+====================
+\"Wh-...\"
+====================
+算…
+====================
+
+====================
+index 270
+offset 50640
+name Takafumi
+length 20
+====================
+\"What the heck...\"
+====================
+算什么嘛、这成绩…
+====================
+
+====================
+index 271
+offset 50712
+name Takafumi
+length 45
+====================
+\"I've never heard of such a bad ranking...\"
+====================
+这么差的成绩、简直闻所未闻…
+====================
+
+====================
+index 272
+offset 50809
+name Takafumi
+length 11
+====================
+\"Haha...\"
+====================
+哈哈…
+====================
+
+====================
+index 273
+offset 51284
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 274
+offset 51309
+name NULL
+length 6
+====================
+......
+====================
+………
+====================
+
+====================
+index 275
+offset 51331
+name NULL
+length 3
+====================
+...
+====================
+………
+====================
+
+====================
+index 276
+offset 51813
+name NULL
+length 15
+====================
+Sensei is here.
+====================
+在和过去一样的梦中。
+====================
+
+====================
+index 277
+offset 51844
+name NULL
+length 30
+====================
+It's the same dream as always.
+====================
+但是不同的是、这次我已经没有任何话好说了。
+====================
+
+====================
+index 278
+offset 51890
+name NULL
+length 60
+====================
+The only difference is that this time, I can't say anything.
+====================
+唯一不同的是、这次我什么话都说不出来。
+====================
+
+====================
+index 279
+offset 51966
+name NULL
+length 21
+====================
+Because I didn't win.
+====================
+因为我没有取胜。
+====================
+
+====================
+index 280
+offset 52006
+name NULL
+length 30
+====================
+Even so, I'll report to him...
+====================
+即使如此、我也得向他汇报…。
+====================
+
+====================
+index 281
+offset 52493
+name Takafumi
+length 13
+====================
+\"Sensei...\"
+====================
+老师…
+====================
+
+====================
+index 282
+offset 52522
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 283
+offset 52547
+name NULL
+length 21
+====================
+He's silent as usual.
+====================
+他像往常一样沉默着。
+====================
+
+====================
+index 284
+offset 52620
+name Takafumi
+length 14
+====================
+\"...Sensei.\"
+====================
+…老师
+====================
+
+====================
+index 285
+offset 52686
+name Takafumi
+length 12
+====================
+\"I ran...\"
+====================
+我、跑了哦…
+====================
+
+====================
+index 286
+offset 52750
+name Takafumi
+length 16
+====================
+\"I did run...\"
+====================
+跑了…
+====================
+
+====================
+index 287
+offset 52818
+name Takafumi
+length 10
+====================
+\"But...\"
+====================
+但是…
+====================
+
+====================
+index 288
+offset 52880
+name Takafumi
+length 21
+====================
+\"It was no good...\"
+====================
+却完全不行呢…
+====================
+
+====================
+index 289
+offset 52920
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 290
+offset 52948
+name NULL
+length 24
+====================
+That's all I tell him...
+====================
+我只说了这些…
+====================
+
+====================
+index 291
+offset 52988
+name NULL
+length 42
+====================
+But there's still something I want to say.
+====================
+但是、我还有想说的话。
+====================
+
+====================
+index 292
+offset 53046
+name NULL
+length 74
+====================
+I want to tell him that this felt different than when I used to run alone.
+====================
+我想告诉他、这和从前独自奔跑时的感觉不一样。
+====================
+
+====================
+index 293
+offset 53175
+name Takafumi
+length 21
+====================
+\"It was no good...\"
+====================
+虽然完全不象样…
+====================
+
+====================
+index 294
+offset 53248
+name Takafumi
+length 8
+====================
+\"But...
+====================
+「不过…我跑得很开心
+====================
+
+====================
+index 295
+offset 53291
+name NULL
+length 14
+====================
+ it was fun.\"
+====================
+。」
+====================
+
+====================
+index 296
+offset 53324
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 297
+offset 53388
+name Takafumi
+length 39
+====================
+\"I have friends around me now too...\"
+====================
+现在、我的身边也有很多的伙伴…
+====================
+
+====================
+index 298
+offset 53479
+name Takafumi
+length 87
+====================
+\"They're always acting ridiculous like the track and field team that you gathered...\"
+====================
+他们、也都是像老师聚集的田径队的那些人一样、每天做着些蠢事…
+====================
+
+====================
+index 299
+offset 53618
+name Takafumi
+length 33
+====================
+\"It was just like back then...\"
+====================
+真的很像那个时候…
+====================
+
+====================
+index 300
+offset 53703
+name Takafumi
+length 45
+====================
+\"The most fun, happiest time of my life...\"
+====================
+最开心、最幸福的时光…
+====================
+
+====================
+index 301
+offset 53800
+name Takafumi
+length 66
+====================
+\"Everyone's here, and we act stupid and get excited together...\"
+====================
+大家聚在一起、一起做蠢事、一起瞎胡闹…
+====================
+
+====================
+index 302
+offset 53918
+name Takafumi
+length 35
+====================
+\"And she is always by my side...\"
+====================
+而且、她一直都在我的身边…
+====================
+
+====================
+index 303
+offset 53972
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 304
+offset 54036
+name Takafumi
+length 13
+====================
+\"Sensei...\"
+====================
+老师…
+====================
+
+====================
+index 305
+offset 54068
+name NULL
+length 48
+====================
+My mouth moves on its own. I can't stop talking.
+====================
+嘴唇不停颤动着。已经停止不了继续说话的冲动了。
+====================
+
+====================
+index 306
+offset 54171
+name Takafumi
+length 8
+====================
+\"I...\"
+====================
+我…
+====================
+
+====================
+index 307
+offset 54231
+name Takafumi
+length 13
+====================
+\"Sensei...\"
+====================
+对老师…
+====================
+
+====================
+index 308
+offset 54296
+name Takafumi
+length 43
+====================
+\"And that shitty track and field team...\"
+====================
+还有那个弱到掉渣的田径队…
+====================
+
+====================
+index 309
+offset 54391
+name Takafumi
+length 17
+====================
+\"And Kanako...\"
+====================
+以及河南子…
+====================
+
+====================
+index 310
+offset 54460
+name Takafumi
+length 22
+====================
+\"I loved you all...\"
+====================
+都非常喜欢…
+====================
+
+====================
+index 311
+offset 54534
+name Takafumi
+length 30
+====================
+\"I loved you all so much...\"
+====================
+非常非常喜欢…
+====================
+
+====================
+index 312
+offset 54583
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 313
+offset 54647
+name Takafumi
+length 11
+====================
+\"Also...\"
+====================
+还有…
+====================
+
+====================
+index 314
+offset 54677
+name NULL
+length 34
+====================
+I have to say it. What comes next.
+====================
+不能再说下去了。
+====================
+
+====================
+index 315
+offset 54727
+name NULL
+length 19
+====================
+Even though I know.
+====================
+我、深切地知道这一点。
+====================
+
+====================
+index 316
+offset 54762
+name NULL
+length 33
+====================
+What's waiting for me after that.
+====================
+在这之前将会有怎样的结果。
+====================
+
+====================
+index 317
+offset 54811
+name NULL
+length 19
+====================
+Those bitter words.
+====================
+以及怎样辛酸的话语在等待着。
+====================
+
+====================
+index 318
+offset 54846
+name NULL
+length 47
+====================
+The words that have made me suffer for so long.
+====================
+一直折磨着我的话语。
+====================
+
+====================
+index 319
+offset 54909
+name NULL
+length 8
+====================
+But I...
+====================
+但是、我…
+====================
+
+====================
+index 320
+offset 54972
+name Takafumi
+length 15
+====================
+\"Even now...\"
+====================
+现在我也…
+====================
+
+====================
+index 321
+offset 55064
+name Takafumi
+length 20
+====================
+\"I love Kanako...\"
+====================
+喜欢着河南子…
+====================
+
+====================
+index 322
+offset 55136
+name Takafumi
+length 23
+====================
+\"I love her so much.\"
+====================
+非常喜欢
+====================
+
+====================
+index 323
+offset 55178
+name NULL
+length 10
+====================
+I said it.
+====================
+说出来了。
+====================
+
+====================
+index 324
+offset 55207
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 325
+offset 55232
+name NULL
+length 28
+====================
+Sensei's lips are trembling.
+====================
+老师的嘴唇在发抖。
+====================
+
+====================
+index 326
+offset 55279
+name NULL
+length 12
+====================
+His mouth...
+====================
+从他的嘴里…
+====================
+
+====================
+index 327
+offset 56678
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 328
+offset 56743
+name Takafumi
+length 10
+====================
+\"Eh...?\"
+====================
+诶…
+====================
+
+====================
+index 329
+offset 56803
+name Kanako
+length 18
+====================
+\"I forgive you.\"
+====================
+原谅你
+====================
+
+====================
+index 330
+offset 56873
+name Takafumi
+length 13
+====================
+\"Kanako...\"
+====================
+河南子…
+====================
+
+====================
+index 331
+offset 56936
+name Kanako
+length 18
+====================
+\"I forgive you.\"
+====================
+我原谅你
+====================
+
+====================
+index 332
+offset 57004
+name Kanako
+length 28
+====================
+\"I'm forgiving you, so...\"
+====================
+我原谅你了…
+====================
+
+====================
+index 333
+offset 57487
+name Kanako
+length 41
+====================
+\"If you're suffering in your dreams...\"
+====================
+如果你被梦折磨着的话…
+====================
+
+====================
+index 334
+offset 57578
+name Kanako
+length 49
+====================
+\"I'll be with you, like this, forgiving you...\"
+====================
+我就会像这样、在你的身边、原谅你的…
+====================
+
+====================
+index 335
+offset 57677
+name Kanako
+length 28
+====================
+\"I'll keep forgiving you.\"
+====================
+会一直原谅着你
+====================
+
+====================
+index 336
+offset 57755
+name Kanako
+length 23
+====================
+\"So it's okay now...\"
+====================
+所以、够了…
+====================
+
+====================
+index 337
+offset 57828
+name Kanako
+length 68
+====================
+\"That's enough... you don't need to run in your dreams anymore...\"
+====================
+已经不需要…再在梦中奔跑了…
+====================
+
+====================
+index 338
+offset 57948
+name Takafumi
+length 14
+====================
+\"I don't...\"
+====================
+即使…
+====================
+
+====================
+index 339
+offset 58014
+name Takafumi
+length 30
+====================
+\"...need to run anymore...?\"
+====================
+…不奔跑也没关系了吗…？
+====================
+
+====================
+index 340
+offset 58094
+name Kanako
+length 26
+====================
+\"Yeah, it's okay now...\"
+====================
+嗯、已经可以了…
+====================
+
+====================
+index 341
+offset 58172
+name Takafumi
+length 27
+====================
+\"I... don't need to win?\"
+====================
+即使…不取胜也没关系吗？
+====================
+
+====================
+index 342
+offset 58249
+name Kanako
+length 26
+====================
+\"You don't need to win.\"
+====================
+没关系
+====================
+
+====================
+index 343
+offset 58327
+name Takafumi
+length 53
+====================
+\"I... don't need to be scared to dream anymore...?\"
+====================
+即使…不再害怕梦境也可以吗…？
+====================
+
+====================
+index 344
+offset 58430
+name Kanako
+length 48
+====================
+\"Yeah, you don't need to be scared anymore...\"
+====================
+嗯、你已经不用再害怕了…
+====================
+
+====================
+index 345
+offset 58528
+name Kanako
+length 36
+====================
+\"I forgive you... for everything.\"
+====================
+原谅…你的一切
+====================
+
+====================
+index 346
+offset 58614
+name Kanako
+length 24
+====================
+\"I forgive you, so...\"
+====================
+我会原谅一切的…
+====================
+
+====================
+index 347
+offset 58690
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 348
+offset 58753
+name Kanako
+length 26
+====================
+\"So you can rest now...\"
+====================
+所以、你可以休息了…
+====================
+
+====================
+index 349
+offset 58829
+name Kanako
+length 24
+====================
+\"Even in your dreams.\"
+====================
+在梦中休息了
+====================
+
+====================
+index 350
+offset 58903
+name Kanako
+length 17
+====================
+\"...good work.\"
+====================
+…辛苦你了
+====================
+
+====================
+index 351
+offset 58972
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 352
+offset 59037
+name Takafumi
+length 11
+====================
+\"Uwah...\"
+====================
+呜…
+====================
+
+====================
+index 353
+offset 59523
+name Takafumi
+length 19
+====================
+\"Uwaaaaaaaaah...\"
+====================
+呜啊啊啊啊ーーーー…
+====================
+
+====================
+index 354
+offset 59564
+name NULL
+length 15
+====================
+Takafumi cries.
+====================
+鹰文哭了。
+====================
+
+====================
+index 355
+offset 59595
+name NULL
+length 18
+====================
+On Kanako's chest.
+====================
+在河南子的怀里。
+====================
+
+====================
+index 356
+offset 59629
+name NULL
+length 36
+====================
+He keeps calling his teacher's name.
+====================
+一边叫着恩师的名字一边哭着。
+====================
+
+====================
+index 357
+offset 60105
+name NULL
+length 88
+====================
+After that, Takafumi formally asks Kanako, in front of us, to resume their relationship.
+====================
+之后、鹰文在我们的面前、又一次正式向河南子提出了交往的要求。
+====================
+
+====================
+index 358
+offset 60209
+name NULL
+length 141
+====================
+Up until now, Kanako always used foul language, but when he does this, for once she looks embarrassed and just nods and says, \"Yeah, sure.\"
+====================
+平时一直对他恶言相向的河南子、在这时候也害羞地低着头、轻声地说着『嗯、可以』。
+====================
+
+====================
+index 359
+offset 60366
+name NULL
+length 44
+====================
+Her cheeks flush. She's so cute I'm jealous.
+====================
+那面红耳赤的样子、可爱到甚至让人嫉妒。
+====================
+
+====================
+index 360
+offset 60426
+name NULL
+length 68
+====================
+It's pretty irritating, so I throw myself at Takafumi as I knee him.
+====================
+因为这场面实在是太令人窒息了、所以我一边踢着鹰文、一边朝他扑去。
+====================
+
+====================
+index 361
+offset 60510
+name NULL
+length 56
+====================
+As if overcome with emotion, Tomoyo embraces Kanako too.
+====================
+智代也非常感动地抱住了河南子。
+====================
+
+====================
+index 362
+offset 60582
+name NULL
+length 64
+====================
+And like that, Takafumi, who had been running for three years...
+====================
+就这样、三年里不停地跑着的鹰文…
+====================
+
+====================
+index 363
+offset 60662
+name NULL
+length 24
+====================
+Finally stopped running.
+====================
+终于跑完了。
+====================
+
+====================
+index 364
+offset 63115
+name NULL
+length 62
+====================
+The tapping of a kitchen knife cutting comes from the kitchen.
+====================
+从厨房传来了切菜的声音。
+====================
+
+====================
+index 365
+offset 63193
+name NULL
+length 31
+====================
+It's the only sound I can hear.
+====================
+能听到的只有这些。
+====================
+
+====================
+index 366
+offset 63274
+name Tomoya
+length 18
+====================
+\"...it's quiet.\"
+====================
+…好安静啊
+====================
+
+====================
+index 367
+offset 63308
+name NULL
+length 68
+====================
+In the room, it's just me, Tomo, and Tomoyo, who's preparing dinner.
+====================
+房间里、只剩下准备着晚饭的智代、小智和我。
+====================
+
+====================
+index 368
+offset 63392
+name NULL
+length 37
+====================
+Kanako has gone back to her own home.
+====================
+河南子回自己家了。
+====================
+
+====================
+index 369
+offset 63445
+name NULL
+length 37
+====================
+So that she can talk with her mother.
+====================
+为了和母亲好好谈谈。
+====================
+
+====================
+index 370
+offset 63498
+name NULL
+length 23
+====================
+Takafumi went with her.
+====================
+鹰文也跟着去了。
+====================
+
+====================
+index 371
+offset 63569
+name Tomo
+length 8
+====================
+\"Ngh.\"
+====================
+嗯ー
+====================
+
+====================
+index 372
+offset 63593
+name NULL
+length 32
+====================
+Tomo stretches like she's tired.
+====================
+小智伸了个懒腰。
+====================
+
+====================
+index 373
+offset 63641
+name NULL
+length 16
+====================
+She seems bored.
+====================
+看起来好像有点无聊。
+====================
+
+====================
+index 374
+offset 63673
+name NULL
+length 50
+====================
+It used to be so lively, so that's to be expected.
+====================
+毕竟这里曾经是那么的热闹呢。
+====================

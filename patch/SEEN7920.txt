@@ -1,0 +1,750 @@
+type seen7920
+count 68
+
+====================
+index 1
+offset 1862
+name Takafumi
+length 49
+====================
+\"This is the battlefield, an underground maze.\"
+====================
+这里就是战场、地下的迷宫。
+====================
+
+====================
+index 2
+offset 1963
+name Takafumi
+length 66
+====================
+\"What's the matter? Are you shaking? Are you terrified by this?\"
+====================
+怎么了？你在发抖吗？被这里吓到了吗？
+====================
+
+====================
+index 3
+offset 2079
+name Tomoya
+length 50
+====================
+\"Nobody's scared, so just hurry up and explain.\"
+====================
+没人害怕、你就快点说明吧。
+====================
+
+====================
+index 4
+offset 2181
+name Takafumi
+length 151
+====================
+\"The battle takes place in this dark, underground arena. Once the battle heats up, you won't be able to relay commands to your characters very well.\"
+====================
+战斗会在这片黑暗的地下场地上进行。一旦战斗激烈起来、你就无法很好地向角色下达指令了。
+====================
+
+====================
+index 5
+offset 2384
+name Takafumi
+length 92
+====================
+\"Because of this, you must decide their actions before you start each floor in this game.\"
+====================
+因此、在这个游戏里、你必须每层开始前就先决定好他们的行动。
+====================
+
+====================
+index 6
+offset 2528
+name Takafumi
+length 77
+====================
+\"Once the battle starts, you can't do anything about combat on that floor.\"
+====================
+战斗一旦开始、你就无法干预那一层的战斗了。
+====================
+
+====================
+index 7
+offset 2657
+name Takafumi
+length 71
+====================
+\"You can only watch your characters enacting the plans you laid out.\"
+====================
+你只能看着你的角色执行你事先定好的计划。
+====================
+
+====================
+index 8
+offset 2780
+name Takafumi
+length 80
+====================
+\"Unfortunately, they're not that bright, so you can only set simple commands.\"
+====================
+可惜他们都不太聪明、所以只能设定简单的指令。
+====================
+
+====================
+index 9
+offset 2912
+name Takafumi
+length 62
+====================
+\"You can't even choose which enemies you want to challenge.\"
+====================
+连要挑战哪个敌人都不能选。
+====================
+
+====================
+index 10
+offset 3026
+name Takafumi
+length 142
+====================
+\"The creator, Takafumi, would like me to emphasize that this is definitely not because he was lazy, but instead is how it's supposed to be.\"
+====================
+创作者鹰文希望我强调、这绝对不是因为他偷懒、而是本来就该这样。
+====================
+
+====================
+index 11
+offset 3218
+name Tomoya
+length 30
+====================
+\"Enough with the charade...\"
+====================
+别装模作样了…
+====================
+
+====================
+index 12
+offset 3300
+name Takafumi
+length 160
+====================
+\"However, since you have less control, if the skills you set beforehand come in handy and lead to your victory, you'll feel a greater amount of satisfaction.\"
+====================
+不过、正因为你能操控的部分变少了、如果事先设定的技能正好派上用场并带来胜利、那份成就感也会更强。
+====================
+
+====================
+index 13
+offset 3512
+name Takafumi
+length 53
+====================
+\"This will also lead to unexpected drama at times.\"
+====================
+有时还会因此出现意想不到的戏剧性场面。
+====================
+
+====================
+index 14
+offset 3617
+name Takafumi
+length 59
+====================
+\"That's something you can expect... and look forward to.\"
+====================
+这一点你可以期待…并且好好期待。
+====================
+
+====================
+index 15
+offset 3726
+name Tomoya
+length 50
+====================
+\"You're being quite forceful with your users...\"
+====================
+你对玩家还真强势啊…
+====================
+
+====================
+index 16
+offset 3843
+name Takafumi
+length 67
+====================
+\"Now, let's move onto an overview for you beginners. Click on the 
+====================
+那么、接下来为新手做个说明。请点击
+====================
+
+====================
+index 17
+offset 3912
+name NULL
+length 5
+====================
+Help 
+====================
+帮助
+====================
+
+====================
+index 18
+offset 3919
+name NULL
+length 53
+====================
+button and read the online manual for more details.\"
+====================
+按钮、阅读在线手册了解详情。
+====================
+
+====================
+index 19
+offset 4030
+name Takafumi
+length 50
+====================
+\"First off, the positioning of your characters.\"
+====================
+首先、是角色的站位。
+====================
+
+====================
+index 20
+offset 4147
+name Takafumi
+length 83
+====================
+\"If you click on an enemy on the screen, you can see his movement range in blue.\"
+====================
+点击画面上的敌人、就能用蓝色看到他的移动范围。
+====================
+
+====================
+index 21
+offset 4288
+name Takafumi
+length 117
+====================
+\"The bar on the top right, where there are a bunch of characters lined up, shows the characters' order of actions.\"
+====================
+右上角那一排角色排列着的地方、表示的是角色的行动顺序。
+====================
+
+====================
+index 22
+offset 4457
+name Takafumi
+length 109
+====================
+\"You should try to position your characters to attack your enemies preemptively based on this information.\"
+====================
+你应该根据这些信息、试着把角色配置到能抢先攻击敌人的位置。
+====================
+
+====================
+index 23
+offset 4618
+name Takafumi
+length 80
+====================
+\"Using 'Standby' on your turn is useful for drawing your enemies towards you.\"
+====================
+在你回合使用『待机』、对于引诱敌人靠近很有效。
+====================
+
+====================
+index 24
+offset 4750
+name Takafumi
+length 111
+====================
+\"When it comes to skills... everybody knows one, but you should be able to win without using them this time.\"
+====================
+至于技能…每个人都学会了一个、不过这次就算不用应该也能赢。
+====================
+
+====================
+index 25
+offset 4913
+name Takafumi
+length 23
+====================
+\"You should leave the 
+====================
+你可以把
+====================
+
+====================
+index 26
+offset 4938
+name NULL
+length 4
+====================
+LAST
+====================
+最后
+====================
+
+====================
+index 28
+offset 4947
+name NULL
+length 7
+====================
+ACTION 
+====================
+行动
+====================
+
+====================
+index 29
+offset 4956
+name NULL
+length 26
+====================
+as the default 'Attack'.\"
+====================
+保持默认的『攻击』。
+====================
+
+====================
+index 30
+offset 5034
+name Takafumi
+length 114
+====================
+\"As for equipment and items, since you don't have anything yet, don't worry about it and choose 'Start battle'.\"
+====================
+至于装备和道具、你现在什么都没有、所以不用在意、直接选『开始战斗』吧。
+====================
+
+====================
+index 31
+offset 5203
+name Takafumi
+length 89
+====================
+\"Even if your characters die, they will be resurrected with 1 health after the battle.\"
+====================
+就算你的角色死了、战斗结束后也会以１点生命复活。
+====================
+
+====================
+index 32
+offset 5344
+name Takafumi
+length 149
+====================
+\"There aren't any penalties, but you won't earn any experience points either. Don't let one of your characters' level fall behind because of this.\"
+====================
+不会有任何惩罚、但也拿不到经验值。别因为这个让某个角色的等级落下了。
+====================
+
+====================
+index 33
+offset 5545
+name Takafumi
+length 37
+====================
+\"And that's all for this tutorial.\"
+====================
+教程就到这里。
+====================
+
+====================
+index 34
+offset 5634
+name Takafumi
+length 81
+====================
+\"Now, go forth, brave souls, and fulfill the destiny given to you by Takafumi!\"
+====================
+那么、勇敢的人们、去吧、去完成鹰文赋予你们的使命！
+====================
+
+====================
+index 35
+offset 5887
+name Takafumi
+length 11
+====================
+\"Vnnnng.\"
+====================
+嗡——。
+====================
+
+====================
+index 36
+offset 5950
+name Takafumi
+length 12
+====================
+\"Hold on.\"
+====================
+等一下。
+====================
+
+====================
+index 37
+offset 6012
+name Tomoya
+length 52
+====================
+\"This guy just made a sound effect for himself...\"
+====================
+这家伙刚才自己给自己配音效了…
+====================
+
+====================
+index 38
+offset 6116
+name Takafumi
+length 56
+====================
+\"They have a Golem waiting for you every five floors.\"
+====================
+每五层就会有魔像在等着你们。
+====================
+
+====================
+index 39
+offset 6224
+name Takafumi
+length 44
+====================
+\"They're there to slay invaders like you.\"
+====================
+它们是用来杀掉像你们这种入侵者的。
+====================
+
+====================
+index 40
+offset 6320
+name Takafumi
+length 98
+====================
+\"Of course, they were also made with almond tofu pudding, but don't look down on them for that.\"
+====================
+当然、它们也是用杏仁豆腐做的、不过别因此小看它们。
+====================
+
+====================
+index 41
+offset 6470
+name Takafumi
+length 102
+====================
+\"They're actually bosses. No, to be exact, mid-bosses. Oh, I let out the existence of a final boss!\"
+====================
+它们其实是头目。不、准确说是中头目。啊、我把最终头目的存在说漏了！
+====================
+
+====================
+index 42
+offset 6622
+name Tomoya
+length 17
+====================
+\"I don't care.\"
+====================
+我不在乎。
+====================
+
+====================
+index 43
+offset 6691
+name Takafumi
+length 73
+====================
+\"Anyway, they're hard to deal with. Don't hesitate to use your skills.\"
+====================
+总之、它们很难对付。用技能的时候别犹豫。
+====================
+
+====================
+index 44
+offset 6816
+name Takafumi
+length 81
+====================
+\"Now, go forth, brave souls, and fulfill the destiny given to you by Takafumi!\"
+====================
+那么、勇敢的人们、去吧、去完成鹰文赋予你们的使命！
+====================
+
+====================
+index 45
+offset 7069
+name Takafumi
+length 39
+====================
+\"Hold on! What's that thing in red?!\"
+====================
+等一下！那个红红的东西是什么？！
+====================
+
+====================
+index 46
+offset 7158
+name Tomoya
+length 37
+====================
+\"How about you explain that to me?\"
+====================
+那你倒是给我说明一下啊？
+====================
+
+====================
+index 47
+offset 7247
+name Takafumi
+length 27
+====================
+\"Yeah, I guess I should.\"
+====================
+嗯、是该说明一下。
+====================
+
+====================
+index 48
+offset 7326
+name Takafumi
+length 21
+====================
+\"Whoa, it's red...\"
+====================
+哇、好红啊…
+====================
+
+====================
+index 49
+offset 7399
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 50
+offset 7462
+name Tomoya
+length 55
+====================
+\"Stop looking at it and get on with the explanation.\"
+====================
+别光看着、快继续说明。
+====================
+
+====================
+index 51
+offset 7569
+name Takafumi
+length 68
+====================
+\"Yeah, sorry. That's a red beastman. Its attacks aren't half bad!\"
+====================
+嗯、抱歉。那是红色的兽人。它的攻击力可不弱！
+====================
+
+====================
+index 52
+offset 7687
+name Tomoya
+length 41
+====================
+\"That sounds like a pain to deal with.\"
+====================
+听起来就很麻烦。
+====================
+
+====================
+index 53
+offset 7780
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 54
+offset 7845
+name Takafumi
+length 24
+====================
+\"Besides, it's red...\"
+====================
+而且、还是红色的…
+====================
+
+====================
+index 55
+offset 7919
+name Tomoya
+length 44
+====================
+\"How long do you have to keep that up...?\"
+====================
+你到底要这样到什么时候…？
+====================
+
+====================
+index 56
+offset 8135
+name Takafumi
+length 27
+====================
+\"Whoa... this is blue...\"
+====================
+哇…这个是蓝色的…
+====================
+
+====================
+index 57
+offset 8212
+name Tomoya
+length 12
+====================
+\"What is?\"
+====================
+什么？
+====================
+
+====================
+index 58
+offset 8276
+name Takafumi
+length 61
+====================
+\"Look, there's a blue beastman. This isn't looking good...\"
+====================
+你看、有个蓝色的兽人。这可不太妙啊…
+====================
+
+====================
+index 59
+offset 8387
+name Tomoya
+length 65
+====================
+\"What's wrong with that? What's special about these blue ones?\"
+====================
+有什么问题？这些蓝色的有什么特别？
+====================
+
+====================
+index 60
+offset 8504
+name Takafumi
+length 81
+====================
+\"The blue ones are dangerous. Put those together, and you get 'bluangerous'...\"
+====================
+蓝色的很危险。两个凑一起、就成了『蓝危险』…
+====================
+
+====================
+index 61
+offset 8635
+name Tomoya
+length 28
+====================
+\"Hurry up and explain it!\"
+====================
+快点说明啊！
+====================
+
+====================
+index 62
+offset 8715
+name Takafumi
+length 61
+====================
+\"Crap. Looks like he'll snap if I don't explain it soon...\"
+====================
+糟了。再不说的话他好像要爆发了…
+====================
+
+====================
+index 63
+offset 8826
+name Tomoya
+length 19
+====================
+\"I already have!\"
+====================
+我已经爆发了！
+====================
+
+====================
+index 64
+offset 8897
+name Takafumi
+length 33
+====================
+\"The blue ones... let's see...\"
+====================
+蓝色的…我想想…
+====================
+
+====================
+index 65
+offset 8982
+name Takafumi
+length 68
+====================
+\"He may snap again if I stay quiet here... Let's give that a try.\"
+====================
+我要是继续沉默、他可能又要爆发…那就试试看吧。
+====================
+
+====================
+index 66
+offset 9080
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 67
+offset 9143
+name Tomoya
+length 17
+====================
+\"Don't try me!\"
+====================
+别试我啊！
+====================
+
+====================
+index 68
+offset 9212
+name Takafumi
+length 148
+====================
+\"Well, the blue ones have high agility, and they go after characters with low defense. They're a threat to you, but to be honest, you're scarier.\"
+====================
+好吧、蓝色的敏捷很高、专门盯着防御低的角色打。对你来说是个威胁、不过说实话、你更可怕。
+====================
+
+====================
+index 69
+offset 9410
+name Tomoya
+length 26
+====================
+\"Well, thanks for that!\"
+====================
+那还真是谢谢你啊！
+====================

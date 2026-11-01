@@ -1,0 +1,904 @@
+type seen803
+count 82
+
+====================
+index 1
+offset 266
+name NULL
+length 16
+====================
+August 3rd (Tue)
+====================
+８月３日（星期二）
+====================
+
+====================
+index 2
+offset 1208
+name Tomoya
+length 10
+====================
+\"...hm.\"
+====================
+…嗯
+====================
+
+====================
+index 3
+offset 1234
+name NULL
+length 92
+====================
+I find the rare object my boss brought in for repairs from another prefecture quite strange.
+====================
+眼前的这个是师傅从其他县拿来的很少见的待修理品、为了它我伤透了脑筋。
+====================
+
+====================
+index 4
+offset 1342
+name NULL
+length 41
+====================
+It's a gramophone from a few decades ago.
+====================
+那是一台几十年前的留声机。
+====================
+
+====================
+index 5
+offset 1399
+name NULL
+length 102
+====================
+Since the gears are jammed and I can't even wiggle them, I decide to dismantle it and clean the parts.
+====================
+因为齿轮啮合的问题而完全动不了了、所以我就先把它拆开了来进行清扫工作。
+====================
+
+====================
+index 6
+offset 1517
+name NULL
+length 131
+====================
+Following the instructions of a book I've borrowed from the library, I polish the gears with kerosene and clean out the old grease.
+====================
+我参考着从图书馆借来的书、将拆下来的齿轮浸在煤油里、把老化的润滑剂给弄了下来。
+====================
+
+====================
+index 7
+offset 1664
+name NULL
+length 134
+====================
+By the looks of it, the springs are in good shape, so all I have to do is add some grease to them before I reassemble the whole thing.
+====================
+因为发条还是完好的、所以只是重新上了润滑剂以后就重新组装了起来。
+====================
+
+====================
+index 8
+offset 1814
+name NULL
+length 81
+====================
+The structure itself is pretty simple, so I didn't have too much trouble with it.
+====================
+留声机本身的构造很简单、所以并不是很困难的事情。
+====================
+
+====================
+index 9
+offset 1911
+name NULL
+length 107
+====================
+After I reassemble the gramophone, I spin the lever to wind up the spring, and it starts spinning smoothly.
+====================
+组装完成以后、试着用摇柄上了下发条、然后它便完美地工作起来了。
+====================
+
+====================
+index 10
+offset 2034
+name NULL
+length 56
+====================
+Now it will probably warm someone's heart again someday.
+====================
+这样一来、又能让谁的心得到宽慰吧。
+====================
+
+====================
+index 11
+offset 2106
+name NULL
+length 71
+====================
+After all, music is one of those things that makes you appreciate life.
+====================
+听着音乐、我也感受到了、这也许就是我活着的意义啊。
+====================
+
+====================
+index 12
+offset 2193
+name NULL
+length 38
+====================
+Well, not that I listen to much music.
+====================
+虽然我平时不怎么听音乐的。
+====================
+
+====================
+index 13
+offset 3125
+name NULL
+length 42
+====================
+I notice something as I turn the doorknob.
+====================
+当我回家打开房门的时候注意到了。
+====================
+
+====================
+index 14
+offset 3183
+name NULL
+length 36
+====================
+There is an envelope in the mailbox.
+====================
+邮箱里有一个信封。
+====================
+
+====================
+index 15
+offset 3235
+name NULL
+length 59
+====================
+I take my hand off the doorknob, and pull the envelope out.
+====================
+我把那封信取了出来。
+====================
+
+====================
+index 16
+offset 3310
+name NULL
+length 23
+====================
+It's from Mishima Yuko.
+====================
+寄信人是三岛有子。
+====================
+
+====================
+index 17
+offset 3349
+name NULL
+length 11
+====================
+...Mishima.
+====================
+…三岛。
+====================
+
+====================
+index 18
+offset 3410
+name Tomoya
+length 8
+====================
+(...Oh.)
+====================
+（…啊）
+====================
+
+====================
+index 19
+offset 3434
+name NULL
+length 43
+====================
+I remember who she is after a split second.
+====================
+愣了一会儿之后、我想起了这个人。
+====================
+
+====================
+index 20
+offset 3493
+name NULL
+length 19
+====================
+It's Tomo's mother.
+====================
+她是小智的母亲。
+====================
+
+====================
+index 21
+offset 3528
+name NULL
+length 36
+====================
+I stand there and open the envelope.
+====================
+我站在那里、把信封拆开。
+====================
+
+====================
+index 22
+offset 3580
+name NULL
+length 55
+====================
+The paper is white and soft; it is written very neatly.
+====================
+在洁白柔软的信纸上、端正地写着一行行字。
+====================
+
+====================
+index 24
+offset 3780
+name NULL
+length 17
+====================
+Dear Okazaki-sama
+====================
+致冈崎先生
+====================
+
+====================
+index 25
+offset 3813
+name NULL
+length 6
+====================
+Hello,
+====================
+您好。
+====================
+
+====================
+index 26
+offset 3835
+name NULL
+length 12
+====================
+How are you?
+====================
+好久不见了、您过得还好吗？
+====================
+
+====================
+index 27
+offset 3863
+name NULL
+length 113
+====================
+I have been moving from place to place since the last time we met, and have finally found a place to settle down.
+====================
+自上次见面之后、我辗转搬了许多地方、如今总算找到了一处可以安顿下来的住处。
+====================
+
+====================
+index 28
+offset 3992
+name NULL
+length 105
+====================
+I can finally live my days in peace, the value of which cannot be understood until you have lost it once.
+====================
+我终于能平静地过日子了。这份安宁的价值、不曾经失去过一次的人大概是不会懂的吧。
+====================
+
+====================
+index 29
+offset 4127
+name NULL
+length 115
+====================
+Now, regarding the photographs of Tomo that you have generously agreed to provide, how have they been coming along?
+====================
+那么、关于您欣然答应要提供的小智的照片、后来进展得怎么样了？
+====================
+
+====================
+index 30
+offset 4258
+name NULL
+length 61
+====================
+I will be in town next Friday to take care of other business.
+====================
+在洁白的手感很好的信纸上、端正地用毛笔写着文字。
+====================
+
+====================
+index 31
+offset 4335
+name NULL
+length 116
+====================
+I know this may be out of your way, but could you please bring the photographs to the park where we met on that day?
+====================
+我知道这样会让您费事、不过能否请您把照片带到我们那天见面的那个公园来呢？
+====================
+
+====================
+index 32
+offset 4467
+name NULL
+length 80
+====================
+I realize this is selfish of me, but your kindness would be greatly appreciated.
+====================
+我也知道这是任性的请求、但若能得到您的好意、我将不尽感激。
+====================
+
+====================
+index 33
+offset 4563
+name NULL
+length 86
+====================
+Last but not least, I wish for your health and success. Yours sincerely, Mishima Yuko.
+====================
+最后、祝您身体健康、万事顺遂。　三岛有子　敬上
+====================
+
+====================
+index 34
+offset 4776
+name Tomoya
+length 48
+====================
+(I see... well, yeah... I did promise her that.)
+====================
+（是啊…没错…之前约定好了呢）
+====================
+
+====================
+index 35
+offset 4840
+name NULL
+length 66
+====================
+It feels like years have passed since the day I made that promise.
+====================
+约定的那一天感觉都好像是好几年前的事情了。
+====================
+
+====================
+index 36
+offset 4922
+name NULL
+length 39
+====================
+Tomo is already a part of our family...
+====================
+感觉小智已经成为了我们家的一员…
+====================
+
+====================
+index 37
+offset 4977
+name NULL
+length 58
+====================
+...and it feels like we have been living together forever.
+====================
+已经一起度过了那么多日子一般。
+====================
+
+====================
+index 38
+offset 5051
+name NULL
+length 41
+====================
+That's how long it's been since that day.
+====================
+感觉那一天就是那么遥远。
+====================
+
+====================
+index 39
+offset 5959
+name NULL
+length 88
+====================
+My ears are bombarded with sharp, high-pitched laughter as soon as I step into the room.
+====================
+一进到房间、就突然听到了一阵狂笑。
+====================
+
+====================
+index 40
+offset 6063
+name NULL
+length 49
+====================
+Did Tomoyo eat some weird mushrooms or something?
+====================
+智代吃了什么奇怪的蘑菇吗？
+====================
+
+====================
+index 41
+offset 6128
+name NULL
+length 25
+====================
+...Yeah, as if she would.
+====================
+…怎么可能。
+====================
+
+====================
+index 42
+offset 6476
+name Kanako
+length 36
+====================
+\"And he looks just like Takafumi!\"
+====================
+那个人真的和鹰文长得一模一样ー
+====================
+
+====================
+index 43
+offset 6528
+name NULL
+length 12
+====================
+It's Kanako.
+====================
+笑声的来源是河南子。
+====================
+
+====================
+index 44
+offset 6864
+name Takafumi
+length 35
+====================
+\"Do we really look that similar?\"
+====================
+真的那么像吗
+====================
+
+====================
+index 45
+offset 6915
+name NULL
+length 21
+====================
+Takafumi is here too.
+====================
+鹰文也在。
+====================
+
+====================
+index 46
+offset 7222
+name NULL
+length 52
+====================
+They're back, so of course it's so lively in here...
+====================
+他们都回来了吗、那还真是热闹啊…
+====================
+
+====================
+index 47
+offset 7324
+name Tomoya
+length 52
+====================
+\"Wait, hold on. Why're you back in my room again?\"
+====================
+喂、等等、为什么你又回到这里来了啊
+====================
+
+====================
+index 48
+offset 7698
+name Kanako
+length 21
+====================
+\"Oh, welcome home.\"
+====================
+啊、你回来啦ー
+====================
+
+====================
+index 49
+offset 7769
+name Tomoya
+length 65
+====================
+\"Didn't you go home? Why did you come back here with Takafumi?\"
+====================
+你不是已经回去了吗。怎么又和鹰文一起回来了
+====================
+
+====================
+index 50
+offset 7884
+name Kanako
+length 62
+====================
+\"Well, summer vacation is just getting started! Wahahahaha!\"
+====================
+暑假才刚刚开始嘛。哇咔咔咔咔
+====================
+
+====================
+index 51
+offset 8270
+name Takafumi
+length 54
+====================
+\"By that, she means she'll be here all summer long.\"
+====================
+她说暑假要在这里好好住住
+====================
+
+====================
+index 52
+offset 8647
+name Kanako
+length 54
+====================
+\"Wouldn't you like to play with Kana too, Tomo-san?\"
+====================
+小智也想和河南一起玩吧？
+====================
+
+====================
+index 53
+offset 9021
+name Tomo
+length 8
+====================
+\"Yep!\"
+====================
+嗯ー
+====================
+
+====================
+index 54
+offset 9351
+name Kanako
+length 60
+====================
+\"See? Did you hear that?! You idiot! Takafumi, you idiot!\"
+====================
+看吧看吧、听到了没、笨ーーー蛋、鹰文这个大ーーー笨蛋！
+====================
+
+====================
+index 55
+offset 9735
+name Takafumi
+length 122
+====================
+\"I have no idea what I did to deserve being yelled at like that, but you're just going to have to suck it up, Nii-chan.\"
+====================
+虽然不知道为什么要突然不分青红皂白地说我、不过看来也只有忍耐一下了啊、哥哥
+====================
+
+====================
+index 56
+offset 10177
+name Tomoya
+length 56
+====================
+\"You're not planning on settling in here, are you...?\"
+====================
+你干嘛还要住到这里来啊…
+====================
+
+====================
+index 57
+offset 10283
+name Tomoya
+length 40
+====================
+\"This room's small enough as it is...\"
+====================
+已经够窄了不是吗…
+====================
+
+====================
+index 58
+offset 10646
+name Tomoyo
+length 104
+====================
+\"I'll bring you some drinks, Tomoya, so why don't you listen to Kanako talk about her new father too?\"
+====================
+我去给你拿点喝的、朋也也一起来听听看吧。有关河南子的新父亲的事情
+====================
+
+====================
+index 59
+offset 11073
+name Tomoyo
+length 41
+====================
+\"It seems he looks just like Takafumi.\"
+====================
+据说和鹰文长得很像啊
+====================
+
+====================
+index 60
+offset 11438
+name Takafumi
+length 43
+====================
+\"I'm telling you, we look nothing alike.\"
+====================
+一点都不像
+====================
+
+====================
+index 61
+offset 11805
+name Kanako
+length 122
+====================
+\"And in the end, he was so nervous he snapped and yelled 'I'll definitely make you and your mother happy, Kanako-chan!'\"
+====================
+最后他紧张地大声说着『我一定会让妈妈和河南子幸福的！』…
+====================
+
+====================
+index 62
+offset 11979
+name Takafumi
+length 97
+====================
+\"It's because you were quiet the whole time, Kanako. He was so scared that I felt bad for him.\"
+====================
+因为河南子一直都一言不发。所以他一直害怕的不行、有点可怜呢
+====================
+
+====================
+index 63
+offset 12401
+name Kanako
+length 68
+====================
+\"Well, that's 'cause it felt like he was stingy and undependable.\"
+====================
+是啊、因为他看上去很软弱、让我觉得有点靠不住呢
+====================
+
+====================
+index 64
+offset 12519
+name Kanako
+length 79
+====================
+\"But once I heard him say that, it made me think, 'He's just like Takafumi.'\"
+====================
+但是、听了他那句话、又让我觉得他有点像鹰文呢
+====================
+
+====================
+index 65
+offset 12648
+name Kanako
+length 60
+====================
+\"He may be a hopeless guy, but I could tell he's serious.\"
+====================
+虽然比较没有男子气概、但是却是真心的
+====================
+
+====================
+index 66
+offset 12758
+name Kanako
+length 27
+====================
+\"That's why I said that.\"
+====================
+所以我就说了
+====================
+
+====================
+index 67
+offset 12835
+name Kanako
+length 38
+====================
+\"Why I said, 'yeah, you can do it.'\"
+====================
+『啊、你的话一定能做到的』
+====================
+
+====================
+index 68
+offset 12925
+name Takafumi
+length 36
+====================
+\"You could've talked to him more.\"
+====================
+你要是能再和他多说一点话就好了
+====================
+
+====================
+index 69
+offset 13013
+name Takafumi
+length 132
+====================
+\"I talked to Kanako's father more than she did. It's like I was the one that was going to be his kid. It made no sense, you know?\"
+====================
+我倒是和河南子的父亲说了不少话啊。感觉我倒更像是他的孩子一样。搞得自己都弄不清了
+====================
+
+====================
+index 70
+offset 13195
+name Kanako
+length 100
+====================
+\"Geez, it's fine! Even if I don't want to, I'll have all the time in the world to spend with him.\"
+====================
+又没有关系。反正之后还有很多很多时间嘛
+====================
+
+====================
+index 71
+offset 13618
+name Kanako
+length 40
+====================
+\"And so, I'm playing with Tomo today!\"
+====================
+所以、就跑来和小智玩了ー
+====================
+
+====================
+index 72
+offset 13944
+name NULL
+length 56
+====================
+She hugs Tomo's small body, and kisses her on the cheek.
+====================
+她抱起了小智、轻轻地亲着她的面颊。
+====================
+
+====================
+index 73
+offset 14323
+name Tomoyo
+length 46
+====================
+\"Sounds like it's going well. That's great.\"
+====================
+你们能相处得不错真是太好了
+====================
+
+====================
+index 74
+offset 14385
+name NULL
+length 53
+====================
+Tomoyo places a cold glass in front of me and smiles.
+====================
+智代把一杯冰水放在我面前、对着我笑着。
+====================
+
+====================
+index 75
+offset 14454
+name NULL
+length 47
+====================
+She looks happy, as though it concerns herself.
+====================
+感觉就好像是在为自己的事高兴一样。
+====================
+
+====================
+index 76
+offset 14787
+name NULL
+length 85
+====================
+As I look at everyone laughing together, I recall the letter that I was just reading.
+====================
+看着大家其乐融融的样子、我想起了之前的那封信。
+====================
+
+====================
+index 77
+offset 14925
+name Tomoya
+length 11
+====================
+\"Tomoyo.\"
+====================
+智代
+====================
+
+====================
+index 78
+offset 15259
+name Tomoyo
+length 15
+====================
+\"What is it?\"
+====================
+嗯、怎么了
+====================
+
+====================
+index 79
+offset 15324
+name Tomoya
+length 59
+====================
+\"I'll be home early tomorrow. Let's take Tomo somewhere.\"
+====================
+明天我会早点回来的。和你一起带着小智出去
+====================
+
+====================
+index 80
+offset 15399
+name NULL
+length 17
+====================
+I suggest to her.
+====================
+我这么对她说道。
+====================
+
+====================
+index 81
+offset 15739
+name Tomoyo
+length 20
+====================
+\"Can you do that?\"
+====================
+你可以吗？
+====================
+
+====================
+index 82
+offset 15809
+name Tomoya
+length 65
+====================
+\"I'll do it somehow. It's about time we give her the pictures.\"
+====================
+我会想办法的。差不多到了要送照片的时候了呢
+====================
+
+====================
+index 83
+offset 16215
+name NULL
+length 163
+====================
+It seems that's all it took for Tomoyo to understand. Her expression tensed up immediately as if she had just remembered something unpleasant, and then she nodded.
+====================
+智代听了我的话、好像回想起一些不愉快的回忆般满脸严肃、轻轻地点了点头。
+====================

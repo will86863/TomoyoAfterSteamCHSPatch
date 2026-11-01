@@ -1,0 +1,1256 @@
+type seen1710
+count 114
+
+====================
+index 1
+offset 263
+name NULL
+length 15
+====================
+July 10th (Sat)
+====================
+７月１０日（星期六）
+====================
+
+====================
+index 2
+offset 1195
+name NULL
+length 52
+====================
+The next day is my first day off since Tomo arrived.
+====================
+第二天、也是小智来到我家后的第一个假日。
+====================
+
+====================
+index 3
+offset 1266
+name NULL
+length 73
+====================
+After eating lunch, Tomoyo and I decide to take Tomo to the park to play.
+====================
+吃过午饭后、我和智代决定带小智去公园玩。
+====================
+
+====================
+index 4
+offset 1355
+name NULL
+length 85
+====================
+As we're getting ready to go out, Takafumi shows up as if he'd been waiting for that.
+====================
+正当我们准备出门时、鹰文一副早就等着的样子出现了。
+====================
+
+====================
+index 5
+offset 1764
+name Takafumi
+length 25
+====================
+\"Oh, you're going out.\"
+====================
+哦、你们要出去啊。
+====================
+
+====================
+index 6
+offset 1839
+name Tomoya
+length 42
+====================
+\"Yeah, to the park. Are you coming too?\"
+====================
+嗯、去公园。你也一起吗？
+====================
+
+====================
+index 7
+offset 2205
+name Takafumi
+length 18
+====================
+\"No, I'll pass.\"
+====================
+不了、我就不去了。
+====================
+
+====================
+index 8
+offset 2547
+name Takafumi
+length 54
+====================
+\"Oh, while you're gone, can I bring something over?\"
+====================
+哦、那你们不在的时候、我能搬点东西过来吗？
+====================
+
+====================
+index 9
+offset 2651
+name Tomoya
+length 32
+====================
+\"Something? What do you mean?\"
+====================
+东西？什么东西？
+====================
+
+====================
+index 10
+offset 3007
+name Takafumi
+length 15
+====================
+\"A computer.\"
+====================
+电脑。
+====================
+
+====================
+index 11
+offset 3072
+name Tomoya
+length 8
+====================
+\"Why?\"
+====================
+为什么？
+====================
+
+====================
+index 12
+offset 3132
+name Takafumi
+length 31
+====================
+\"I want to use the Internet.\"
+====================
+我想上网。
+====================
+
+====================
+index 13
+offset 3213
+name Tomoya
+length 8
+====================
+\"Why?\"
+====================
+为什么？
+====================
+
+====================
+index 14
+offset 3273
+name Takafumi
+length 12
+====================
+\"A hobby.\"
+====================
+算是兴趣吧。
+====================
+
+====================
+index 15
+offset 3335
+name Tomoya
+length 28
+====================
+\"Do it at your own house.\"
+====================
+回你自己家弄去。
+====================
+
+====================
+index 16
+offset 3687
+name Takafumi
+length 16
+====================
+\"Well, I was.\"
+====================
+我本来就在自己家上啊。
+====================
+
+====================
+index 17
+offset 3755
+name Takafumi
+length 87
+====================
+\"But my parents said I'd end up neglecting my studies and banned them from my house.\"
+====================
+可是父母说这样会影响学习、就把家里的机器给没收了。
+====================
+
+====================
+index 18
+offset 4166
+name Takafumi
+length 41
+====================
+\"So I'll do it here. It's fine, right?\"
+====================
+所以我打算在这里弄。可以吧？
+====================
+
+====================
+index 19
+offset 4257
+name Tomoya
+length 54
+====================
+\"You'll end up neglecting your studies. Give it up.\"
+====================
+会影响学习的。别弄了。
+====================
+
+====================
+index 20
+offset 4635
+name Takafumi
+length 61
+====================
+\"Don't say that without even giving it a moment's thought.\"
+====================
+别想都不想就这么说啊。
+====================
+
+====================
+index 21
+offset 5020
+name Takafumi
+length 83
+====================
+\"Nii-chan, don't you think it'll be convenient for you to have the Internet too?\"
+====================
+老哥、你不觉得家里能上网也很方便吗？
+====================
+
+====================
+index 22
+offset 5153
+name Tomoya
+length 30
+====================
+\"I'm not really interested.\"
+====================
+我没什么兴趣。
+====================
+
+====================
+index 23
+offset 5505
+name Takafumi
+length 29
+====================
+\"What about you, Nee-chan?\"
+====================
+那老姐呢？
+====================
+
+====================
+index 24
+offset 5550
+name NULL
+length 55
+====================
+Takafumi spins around and directs his attack elsewhere.
+====================
+鹰文转过身去、把目标换成了另一个方向。
+====================
+
+====================
+index 25
+offset 5928
+name Tomoyo
+length 54
+====================
+\"You'll end up neglecting your studies. Give it up.\"
+====================
+会影响学习的。别弄了。
+====================
+
+====================
+index 26
+offset 6309
+name Takafumi
+length 8
+====================
+\"Man.\"
+====================
+什么嘛。
+====================
+
+====================
+index 27
+offset 6642
+name Tomoyo
+length 95
+====================
+\"Unlike him, I'm not just looking for an excuse. I'm seriously thinking about you, Takafumi.\"
+====================
+我和他不一样、不是随便找个借口。我是真的在为你考虑、鹰文。
+====================
+
+====================
+index 28
+offset 6787
+name Tomoyo
+length 122
+====================
+\"Isn't the Internet one of those things that if you get caught up in it, you could wind up staying up late every night?\"
+====================
+网络这东西、一旦沉迷进去、不就会每晚都熬到很晚吗？
+====================
+
+====================
+index 29
+offset 7234
+name Tomoyo
+length 26
+====================
+\"I'm worried about you.\"
+====================
+我很担心你。
+====================
+
+====================
+index 30
+offset 7587
+name Takafumi
+length 30
+====================
+\"I'll use it in moderation.\"
+====================
+我会适可而止的。
+====================
+
+====================
+index 31
+offset 7944
+name Takafumi
+length 66
+====================
+\"Also Nee-chan, you should use this chance to check it out too.\"
+====================
+还有老姐、你也趁这个机会接触一下网络吧。
+====================
+
+====================
+index 32
+offset 8335
+name Tomoyo
+length 8
+====================
+\"Why?\"
+====================
+为什么？
+====================
+
+====================
+index 33
+offset 8670
+name Takafumi
+length 36
+====================
+\"You two sure do ask 'why' a lot.\"
+====================
+你们两个还真爱问『为什么』啊。
+====================
+
+====================
+index 34
+offset 9033
+name Takafumi
+length 80
+====================
+\"You see, if you use it, Nee-chan, you might be able to help a lot of people.\"
+====================
+你看、老姐要是会用的话、说不定能帮到很多人。
+====================
+
+====================
+index 35
+offset 9163
+name Tomoyo
+length 25
+====================
+\"Hm? What do you mean?\"
+====================
+嗯？什么意思？
+====================
+
+====================
+index 36
+offset 9240
+name Takafumi
+length 73
+====================
+\"On the net, you can meet and interact with people all over the world.\"
+====================
+在网上、你可以和世界各地的人相遇、交流。
+====================
+
+====================
+index 37
+offset 9365
+name Takafumi
+length 44
+====================
+\"There are a lot of people with problems.\"
+====================
+其中有很多人是带着烦恼的。
+====================
+
+====================
+index 38
+offset 9461
+name Takafumi
+length 44
+====================
+\"You can give advice to people like that.\"
+====================
+你可以给这样的人一些建议。
+====================
+
+====================
+index 39
+offset 9830
+name Tomoyo
+length 51
+====================
+\"I wouldn't presume to do something so arrogant.\"
+====================
+我可不敢做那么了不起的事。
+====================
+
+====================
+index 40
+offset 10208
+name Takafumi
+length 9
+====================
+\"Oh...\"
+====================
+这样啊…
+====================
+
+====================
+index 41
+offset 10267
+name Tomoyo
+length 10
+====================
+\"But...\"
+====================
+不过…
+====================
+
+====================
+index 42
+offset 10602
+name Tomoyo
+length 88
+====================
+\"Being able to meet and interact with different people... that could be a good thing.\"
+====================
+能和形形色色的人相遇、交流…这或许的确是件好事。
+====================
+
+====================
+index 43
+offset 11017
+name Takafumi
+length 22
+====================
+\"Yes! It's decided.\"
+====================
+好！那就这么定了。
+====================
+
+====================
+index 44
+offset 11364
+name Tomoyo
+length 78
+====================
+\"Hey, don't decide for yourself. Get permission from the owner of the room.\"
+====================
+喂、别自己随便决定。得先得到房间主人的同意才行。
+====================
+
+====================
+index 45
+offset 11766
+name Takafumi
+length 31
+====================
+\"It's fine, right, Nii-chan?\"
+====================
+可以吧、老哥？
+====================
+
+====================
+index 46
+offset 11825
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 47
+offset 11854
+name NULL
+length 17
+====================
+I can only agree.
+====================
+我只能点头同意。
+====================
+
+====================
+index 48
+offset 12344
+name Tomoya
+length 64
+====================
+(And yet, I feel like I've been artfully tricked by Takafumi...)
+====================
+（不过、我总觉得自己被鹰文巧妙地算计了…）
+====================
+
+====================
+index 49
+offset 12458
+name Tomoya
+length 88
+====================
+(What's going to happen to the phone bill...? This is actually pretty bad, isn't it...?)
+====================
+（电话费会变成什么样啊…这其实挺不妙的吧…？）
+====================
+
+====================
+index 50
+offset 13293
+name Tomo
+length 10
+====================
+\"Swing.\"
+====================
+秋千。
+====================
+
+====================
+index 51
+offset 13589
+name NULL
+length 54
+====================
+When we get to the park, Tomo runs over to the swings.
+====================
+到了公园、小智就朝秋千跑了过去。
+====================
+
+====================
+index 52
+offset 13693
+name Tomoya
+length 15
+====================
+\"Be careful.\"
+====================
+小心点。
+====================
+
+====================
+index 53
+offset 14031
+name Tomoyo
+length 39
+====================
+\"It's okay, I'll get on it with her.\"
+====================
+没事、我和她一起坐。
+====================
+
+====================
+index 54
+offset 14356
+name NULL
+length 58
+====================
+Tomoyo puts Tomo in her lap and start swinging vigorously.
+====================
+智代把小智抱到腿上、用力地荡了起来。
+====================
+
+====================
+index 55
+offset 14430
+name NULL
+length 55
+====================
+They go so high it looks like they may go over the bar.
+====================
+她们荡得那么高、看上去简直要越过横杆了。
+====================
+
+====================
+index 56
+offset 14805
+name Tomo
+length 17
+====================
+\"Wow, awesome!\"
+====================
+哇、好厉害！
+====================
+
+====================
+index 57
+offset 15108
+name NULL
+length 53
+====================
+Not scared at all, Tomo yells from the shaking swing.
+====================
+小智一点也不害怕、在摇晃的秋千上喊着。
+====================
+
+====================
+index 58
+offset 15177
+name NULL
+length 44
+====================
+I sit on a bench and watch them for a while.
+====================
+我坐在长椅上、看了一会儿她们的玩闹。
+====================
+
+====================
+index 59
+offset 15240
+name NULL
+length 61
+====================
+After that, we make mountains and dig tunnels in the sandbox.
+====================
+之后、我们又在沙坑里堆山、挖隧道。
+====================
+
+====================
+index 60
+offset 15317
+name NULL
+length 60
+====================
+Tomo is quite delighted when we hold hands through a tunnel.
+====================
+从隧道两头牵着手的时候、小智特别高兴。
+====================
+
+====================
+index 61
+offset 15393
+name NULL
+length 76
+====================
+Tomoyo and I embrace our inner child, and the three of us have a great time.
+====================
+我和智代也找回了童心、三个人玩得非常开心。
+====================
+
+====================
+index 62
+offset 16415
+name Tomoya
+length 15
+====================
+\"We're back.\"
+====================
+我们回来了。
+====================
+
+====================
+index 63
+offset 16446
+name NULL
+length 68
+====================
+When we get home, there's a computer occupying a corner of the room.
+====================
+回到家一看、房间一角多了一台电脑。
+====================
+
+====================
+index 64
+offset 16530
+name NULL
+length 69
+====================
+Takafumi is sitting in front of it, lightly tapping away at the keys.
+====================
+鹰文正坐在前面、轻轻地敲着键盘。
+====================
+
+====================
+index 65
+offset 16615
+name NULL
+length 54
+====================
+I peak at what's he's doing, but it's all Greek to me.
+====================
+我凑过去看了一眼、完全看不懂他在做什么。
+====================
+
+====================
+index 66
+offset 16993
+name Takafumi
+length 39
+====================
+\"Oh, welcome back. Did you have fun?\"
+====================
+哦、你们回来了。玩得开心吗？
+====================
+
+====================
+index 67
+offset 17355
+name Tomoyo
+length 81
+====================
+\"We had fun playing outside, but you're like a gloomy, friendless kid in here.\"
+====================
+我们在外面玩得很开心、你倒像个阴沉又没有朋友的家里蹲。
+====================
+
+====================
+index 68
+offset 17760
+name Takafumi
+length 93
+====================
+\"I can get out into the world plenty from here. I'm connected to lots of different people.\"
+====================
+从这里我也能充分地接触外面的世界啊。我正和很多不同的人联系着呢。
+====================
+
+====================
+index 69
+offset 17905
+name Takafumi
+length 36
+====================
+\"Well, come here and take a look.\"
+====================
+来、过来看看。
+====================
+
+====================
+index 70
+offset 18227
+name NULL
+length 40
+====================
+Takafumi stands up and vacates his seat.
+====================
+鹰文站起来、把座位让了出来。
+====================
+
+====================
+index 71
+offset 18283
+name NULL
+length 39
+====================
+Tomoyo, only half convinced, sits down.
+====================
+智代半信半疑地坐了下来。
+====================
+
+====================
+index 72
+offset 18645
+name Tomoyo
+length 24
+====================
+\"I can't see it well.\"
+====================
+我看不太清楚。
+====================
+
+====================
+index 73
+offset 18955
+name NULL
+length 66
+====================
+She takes her glasses case out of her bag and puts on her glasses.
+====================
+她从包里取出眼镜盒、把眼镜戴上。
+====================
+
+====================
+index 74
+offset 19037
+name NULL
+length 30
+====================
+She turns back to the monitor.
+====================
+然后重新转向显示器。
+====================
+
+====================
+index 75
+offset 19083
+name NULL
+length 32
+====================
+She sits in silence for a while.
+====================
+她沉默地坐了一阵子。
+====================
+
+====================
+index 76
+offset 19131
+name NULL
+length 37
+====================
+She's completely absorbed in reading.
+====================
+她完全入迷地读着。
+====================
+
+====================
+index 77
+offset 19184
+name NULL
+length 51
+====================
+Is something that interesting really written there?
+====================
+上面真的写着那么有意思的东西吗？
+====================
+
+====================
+index 78
+offset 19558
+name Tomoyo
+length 21
+====================
+\"No, that's wrong.\"
+====================
+不对、那样不对。
+====================
+
+====================
+index 79
+offset 19629
+name Tomoyo
+length 69
+====================
+\"You're mistaken. You're not thinking about the people around you.\"
+====================
+你搞错了。你没有考虑周围人的感受。
+====================
+
+====================
+index 80
+offset 19714
+name NULL
+length 47
+====================
+She starts talking to the people on the screen.
+====================
+她开始对着屏幕里的人说起话来。
+====================
+
+====================
+index 81
+offset 20085
+name Takafumi
+length 36
+====================
+\"If so, why don't you write that?\"
+====================
+既然这样、那你自己写写看？
+====================
+
+====================
+index 82
+offset 20444
+name Tomoyo
+length 29
+====================
+\"Write it? On this screen?\"
+====================
+写？在这个屏幕上？
+====================
+
+====================
+index 83
+offset 20797
+name Takafumi
+length 26
+====================
+\"No, with the keyboard.\"
+====================
+不、是用键盘。
+====================
+
+====================
+index 84
+offset 21109
+name NULL
+length 47
+====================
+He starts patiently teaching her how to use it.
+====================
+他开始耐心地教她怎么用。
+====================
+
+====================
+index 85
+offset 21172
+name NULL
+length 89
+====================
+She awkwardly taps keys as she looks back and forth between the monitor and the keyboard.
+====================
+她笨手笨脚地敲着键盘、视线在显示器和键盘之间来回移动。
+====================
+
+====================
+index 86
+offset 21277
+name NULL
+length 50
+====================
+I quietly stand behind her and peek at the screen.
+====================
+我悄悄地站到她身后、瞄了一眼屏幕。
+====================
+
+====================
+index 87
+offset 21343
+name NULL
+length 19
+====================
+Written there is...
+====================
+上面写着…
+====================
+
+====================
+index 88
+offset 21381
+name NULL
+length 16
+====================
+Please rtell me,
+====================
+请你告诉
+====================
+
+====================
+index 89
+offset 21413
+name NULL
+length 8
+====================
+wjsy tiu
+====================
+我呀　啊
+====================
+
+====================
+index 90
+offset 21437
+name NULL
+length 12
+====================
+about tjhat.
+====================
+关于那件事。
+====================
+
+====================
+index 91
+offset 21772
+name Tomoyo
+length 18
+====================
+\"...how's that?\"
+====================
+…这样吗？
+====================
+
+====================
+index 92
+offset 22113
+name Tomoyo
+length 30
+====================
+\"Wsjy tiu? What's wsjy tiu?\"
+====================
+我呀　啊？什么意思？
+====================
+
+====================
+index 93
+offset 22467
+name Takafumi
+length 23
+====================
+\"It's a simple typo.\"
+====================
+只是打错字而已。
+====================
+
+====================
+index 94
+offset 22776
+name NULL
+length 67
+====================
+She re-types it in a panic. Her movements are clumsy this time too.
+====================
+她慌慌张张地重新打了一遍。这次动作同样笨拙。
+====================
+
+====================
+index 95
+offset 22859
+name NULL
+length 93
+====================
+She seems like she can do anything, so it's actually rather cute when she's bad at something.
+====================
+她看上去什么都难不倒、所以这种做不好的样子反倒挺可爱。
+====================
+
+====================
+index 96
+offset 23276
+name Takafumi
+length 15
+====================
+\"And, enter.\"
+====================
+好、然后按回车
+====================
+
+====================
+index 97
+offset 23614
+name Tomoyo
+length 17
+====================
+\"Is this good?\"
+====================
+这样就可以了吗？
+====================
+
+====================
+index 98
+offset 23955
+name Takafumi
+length 68
+====================
+\"Yeah. If you leave it alone, another reply will come eventually.\"
+====================
+嗯。放着不管的话、过阵子就会有回复的。
+====================
+
+====================
+index 99
+offset 24346
+name Tomoyo
+length 10
+====================
+\"Hah...\"
+====================
+呼…
+====================
+
+====================
+index 100
+offset 24372
+name NULL
+length 40
+====================
+She takes off her glasses and stretches.
+====================
+她摘下眼镜、伸了个懒腰。
+====================
+
+====================
+index 101
+offset 24462
+name Tomoya
+length 94
+====================
+\"It looks like you're the one who's getting into it and will end up neglecting her studies.\"
+====================
+看来会沉迷进去、影响学习的反倒是你啊。
+====================
+
+====================
+index 102
+offset 24879
+name Tomoyo
+length 77
+====================
+\"Yeah, well, it was my first time, so I got absorbed in it. It's worrying.\"
+====================
+是啊、毕竟是第一次、一不小心就入迷了。这可真让人担心。
+====================
+
+====================
+index 103
+offset 25861
+name NULL
+length 69
+====================
+When it's time for dinner, Tomoyo starts preparing it and Tomo helps.
+====================
+到了晚饭时间、智代开始做饭、小智也来帮忙。
+====================
+
+====================
+index 104
+offset 25946
+name NULL
+length 94
+====================
+They're small and oddly shaped, but she makes croquettes one by one with a serious expression.
+====================
+形状歪歪扭扭的、可她一脸认真地一个一个炸着可乐饼。
+====================
+
+====================
+index 105
+offset 26056
+name NULL
+length 83
+====================
+During dinner, she stabs one of the mini-croquettes with a fork and feeds it to me.
+====================
+吃饭的时候、她用叉子叉起一个小可乐饼喂给我。
+====================
+
+====================
+index 106
+offset 26155
+name NULL
+length 15
+====================
+It's delicious.
+====================
+很好吃。
+====================
+
+====================
+index 107
+offset 26186
+name NULL
+length 76
+====================
+After dinner, we all have fun passing the time watching variety shows on TV.
+====================
+晚饭后、我们看着电视上的综艺节目打发时间、大家都挺开心。
+====================
+
+====================
+index 108
+offset 26586
+name Takafumi
+length 25
+====================
+\"Well, I'm going home.\"
+====================
+那么、我回去了。
+====================
+
+====================
+index 109
+offset 26627
+name NULL
+length 49
+====================
+Takafumi switches off the computer and stands up.
+====================
+鹰文关掉电脑、站了起来。
+====================
+
+====================
+index 110
+offset 26962
+name NULL
+length 47
+====================
+It's also about the time for Tomo to go to bed.
+====================
+也差不多到了小智该睡觉的时间了。
+====================
+
+====================
+index 111
+offset 27025
+name NULL
+length 77
+====================
+When Takafumi leaves, Tomo takes her bath and we start getting ready for bed.
+====================
+鹰文走后、小智洗了澡、我们也开始准备睡觉。
+====================
+
+====================
+index 112
+offset 28004
+name Tomoya
+length 15
+====================
+\"Good night.\"
+====================
+晚安。
+====================
+
+====================
+index 113
+offset 28069
+name Tomoyo
+length 21
+====================
+\"Yeah, good night.\"
+====================
+嗯、晚安。
+====================
+
+====================
+index 114
+offset 28106
+name NULL
+length 40
+====================
+And with that, the day draws to a close.
+====================
+就这样、这一天落下了帷幕。
+====================

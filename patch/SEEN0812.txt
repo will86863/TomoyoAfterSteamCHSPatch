@@ -1,0 +1,1982 @@
+type seen812
+count 180
+
+====================
+index 1
+offset 266
+name NULL
+length 17
+====================
+August 12th (Thu)
+====================
+８月１２日（星期四）
+====================
+
+====================
+index 2
+offset 1202
+name NULL
+length 77
+====================
+I was awoken this morning by the dazzling morning sun and then left the room.
+====================
+被刺眼的阳光照醒、我走出了房间。
+====================
+
+====================
+index 3
+offset 1295
+name NULL
+length 55
+====================
+I left a note to tell Tomoyo that I'm going for a walk.
+====================
+在对智代说了句『我出去散散步』后、我就走了出去。
+====================
+
+====================
+index 4
+offset 1366
+name NULL
+length 54
+====================
+No matter how brief, I just needed some time to think.
+====================
+多少还需要一点思考的时间。
+====================
+
+====================
+index 5
+offset 1436
+name NULL
+length 91
+====================
+We've already accomplished what we came here for; to figure out why Tomo's mother left her.
+====================
+来这里的目的、了解小智的母亲为什么放弃了她、这个已经达成了。
+====================
+
+====================
+index 6
+offset 1543
+name NULL
+length 28
+====================
+But I'm still not satisfied.
+====================
+但是我却不能接受。
+====================
+
+====================
+index 7
+offset 1587
+name NULL
+length 90
+====================
+Now that I've learned the truth, I think that them living together is even more important.
+====================
+在知道了真相之后、我更加的希望她们母女俩能一起度过这最后的一段日子了。
+====================
+
+====================
+index 8
+offset 1693
+name NULL
+length 46
+====================
+That is why I'll make sure Tomo can live here.
+====================
+所以、我想尽力让这里变得也能让小智住下去。
+====================
+
+====================
+index 9
+offset 1755
+name NULL
+length 47
+====================
+That'll become our new reason for staying here.
+====================
+这个变成了我的新目的、也成为了我想要继续留在这里的理由。
+====================
+
+====================
+index 10
+offset 1818
+name NULL
+length 48
+====================
+But I still don't know how I'd make that happen.
+====================
+但是、我却实在想不出究竟该怎么办。
+====================
+
+====================
+index 11
+offset 1882
+name NULL
+length 43
+====================
+I think back on what Tomo's mother told me.
+====================
+我不停的思考着母亲的话。
+====================
+
+====================
+index 12
+offset 2737
+name Yuko
+length 104
+====================
+\"The people who live here have nothing. They've lost everything, and they are still losing even more.\"
+====================
+在这里居住的人们、也是一无所有。他们失去、而且一直在失去中度过
+====================
+
+====================
+index 13
+offset 2889
+name Yuko
+length 90
+====================
+\"And you must not bring her here when she still has a future... hope... and everything.\"
+====================
+不能把有着未来和希望的那个孩子带到这里来
+====================
+
+====================
+index 14
+offset 3443
+name NULL
+length 31
+====================
+This is about Tomo living here.
+====================
+要让小智住在这里。
+====================
+
+====================
+index 15
+offset 3490
+name NULL
+length 75
+====================
+In other words, it's about creating hope and a future in a place like this.
+====================
+也就是要让这个大家不停失去希望的地方、重新创造出未来与希望。
+====================
+
+====================
+index 16
+offset 3581
+name NULL
+length 33
+====================
+I wonder if that's even possible.
+====================
+这种事情能做到吗。
+====================
+
+====================
+index 17
+offset 3664
+name Tomoya
+length 24
+====================
+\"...what should I do?\"
+====================
+…该怎么做呢
+====================
+
+====================
+index 18
+offset 3704
+name NULL
+length 88
+====================
+I come across the caretaker while I am walking through the hallway, muttering to myself.
+====================
+我一个人自言自语地走在走廊上、碰上了管理人。
+====================
+
+====================
+index 19
+offset 3808
+name NULL
+length 88
+====================
+She toggles the power switch of the old-fashioned vacuum cleaner in her hand repeatedly.
+====================
+她手里拿着一台古旧的吸尘器、不停地开关着电源开关。
+====================
+
+====================
+index 20
+offset 4221
+name Caretaker
+length 41
+====================
+\"Ah, good morning. Did you sleep well?\"
+====================
+啊、早啊、睡得还好吗？
+====================
+
+====================
+index 21
+offset 4312
+name Tomoya
+length 15
+====================
+\"Not really.\"
+====================
+不怎么样
+====================
+
+====================
+index 22
+offset 4343
+name NULL
+length 18
+====================
+I answer honestly.
+====================
+我诚实地回答了她。
+====================
+
+====================
+index 23
+offset 4686
+name Caretaker
+length 49
+====================
+\"I see... Hm, I wonder why this won't turn on.\"
+====================
+是吗…啊、为什么就是启动不了呢
+====================
+
+====================
+index 24
+offset 4785
+name Tomoya
+length 53
+====================
+\"Is there something wrong with the vacuum cleaner?\"
+====================
+这台吸尘器怎么了？
+====================
+
+====================
+index 25
+offset 4891
+name Caretaker
+length 39
+====================
+\"Yeah, it suddenly refused to start.\"
+====================
+嗯、突然就启动不了了
+====================
+
+====================
+index 26
+offset 4980
+name Tomoya
+length 63
+====================
+\"Did you check the wall socket? That honestly happens a lot.\"
+====================
+插座检查过了吗？那个有问题的话经常会发生这种事的
+====================
+
+====================
+index 27
+offset 5096
+name Caretaker
+length 48
+====================
+\"It's plugged into the one on the other side.\"
+====================
+在另一头接好了啊
+====================
+
+====================
+index 28
+offset 5430
+name NULL
+length 85
+====================
+When I look, there's a taut extension cord coming from the other side of the hallway.
+====================
+我顺着她指的方向看去、从走廊的另一头伸来一根很长的电源延长线。
+====================
+
+====================
+index 29
+offset 5531
+name NULL
+length 74
+====================
+I look around the corner and see that it's properly plugged into a socket.
+====================
+拐过一个弯、插座插得好好的。
+====================
+
+====================
+index 30
+offset 5655
+name Tomoya
+length 27
+====================
+\"Was it working earlier?\"
+====================
+一开始启动得了吗
+====================
+
+====================
+index 31
+offset 5735
+name Caretaker
+length 9
+====================
+\"Yeah.\"
+====================
+嗯
+====================
+
+====================
+index 32
+offset 5760
+name NULL
+length 90
+====================
+I try unplugging the extension cord, and then plugging the original cable into the socket.
+====================
+我取下了延长线、把吸尘器的插头直接插到了插座里。
+====================
+
+====================
+index 33
+offset 5866
+name NULL
+length 70
+====================
+The vacuum cleaner makes long-drawn-out loud noise and starts to work.
+====================
+吸尘器发出了一阵低鸣、启动了。
+====================
+
+====================
+index 34
+offset 5986
+name Tomoya
+length 36
+====================
+\"Looks like this was the problem.\"
+====================
+这个就是原因
+====================
+
+====================
+index 35
+offset 6038
+name NULL
+length 34
+====================
+I swing the extension cord around.
+====================
+我挥动着延长线。
+====================
+
+====================
+index 36
+offset 6088
+name NULL
+length 51
+====================
+I see. It makes sense now that I see how old it is.
+====================
+原来如此、这根线也很旧了。
+====================
+
+====================
+index 37
+offset 6189
+name Tomoya
+length 50
+====================
+\"...ah, if only I could check its conductivity.\"
+====================
+…啊、要是能检查一下通电状况的话就好了
+====================
+
+====================
+index 38
+offset 6255
+name NULL
+length 44
+====================
+I carefully trace the casing with my finger.
+====================
+我仔细地用手指摸着外侧的绝缘膜。
+====================
+
+====================
+index 39
+offset 6315
+name NULL
+length 107
+====================
+The part that rubbed against the corner of the hallway bulged, and the casing is cracked in several places.
+====================
+发现在电线中间的一段、就是经常位于走廊拐角附近的地方、电线皮有点开裂了。
+====================
+
+====================
+index 40
+offset 6472
+name Tomoya
+length 44
+====================
+\"This is probably where the wire snapped.\"
+====================
+应该是这里断线了
+====================
+
+====================
+index 41
+offset 6842
+name Caretaker
+length 17
+====================
+\"You can tell?\"
+====================
+你懂吗？
+====================
+
+====================
+index 42
+offset 6909
+name Tomoya
+length 34
+====================
+\"I do things like this at work.\"
+====================
+我的工作就是这个
+====================
+
+====================
+index 43
+offset 6993
+name Tomoya
+length 101
+====================
+\"If I can cut it, I can fix it using a pair of pliers, a soldering iron, and some electrical tape.\"
+====================
+如果可以剪掉的话、那么用钳子和绝缘胶带很快就能连好
+====================
+
+====================
+index 44
+offset 7420
+name Caretaker
+length 78
+====================
+\"We have those tools, but if you cut it, it won't reach the socket anymore.\"
+====================
+虽然有、但是剪掉的话长度就不够了啊
+====================
+
+====================
+index 45
+offset 7514
+name NULL
+length 51
+====================
+The caretaker points toward the end of the hallway.
+====================
+管理员指着走廊的一头说道。
+====================
+
+====================
+index 46
+offset 7618
+name Caretaker
+length 31
+====================
+\"It barely reaches as it is.\"
+====================
+这个长度刚刚好啊
+====================
+
+====================
+index 47
+offset 7665
+name NULL
+length 60
+====================
+I think about it for a minute, and an idea comes to my mind.
+====================
+我想了一会儿、突然想到个好办法。
+====================
+
+====================
+index 48
+offset 7775
+name Tomoya
+length 66
+====================
+\"...do you happen to have any spare electric appliances around?\"
+====================
+…有没有已经不用的电器制品？
+====================
+
+====================
+index 49
+offset 7891
+name Tomoya
+length 38
+====================
+\"All I really need is a power cord.\"
+====================
+只要有电源线就行了
+====================
+
+====================
+index 50
+offset 7982
+name Caretaker
+length 34
+====================
+\"Hm, I wonder if we have any...\"
+====================
+嗯、有这样的东西吗…
+====================
+
+====================
+index 51
+offset 8342
+name Caretaker
+length 15
+====================
+\"...oh yeah.\"
+====================
+…啊
+====================
+
+====================
+index 52
+offset 8796
+name NULL
+length 42
+====================
+The caretaker takes me to a mountain road.
+====================
+我跟着管理人走在山路上。
+====================
+
+====================
+index 53
+offset 9278
+name NULL
+length 35
+====================
+The road is steep, but fairly wide.
+====================
+虽然山路比较陡、但是很宽阔。
+====================
+
+====================
+index 54
+offset 9329
+name NULL
+length 77
+====================
+While it's not paved, the road looks wide enough for cars to pass each other.
+====================
+感觉路并没有被铺过、但是像经常有车子经过的样子。
+====================
+
+====================
+index 55
+offset 9456
+name Tomoya
+length 36
+====================
+\"Where exactly are you taking me?\"
+====================
+你要带我去哪里？
+====================
+
+====================
+index 56
+offset 9818
+name Caretaker
+length 87
+====================
+\"Over there. Despite it being a nuisance, this place comes in handy once in a while.\"
+====================
+就在那里、虽然给人添了不少麻烦、不过偶尔也能帮上点忙
+====================
+
+====================
+index 57
+offset 10191
+name NULL
+length 38
+====================
+The caretaker points at a black mound.
+====================
+顺着管理人指着的方向、我看到了一座黑黝黝的小山。
+====================
+
+====================
+index 58
+offset 10279
+name Tomoya
+length 56
+====================
+\"...I feel like I've seen something like this before.\"
+====================
+…总觉得好像在哪里看到过
+====================
+
+====================
+index 59
+offset 11195
+name NULL
+length 60
+====================
+I can tell they're piles of oversized junk as we get closer.
+====================
+走近一看、那里有很多大型垃圾被高高地堆放着。
+====================
+
+====================
+index 60
+offset 11271
+name NULL
+length 84
+====================
+Since I often see things like this at my company, a sense of deja vu washes over me.
+====================
+之所以会觉得眼熟、是因为这种情景在公司里经常能看到。
+====================
+
+====================
+index 61
+offset 11681
+name Caretaker
+length 36
+====================
+\"This is an illegal garbage dump.\"
+====================
+这些、都是非法丢弃的呢
+====================
+
+====================
+index 62
+offset 11767
+name Tomoya
+length 44
+====================
+\"Did they dump whatever they wanted here?\"
+====================
+别人乱扔的吗？
+====================
+
+====================
+index 63
+offset 11864
+name Caretaker
+length 76
+====================
+\"Yeah. I complained several times, but then, the entire company vanished.\"
+====================
+没错。虽然也抗议过好几次、但是堆放这些东西的那个公司还是没有来解决
+====================
+
+====================
+index 64
+offset 11993
+name Caretaker
+length 39
+====================
+\"And all of this just got left here.\"
+====================
+然后就一直堆在这里了
+====================
+
+====================
+index 65
+offset 12085
+name Caretaker
+length 71
+====================
+\"I also reported it to the town hall, but you know what that's like.\"
+====================
+虽然也和地方的事务所提出过、但是还是没人管
+====================
+
+====================
+index 66
+offset 12442
+name NULL
+length 52
+====================
+The caretaker takes off the vinyl sheet covering it.
+====================
+管理员揭开了盖在上面的塑料膜。
+====================
+
+====================
+index 67
+offset 12510
+name NULL
+length 58
+====================
+These electric appliances look to be in fairly good shape.
+====================
+里面堆积着不少漂亮的电器制品。
+====================
+
+====================
+index 68
+offset 12894
+name Caretaker
+length 18
+====================
+\"Will these do?\"
+====================
+这样的可以了吧？
+====================
+
+====================
+index 69
+offset 12962
+name Tomoya
+length 12
+====================
+\"Perfect.\"
+====================
+足够了
+====================
+
+====================
+index 70
+offset 13260
+name NULL
+length 63
+====================
+I look for the longest non-corroded cord I can find and cut it.
+====================
+我找了一段腐蚀得不怎么厉害的电源线割了下来。
+====================
+
+====================
+index 71
+offset 14183
+name NULL
+length 17
+====================
+The rest is easy.
+====================
+之后就是些简单的工作了。
+====================
+
+====================
+index 72
+offset 14216
+name NULL
+length 55
+====================
+If it's not long enough, I just have to make it longer.
+====================
+既然长度不够、那只要补足了就行了。
+====================
+
+====================
+index 73
+offset 14287
+name NULL
+length 91
+====================
+I cut the worn-out parts off the extension cord and connect it to the cable I brought back.
+====================
+我只把延长线坏掉的部分切了下来、然后和刚才割下的电源线连了起来。
+====================
+
+====================
+index 74
+offset 14394
+name NULL
+length 92
+====================
+After I splice the wires together and wrap it with some electrical tape, the repair is done.
+====================
+把导线捻好之后、作为应急处理的话、用塑料胶带把电线包好就完成了。
+====================
+
+====================
+index 75
+offset 14536
+name Tomoya
+length 32
+====================
+\"It'll do for the time being.\"
+====================
+这样的话暂时就没问题了
+====================
+
+====================
+index 76
+offset 14584
+name NULL
+length 59
+====================
+I turn the power on, and the vacuum cleaner starts working.
+====================
+按下了电源、吸尘器轻快地运作了起来。
+====================
+
+====================
+index 77
+offset 14693
+name Tomoya
+length 98
+====================
+\"But you should really buy a new extension cable as soon as possible. It's dangerous otherwise.\"
+====================
+但是、还是尽早去买一根新的延长线吧？这么做挺危险的
+====================
+
+====================
+index 78
+offset 15079
+name NULL
+length 32
+====================
+The caretaker nods with a smile.
+====================
+管理员笑着点着头。
+====================
+
+====================
+index 79
+offset 15550
+name NULL
+length 66
+====================
+After that, she shows me around the village to show her gratitude.
+====================
+然后、作为回礼、她带着我游览着村子。
+====================
+
+====================
+index 80
+offset 15632
+name NULL
+length 135
+====================
+Even though the villagers still run away when spoken to, I manage to learn about village life and how the different buildings are used.
+====================
+虽然和村民们搭话他们还是一样会逃跑、但是确实了解了不少村子里的生活和设施之类的。
+====================
+
+====================
+index 81
+offset 16216
+name NULL
+length 60
+====================
+The building in the middle is like the heart of the village.
+====================
+村子中央的那个房子、简单说来就是村子的主干。
+====================
+
+====================
+index 82
+offset 16292
+name NULL
+length 68
+====================
+Many villagers live there, and they mainly spend their days farming.
+====================
+村里人大都住在那里、每一天的生活也基本都是在务农。
+====================
+
+====================
+index 83
+offset 16376
+name NULL
+length 130
+====================
+I also learn that every couple of days, a doctor comes here from the town at the base of the mountain to see how things are going.
+====================
+也知道了每隔一两天、从山脚下的小镇也会来医生。
+====================
+
+====================
+index 84
+offset 16522
+name NULL
+length 83
+====================
+In a way, it's like this is a village that had grown from the hospital it once was.
+====================
+从某种意义上来说、就好像把医院搬到了村子里面一样。
+====================
+
+====================
+index 85
+offset 16658
+name Tomoya
+length 37
+====================
+\"...so, what do you want me to do?\"
+====================
+…那么、你想让我干什么？
+====================
+
+====================
+index 86
+offset 16711
+name NULL
+length 41
+====================
+In front of me is an old washing machine.
+====================
+眼前的是一台旧式的洗衣机。
+====================
+
+====================
+index 87
+offset 16768
+name NULL
+length 112
+====================
+It's an old washing machine and dryer combo set. It's so old, I'm hit by a wave of nostalgia just looking at it.
+====================
+是那种洗衣和脱水槽分开来的样式、看着它就有种很怀念的感觉。
+====================
+
+====================
+index 88
+offset 17206
+name Caretaker
+length 58
+====================
+\"I was thinking that you might be willing to repair it.\"
+====================
+我在想你能不能把它修好呢
+====================
+
+====================
+index 89
+offset 17590
+name Caretaker
+length 41
+====================
+\"You have nothing better to do, right?\"
+====================
+反正你也很有空吧？
+====================
+
+====================
+index 90
+offset 17681
+name Tomoya
+length 40
+====================
+\"It may not look it, but sadly, I do.\"
+====================
+虽然看上去是这样、但我并不是很有空啊
+====================
+
+====================
+index 91
+offset 17737
+name NULL
+length 36
+====================
+I have enough things to think about.
+====================
+还有堆积如山的事情需要思考。
+====================
+
+====================
+index 92
+offset 18092
+name Woman
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 93
+offset 18121
+name NULL
+length 56
+====================
+There's a frightened-looking woman behind the caretaker.
+====================
+管理员的身后有一位畏畏缩缩的女性。
+====================
+
+====================
+index 94
+offset 18227
+name Tomoya
+length 29
+====================
+\"...who's that behind you?\"
+====================
+…你身后的那位是？
+====================
+
+====================
+index 95
+offset 18581
+name Caretaker
+length 108
+====================
+\"This is Satomi-san. She handles our laundry. But we're at a loss now that the washing machine is broken.\"
+====================
+负责洗衣服的聪美。因为洗衣机坏了所以现在很困扰呢
+====================
+
+====================
+index 96
+offset 18742
+name Tomoya
+length 12
+====================
+\"...fine.\"
+====================
+…我明白了
+====================
+
+====================
+index 97
+offset 18770
+name NULL
+length 34
+====================
+It doesn't look like I can refuse.
+====================
+看来无论如何都不能拒绝了。
+====================
+
+====================
+index 98
+offset 18854
+name Tomoya
+length 35
+====================
+\"...you've got the tools, right?\"
+====================
+…工具有吗
+====================
+
+====================
+index 99
+offset 19215
+name Caretaker
+length 39
+====================
+\"Yes, you can use anything you need.\"
+====================
+是的、用得着的话就请随便用吧
+====================
+
+====================
+index 100
+offset 19270
+name NULL
+length 34
+====================
+She brings up a weathered toolbox.
+====================
+她拿出的工具箱看起来也是有相当年代的东西了。
+====================
+
+====================
+index 101
+offset 19354
+name Tomoya
+length 42
+====================
+\"What happened when it stopped working?\"
+====================
+动不了的时候、是怎么样的情形呢？
+====================
+
+====================
+index 102
+offset 19722
+name Caretaker
+length 85
+====================
+\"It suddenly started to roar, and soon after that, the switch stopped working too.\"
+====================
+突然就发出了一阵怪声、然后开关就不管用了
+====================
+
+====================
+index 103
+offset 19823
+name NULL
+length 43
+====================
+I can think of a couple of possible causes.
+====================
+我在头脑中设想着好几种可能性。
+====================
+
+====================
+index 104
+offset 20152
+name NULL
+length 58
+====================
+However, there's not much I can do without metering tools.
+====================
+即使如此、因为没有测试用的工具所以能做的事太少了。
+====================
+
+====================
+index 105
+offset 20226
+name NULL
+length 68
+====================
+There is a tester in the toolbox, but I have never used one at work.
+====================
+虽然工具箱里也有万用表、但是似乎始终派不上什么用场。
+====================
+
+====================
+index 106
+offset 20310
+name NULL
+length 76
+====================
+Being able to check the electricity is still better than nothing, I suppose.
+====================
+即使如此、因为能够测量是否通电、所以总归要稍微好一点。
+====================
+
+====================
+index 107
+offset 20405
+name NULL
+length 58
+====================
+I try each part to make sure they can conduct electricity.
+====================
+我一个一个地测试着部件是否通电正常。
+====================
+
+====================
+index 108
+offset 20479
+name NULL
+length 55
+====================
+The woman from earlier watches from behind as I fix it.
+====================
+然后、刚才那个女性就在我身后看着我。
+====================
+
+====================
+index 109
+offset 20583
+name Woman
+length 22
+====================
+\"...can you fix it?\"
+====================
+…能修好吗？
+====================
+
+====================
+index 110
+offset 20621
+name NULL
+length 85
+====================
+I feel as if it's the first time I've been addressed since I arrived at this village.
+====================
+我感觉好像这是我来这个村子以后第一次被人问话耶。
+====================
+
+====================
+index 111
+offset 20756
+name Tomoya
+length 21
+====================
+\"I don't know yet.\"
+====================
+现在还不知道
+====================
+
+====================
+index 112
+offset 20827
+name Tomoya
+length 96
+====================
+\"But it doesn't look difficult to fix. If the parts are fine, I think it should be all right.\"
+====================
+但是并不是那么难弄的、只要部件没问题我想应该就能修好
+====================
+
+====================
+index 113
+offset 20939
+name NULL
+length 139
+====================
+I turn the power on once to see if anything happens. The dryer is the only part that doesn't turn on, so it's obvious where the problem is.
+====================
+试了试接通电源、因为只有脱水机不动、所以还是比较容易找出问题的原因的。
+====================
+
+====================
+index 114
+offset 21094
+name NULL
+length 73
+====================
+The washing machine's motor, which I took out, works without any problem.
+====================
+把取出的马达接通了电源、它轻快的转动了起来。
+====================
+
+====================
+index 115
+offset 21183
+name NULL
+length 44
+====================
+It seems that there's nothing wrong with it.
+====================
+这里好像没有问题。
+====================
+
+====================
+index 116
+offset 21243
+name NULL
+length 38
+====================
+The woman stares intently at my hands.
+====================
+她好像要把我的手吃掉一般地看着我的工作。
+====================
+
+====================
+index 117
+offset 21331
+name Tomoya
+length 41
+====================
+\"Are you interested in what I'm doing?\"
+====================
+你也感兴趣吗？
+====================
+
+====================
+index 118
+offset 21388
+name NULL
+length 58
+====================
+When I ask her, she looks surprised and hides in a corner.
+====================
+我一问话、她就好像吃了一惊似地躲到了角落里了。
+====================
+
+====================
+index 119
+offset 21496
+name Tomoya
+length 13
+====================
+\"...sorry.\"
+====================
+…抱歉
+====================
+
+====================
+index 120
+offset 21525
+name NULL
+length 38
+====================
+I return my focus to the task at hand.
+====================
+我继续看着手边的工作。
+====================
+
+====================
+index 121
+offset 21579
+name NULL
+length 64
+====================
+I stick the pins of the tester at the roots of the cables again.
+====================
+再一次把万用表的探针刺进了电线的端头。
+====================
+
+====================
+index 122
+offset 21659
+name NULL
+length 35
+====================
+...the needle doesn't move an inch.
+====================
+…指针没有动。
+====================
+
+====================
+index 123
+offset 21744
+name Tomoya
+length 23
+====================
+\"Here's the problem.\"
+====================
+就是这里吗
+====================
+
+====================
+index 124
+offset 21783
+name NULL
+length 70
+====================
+I take out a notepad and write down the cable's color and connections.
+====================
+我取出笔记本、把电线的颜色和连接方式记录了下来。
+====================
+
+====================
+index 125
+offset 21869
+name NULL
+length 70
+====================
+I notice a presence behind me. Like me, she is peering at the notepad.
+====================
+我看向身后、她也在看着我的笔记本。
+====================
+
+====================
+index 126
+offset 21989
+name Tomoya
+length 110
+====================
+\"...the GND is the line where the electricity goes out, and the red line is where the electricity comes in.\"
+====================
+…ＧＮＤ是电流流出的线、红色的线是电流流入的线
+====================
+
+====================
+index 127
+offset 22149
+name Tomoya
+length 76
+====================
+\"The circuit was cut somewhere inside. If I can find where, I can fix it.\"
+====================
+这里当中有地方断了、只要找到在哪里就能修理好了
+====================
+
+====================
+index 128
+offset 22241
+name NULL
+length 68
+====================
+Hearing me mutter as if I were talking to myself, she nods, puzzled.
+====================
+我好像自言自语似地说着、她听了也默默地点了点头。
+====================
+
+====================
+index 129
+offset 22328
+name NULL
+length 101
+====================
+Although I have no idea whether the soldering iron works, I give it a try and fix the line's contact.
+====================
+用不知道是否管用的电线把线路接好。
+====================
+
+====================
+index 130
+offset 22445
+name NULL
+length 113
+====================
+The fuse in the middle is blown, so I look for a fuse with the same resistance in the trash heap, and replace it.
+====================
+其中的保险丝不见了、于是我便在垃圾山里找了个同型号的保险丝装了上去。
+====================
+
+====================
+index 131
+offset 22574
+name NULL
+length 73
+====================
+I clean out the dust and filth, and then cover the moving parts with oil.
+====================
+给可动的部位上了油、然后去掉了污垢。
+====================
+
+====================
+index 132
+offset 22663
+name NULL
+length 36
+====================
+With that, the assembly is finished.
+====================
+然后、把它重新组装了起来。
+====================
+
+====================
+index 133
+offset 22749
+name Tomoya
+length 51
+====================
+\"Can you turn on the power and see what happens?\"
+====================
+你开一下开关试试看？
+====================
+
+====================
+index 134
+offset 22816
+name NULL
+length 49
+====================
+She nods and timidly turns the dial of the dryer.
+====================
+她点了点头、战战兢兢地转动着脱水机的旋钮。
+====================
+
+====================
+index 135
+offset 22881
+name NULL
+length 65
+====================
+The washing machine starts to vibrate while making a dull rumble.
+====================
+洗衣机发出了低沉的声音开始震动了。
+====================
+
+====================
+index 136
+offset 22995
+name Woman
+length 8
+====================
+\"...!\"
+====================
+………！
+====================
+
+====================
+index 137
+offset 23019
+name NULL
+length 109
+====================
+She doesn't make a sound, but by the way she's looking at me and the washing machine, I know she's surprised.
+====================
+虽然她没有说话、但是她不停地看着我和洗衣机、我明白她很吃惊。
+====================
+
+====================
+index 138
+offset 23178
+name Tomoya
+length 26
+====================
+\"That's good, isn't it?\"
+====================
+太好了
+====================
+
+====================
+index 139
+offset 23220
+name NULL
+length 88
+====================
+She suddenly grabs my hands after I wipe the oil from my hands with a cloth I was given.
+====================
+就在我拿着棉布擦着手上的油渍的时候、她突然握住了我的手。
+====================
+
+====================
+index 140
+offset 23358
+name Tomoya
+length 21
+====================
+\"H-Hey, what's...?\"
+====================
+喂、等等…
+====================
+
+====================
+index 141
+offset 23428
+name Woman
+length 16
+====================
+\"T-Thank you.\"
+====================
+谢、谢谢你
+====================
+
+====================
+index 142
+offset 23460
+name NULL
+length 107
+====================
+Her voice sounds fragile as she thanks me, but her hands are shaking and she has a happy smile on her face.
+====================
+和她那小声的道谢相反的、她不停地摇着我的手、很开心地笑着。
+====================
+
+====================
+index 143
+offset 23586
+name NULL
+length 58
+====================
+I end up spending the day repairing things in the village.
+====================
+结果、一整天就在为村子里的人修理东西中度过。
+====================
+
+====================
+index 144
+offset 23660
+name NULL
+length 88
+====================
+That's because the caretaker and the laundry girl told everyone in the village about me.
+====================
+这都是因为管理人和负责洗衣服的她在村子里到处宣传的结果。
+====================
+
+====================
+index 145
+offset 24970
+name Caretaker
+length 14
+====================
+\"Good work.\"
+====================
+辛苦了
+====================
+
+====================
+index 146
+offset 25034
+name Tomoya
+length 20
+====================
+\"Ah, I'm tired...\"
+====================
+啊、真的是辛苦了…
+====================
+
+====================
+index 147
+offset 25340
+name NULL
+length 90
+====================
+The caretaker sets a glass of tea down in front of me as I sit down, completely exhausted.
+====================
+她把一杯茶放在了累倒在椅子上的我身边。
+====================
+
+====================
+index 148
+offset 25446
+name NULL
+length 25
+====================
+I drink it all in one go.
+====================
+我一口气喝干了。
+====================
+
+====================
+index 149
+offset 25487
+name NULL
+length 41
+====================
+She pours me some more when I ask for it.
+====================
+说着『再来一杯』、她又为我倒满了。
+====================
+
+====================
+index 150
+offset 25544
+name NULL
+length 55
+====================
+This really isn't what I should be spending my time on.
+====================
+明明就不是该做这种事情的时候。
+====================
+
+====================
+index 151
+offset 25615
+name NULL
+length 82
+====================
+I force myself to think as I stare at the glass, which is covered in condensation.
+====================
+我呆呆地望着那还沾有水珠的玻璃杯、不停地逼着自己快点想快点想。
+====================
+
+====================
+index 152
+offset 26023
+name Caretaker
+length 32
+====================
+\"What are you thinking about?\"
+====================
+你一直都在想什么呢？
+====================
+
+====================
+index 153
+offset 26105
+name Tomoya
+length 16
+====================
+\"Oh? Nothing.\"
+====================
+诶？没什么
+====================
+
+====================
+index 154
+offset 26447
+name Caretaker
+length 65
+====================
+\"What to do to get Yuko-san and her daughter to live together?\"
+====================
+是在想要让有子和她的女儿一起住在这里吗？
+====================
+
+====================
+index 155
+offset 26528
+name NULL
+length 14
+====================
+...bull's-eye.
+====================
+…一语中的。
+====================
+
+====================
+index 156
+offset 26867
+name Caretaker
+length 24
+====================
+\"That's not possible.\"
+====================
+不可能的
+====================
+
+====================
+index 157
+offset 26907
+name NULL
+length 22
+====================
+It's a frank response.
+====================
+还真是我最不想听到的回答呢。
+====================
+
+====================
+index 158
+offset 26982
+name Caretaker
+length 35
+====================
+\"You heard from Yuko-san, right?\"
+====================
+你也听有子说了吧
+====================
+
+====================
+index 159
+offset 27033
+name NULL
+length 80
+====================
+The tone of her voice is very kind, as if she's admonishing a disobedient child.
+====================
+她的声音很温柔、好像是在教育固执的孩子一样。
+====================
+
+====================
+index 160
+offset 27166
+name Caretaker
+length 65
+====================
+\"This village is a place where people have absolutely nothing.\"
+====================
+这个村子是一无所有的人们居住的地方
+====================
+
+====================
+index 161
+offset 27284
+name Caretaker
+length 98
+====================
+\"Moreover, there are plenty of other things you have to worry about here, like your daily life.\"
+====================
+而且呢、就算要生活下来也是有很多困难的
+====================
+
+====================
+index 162
+offset 27435
+name Caretaker
+length 77
+====================
+\"I'll just ask. When you came here, you climbed up a mountain road, right?\"
+====================
+你们也说过了、到这里来的时候是走的山道吧？
+====================
+
+====================
+index 163
+offset 27565
+name Caretaker
+length 25
+====================
+\"How long did it take?\"
+====================
+要花多少时间呢？
+====================
+
+====================
+index 164
+offset 27606
+name NULL
+length 40
+====================
+With adult legs, it took over two hours.
+====================
+就算是大人步行也需要两个小时以上。
+====================
+
+====================
+index 165
+offset 27699
+name Caretaker
+length 55
+====================
+\"It takes that long just to buy the things you need.\"
+====================
+只是买些必需品、就要花那么多时间
+====================
+
+====================
+index 166
+offset 27807
+name Caretaker
+length 65
+====================
+\"That's because this village doesn't even show up on any maps.\"
+====================
+这里就好像是个地图上根本就没有标记的村子呢
+====================
+
+====================
+index 167
+offset 27925
+name Caretaker
+length 85
+====================
+\"It gets even worse when you start thinking about how to get your child to school.\"
+====================
+如果想要上学的话、那就更加麻烦了
+====================
+
+====================
+index 168
+offset 28063
+name Caretaker
+length 58
+====================
+\"And there's what you call 'society' over there, right?\"
+====================
+而且在学校、还有着所谓的叫做社会的东西吧？
+====================
+
+====================
+index 169
+offset 28174
+name Caretaker
+length 58
+====================
+\"It's because she's here that Yuko-san can remain calm.\"
+====================
+正因为是在这样的地方、现在的有子才能安稳地生活着
+====================
+
+====================
+index 170
+offset 28282
+name Tomoya
+length 35
+====================
+\"Have you... lost something too?\"
+====================
+你也是、那个…失去了什么的人吗？
+====================
+
+====================
+index 171
+offset 28642
+name Caretaker
+length 85
+====================
+\"I'm only overseeing this place, so that doesn't apply to me... What's your point?\"
+====================
+我只是负责管理着这里、并没有那样…怎么了？
+====================
+
+====================
+index 172
+offset 28777
+name Tomoya
+length 62
+====================
+\"So you can't drop someone off and come pick them up later?\"
+====================
+那么、你可以负责接送孩子啊
+====================
+
+====================
+index 173
+offset 28892
+name Caretaker
+length 51
+====================
+\"Who's going to keep an eye on things here then?\"
+====================
+那么、谁来管理这里？
+====================
+
+====================
+index 174
+offset 29269
+name Caretaker
+length 13
+====================
+\"Will you?\"
+====================
+你吗？
+====================
+
+====================
+index 175
+offset 29335
+name Caretaker
+length 38
+====================
+\"You won't get paid for it, though.\"
+====================
+没有工资的哦
+====================
+
+====================
+index 176
+offset 29426
+name Caretaker
+length 47
+====================
+\"Will you throw your whole life away for it?\"
+====================
+你能舍弃你现在所有的生活吗？
+====================
+
+====================
+index 177
+offset 29523
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 178
+offset 29552
+name NULL
+length 38
+====================
+I can't do anything but shake my head.
+====================
+就这样拖拖拉拉地什么都做不了、一直忧心着休假的时间就快要结束了。
+====================
+
+====================
+index 179
+offset 30029
+name NULL
+length 37
+====================
+I told the villagers my wish as well.
+====================
+也许哪里的资本家或者大人物能做得到吧。但是我只是一个微不足道的劳动者而已。
+====================
+
+====================
+index 180
+offset 30082
+name NULL
+length 67
+====================
+They listened to my story, but no one looked that happy to hear it.
+====================
+即使是如此的荒诞不经但也是她认真考虑过的主意吧。不过实在是太违背常识了。虽然很可惜但是我是不可能做到的。
+====================

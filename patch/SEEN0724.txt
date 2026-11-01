@@ -1,0 +1,57 @@
+type seen724
+count 5
+
+====================
+index 1
+offset 263
+name NULL
+length 15
+====================
+July 24th (Sat)
+====================
+７月２４日（星期六）
+====================
+
+====================
+index 2
+offset 714
+name NULL
+length 44
+====================
+Even during work, I continue image training.
+====================
+工作时我也在进行着想象练习。
+====================
+
+====================
+index 3
+offset 774
+name NULL
+length 73
+====================
+I can already remember the keys' positions even without the keyboard now.
+====================
+现在就算不看键盘、也能想起按键的排列。
+====================
+
+====================
+index 4
+offset 897
+name Tomoya
+length 70
+====================
+(I keep mastering abilities that have absolutely no use for my job...)
+====================
+（真是的、怎么总是学会些和工作无关的东西啊…）
+====================
+
+====================
+index 5
+offset 1406
+name NULL
+length 51
+====================
+Even on my day off, I spend all my time practicing.
+====================
+所有的休息日也都用在了练习上。
+====================

@@ -1,0 +1,1168 @@
+type seen2814
+count 106
+
+====================
+index 1
+offset 807
+name Caretaker
+length 38
+====================
+\"You have time to spare, don't you?\"
+====================
+你有空吧？
+====================
+
+====================
+index 2
+offset 895
+name Tomoya
+length 44
+====================
+\"Well, yes, I'm kind of free right now...\"
+====================
+嗯、算是吧、现在还算清闲…
+====================
+
+====================
+index 3
+offset 955
+name NULL
+length 57
+====================
+I can't really deny that I'd been idling away these days.
+====================
+我确实没法否认、这几天一直无所事事。
+====================
+
+====================
+index 4
+offset 1065
+name Caretaker
+length 106
+====================
+\"It's said that you should feel indebted for each meal and night of accommodation you are provided, no?\"
+====================
+俗话说、一饭一宿皆是恩义吧？
+====================
+
+====================
+index 5
+offset 1221
+name Tomoya
+length 54
+====================
+\"Yeah, I got it. I'll just have to fix them, right?\"
+====================
+好、我知道了。我去修就是了。
+====================
+
+====================
+index 6
+offset 1291
+name NULL
+length 80
+====================
+The caretaker brings out several electrical appliances. All of them are ancient.
+====================
+管理员搬出了好几件家电。每一件都很旧。
+====================
+
+====================
+index 7
+offset 1696
+name Caretaker
+length 67
+====================
+\"It would be very helpful if you can get this... and this fixed.\"
+====================
+要是能把这个…还有这个修好的话、就帮大忙了。
+====================
+
+====================
+index 8
+offset 1779
+name NULL
+length 59
+====================
+She taps on the household appliances that are on the table.
+====================
+她敲了敲桌上的家电。
+====================
+
+====================
+index 9
+offset 2124
+name NULL
+length 58
+====================
+A mixer and a VCR; both of them still look as good as new.
+====================
+一个搅拌机、还有一台录像机。两台看上去都还算完好。
+====================
+
+====================
+index 10
+offset 2198
+name NULL
+length 52
+====================
+However, nothing happens when I try to turn them on.
+====================
+可是按下开关、却毫无反应。
+====================
+
+====================
+index 11
+offset 2266
+name NULL
+length 73
+====================
+I don't know if they can still be used, but I still test them one by one.
+====================
+不知道还能不能用、我还是挨个试了一遍。
+====================
+
+====================
+index 12
+offset 3233
+name Tomoya
+length 98
+====================
+\"It's such a pain to fix these out here when I don't have any replacement parts lying around...\"
+====================
+在这种地方修、手边又没有什么替换零件、真是麻烦…
+====================
+
+====================
+index 13
+offset 3347
+name NULL
+length 157
+====================
+Although it had taken me twice the time compared to working at the workshop, I could identity the broken parts. However, the problem lies in what comes next.
+====================
+虽然花了两倍于在工房干活的时间、坏掉的部件总算是找出来了。可问题在后面。
+====================
+
+====================
+index 14
+offset 3520
+name NULL
+length 117
+====================
+I need to look for working parts like rated fuses and capacitors from whatever circuit boards that aren't being used.
+====================
+我得从那些不用的电路板上、找出还能用的保险丝和电容。
+====================
+
+====================
+index 15
+offset 3653
+name NULL
+length 103
+====================
+One look is all I need to tell if a fuse can still be used, but the same can't be said for a capacitor.
+====================
+保险丝还能不能用、看一眼就知道、电容就不好说了。
+====================
+
+====================
+index 16
+offset 3772
+name NULL
+length 155
+====================
+I can tell if it's split or if there are any parts leaking or bloated. However, some seem like they could work at first glance, but actually aren't usable.
+====================
+有没有裂开、有没有漏液或者鼓包、这些看得出来。可有些乍看能用、其实已经不行了。
+====================
+
+====================
+index 17
+offset 3943
+name NULL
+length 104
+====================
+In addition, I will have to search through the mountain of trash just to look for the replacement parts.
+====================
+而且为了找替换零件、我还得在那堆垃圾山里翻找。
+====================
+
+====================
+index 18
+offset 4063
+name NULL
+length 64
+====================
+And that's another terribly time consuming job in and of itself.
+====================
+这本身又是件极其耗时间的事。
+====================
+
+====================
+index 19
+offset 4177
+name Tomoya
+length 39
+====================
+\"Ah... so this doesn't do it either.\"
+====================
+啊…这样也不行啊。
+====================
+
+====================
+index 20
+offset 4232
+name NULL
+length 52
+====================
+As I grumbled, I became totally immersed in my work.
+====================
+我一边嘟囔着、一边完全埋头干了起来。
+====================
+
+====================
+index 21
+offset 5447
+name Tomoyo
+length 31
+====================
+\"Tomoya, what are you doing?\"
+====================
+朋也、你在做什么？
+====================
+
+====================
+index 22
+offset 5528
+name Tomoya
+length 24
+====================
+\"Hm? Repairing these.\"
+====================
+嗯？在修这些东西。
+====================
+
+====================
+index 23
+offset 5874
+name Tomoyo
+length 73
+====================
+\"Even though there's no need to work when you're all the way out here?\"
+====================
+都跑到这么远的地方来了、用不着干活吧？
+====================
+
+====================
+index 24
+offset 5997
+name Tomoya
+length 36
+====================
+\"It's not work; I'm volunteering.\"
+====================
+这不是活、是志愿帮忙。
+====================
+
+====================
+index 25
+offset 6083
+name Tomoya
+length 37
+====================
+\"You care enough to volunteer too?\"
+====================
+你也愿意来帮忙吗？
+====================
+
+====================
+index 26
+offset 6442
+name Tomoyo
+length 42
+====================
+\"Of course I do. Here, let me help you.\"
+====================
+当然愿意。来、我帮你。
+====================
+
+====================
+index 27
+offset 6534
+name Tomoyo
+length 21
+====================
+\"What should I do?\"
+====================
+我该做什么？
+====================
+
+====================
+index 28
+offset 7056
+name NULL
+length 71
+====================
+And so, the two of us devoted the rest of our time here on these tasks.
+====================
+于是、我们两个人把在这里剩下的时间都用在了这些事上。
+====================
+
+====================
+index 29
+offset 7173
+name NULL
+length 7
+====================
+BAD END
+====================
+ＢＡＤ　ＥＮＤ
+====================
+
+====================
+index 30
+offset 7638
+name NULL
+length 57
+====================
+And finally, today is the last day of my summer vacation.
+====================
+终于、今天是暑假的最后一天。
+====================
+
+====================
+index 31
+offset 7711
+name NULL
+length 47
+====================
+Smiling, Tomoyo waves goodbye at the caretaker.
+====================
+智代笑着向管理员挥手道别。
+====================
+
+====================
+index 32
+offset 7774
+name NULL
+length 92
+====================
+For some reason, that feels to me as though she's vaunting how she has triumphed in the end.
+====================
+不知道为什么、在我看来那像是在炫耀她最终赢了。
+====================
+
+====================
+index 33
+offset 7885
+name NULL
+length 42
+====================
+I wonder what this journey has been for...
+====================
+这趟旅程到底是为了什么呢…
+====================
+
+====================
+index 34
+offset 7943
+name NULL
+length 82
+====================
+At first, it was because I wanted to know the reason Tomo's mother let go of Tomo.
+====================
+一开始、是想知道小智的母亲为什么会放手。
+====================
+
+====================
+index 35
+offset 8041
+name NULL
+length 16
+====================
+I got my answer.
+====================
+答案我已经得到了。
+====================
+
+====================
+index 36
+offset 8073
+name NULL
+length 30
+====================
+However, I remain unsatisfied.
+====================
+可是、我还是无法释怀。
+====================
+
+====================
+index 37
+offset 8119
+name NULL
+length 38
+====================
+However, I can't do anything about it.
+====================
+可是、我也无能为力。
+====================
+
+====================
+index 38
+offset 8173
+name NULL
+length 19
+====================
+However, however...
+====================
+可是、可是…
+====================
+
+====================
+index 39
+offset 8208
+name NULL
+length 58
+====================
+I continue in an endless loop, answering my own questions.
+====================
+我就这样陷在无止境的循环里、自问自答着。
+====================
+
+====================
+index 40
+offset 9133
+name NULL
+length 103
+====================
+Under the dark night, all I can see through the train window are the lights of the few houses far away.
+====================
+夜色之中、从电车车窗外能看到的、只有远处零星几户人家的灯火。
+====================
+
+====================
+index 41
+offset 9252
+name NULL
+length 96
+====================
+On the local train void of any passengers besides us, all I can hear is Tomoyo's cheerful voice.
+====================
+除了我们之外空无一人的地方电车里、能听到的只有智代快活的声音。
+====================
+
+====================
+index 42
+offset 9364
+name NULL
+length 61
+====================
+Since it's the summer vacation, let's take Tomo to the beach.
+====================
+既然放暑假了、就带小智去海边吧。
+====================
+
+====================
+index 43
+offset 9441
+name NULL
+length 54
+====================
+Let's bring some fireworks too. I'm sure it'll be fun.
+====================
+也带上烟花吧。一定会很好玩。
+====================
+
+====================
+index 44
+offset 9511
+name NULL
+length 37
+====================
+Let's do lots of fun things with her.
+====================
+带她去做很多开心的事吧。
+====================
+
+====================
+index 45
+offset 9564
+name NULL
+length 37
+====================
+Every single time, I nod and respond.
+====================
+每一次、我都点头应着。
+====================
+
+====================
+index 46
+offset 9617
+name NULL
+length 19
+====================
+Yeah, that's right.
+====================
+嗯、是啊。
+====================
+
+====================
+index 47
+offset 9652
+name NULL
+length 22
+====================
+I'm sure it'll be fun.
+====================
+一定会很好玩的。
+====================
+
+====================
+index 48
+offset 9693
+name NULL
+length 94
+====================
+Every time, I answer her with a half-mechanical nod while vacantly thinking of something else.
+====================
+每次、我都半机械地点头回应她、脑子里却在呆呆地想着别的事。
+====================
+
+====================
+index 49
+offset 9803
+name NULL
+length 28
+====================
+Tomo does not have a mother.
+====================
+小智没有母亲。
+====================
+
+====================
+index 50
+offset 9847
+name NULL
+length 12
+====================
+Not anymore.
+====================
+已经没有了。
+====================
+
+====================
+index 51
+offset 9875
+name NULL
+length 54
+====================
+However, parents aren't just those connected by blood.
+====================
+可是、父母并不只是靠血缘联系起来的。
+====================
+
+====================
+index 52
+offset 9945
+name NULL
+length 82
+====================
+Even if they're connected by blood, they could still end up like me and my father.
+====================
+就算有血缘、也有可能像我和父亲那样。
+====================
+
+====================
+index 53
+offset 10043
+name NULL
+length 65
+====================
+Tomoyo is sitting beside me, while Tomo sits between us, smiling.
+====================
+智代坐在我旁边、小智坐在我们中间、笑着。
+====================
+
+====================
+index 54
+offset 10124
+name NULL
+length 44
+====================
+Isn't that a wonderful, heartwarming family?
+====================
+这不就是很美好、很温暖的一家人吗？
+====================
+
+====================
+index 55
+offset 10184
+name NULL
+length 90
+====================
+Although life will be a little difficult, we can still live modestly as a family of three.
+====================
+日子虽然会有些拮据、但我们一家三口总能过上简朴的生活。
+====================
+
+====================
+index 56
+offset 10290
+name NULL
+length 49
+====================
+That's right. There is nothing to complain about.
+====================
+没错。没有什么可抱怨的。
+====================
+
+====================
+index 57
+offset 10355
+name NULL
+length 15
+====================
+Nevertheless...
+====================
+尽管如此…
+====================
+
+====================
+index 58
+offset 10692
+name Tomoyo
+length 14
+====================
+\"What's up?\"
+====================
+怎么了？
+====================
+
+====================
+index 59
+offset 10756
+name Tomoya
+length 8
+====================
+\"Huh?\"
+====================
+嗯？
+====================
+
+====================
+index 60
+offset 10814
+name Tomoyo
+length 38
+====================
+\"You've been quiet for a while now.\"
+====================
+你刚才一直没说话。
+====================
+
+====================
+index 61
+offset 10902
+name Tomoya
+length 40
+====================
+\"Oh, I was thinking about our future.\"
+====================
+哦、我在想我们的将来。
+====================
+
+====================
+index 62
+offset 10992
+name Tomoyo
+length 14
+====================
+\"Like what?\"
+====================
+想什么？
+====================
+
+====================
+index 63
+offset 11056
+name Tomoya
+length 47
+====================
+\"Like, will we be happy if we stay together?\"
+====================
+比如、我们就这样在一起、会幸福吗？
+====================
+
+====================
+index 64
+offset 11425
+name Tomoyo
+length 48
+====================
+\"Absolutely. We'll be happy, I have no doubt.\"
+====================
+当然。我们会幸福的、我毫不怀疑。
+====================
+
+====================
+index 65
+offset 12334
+name NULL
+length 67
+====================
+To go back to her own home, Tomoyo split up with me at the station.
+====================
+为了回自己家、智代在车站和我分开了。
+====================
+
+====================
+index 66
+offset 13262
+name NULL
+length 111
+====================
+Unlike the highlands, the night wind feels a little sticky. Step by step, I keep walking as it breezes past me.
+====================
+和山那边不同、夜风有些黏腻。它就那样从身边流过、我一步一步地走着。
+====================
+
+====================
+index 67
+offset 13389
+name NULL
+length 75
+====================
+Right now, Takafumi and Kanako are probably making a huge fuss in the room.
+====================
+这会儿、鹰文和河南子大概正在房间里闹得天翻地覆吧。
+====================
+
+====================
+index 68
+offset 13480
+name NULL
+length 67
+====================
+It has been a while since I saw Tomo. I wonder if she's doing fine.
+====================
+好久没见到小智了。不知她过得好不好。
+====================
+
+====================
+index 69
+offset 13566
+name NULL
+length 55
+====================
+Suddenly, I remember what I said when I left the house.
+====================
+忽然间、我想起自己出门时说过的话。
+====================
+
+====================
+index 70
+offset 13637
+name NULL
+length 24
+====================
+I didn't buy a souvenir.
+====================
+我没买特产。
+====================
+
+====================
+index 71
+offset 13677
+name NULL
+length 69
+====================
+I have no other choice; I get some ice cream at a nearby supermarket.
+====================
+没办法、我就在附近的超市买了些冰淇淋。
+====================
+
+====================
+index 72
+offset 14612
+name NULL
+length 63
+====================
+With the end of the summer vacation, Kanako has gone back home.
+====================
+随着暑假结束、河南子也回自己家去了。
+====================
+
+====================
+index 73
+offset 14691
+name NULL
+length 92
+====================
+Takafumi hardly ever showed either. All I heard is that he's starting track and field again.
+====================
+鹰文也几乎不再露面。只听说他重新开始练田径了。
+====================
+
+====================
+index 74
+offset 14802
+name NULL
+length 63
+====================
+It's just past noon on Saturday; all I am doing is spacing out.
+====================
+星期六刚过中午、我只是在发呆。
+====================
+
+====================
+index 75
+offset 14881
+name NULL
+length 62
+====================
+Leaning against Tomoyo's back, Tomo is reading a picture book.
+====================
+小智靠着智代的背、在看书。
+====================
+
+====================
+index 76
+offset 14959
+name NULL
+length 113
+====================
+At the same time, I am using Tomoyo's lap as a pillow and watching TV. It is during then when I suddenly noticed.
+====================
+同时、我把智代的腿当枕头躺着看电视。就在这时、我忽然注意到了。
+====================
+
+====================
+index 77
+offset 15122
+name Tomoya
+length 40
+====================
+\"...hey, don't you have school today?\"
+====================
+…喂、你今天不用去学校吗？
+====================
+
+====================
+index 78
+offset 15178
+name NULL
+length 88
+====================
+There should be morning classes on Saturday. Perhaps they changed it starting this year.
+====================
+星期六应该是有上午的课的。也许是今年开始改了吧。
+====================
+
+====================
+index 79
+offset 15589
+name Tomoyo
+length 14
+====================
+\"It's fine.\"
+====================
+没关系。
+====================
+
+====================
+index 80
+offset 15653
+name Tomoyo
+length 32
+====================
+\"I don't need school anymore.\"
+====================
+我已经不需要学校了。
+====================
+
+====================
+index 81
+offset 15735
+name Tomoya
+length 27
+====================
+\"You aren't going to go?\"
+====================
+你不去了吗？
+====================
+
+====================
+index 82
+offset 15812
+name Tomoyo
+length 36
+====================
+\"...if you tell me to go, I will.\"
+====================
+…你要是让我去、我就去。
+====================
+
+====================
+index 83
+offset 15864
+name NULL
+length 29
+====================
+Gently, she strokes my cheek.
+====================
+她轻轻地抚摸着我的脸颊。
+====================
+
+====================
+index 84
+offset 15943
+name Tomoyo
+length 26
+====================
+\"But it's your day off.\"
+====================
+不过、今天是你的休息日。
+====================
+
+====================
+index 85
+offset 16019
+name Tomoyo
+length 47
+====================
+\"It's okay for me to stay here with you, no?\"
+====================
+我留在这里陪着你、也可以吧？
+====================
+
+====================
+index 86
+offset 16082
+name NULL
+length 22
+====================
+She smiles innocently.
+====================
+她天真地笑了。
+====================
+
+====================
+index 87
+offset 16154
+name Tomoya
+length 11
+====================
+\"Yeah...\"
+====================
+嗯…
+====================
+
+====================
+index 88
+offset 16451
+name NULL
+length 16
+====================
+I simply nodded.
+====================
+我只是点了点头。
+====================
+
+====================
+index 89
+offset 16483
+name NULL
+length 51
+====================
+With that, Tomoyo gleefully lies down on top of me.
+====================
+于是、智代高高兴兴地趴到了我身上。
+====================
+
+====================
+index 90
+offset 16973
+name NULL
+length 45
+====================
+Our lives started to change little by little.
+====================
+我们的生活开始一点点地改变。
+====================
+
+====================
+index 91
+offset 17034
+name NULL
+length 31
+====================
+Tomoyo stopped going to school.
+====================
+智代不再去学校了。
+====================
+
+====================
+index 92
+offset 17081
+name NULL
+length 67
+====================
+The closet starts to contain Tomoyo's casual clothes and underwear.
+====================
+壁橱里开始放进了智代的便服和内衣。
+====================
+
+====================
+index 93
+offset 17164
+name NULL
+length 107
+====================
+We got a new dryer, and the area where we hang clothes out to dry is now often occupied by female clothing.
+====================
+我们买了新的烘干机、晾衣服的地方也常常被女性的衣物占满。
+====================
+
+====================
+index 94
+offset 17287
+name NULL
+length 114
+====================
+A night's stay here became two, and at last, she started to say \"I'm heading out\" instead of \"I'm going home.\"
+====================
+从住一晚变成住两晚、最后她说的不再是『我回去了』、而是『我出门了』。
+====================
+
+====================
+index 95
+offset 17417
+name NULL
+length 68
+====================
+It's a kind of lifestyle that definitely cannot be called organized.
+====================
+这绝不是能称得上有规律的生活方式。
+====================
+
+====================
+index 96
+offset 17501
+name NULL
+length 47
+====================
+And just like inertia, it drags on endlessly...
+====================
+而且就像惯性一样、无止境地拖了下去…
+====================
+
+====================
+index 97
+offset 17564
+name NULL
+length 39
+====================
+What we should have done that summer...
+====================
+那个夏天我们本该做的事…
+====================
+
+====================
+index 98
+offset 17619
+name NULL
+length 43
+====================
+...has grown to be of little concern to me.
+====================
+…如今对我而言已经不太在意了。
+====================
+
+====================
+index 99
+offset 17678
+name NULL
+length 75
+====================
+After all, no matter how little, I have found some joy in my lifestyle now.
+====================
+毕竟、不管多少、我现在的生活里总算找到了一些快乐。
+====================
+
+====================
+index 100
+offset 17769
+name NULL
+length 54
+====================
+Which is why I think... I don't have to worry anymore.
+====================
+所以我想…我已经不用再烦恼了。
+====================
+
+====================
+index 101
+offset 18271
+name NULL
+length 60
+====================
+The moonlight seeps in through the gap between the curtains.
+====================
+月光从窗帘的缝隙里渗进来。
+====================
+
+====================
+index 102
+offset 18347
+name NULL
+length 62
+====================
+It illuminates Tomoyo's white shoulders and outstretched arms.
+====================
+照亮了智代白色的肩膀和伸展开的手臂。
+====================
+
+====================
+index 103
+offset 18425
+name NULL
+length 61
+====================
+Her hand is gently stroking strands of glistening black hair.
+====================
+她的手轻轻抚着一缕缕闪亮的黑发。
+====================
+
+====================
+index 104
+offset 18502
+name NULL
+length 54
+====================
+All whilst its owner is breathing softly in her sleep.
+====================
+而那个人的主人正发出轻柔的呼吸、沉睡着。
+====================
+
+====================
+index 105
+offset 18572
+name NULL
+length 83
+====================
+The pleasures that I savor now... as well as that contrasting peaceful spectacle...
+====================
+我此刻品味的愉悦…以及那与之相对的、宁静的景象…
+====================
+
+====================
+index 106
+offset 18671
+name NULL
+length 58
+====================
+Both are humble happiness that I seized with my own hands.
+====================
+都是我用自己这双手抓住的、微不足道的幸福。
+====================

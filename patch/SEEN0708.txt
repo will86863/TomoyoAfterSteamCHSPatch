@@ -1,0 +1,3841 @@
+type seen708
+count 349
+
+====================
+index 1
+offset 266
+name NULL
+length 14
+====================
+July 8th (Thu)
+====================
+７月８日（星期四）
+====================
+
+====================
+index 2
+offset 769
+name NULL
+length 23
+====================
+...*Tap* *Tap* *Tap*...
+====================
+…咚咚咚…
+====================
+
+====================
+index 3
+offset 1233
+name NULL
+length 20
+====================
+*Tap* *Tap* *Tap*...
+====================
+咚咚咚…
+====================
+
+====================
+index 4
+offset 1269
+name NULL
+length 62
+====================
+The next morning, I wake up to the sound of the cutting board.
+====================
+第二天早上、我被切菜的声音吵醒了。
+====================
+
+====================
+index 5
+offset 1347
+name NULL
+length 33
+====================
+I'm alone in the futon. I sit up.
+====================
+被子里只剩下我一个人了。于是我坐了起来。
+====================
+
+====================
+index 6
+offset 1396
+name NULL
+length 84
+====================
+Tomoyo is in the kitchen wearing an apron. At her feet, Tomo is sitting on a basket.
+====================
+围着围裙的智代在厨房。在她的脚边、小智坐在倒扣着的篮子上。
+====================
+
+====================
+index 7
+offset 1530
+name Tomoya
+length 24
+====================
+\"Oh, wow, how moving.\"
+====================
+哇、好厉害、不知道为什么好感动
+====================
+
+====================
+index 8
+offset 1876
+name Tomoyo
+length 33
+====================
+\"Hm, are you up? Good morning.\"
+====================
+嗯、起来了吗。早安
+====================
+
+====================
+index 9
+offset 2231
+name Tomo
+length 23
+====================
+\"Papa, good morning.\"
+====================
+爸爸、早安ー
+====================
+
+====================
+index 10
+offset 2304
+name Tomoya
+length 23
+====================
+\"Yeah, good morning.\"
+====================
+啊、早啊
+====================
+
+====================
+index 11
+offset 2613
+name NULL
+length 32
+====================
+I get out of the futon and yawn.
+====================
+我从被子里钻出来、打了个哈欠。
+====================
+
+====================
+index 12
+offset 2695
+name Tomoya
+length 54
+====================
+\"Come to think of it, we're living as a couple now.\"
+====================
+对了、这就是同居生活吧
+====================
+
+====================
+index 13
+offset 3071
+name Tomoyo
+length 13
+====================
+\"Hm? Ah...\"
+====================
+嗯？　我想想…
+====================
+
+====================
+index 14
+offset 3134
+name Tomoyo
+length 29
+====================
+\"Yeah, you might be right.\"
+====================
+嗯、说不定就是这样
+====================
+
+====================
+index 15
+offset 3213
+name Tomoyo
+length 25
+====================
+\"But Tomo is here too.\"
+====================
+不过、因为有小智在
+====================
+
+====================
+index 16
+offset 3560
+name Tomoyo
+length 33
+====================
+\"So we're all living together.\"
+====================
+所以算是共同生活吧
+====================
+
+====================
+index 17
+offset 3643
+name Tomoyo
+length 16
+====================
+\"Right, Tomo?\"
+====================
+对吧、小智
+====================
+
+====================
+index 18
+offset 3981
+name Tomo
+length 7
+====================
+\"Hm?\"
+====================
+嗯？
+====================
+
+====================
+index 19
+offset 4004
+name NULL
+length 42
+====================
+Tomo, at a complete loss, looks up at her.
+====================
+小智露出一副完全不明白的表情看着智代。
+====================
+
+====================
+index 20
+offset 4370
+name Tomoyo
+length 27
+====================
+\"No, it's fine, nothing.\"
+====================
+不、没什么
+====================
+
+====================
+index 21
+offset 4687
+name NULL
+length 20
+====================
+She says and smiles.
+====================
+说着、智代笑了。
+====================
+
+====================
+index 22
+offset 4997
+name NULL
+length 16
+====================
+Tomo smiles too.
+====================
+小智也笑了。
+====================
+
+====================
+index 23
+offset 5029
+name NULL
+length 94
+====================
+Framed by the light of the morning sun, the two of them look like a happy mother and daughter.
+====================
+这两个人沐浴在朝阳的逆光中、感觉就像是一对幸福的母子一样。
+====================
+
+====================
+index 24
+offset 5139
+name NULL
+length 78
+====================
+I break into a smile thinking about how I could be a part of that picture too.
+====================
+不知为什么想想就觉得有些嫉妒、所以我也想加入她们。
+====================
+
+====================
+index 25
+offset 5503
+name NULL
+length 115
+====================
+I watch raptly for a while, but then I remember that there's something I need to do and quickly put away the futon.
+====================
+我一时间仿佛入迷般地看着她们、但是突然想起还有要做的事、于是连忙开始整理被子。
+====================
+
+====================
+index 26
+offset 5634
+name NULL
+length 124
+====================
+While Tomoyo and Tomo are absorbed in conversation, I take the opportunity to call and ask the location of the kindergarten.
+====================
+趁智代和小智说得起劲的时候、我打电话问清楚了幼儿园的地址。
+====================
+
+====================
+index 27
+offset 5774
+name NULL
+length 18
+====================
+It's not that far.
+====================
+不是很远。
+====================
+
+====================
+index 28
+offset 5808
+name NULL
+length 36
+====================
+But it'll take half an hour on foot.
+====================
+但是走路的话要用三十分钟。
+====================
+
+====================
+index 29
+offset 5894
+name Tomoya
+length 37
+====================
+(Well, we don't have a choice today.)
+====================
+（不过今天也只能这样了…）
+====================
+
+====================
+index 30
+offset 5947
+name NULL
+length 58
+====================
+I idly watch over them as they put breakfast on the table.
+====================
+我呆呆地看着她把早饭端到桌上。
+====================
+
+====================
+index 31
+offset 6327
+name Tomoyo
+length 28
+====================
+\"Do you know where it is?\"
+====================
+地址知道了吗？
+====================
+
+====================
+index 32
+offset 6405
+name Tomoya
+length 13
+====================
+\"Hm? Yeah.\"
+====================
+嗯？知道了
+====================
+
+====================
+index 33
+offset 6468
+name Tomoyo
+length 16
+====================
+\"Is it close?\"
+====================
+近吗？
+====================
+
+====================
+index 34
+offset 6534
+name Tomoya
+length 47
+====================
+\"Well, it's kind of within walking distance.\"
+====================
+还可以、是可以步行去的距离
+====================
+
+====================
+index 35
+offset 6903
+name Tomoyo
+length 23
+====================
+\"I see. That's good.\"
+====================
+是吗。太好了
+====================
+
+====================
+index 36
+offset 6976
+name Tomoyo
+length 40
+====================
+\"Tomo, I'll take you to school today.\"
+====================
+小智、今天我送你去幼儿园
+====================
+
+====================
+index 37
+offset 7336
+name Tomo
+length 9
+====================
+\"Okay.\"
+====================
+好
+====================
+
+====================
+index 38
+offset 7631
+name NULL
+length 30
+====================
+Tomo sits down holding a bowl.
+====================
+小智拿着碗坐下了。
+====================
+
+====================
+index 39
+offset 7677
+name NULL
+length 29
+====================
+Tomoyo puts rice in the bowl.
+====================
+智代给碗里盛好饭。
+====================
+
+====================
+index 40
+offset 7756
+name Tomoya
+length 16
+====================
+\"I'll go too.\"
+====================
+我也一起去
+====================
+
+====================
+index 41
+offset 8094
+name Tomoyo
+length 44
+====================
+\"Will you be able to get to work on time?\"
+====================
+上班来得及吗？
+====================
+
+====================
+index 42
+offset 8188
+name Tomoya
+length 31
+====================
+\"As long as nothing happens.\"
+====================
+如果路上没发生什么事的话来得及的
+====================
+
+====================
+index 43
+offset 8541
+name Tomoyo
+length 39
+====================
+\"I see. Then let the three of us go.\"
+====================
+好。那么三个人一起去吧
+====================
+
+====================
+index 44
+offset 9441
+name NULL
+length 36
+====================
+The three of us prepare to head out.
+====================
+我们一起准备出门。
+====================
+
+====================
+index 45
+offset 9493
+name NULL
+length 90
+====================
+While Tomoyo is dressing Tomo in her uniform, I put the contents of her backpack in order.
+====================
+在智代给小智穿校服的时候、我整理了一下旅行包里的东西。
+====================
+
+====================
+index 46
+offset 9633
+name Tomoya
+length 37
+====================
+\"Is this her bag for kindergarten?\"
+====================
+这个就是去幼儿园时背的书包吗？
+====================
+
+====================
+index 47
+offset 9686
+name NULL
+length 36
+====================
+I pull a small bag with a strap out.
+====================
+我从旅行包里取出一个带有背带的小书包。
+====================
+
+====================
+index 48
+offset 10044
+name Tomoyo
+length 66
+====================
+\"Yeah, that must be it. We'll put her lunch inside and take it.\"
+====================
+嗯、应该没错。可以把饭盒放在里面带着
+====================
+
+====================
+index 49
+offset 10396
+name NULL
+length 65
+====================
+She jumps up and brings something wrapped in a handkerchief back.
+====================
+她用小跳一样动作起身、从厨房取来一个用手帕包好的小包。
+====================
+
+====================
+index 50
+offset 10783
+name Tomoyo
+length 47
+====================
+\"I say that, but it's just rice balls today.\"
+====================
+虽然这么说、但是今天也只有饭团而已
+====================
+
+====================
+index 51
+offset 10880
+name Tomoyo
+length 38
+====================
+\"Because we don't have a lunch box.\"
+====================
+因为没有饭盒
+====================
+
+====================
+index 52
+offset 11240
+name Tomoyo
+length 49
+====================
+\"In that case, on the way home, we'll buy one.\"
+====================
+所以回来的时候顺便去买饭盒吧
+====================
+
+====================
+index 53
+offset 11339
+name Tomoyo
+length 37
+====================
+\"It's sad to only have rice balls.\"
+====================
+因为只有饭团的话、小智太可怜了
+====================
+
+====================
+index 54
+offset 11662
+name NULL
+length 88
+====================
+When I hand her the bag, she carefully packs the handkerchief-wrapped rice balls inside.
+====================
+我把书包递给智代、她小心地把小包放了进去。
+====================
+
+====================
+index 55
+offset 11798
+name Tomo
+length 37
+====================
+\"Ah, my arms won't come out, geez.\"
+====================
+啊ー、手伸不出来了、怎么办ー
+====================
+
+====================
+index 56
+offset 11851
+name NULL
+length 46
+====================
+Tomo is flapping her arms around in her shirt.
+====================
+小智的手在衣服里乱伸一气。
+====================
+
+====================
+index 57
+offset 12219
+name Tomoyo
+length 14
+====================
+\"Oh, sorry.\"
+====================
+啊、不好意思
+====================
+
+====================
+index 58
+offset 12519
+name NULL
+length 56
+====================
+She hurriedly returns to Tomo and finishes dressing her.
+====================
+智代连忙回到小智面前、帮她把衣服穿好。
+====================
+
+====================
+index 59
+offset 12897
+name Tomoyo
+length 45
+====================
+\"It's hot outside, so put on your hat too.\"
+====================
+外面很热、所以要把帽子带好
+====================
+
+====================
+index 60
+offset 13264
+name Tomoyo
+length 16
+====================
+\"There, done.\"
+====================
+看、穿好了
+====================
+
+====================
+index 61
+offset 13601
+name Tomo
+length 10
+====================
+\"Done!!\"
+====================
+穿好了ー！！
+====================
+
+====================
+index 62
+offset 14544
+name NULL
+length 115
+====================
+On our way to the kindergarten, we make sure we're heading the right direction by asking pedestrians along the way.
+====================
+我们一边向路人询问方位、一边向幼儿园前进。
+====================
+
+====================
+index 63
+offset 14675
+name NULL
+length 93
+====================
+Realizing we aren't going to make it in time, Tomoyo and I alternate carrying Tomo as we run.
+====================
+在路上发现这样走下去恐怕要来不及、于是我和智代轮流背着小智跑向幼儿园。
+====================
+
+====================
+index 64
+offset 15089
+name Tomo
+length 18
+====================
+\"So much sweat.\"
+====================
+流了好多汗啊ー
+====================
+
+====================
+index 65
+offset 15429
+name Tomoyo
+length 38
+====================
+\"Ah... yeah, it's been hot all day.\"
+====================
+嗯…是啊、因为今天从早上开始就很热啊
+====================
+
+====================
+index 66
+offset 15483
+name NULL
+length 83
+====================
+Tomo, who's on Tomoyo's back, takes out a handkerchief and wipes Tomoyo's neck off.
+====================
+智代背上的小智取出手帕、帮智代擦去脖子上的汗水。
+====================
+
+====================
+index 67
+offset 15888
+name Tomoyo
+length 11
+====================
+\"Thanks.\"
+====================
+谢谢你
+====================
+
+====================
+index 68
+offset 15915
+name NULL
+length 20
+====================
+She says and smiles.
+====================
+说着、智代微微一笑。
+====================
+
+====================
+index 69
+offset 16830
+name Tomoya
+length 26
+====================
+\"Looks like we're here.\"
+====================
+好像到了
+====================
+
+====================
+index 70
+offset 16872
+name NULL
+length 37
+====================
+I say as I see what's in front of us.
+====================
+我看着前面告诉她们。
+====================
+
+====================
+index 71
+offset 16925
+name NULL
+length 57
+====================
+A number of kindergartners and housewives are just ahead.
+====================
+在前方、聚集了很多前往幼儿园的孩子和主妇。
+====================
+
+====================
+index 72
+offset 17304
+name Tomoyo
+length 25
+====================
+\"Let's walk from here.\"
+====================
+从这里开始自己走吧
+====================
+
+====================
+index 73
+offset 17345
+name NULL
+length 38
+====================
+She puts Tomo down and holds her hand.
+====================
+智代把小智从背上放下、牵起她的手。
+====================
+
+====================
+index 74
+offset 17669
+name NULL
+length 53
+====================
+She walks with her to the gate like she's her mother.
+====================
+然后像母亲一样、牵着小智走到校门前。
+====================
+
+====================
+index 75
+offset 17738
+name NULL
+length 20
+====================
+I follow after them.
+====================
+我也跟在她们后面。
+====================
+
+====================
+index 76
+offset 18080
+name Tomoyo
+length 17
+====================
+\"Good morning.\"
+====================
+早安
+====================
+
+====================
+index 77
+offset 18113
+name NULL
+length 34
+====================
+Tomoyo greets one of the teachers.
+====================
+智代向一位老师打招呼。
+====================
+
+====================
+index 78
+offset 18197
+name Tomoyo
+length 44
+====================
+\"I'm here in place of this girl's mother.\"
+====================
+我是代替这个孩子的母亲送她过来的
+====================
+
+====================
+index 79
+offset 18257
+name NULL
+length 47
+====================
+She raises their interlocked hands to show her.
+====================
+智代把牵着的小智的手举了举。
+====================
+
+====================
+index 80
+offset 18590
+name NULL
+length 48
+====================
+The teacher lowers her gaze and puts on a smile.
+====================
+老师的视线随之下移、然后露出笑容。
+====================
+
+====================
+index 81
+offset 18689
+name Teacher
+length 20
+====================
+\"Oh, Tomo-chan's.\"
+====================
+啊、是小智啊
+====================
+
+====================
+index 82
+offset 18760
+name Teacher
+length 28
+====================
+\"Tomo-chan, good morning.\"
+====================
+小智、早安
+====================
+
+====================
+index 83
+offset 19109
+name Tomo
+length 17
+====================
+\"Good morning.\"
+====================
+早安
+====================
+
+====================
+index 84
+offset 19412
+name NULL
+length 49
+====================
+After bowing and greeting, she shows Tomo inside.
+====================
+老师屈身和小智打过招呼后、让她进入了幼儿园。
+====================
+
+====================
+index 85
+offset 19477
+name NULL
+length 72
+====================
+She then turns back to Tomoyo. Suddenly, her expression becomes serious.
+====================
+然后、老师转过身来面对智代、表情一变、露出认真的表情。
+====================
+
+====================
+index 86
+offset 19600
+name Teacher
+length 50
+====================
+\"You're... Sakagami-san's daughter, aren't you?\"
+====================
+你是坂上先生的…女儿吗
+====================
+
+====================
+index 87
+offset 19972
+name Tomoyo
+length 15
+====================
+\"...ah, yes.\"
+====================
+…嗯、是的
+====================
+
+====================
+index 88
+offset 20038
+name Teacher
+length 59
+====================
+\"Her parents didn't come to drop her off... why is that?\"
+====================
+为什么她的父母没有来送她
+====================
+
+====================
+index 89
+offset 20385
+name NULL
+length 51
+====================
+Tomoyo hesitates as to how to answer that question.
+====================
+智代犹豫着、不知道该怎么回答这个问题。
+====================
+
+====================
+index 90
+offset 20486
+name Tomoyo
+length 33
+====================
+\"Um... well... they're busy...\"
+====================
+嗯…这个啊…因为他们很忙所以…
+====================
+
+====================
+index 91
+offset 20535
+name NULL
+length 28
+====================
+She answers with difficulty.
+====================
+智代面带难色地回答。
+====================
+
+====================
+index 92
+offset 20614
+name Teacher
+length 18
+====================
+\"Is that so...?\"
+====================
+是这样啊…
+====================
+
+====================
+index 93
+offset 20683
+name Teacher
+length 64
+====================
+\"I was wondering if Tomo-chan was welcomed into her new home.\"
+====================
+小智她…顺利地被新的家接受了吗?
+====================
+
+====================
+index 94
+offset 20798
+name Teacher
+length 20
+====================
+\"I was worried...\"
+====================
+因为担心这个…
+====================
+
+====================
+index 95
+offset 21140
+name Tomoyo
+length 15
+====================
+\"New home...\"
+====================
+新的家…
+====================
+
+====================
+index 96
+offset 21171
+name NULL
+length 58
+====================
+She repeats the words as if she'd never heard them before.
+====================
+仿佛第一次听到一样、智代重复着这个词。
+====================
+
+====================
+index 97
+offset 21304
+name Tomoyo
+length 24
+====================
+\"What do you mean...?\"
+====================
+是指我家…？
+====================
+
+====================
+index 98
+offset 21379
+name Teacher
+length 33
+====================
+\"Eh...? You haven't been told?\"
+====================
+诶…你不知道吗
+====================
+
+====================
+index 99
+offset 21463
+name Teacher
+length 49
+====================
+\"That's what I was told by Tomo-chan's mother.\"
+====================
+小智的母亲是这么告诉我的
+====================
+
+====================
+index 100
+offset 21563
+name Teacher
+length 50
+====================
+\"That she would be taken in by the Sakagamis...\"
+====================
+说是、那个孩子将成为坂上先生家的孩子…
+====================
+
+====================
+index 101
+offset 21687
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 102
+offset 21716
+name NULL
+length 36
+====================
+She tries to speak. I grab her hand.
+====================
+在智代刚要说什么的时候、我握住了她的手。
+====================
+
+====================
+index 103
+offset 22038
+name NULL
+length 38
+====================
+She looks back at me. I shake my head.
+====================
+智代转向我、我摇了摇头。
+====================
+
+====================
+index 104
+offset 22092
+name NULL
+length 34
+====================
+She's confused. It's only natural.
+====================
+智代感到困惑、这也是理所当然的了。
+====================
+
+====================
+index 105
+offset 22142
+name NULL
+length 35
+====================
+She's the only one who didn't know.
+====================
+因为现在只有智代还不知道。
+====================
+
+====================
+index 106
+offset 22228
+name Teacher
+length 70
+====================
+\"Tomo's mother... Mishima-san was a kind person who loved children.\"
+====================
+那个孩子的母亲…三岛小姐、是一位很疼爱孩子的女性
+====================
+
+====================
+index 107
+offset 22349
+name Teacher
+length 37
+====================
+\"But she's psychologically weak...\"
+====================
+但是、精神方面是一个很软弱的人…
+====================
+
+====================
+index 108
+offset 22437
+name Teacher
+length 66
+====================
+\"I hope she's not tormenting herself over giving the girl up...\"
+====================
+她如果没有因为放下那个孩子、而胡思乱想的话就好…
+====================
+
+====================
+index 109
+offset 22554
+name Teacher
+length 58
+====================
+\"How was Tomo-chan yesterday? Was she enjoying herself?\"
+====================
+小智她…昨天有精神吗
+====================
+
+====================
+index 110
+offset 22934
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 111
+offset 22997
+name Tomoya
+length 18
+====================
+\"Yeah, she was.\"
+====================
+是啊、十分精神
+====================
+
+====================
+index 112
+offset 23065
+name Tomoya
+length 37
+====================
+\"She's very attached to this girl.\"
+====================
+而且非常粘她
+====================
+
+====================
+index 113
+offset 23118
+name NULL
+length 27
+====================
+I answer in Tomoyo's stead.
+====================
+我代替智代回答了。
+====================
+
+====================
+index 114
+offset 23466
+name Teacher
+length 16
+====================
+\"That's good.\"
+====================
+是这样啊
+====================
+
+====================
+index 115
+offset 23533
+name Teacher
+length 62
+====================
+\"If she has a kind older sister around, she should be fine.\"
+====================
+有这么温柔的姐姐在的话、一定没问题的
+====================
+
+====================
+index 116
+offset 23645
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 117
+offset 23674
+name NULL
+length 49
+====================
+In the end, Tomoyo never recovered from her daze.
+====================
+结果、智代直到最后为止都是一副茫然的样子。
+====================
+
+====================
+index 118
+offset 24617
+name Tomoya
+length 33
+====================
+\"Hey, be sure to go to school.\"
+====================
+你该老老实实地去上学了
+====================
+
+====================
+index 119
+offset 24938
+name NULL
+length 59
+====================
+I say this to Tomoyo, who's standing on the empty sidewalk.
+====================
+我对一直伫立在已经没有人的人行道上的智代说。
+====================
+
+====================
+index 120
+offset 25013
+name NULL
+length 68
+====================
+It doesn't seem like she's going to move, no matter how long I wait.
+====================
+不管过了多久、她似乎都没有要走的意思。
+====================
+
+====================
+index 121
+offset 25131
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 122
+offset 25466
+name Tomoyo
+length 10
+====================
+\"Hey...\"
+====================
+我说…
+====================
+
+====================
+index 123
+offset 25526
+name Tomoyo
+length 32
+====================
+\"She doesn't know anything...\"
+====================
+那个孩子她什么都不知道啊…
+====================
+
+====================
+index 124
+offset 25586
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 125
+offset 25649
+name Tomoyo
+length 85
+====================
+\"She was just brought to our house after being told that she could meet her dad...\"
+====================
+只是被告诉能见到父亲、然后被带到我家门前而已…
+====================
+
+====================
+index 126
+offset 25762
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 127
+offset 25825
+name Tomoyo
+length 37
+====================
+\"Is this some kind of bad joke...?\"
+====================
+真是个性质恶劣的恶作剧…
+====================
+
+====================
+index 128
+offset 25890
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 129
+offset 25953
+name Tomoyo
+length 27
+====================
+\"If it is, that's sad...\"
+====================
+对那个孩子做这样的恶作剧、她太可怜了吧…
+====================
+
+====================
+index 130
+offset 26033
+name Tomoyo
+length 28
+====================
+\"She's such a good kid...\"
+====================
+明明是那么乖的孩子…
+====================
+
+====================
+index 131
+offset 26111
+name Tomoyo
+length 18
+====================
+\"It's so sad...\"
+====================
+太可怜了吧…
+====================
+
+====================
+index 132
+offset 26179
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 133
+offset 26242
+name Tomoya
+length 11
+====================
+\"Yeah...\"
+====================
+是啊…
+====================
+
+====================
+index 134
+offset 26312
+name Tomoya
+length 61
+====================
+\"That's why you need to go buy a lunch box with her today.\"
+====================
+所以、今天你就和她一起去买饭盒吧
+====================
+
+====================
+index 135
+offset 26392
+name NULL
+length 34
+====================
+I say and pat her on the shoulder.
+====================
+我这么说着、拍了拍她的肩。
+====================
+
+====================
+index 136
+offset 26476
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 137
+offset 26539
+name Tomoyo
+length 11
+====================
+\"Yeah...\"
+====================
+嗯…
+====================
+
+====================
+index 138
+offset 26566
+name NULL
+length 36
+====================
+She nods and finally starts walking.
+====================
+智代点了点头、终于迈开了脚步。
+====================
+
+====================
+index 139
+offset 26888
+name NULL
+length 20
+====================
+I hurry to work too.
+====================
+我也急忙赶向工作地点。
+====================
+
+====================
+index 140
+offset 27845
+name NULL
+length 40
+====================
+I'm face to face with a washing machine.
+====================
+我面前的是一台洗衣机。
+====================
+
+====================
+index 141
+offset 27901
+name NULL
+length 20
+====================
+I'm fixing it today.
+====================
+今天的工作是修理这个。
+====================
+
+====================
+index 142
+offset 27937
+name NULL
+length 51
+====================
+When I turn it on, it makes a really strange sound.
+====================
+试着按下开关、洗衣机发出了刺耳的杂音。
+====================
+
+====================
+index 143
+offset 28004
+name NULL
+length 52
+====================
+With that, I stop testing it and begin repairing it.
+====================
+我停止检查、开始分解清洗。
+====================
+
+====================
+index 144
+offset 28072
+name NULL
+length 108
+====================
+Generally, washing machines are clean on the outside, even if the insides are covered in moss and detergent.
+====================
+一般洗衣机就算表面很干净、内部也都是霉和洗涤剂。
+====================
+
+====================
+index 145
+offset 28196
+name NULL
+length 79
+====================
+I grab some commercial detergent and a sponge and start thoroughly cleaning it.
+====================
+我拿来工作用洗涤剂和海绵、小心地开始清洁洗衣机内部。
+====================
+
+====================
+index 146
+offset 29162
+name NULL
+length 95
+====================
+In the afternoon, as I drive between a number of waste collection areas, a woman waves me down.
+====================
+下午、我在几个垃圾收集场以及周围巡回的时候、遇到了一位挥手向我打招呼的女性。
+====================
+
+====================
+index 147
+offset 29273
+name NULL
+length 57
+====================
+It's the person from yesterday. The serene elderly woman.
+====================
+是昨天那位大方的老人的妻子。
+====================
+
+====================
+index 148
+offset 29379
+name Woman
+length 28
+====================
+\"Sorry, for stopping you.\"
+====================
+叫住你真是不好意思
+====================
+
+====================
+index 149
+offset 29457
+name Tomoya
+length 33
+====================
+\"It's fine. What's the matter?\"
+====================
+没关系。怎么了
+====================
+
+====================
+index 150
+offset 29539
+name Woman
+length 41
+====================
+\"Well, can I ask you to fix something?\"
+====================
+那个、能否拜托你修理点东西？
+====================
+
+====================
+index 151
+offset 29630
+name Tomoya
+length 23
+====================
+\"I'll do what I can.\"
+====================
+修理工作也在我的业务范围之内
+====================
+
+====================
+index 152
+offset 29702
+name Woman
+length 50
+====================
+\"I hate to ask, but could you go to this place?\"
+====================
+那么、能否拜托你去这里？
+====================
+
+====================
+index 153
+offset 29768
+name NULL
+length 47
+====================
+There's an address written on a piece of paper.
+====================
+在便条上写有一个地址。
+====================
+
+====================
+index 154
+offset 29831
+name NULL
+length 62
+====================
+It's in an area I frequent, so I immediately know where it is.
+====================
+因为是一直巡回工作的地区、所以我立刻就知道在哪里了。
+====================
+
+====================
+index 155
+offset 29943
+name Tomoya
+length 20
+====================
+\"Is there a rush?\"
+====================
+很急吗？
+====================
+
+====================
+index 156
+offset 30020
+name Elderly woman
+length 41
+====================
+\"It seems so. She's in quite the bind.\"
+====================
+是啊、看起来十分头痛的样子
+====================
+
+====================
+index 157
+offset 30111
+name Tomoya
+length 25
+====================
+\"Then I'll go see her.\"
+====================
+那么我先去那里了
+====================
+
+====================
+index 158
+offset 30193
+name Elderly woman
+length 49
+====================
+\"I'm sorry for suddenly asking you to do this.\"
+====================
+真是不好意思、突然拜托你
+====================
+
+====================
+index 159
+offset 30292
+name Tomoya
+length 36
+====================
+\"No, please don't worry about it.\"
+====================
+不、请不要在意
+====================
+
+====================
+index 160
+offset 30344
+name NULL
+length 47
+====================
+If she's in a bind, I should head over quickly.
+====================
+既然对方在着急、那么快一点去比较好吧。
+====================
+
+====================
+index 161
+offset 31254
+name NULL
+length 57
+====================
+I hop in the truck, drive over, and find a woman waiting.
+====================
+我疾驶小型货车到了目的地、那里有位阿姨在等着。
+====================
+
+====================
+index 162
+offset 31360
+name Woman
+length 67
+====================
+\"Ah, would you be the one that I asked Takamachi-san to talk to?\"
+====================
+啊、请问你是我拜托高町太太请的人吗？
+====================
+
+====================
+index 163
+offset 31477
+name Tomoya
+length 51
+====================
+\"I heard from her that you need something fixed.\"
+====================
+我是听说有需要修理的东西
+====================
+
+====================
+index 164
+offset 31577
+name Woman
+length 55
+====================
+\"Yes I do. My refrigerator suddenly stopped working.\"
+====================
+是啊、电冰箱突然坏了
+====================
+
+====================
+index 165
+offset 31681
+name Woman
+length 104
+====================
+\"When I asked the appliance store about it, they said they can't come until tomorrow, so I'm worried.\"
+====================
+我问了电器商店、但是他们说要明天才能来修、所以很头痛
+====================
+
+====================
+index 166
+offset 31834
+name Woman
+length 67
+====================
+\"It's already warm out, so won't the things in the freezer melt?\"
+====================
+天这么热、冷冻室的东西很快就会化的。对吧？
+====================
+
+====================
+index 167
+offset 31951
+name Tomoya
+length 41
+====================
+\"I understand. I'll take a look at it.\"
+====================
+我明白了。总之先让我看下吧
+====================
+
+====================
+index 168
+offset 32465
+name NULL
+length 39
+====================
+The refrigerator is a pretty old model.
+====================
+是台相当老式的电冰箱。
+====================
+
+====================
+index 169
+offset 32520
+name NULL
+length 104
+====================
+It can be difficult to get parts for the old ones, but they aren't that complex, so they're easy to fix.
+====================
+老旧的部分、虽然零件很难找到、但是因为制作起来简单所以修理起来很方便。
+====================
+
+====================
+index 170
+offset 32640
+name NULL
+length 86
+====================
+When I open the door, no cold air comes out, but the refrigerator is running normally.
+====================
+我试着打开冰箱门、里面完全没有冷气出来、但电冰箱却在正常运作。
+====================
+
+====================
+index 171
+offset 32776
+name Tomoya
+length 29
+====================
+\"When did it stop working?\"
+====================
+什么时候开始不能正常工作的？
+====================
+
+====================
+index 172
+offset 32854
+name Woman
+length 21
+====================
+\"Around lunchtime.\"
+====================
+差不多是中午吧
+====================
+
+====================
+index 173
+offset 32891
+name NULL
+length 25
+====================
+It hasn't been very long.
+====================
+还没过多久。
+====================
+
+====================
+index 174
+offset 32932
+name NULL
+length 56
+====================
+I pull the refrigerator out and take the back cover off.
+====================
+我把电冰箱拉出来、打开了背面的盖子。
+====================
+
+====================
+index 175
+offset 33004
+name NULL
+length 48
+====================
+The compressor isn't running and makes no sound.
+====================
+空气压缩机没有发出一点声音、应该没有在工作。
+====================
+
+====================
+index 176
+offset 33068
+name NULL
+length 84
+====================
+If that's the case, it's probably broken or there's something wrong with the sensor.
+====================
+那么它不能正常工作的原因、很可能是感应器坏了吧。
+====================
+
+====================
+index 177
+offset 33168
+name NULL
+length 68
+====================
+Seeing as the refrigeration is functioning, it's not a coolant leak.
+====================
+冷藏功能正常运作、而制冷剂也没有泄漏。
+====================
+
+====================
+index 178
+offset 33252
+name NULL
+length 63
+====================
+In order to check my theory, I manually move the defrost timer.
+====================
+为了确认、我试着手动转动除霜计。
+====================
+
+====================
+index 179
+offset 33331
+name NULL
+length 76
+====================
+I stick a screwdriver into the roughly ten centimeter box and turn a little.
+====================
+我向十厘米见方的盒子刺入螺丝刀、一点点旋转。
+====================
+
+====================
+index 180
+offset 33423
+name NULL
+length 71
+====================
+There's a metallic *clink* sound and then a groan-like operating sound.
+====================
+“卡嚓”一声、然后电冰箱发出了『嗡嗡』的工作声。
+====================
+
+====================
+index 181
+offset 33510
+name NULL
+length 29
+====================
+Looks like this is the cause.
+====================
+看样子这就是原因了。
+====================
+
+====================
+index 182
+offset 33589
+name Tomoya
+length 63
+====================
+\"Looks like there's something wrong with your defrost timer.\"
+====================
+看样子是除霜器出了问题
+====================
+
+====================
+index 183
+offset 33702
+name Tomoya
+length 80
+====================
+\"The timer turns it off to make sure frost doesn't accumulate in the freezer.\"
+====================
+似乎是冰箱里没了霜、计时器就停止了
+====================
+
+====================
+index 184
+offset 33832
+name Tomoya
+length 68
+====================
+\"But it looks like the timer has broken down and isn't resetting.\"
+====================
+但是计时器出现了故障、好象没法修了
+====================
+
+====================
+index 185
+offset 33950
+name Tomoya
+length 86
+====================
+\"It needs to be repaired, but it should be able to keep things cool until tomorrow.\"
+====================
+虽然必须修理、但是起码到明天为止还能保证冷冻功能
+====================
+
+====================
+index 186
+offset 34085
+name Woman
+length 11
+====================
+\"Really?\"
+====================
+真的吗？
+====================
+
+====================
+index 187
+offset 34146
+name Tomoya
+length 60
+====================
+\"Please just open the refrigerator as little as possible.\"
+====================
+请尽可能减少打开冷冻室的次数
+====================
+
+====================
+index 188
+offset 34255
+name Woman
+length 24
+====================
+\"Thank you very much.\"
+====================
+十分感谢
+====================
+
+====================
+index 189
+offset 34295
+name NULL
+length 22
+====================
+The woman bows deeply.
+====================
+女性深深地低下头致谢。
+====================
+
+====================
+index 190
+offset 34366
+name Woman
+length 27
+====================
+\"So, um, how much is it?\"
+====================
+那么、请问费用是多少？
+====================
+
+====================
+index 191
+offset 34443
+name Tomoya
+length 11
+====================
+\"...huh?\"
+====================
+…哈？
+====================
+
+====================
+index 192
+offset 34503
+name Woman
+length 39
+====================
+\"For the repairs, how much is it...?\"
+====================
+就是修理费、请问大概…
+====================
+
+====================
+index 193
+offset 34558
+name NULL
+length 21
+====================
+I pause for a second.
+====================
+我一下呆住了。
+====================
+
+====================
+index 194
+offset 34595
+name NULL
+length 54
+====================
+Come to think of it, I don't know anything about that.
+====================
+仔细想想、这方面的事我完全不了解。
+====================
+
+====================
+index 195
+offset 34699
+name Tomoya
+length 35
+====================
+\"...um, may I borrow your phone?\"
+====================
+…请问、能让我借用下电话吗？
+====================
+
+====================
+index 196
+offset 34783
+name Woman
+length 18
+====================
+\"Yes, go ahead.\"
+====================
+好、当然可以
+====================
+
+====================
+index 197
+offset 34817
+name NULL
+length 34
+====================
+The woman gives me a puzzled look.
+====================
+阿姨仿佛很不可思议地看着我。
+====================
+
+====================
+index 198
+offset 35318
+name NULL
+length 16
+====================
+The boss laughs.
+====================
+在电话里被师傅笑话了。
+====================
+
+====================
+index 199
+offset 35350
+name NULL
+length 63
+====================
+He tells me, \"It's good to be kind, but please do your work.\"
+====================
+说是热心助人的确不错、但是也要老老实实工作啊。
+====================
+
+====================
+index 200
+offset 35429
+name NULL
+length 128
+====================
+We decide that since I didn't fix anything and only identified the problem, it would be okay to only charge for the time I took.
+====================
+反正还没修好、只是找到了原因、所以就收个手工费好了。
+====================
+
+====================
+index 201
+offset 35573
+name NULL
+length 79
+====================
+I also receive permission to take care of the client to the end if I do fix it.
+====================
+还有就是既然要修理的话、想要完全修好也可以。
+====================
+
+====================
+index 202
+offset 35702
+name Tomoya
+length 37
+====================
+\"...well, how does 1000 yen sound?\"
+====================
+…那么、这次收一千日元怎么样？
+====================
+
+====================
+index 203
+offset 35789
+name Tomoya
+length 60
+====================
+\"All I did was jury rig it, so that's for the time taken.\"
+====================
+只是稍作调整而已、所以收个手工费
+====================
+
+====================
+index 204
+offset 35898
+name Woman
+length 17
+====================
+\"Are you sure?\"
+====================
+这样好吗？
+====================
+
+====================
+index 205
+offset 35965
+name Tomoya
+length 42
+====================
+\"All I did was flip the timer's switch.\"
+====================
+因为我只是把除霜计的开关打开而已啊
+====================
+
+====================
+index 206
+offset 36057
+name Tomoya
+length 87
+====================
+\"If I go back, I can probably find the parts, then I could bring them if you'd like.\"
+====================
+回去的话应该可以找到替换的零件的、可以的话我一会儿带过来
+====================
+
+====================
+index 207
+offset 36194
+name Tomoya
+length 72
+====================
+\"If I do that, it would be the cost of the parts plus labor, so um...\"
+====================
+那样的话、零件费和手工费一共、一共是…
+====================
+
+====================
+index 208
+offset 36282
+name NULL
+length 49
+====================
+I pull out a calculator and punch in the numbers.
+====================
+我询问阿姨按计算器上的数字收取报酬如何。
+====================
+
+====================
+index 209
+offset 36347
+name NULL
+length 106
+====================
+Switching it out shouldn't take even an hour, so I add that and travel expenses in and show her the total.
+====================
+因为是加上换零件也用不了一个小时的工作、所以加上上门费就算这个价格怎么样。
+====================
+
+====================
+index 210
+offset 36502
+name Woman
+length 24
+====================
+\"Is that really okay?\"
+====================
+那样就可以了吗？
+====================
+
+====================
+index 211
+offset 36542
+name NULL
+length 39
+====================
+It seems it's cheaper than she thought.
+====================
+她似乎觉得出乎意料的便宜。
+====================
+
+====================
+index 212
+offset 36631
+name Tomoya
+length 63
+====================
+\"It can still be repaired. It'd be a waste to buy a new one.\"
+====================
+既然是好不容易修好的东西、如果还专门去买新的的话很不值得吧
+====================
+
+====================
+index 213
+offset 36743
+name Woman
+length 69
+====================
+\"Thank you so much. I didn't want to get rid of this refrigerator.\"
+====================
+真的十分感谢。我真的很不舍得扔掉这个电冰箱
+====================
+
+====================
+index 214
+offset 36861
+name Woman
+length 61
+====================
+\"It was decades ago, but my mother-in-law gave it to me...\"
+====================
+这个电冰箱是十几年前婆婆特意为我买的…
+====================
+
+====================
+index 215
+offset 36971
+name Woman
+length 65
+====================
+\"That was when I married into this home, and I was so happy...\"
+====================
+她希望我嫁到这个家里以后、能高高兴兴的…
+====================
+
+====================
+index 216
+offset 37085
+name Woman
+length 86
+====================
+\"She's usually very reticent, but she told me and my husband not to be embarrassed.\"
+====================
+婆婆虽然不喜欢说话、但是为了让我和丈夫不要害羞而专门这样做的
+====================
+
+====================
+index 217
+offset 37220
+name Woman
+length 79
+====================
+\"Now she's telling me to hurry up and replace it, but I've grown fond of it.\"
+====================
+虽然现在婆婆让我去重新买一台、但是我还是喜欢这台
+====================
+
+====================
+index 218
+offset 37315
+name NULL
+length 72
+====================
+I already knew that people could become emotionally attached to objects.
+====================
+我知道这样的事、就是将感情灌注在物件上。
+====================
+
+====================
+index 219
+offset 37403
+name NULL
+length 83
+====================
+I only had a vague idea about it, so I'm thankful I could experience it first-hand.
+====================
+虽然想想觉得有些太过虚幻、但是貌似一旦接触到物件、就会因为这种真实的存在感而产生感谢之情。
+====================
+
+====================
+index 220
+offset 37505
+name NULL
+length 52
+====================
+I went to the company, got the parts, and came back.
+====================
+我回到公司、取来了零件。
+====================
+
+====================
+index 221
+offset 37573
+name NULL
+length 78
+====================
+I replaced the part and left the house after asking them to keep an eye on it.
+====================
+我告诉她电冰箱已经修好了、然后转身离开那个家时。
+====================
+
+====================
+index 222
+offset 37667
+name NULL
+length 64
+====================
+When her husband and his mother came back, they each thanked me.
+====================
+刚好男主人和婆婆也回来了、他们都向我道谢。
+====================
+
+====================
+index 223
+offset 37747
+name NULL
+length 22
+====================
+I was genuinely happy.
+====================
+我从心底感到喜悦。
+====================
+
+====================
+index 224
+offset 37785
+name NULL
+length 28
+====================
+Not because they thanked me.
+====================
+并不是因为他们感谢的话语。
+====================
+
+====================
+index 225
+offset 37829
+name NULL
+length 83
+====================
+But because I was able to fix something that holds irreplaceable memories for them.
+====================
+而是因为我修好了对他们来说、承载着无法代替的宝贵回忆的物件。
+====================
+
+====================
+index 226
+offset 38859
+name NULL
+length 38
+====================
+I finish the day's work and head home.
+====================
+我做完当天的工作、回家了。
+====================
+
+====================
+index 227
+offset 38913
+name NULL
+length 69
+====================
+There is a suspicious-looking man hanging around in front of my room.
+====================
+在我的房间门口、有一个怎么看都很可疑的男性在晃来晃去。
+====================
+
+====================
+index 228
+offset 39032
+name Tomoya
+length 51
+====================
+\"Hey you, stop peeking into someone else's home.\"
+====================
+我说你啊、不要偷窥别人的家
+====================
+
+====================
+index 229
+offset 39407
+name Takafumi
+length 17
+====================
+\"Oh, Nii-chan.\"
+====================
+啊、是哥哥啊
+====================
+
+====================
+index 230
+offset 39748
+name Takafumi
+length 37
+====================
+\"Well, it's kind of hard to go in.\"
+====================
+哎呀、我不知为什么觉得很难进去
+====================
+
+====================
+index 231
+offset 39837
+name Takafumi
+length 28
+====================
+\"Nee-chan looks so happy.\"
+====================
+因为姐姐现在满脸幸福的样子
+====================
+
+====================
+index 232
+offset 40151
+name NULL
+length 42
+====================
+I peek into the room from behind Takafumi.
+====================
+我从鹰文背后偷偷地望向房间里面。
+====================
+
+====================
+index 233
+offset 40209
+name NULL
+length 62
+====================
+Inside, Tomoyo is holding a stuffed animal, playing with Tomo.
+====================
+智代和小智正在里面手拿绒毛玩具做游戏。
+====================
+
+====================
+index 234
+offset 40287
+name NULL
+length 43
+====================
+She's smiling and laughing the entire time.
+====================
+两个人都满脸笑容。
+====================
+
+====================
+index 235
+offset 40654
+name Takafumi
+length 79
+====================
+\"When she's alone with you, she seems happy and I can sense the love, but...\"
+====================
+虽然姐姐和哥哥在一起的时候、看起来也是一副沉浸于爱情之中、满脸幸福的样子…
+====================
+
+====================
+index 236
+offset 40785
+name Takafumi
+length 37
+====================
+\"This is a different kind of love.\"
+====================
+但是现在从姐姐身上感觉到的却是另外一种爱
+====================
+
+====================
+index 237
+offset 40874
+name Takafumi
+length 42
+====================
+\"Maybe you could call it motherly love?\"
+====================
+这就是母爱吧？
+====================
+
+====================
+index 238
+offset 40968
+name Takafumi
+length 50
+====================
+\"I like watching Nee-chan when she looks happy.\"
+====================
+我很喜欢看到姐姐幸福的样子
+====================
+
+====================
+index 239
+offset 41077
+name Tomoya
+length 57
+====================
+\"Even if you like it, don't watch people making out...\"
+====================
+喜欢归喜欢、但是不要看别人做色色的事情啊…
+====================
+
+====================
+index 240
+offset 41461
+name Takafumi
+length 36
+====================
+\"I told you that was an accident.\"
+====================
+不、所以我说那只是意外而已啊
+====================
+
+====================
+index 241
+offset 41547
+name Tomoya
+length 39
+====================
+\"I can't help but think it was fate.\"
+====================
+但是我怎么看都觉得你像是故意的
+====================
+
+====================
+index 242
+offset 41910
+name Takafumi
+length 22
+====================
+\"Besides, it's her.\"
+====================
+不过、那个姐姐竟然会像这样
+====================
+
+====================
+index 243
+offset 41948
+name NULL
+length 101
+====================
+They'd been through a long rough patch before now. If she's happy, anything would seem fresh and new.
+====================
+在经历了那段漫长而混乱的时光之后的现在、无论是何种幸福的样子、都会对之感到新鲜吧。
+====================
+
+====================
+index 244
+offset 42065
+name NULL
+length 93
+====================
+Takafumi wished for his family's happiness and finally obtained it. Now he's here, living it.
+====================
+鹰文长久以来追求并且最终得到的、那名为『家庭』的幸福。现在他正切身地感受着这种幸福感。
+====================
+
+====================
+index 245
+offset 42482
+name Takafumi
+length 59
+====================
+\"Also, it seems like there was no mention of it at home.\"
+====================
+还有我家那边好像也没有被走漏什么风声
+====================
+
+====================
+index 246
+offset 42557
+name NULL
+length 51
+====================
+For a second, I don't know what he's talking about.
+====================
+我一时间没有明白他指的是什么。
+====================
+
+====================
+index 247
+offset 42624
+name NULL
+length 46
+====================
+Then I quickly realize he's referring to Tomo.
+====================
+然后立刻明白是指小智。
+====================
+
+====================
+index 248
+offset 42686
+name NULL
+length 58
+====================
+He's saying that the Sakagami house is the same as always.
+====================
+就是说坂上家和平时没有什么两样。
+====================
+
+====================
+index 249
+offset 42794
+name Tomoya
+length 37
+====================
+\"Oh, I see... I thought as much...\"
+====================
+这样啊…我想也是…
+====================
+
+====================
+index 250
+offset 43117
+name NULL
+length 56
+====================
+On the other side of the window, Tomoyo is kissing Tomo.
+====================
+智代和小智在窗户那边接吻。
+====================
+
+====================
+index 251
+offset 43223
+name Tomoya
+length 18
+====================
+\"Hey, Takafumi.\"
+====================
+我说、鹰文
+====================
+
+====================
+index 252
+offset 43291
+name Tomoya
+length 60
+====================
+\"Could you put in a missing person search request for me?\"
+====================
+不发布寻人启事吗
+====================
+
+====================
+index 253
+offset 43675
+name Takafumi
+length 41
+====================
+\"Eh, you're taking this to the police?\"
+====================
+诶、要通知警察吗？
+====================
+
+====================
+index 254
+offset 43766
+name Tomoya
+length 20
+====================
+\"Just the mother.\"
+====================
+只说是找母亲
+====================
+
+====================
+index 255
+offset 43836
+name Tomoya
+length 34
+====================
+\"I won't get that kid involved.\"
+====================
+不会透露那孩子的事
+====================
+
+====================
+index 256
+offset 44194
+name Takafumi
+length 31
+====================
+\"Well, in that case, sure...\"
+====================
+嗯、这样的话还可以…
+====================
+
+====================
+index 257
+offset 44275
+name Tomoya
+length 11
+====================
+\"Thanks.\"
+====================
+那么交给你了
+====================
+
+====================
+index 258
+offset 44572
+name NULL
+length 38
+====================
+I say and put my hand on the doorknob.
+====================
+说着、我打开门。
+====================
+
+====================
+index 259
+offset 45577
+name Tomoya
+length 13
+====================
+\"I'm home.\"
+====================
+我回来了
+====================
+
+====================
+index 260
+offset 45914
+name Takafumi
+length 16
+====================
+\"Tomo, hello.\"
+====================
+小智、你好
+====================
+
+====================
+index 261
+offset 46252
+name Tomoyo
+length 62
+====================
+\"Hey, look. They're together even though they're both guys.\"
+====================
+啊、看看看。那两个人明明都是男的还那么粘在一起
+====================
+
+====================
+index 262
+offset 46364
+name Tomoyo
+length 90
+====================
+\"They were waiting for each other and came home together. How creepy. Call them creepy.\"
+====================
+还专门约好碰面后一起回来。怎么样？让人觉得很不舒服吧？这就叫『恶心』
+====================
+
+====================
+index 263
+offset 46774
+name Tomo
+length 11
+====================
+\"Creepy.\"
+====================
+恶心ー
+====================
+
+====================
+index 264
+offset 46835
+name Tomoya
+length 40
+====================
+\"Don't teach her something like that.\"
+====================
+不要教她些毫无意义的词语啊
+====================
+
+====================
+index 265
+offset 47197
+name Tomoyo
+length 11
+====================
+\"Hehehe.\"
+====================
+呵呵
+====================
+
+====================
+index 266
+offset 47258
+name Tomoya
+length 59
+====================
+\"So, what's with those stuffed animals? What's going on?\"
+====================
+对了、那个绒毛玩具是怎么回事？
+====================
+
+====================
+index 267
+offset 47333
+name NULL
+length 63
+====================
+I ask them about the unfamiliar stuffed animals in their hands.
+====================
+我发现两个人手上的绒毛玩具有些眼生、所以问下。
+====================
+
+====================
+index 268
+offset 47718
+name Tomoyo
+length 41
+====================
+\"Oh, yeah, we peeked into a toy store.\"
+====================
+啊、这个啊。在玩具店看到的
+====================
+
+====================
+index 269
+offset 47809
+name Tomoyo
+length 72
+====================
+\"Then Tomo saw one that she liked, and we bought it without thinking.\"
+====================
+然后小智很喜欢、所以我就毫不犹豫地买下了
+====================
+
+====================
+index 270
+offset 48203
+name Tomoyo
+length 24
+====================
+\"Actually, I did too.\"
+====================
+其实我也很喜欢
+====================
+
+====================
+index 271
+offset 48277
+name Tomoyo
+length 45
+====================
+\"The bear is mine and the panda is Tomo's.\"
+====================
+我自己买的是熊、给小智买的是熊猫
+====================
+
+====================
+index 272
+offset 48644
+name Tomoyo
+length 45
+====================
+\"We don't have anything to play with here.\"
+====================
+因为这个家里没有什么玩具啊
+====================
+
+====================
+index 273
+offset 48739
+name Tomoyo
+length 57
+====================
+\"If we have two stuffed animals, we can play together.\"
+====================
+有这两个绒毛玩具的话、就可以和小智一起玩了
+====================
+
+====================
+index 274
+offset 49118
+name Tomoyo
+length 16
+====================
+\"Right, Tomo?\"
+====================
+对吧、小智
+====================
+
+====================
+index 275
+offset 49420
+name NULL
+length 54
+====================
+She says and rubs the bear's head against the panda's.
+====================
+说着、智代用熊的脑袋蹭了蹭熊猫的脑袋。
+====================
+
+====================
+index 276
+offset 49490
+name NULL
+length 47
+====================
+Tomo pushes back as if to return the sentiment.
+====================
+小智也像回应一样、压了过去。
+====================
+
+====================
+index 277
+offset 49859
+name Tomoyo
+length 64
+====================
+\"Oh... don't worry. I have plenty of spending money saved up.\"
+====================
+啊…不用担心、我存了不少零用钱
+====================
+
+====================
+index 278
+offset 49939
+name NULL
+length 36
+====================
+She tells me as she plays with Tomo.
+====================
+智代一边和小智玩、一边告诉我。
+====================
+
+====================
+index 279
+offset 50025
+name Tomoyo
+length 74
+====================
+\"We didn't forget to buy a lunch box either. We picked it out together.\"
+====================
+饭盒也没有忘记买、是两人一起选的
+====================
+
+====================
+index 280
+offset 50149
+name Tomoyo
+length 21
+====================
+\"It's really cute.\"
+====================
+也是非常可爱的哦
+====================
+
+====================
+index 281
+offset 50245
+name Tomoyo
+length 33
+====================
+\"We found a really cute one...\"
+====================
+我们找到了一个非常可爱的饭盒…
+====================
+
+====================
+index 282
+offset 50328
+name Tomoyo
+length 74
+====================
+\"Now, starting tomorrow, Tomo can have lunch just like everyone else...\"
+====================
+从明天起、小智也可以和大家一起吃盒饭了…
+====================
+
+====================
+index 283
+offset 50746
+name Tomoyo
+length 29
+====================
+\"I'll make it every day...\"
+====================
+我每天都会做给她吃…
+====================
+
+====================
+index 284
+offset 50825
+name Tomoyo
+length 38
+====================
+\"Every day will be fun, and warm...\"
+====================
+同样愉快而温暖的每一天…
+====================
+
+====================
+index 285
+offset 51149
+name NULL
+length 32
+====================
+The stuffed bear hangs its head.
+====================
+熊的绒毛玩具的头垂了下来。
+====================
+
+====================
+index 286
+offset 51197
+name NULL
+length 41
+====================
+The panda strokes its head to comfort it.
+====================
+熊猫用手温柔地抚摸着熊的头。
+====================
+
+====================
+index 287
+offset 51288
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 288
+offset 51623
+name Tomoyo
+length 12
+====================
+\"...Tomo!\"
+====================
+…小智！
+====================
+
+====================
+index 289
+offset 51921
+name NULL
+length 47
+====================
+Overcome with emotion, she hugs her small body.
+====================
+智代感情爆发、紧紧地抱住了那小小的身体。
+====================
+
+====================
+index 290
+offset 52288
+name Tomo
+length 37
+====================
+\"Ahaha. What's wrong? I'll listen.\"
+====================
+嘻嘻、怎么了ー？来告诉小智ー？
+====================
+
+====================
+index 291
+offset 52341
+name NULL
+length 90
+====================
+Tomo alone knows nothing about the situation, but she innocently accepts Tomoyo's embrace.
+====================
+虽然小智什么都不知道、但她扶住了智代。
+====================
+
+====================
+index 292
+offset 52479
+name Tomo
+length 25
+====================
+\"It's okay, it's okay.\"
+====================
+没事了、没事了
+====================
+
+====================
+index 293
+offset 52520
+name NULL
+length 35
+====================
+She says and strokes Tomoyo's back.
+====================
+小智边说边抚摸着智代的后背。
+====================
+
+====================
+index 294
+offset 53445
+name NULL
+length 76
+====================
+After we put Tomo to bed, Tomoyo and I sit shoulder to shoulder in the dark.
+====================
+小智睡着后、我和智代在黑暗中靠在了一起。
+====================
+
+====================
+index 295
+offset 53571
+name Tomoya
+length 54
+====================
+\"If you aren't home... won't it end up like before?\"
+====================
+如果你从家里离开的话…那么结果不是也不好吗？
+====================
+
+====================
+index 296
+offset 53675
+name Tomoyo
+length 52
+====================
+\"My family will be fine... Takafumi is there too.\"
+====================
+家里没问题…还有鹰文在
+====================
+
+====================
+index 297
+offset 53777
+name Tomoya
+length 33
+====================
+\"You should go home sometimes.\"
+====================
+偶尔也回去看看吧
+====================
+
+====================
+index 298
+offset 53860
+name Tomoya
+length 17
+====================
+\"I'll be here.\"
+====================
+这里有我在
+====================
+
+====================
+index 299
+offset 53927
+name Tomoyo
+length 35
+====================
+\"But... I want to be here too...\"
+====================
+但是…我也想在这里…
+====================
+
+====================
+index 300
+offset 54012
+name Tomoyo
+length 59
+====================
+\"Unless you're saying... me being here is a nuisance...?\"
+====================
+还是说…我在这里会给你添麻烦吗…
+====================
+
+====================
+index 301
+offset 54121
+name Tomoya
+length 49
+====================
+\"Idiot... there's no way that would be true...\"
+====================
+傻瓜…这怎么可能…
+====================
+
+====================
+index 302
+offset 54220
+name Tomoyo
+length 20
+====================
+\"Yeah... sorry...\"
+====================
+嗯…不好意思…
+====================
+
+====================
+index 303
+offset 54256
+name NULL
+length 32
+====================
+I pull Tomoyo's shoulder closer.
+====================
+我拉过智代的肩膀。
+====================
+
+====================
+index 304
+offset 54304
+name NULL
+length 41
+====================
+I put my face close to hers and kiss her.
+====================
+两个人的脸靠近、然后接吻。
+====================
+
+====================
+index 305
+offset 54395
+name Tomoyo
+length 37
+====================
+\"Your kissing fetish has spread...\"
+====================
+我被你这个亲吻狂传染了…
+====================
+
+====================
+index 306
+offset 54482
+name Tomoyo
+length 26
+====================
+\"I keep kissing Tomo...\"
+====================
+一天到晚都在亲小智…
+====================
+
+====================
+index 307
+offset 54558
+name Tomoya
+length 49
+====================
+\"It's an expression of love, so isn't it fine?\"
+====================
+反正是爱情的表现、有什么不好
+====================
+
+====================
+index 308
+offset 54657
+name Tomoya
+length 39
+====================
+\"You love her, so you want to do it.\"
+====================
+因为喜欢所以才会想这么做
+====================
+
+====================
+index 309
+offset 54746
+name Tomoyo
+length 27
+====================
+\"Yeah... you're right...\"
+====================
+嗯…的确是这样…
+====================
+
+====================
+index 310
+offset 54789
+name NULL
+length 48
+====================
+We're silent for a while as we continue to kiss.
+====================
+我们稍微沉默了下、继续亲吻。
+====================
+
+====================
+index 311
+offset 54887
+name Tomoyo
+length 35
+====================
+\"Hey... actually, I had an idea.\"
+====================
+对了…其实我想到了一个主意
+====================
+
+====================
+index 312
+offset 54938
+name NULL
+length 50
+====================
+As she holds me and kisses my cheek, she whispers.
+====================
+一边亲吻着彼此的脸颊、智代说话了。
+====================
+
+====================
+index 313
+offset 55038
+name Tomoyo
+length 36
+====================
+\"I think it's a really good idea.\"
+====================
+我觉得这是个很好的主意
+====================
+
+====================
+index 314
+offset 55124
+name Tomoya
+length 11
+====================
+\"What...\"
+====================
+什么主意…
+====================
+
+====================
+index 315
+offset 55185
+name Tomoyo
+length 26
+====================
+\"You should adopt Tomo.\"
+====================
+朋也你收养小智吧
+====================
+
+====================
+index 316
+offset 55261
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 317
+offset 55324
+name Tomoyo
+length 27
+====================
+\"Make her your real kid.\"
+====================
+让她真正的成为你的孩子
+====================
+
+====================
+index 318
+offset 55401
+name Tomoyo
+length 47
+====================
+\"If you do that, I think she'd be happy too.\"
+====================
+我觉得这样做的话、即使那个孩子知道了真相
+====================
+
+====================
+index 319
+offset 55498
+name Tomoyo
+length 33
+====================
+\"Even if she learns the truth.\"
+====================
+也能够安心下来
+====================
+
+====================
+index 320
+offset 55581
+name Tomoyo
+length 30
+====================
+\"I think it's a great idea.\"
+====================
+怎么样？是个好主意吧
+====================
+
+====================
+index 321
+offset 55661
+name Tomoya
+length 21
+====================
+\"Hey... hold on...\"
+====================
+嗯…等等…
+====================
+
+====================
+index 322
+offset 55732
+name Tomoyo
+length 44
+====================
+\"Is there something wrong with that idea?\"
+====================
+有什么问题吗
+====================
+
+====================
+index 323
+offset 55826
+name Tomoya
+length 23
+====================
+\"I'm still underage.\"
+====================
+我还未成年
+====================
+
+====================
+index 324
+offset 55899
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 325
+offset 55962
+name Tomoyo
+length 28
+====================
+\"I see... you're right...\"
+====================
+对了…的确如此…
+====================
+
+====================
+index 326
+offset 56040
+name Tomoyo
+length 29
+====================
+\"The law won't allow it...\"
+====================
+法律上不允许…
+====================
+
+====================
+index 327
+offset 56119
+name Tomoya
+length 60
+====================
+\"Even if I could do it... she still has her real parents.\"
+====================
+而且即使这样做了…真正的父母也是另有其人
+====================
+
+====================
+index 328
+offset 56229
+name Tomoyo
+length 36
+====================
+\"Blood has nothing to do with it.\"
+====================
+和血缘没有关系
+====================
+
+====================
+index 329
+offset 56315
+name Tomoyo
+length 59
+====================
+\"Someone who can love her and in turn be loved by her...\"
+====================
+在那个孩子身上倾注爱情、并且被那个孩子所深爱…
+====================
+
+====================
+index 330
+offset 56424
+name Tomoyo
+length 46
+====================
+\"That is who is qualified to be her parent.\"
+====================
+只有这样的人才有资格成为那个孩子的父母
+====================
+
+====================
+index 331
+offset 56520
+name Tomoyo
+length 34
+====================
+\"My father can't show her love.\"
+====================
+我的父亲没有给予那个孩子任何关爱
+====================
+
+====================
+index 332
+offset 56604
+name Tomoyo
+length 33
+====================
+\"Her mother left her behind...\"
+====================
+而那个孩子的母亲抛弃了她、离开了
+====================
+
+====================
+index 333
+offset 56687
+name Tomoyo
+length 34
+====================
+\"Neither of them are qualified.\"
+====================
+这两个人、都没有这种资格
+====================
+
+====================
+index 334
+offset 56771
+name Tomoya
+length 41
+====================
+\"Don't jump to conclusions so quickly.\"
+====================
+不要这么简单就下结论
+====================
+
+====================
+index 335
+offset 56862
+name Tomoya
+length 34
+====================
+\"Why are you in such a rush...?\"
+====================
+你为什么这么着急…
+====================
+
+====================
+index 336
+offset 56946
+name Tomoyo
+length 67
+====================
+\"If we don't hurry, won't it only make things worse for Tomo...?\"
+====================
+不快点这样做的话、小智就太可怜了…
+====================
+
+====================
+index 337
+offset 57063
+name Tomoya
+length 14
+====================
+\"I swear...\"
+====================
+你啊…
+====================
+
+====================
+index 338
+offset 57127
+name Tomoya
+length 54
+====================
+\"When you love someone, you become blindly devoted.\"
+====================
+一旦喜欢上谁、就会变得盲目起来
+====================
+
+====================
+index 339
+offset 57231
+name Tomoyo
+length 14
+====================
+\"Really...?\"
+====================
+是这样吗…？
+====================
+
+====================
+index 340
+offset 57295
+name Tomoyo
+length 31
+====================
+\"I don't know myself well...\"
+====================
+我自己也不是很清楚…
+====================
+
+====================
+index 341
+offset 57376
+name Tomoya
+length 41
+====================
+\"You were the same when it came to me.\"
+====================
+你喜欢上我的时候也是这样
+====================
+
+====================
+index 342
+offset 57467
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 343
+offset 57530
+name Tomoya
+length 42
+====================
+\"This time I'm going to do something...\"
+====================
+这次就由我来做些什么吧…
+====================
+
+====================
+index 344
+offset 57622
+name Tomoya
+length 32
+====================
+\"So please give me some time.\"
+====================
+所以就请你稍微等待下吧
+====================
+
+====================
+index 345
+offset 57670
+name NULL
+length 55
+====================
+...tomorrow I'll check out the place Tomo used to live.
+====================
+…明天去小智住的地方调查一下好了。
+====================
+
+====================
+index 346
+offset 57741
+name NULL
+length 25
+====================
+That's what I'm thinking.
+====================
+我这样决定。
+====================
+
+====================
+index 347
+offset 57782
+name NULL
+length 38
+====================
+The address was on her insurance card.
+====================
+那个保险证上写的地址。
+====================
+
+====================
+index 348
+offset 57836
+name NULL
+length 84
+====================
+I remember there being a room number written at the end. It's probably an apartment.
+====================
+我记得最后写有房间号码、所以应该是公寓。
+====================
+
+====================
+index 349
+offset 57936
+name NULL
+length 28
+====================
+I'll check tomorrow morning.
+====================
+明天早上、去确认一下。
+====================

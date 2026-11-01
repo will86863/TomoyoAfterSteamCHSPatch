@@ -1,0 +1,1784 @@
+type seen7950
+count 162
+
+====================
+index 1
+offset 360
+name NULL
+length 12
+====================
+They left...
+====================
+他们走了…
+====================
+
+====================
+index 2
+offset 388
+name NULL
+length 45
+====================
+Those ten long seconds felt like an eternity.
+====================
+那漫长的十秒、感觉就像永恒一样。
+====================
+
+====================
+index 3
+offset 449
+name NULL
+length 34
+====================
+The world... didn't change at all.
+====================
+世界…一点也没有改变。
+====================
+
+====================
+index 4
+offset 502
+name NULL
+length 32
+====================
+Humans still rule the continent.
+====================
+人类依然统治着这片大陆。
+====================
+
+====================
+index 5
+offset 550
+name NULL
+length 41
+====================
+There are no traces of the beastmen left.
+====================
+兽人的痕迹一点也没有留下。
+====================
+
+====================
+index 6
+offset 610
+name NULL
+length 47
+====================
+And Takafumi has also vanished from this world.
+====================
+而鹰文也从这个世界消失了。
+====================
+
+====================
+index 7
+offset 676
+name NULL
+length 59
+====================
+After that, I learned a few facts from an old history book.
+====================
+在那之后、我从一本古老的历史书里知道了几个事实。
+====================
+
+====================
+index 8
+offset 1346
+name NULL
+length 88
+====================
+Long ago, a race known as the beastmen appeared in the central region of the continent. 
+====================
+很久以前、一个被称为兽人的种族出现在大陆的中部地区。
+====================
+
+====================
+index 9
+offset 1450
+name NULL
+length 24
+====================
+Their origin is unknown.
+====================
+他们的起源不明。
+====================
+
+====================
+index 10
+offset 1490
+name NULL
+length 126
+====================
+Some say that they suddenly evolved from humans, while others say they evolved from some other species, but nobody is certain.
+====================
+有人说他们是从人类突然进化而来的、也有人说是从别的物种进化而来、但谁都无法确定。
+====================
+
+====================
+index 11
+offset 1652
+name NULL
+length 151
+====================
+About a thousand years ago, there was a great struggle between the beastmen and mankind, and this struggle brought mankind to the brink of destruction.
+====================
+大约一千年前、兽人与人类之间发生了一场大战、这场战争把人类逼到了毁灭的边缘。
+====================
+
+====================
+index 12
+offset 1819
+name NULL
+length 83
+====================
+The beastmen took over the central and eastern regions of the continent in a flash.
+====================
+兽人转瞬之间就占领了大陆的中部与东部地区。
+====================
+
+====================
+index 13
+offset 1918
+name NULL
+length 97
+====================
+Only the western region, the center of human civilization at the time, narrowly escaped conquest.
+====================
+只有当时人类文明中心的西部地区、勉勉强强躲过了被征服的命运。
+====================
+
+====================
+index 14
+offset 2051
+name NULL
+length 171
+====================
+In the midst of their constant victories over the forces from different human countries, the beastmen were halted by an army of volunteers at a port in the western region.
+====================
+兽人在不断击败来自人类各国军队的过程中、终于在西部地区的港口被一支义勇军挡住了。
+====================
+
+====================
+index 15
+offset 2238
+name NULL
+length 91
+====================
+Despite everyone's expectation of total defeat, the volunteer army fought off the beastmen.
+====================
+在所有人都以为会全军覆没的情况下、义勇军却击退了兽人。
+====================
+
+====================
+index 16
+offset 2345
+name NULL
+length 58
+====================
+That battle marked the first tactical triumph for mankind.
+====================
+那场战斗成为人类第一次战术上的胜利。
+====================
+
+====================
+index 17
+offset 2439
+name NULL
+length 112
+====================
+Driven by their recent victory, the volunteer army invaded a metropolis to the south and reclaimed it in a week.
+====================
+借着这次胜利的气势、义勇军进攻了南方的一座大都市、并在一个星期内将其夺回。
+====================
+
+====================
+index 18
+offset 2567
+name NULL
+length 88
+====================
+From there, they marched eastwards, constructed a base, and began mankind's retaliation.
+====================
+他们从那里向东进军、建立起据点、开始了人类的反击。
+====================
+
+====================
+index 19
+offset 2691
+name NULL
+length 72
+====================
+The volunteer army met with the king before resuming their tour of duty.
+====================
+义勇军在再次出征前与国王会面。
+====================
+
+====================
+index 20
+offset 2779
+name NULL
+length 149
+====================
+Only the names of four combatants have survived in the records. They rejected all reinforcements and fought only with the forces under their command.
+====================
+记录中只留下了四名战士的名字。他们拒绝了所有增援、只带着自己麾下的兵力作战。
+====================
+
+====================
+index 21
+offset 2944
+name NULL
+length 77
+====================
+Besides, the forces that still remained did not possess any fighting ability.
+====================
+而且、残留下来的兵力根本算不上有什么战斗力。
+====================
+
+====================
+index 22
+offset 3057
+name NULL
+length 121
+====================
+The magus \"Tomo\" was the volunteer army's leader, and she produced a tremendous number of \"Takafumis\" with her magic.
+====================
+魔术师『智』是义勇军的首领、她用魔法创造出了数量庞大的『鹰文』。
+====================
+
+====================
+index 23
+offset 3194
+name NULL
+length 121
+====================
+The original \"Takafumi\", the first one created, was appointed commander of the army and proved to be a peerless leader.
+====================
+第一个被创造出来的原型『鹰文』被任命为军队的指挥官、并且证明了自己是无可匹敌的领袖。
+====================
+
+====================
+index 24
+offset 3331
+name NULL
+length 205
+====================
+The natives and other volunteer troops were at first skeptical about the \"Takafumis\", who all looked the same. However, their suspicions faded as they learned about the Takafumis' active role in the war.
+====================
+当地人和其他的义勇军部队起初对这些长得一模一样的『鹰文』心存怀疑。然而、随着他们了解到鹰文在战争中的活跃、这些疑虑也渐渐消散了。
+====================
+
+====================
+index 25
+offset 3552
+name NULL
+length 52
+====================
+\"Takifumi\" was greeted with jubilation everywhere.
+====================
+『鹰文』在各个地方都受到了欢欣鼓舞的欢迎。
+====================
+
+====================
+index 26
+offset 3640
+name NULL
+length 93
+====================
+There were two others, an imperial knight and a squadron commander, who guarded \"Takafumi\".
+====================
+另外还有两个人、一位帝国骑士和一位骑兵队长、守护着『鹰文』。
+====================
+
+====================
+index 27
+offset 3787
+name NULL
+length 43
+====================
+Their names were \"Tomoyo\" and \"Tomoya\".
+====================
+他们的名字是『智代』和『朋也』。
+====================
+
+====================
+index 28
+offset 3896
+name NULL
+length 43
+====================
+Their names were \"Tomoyo\" and \"Tomoya\".
+====================
+他们的名字是『智代』和『朋也』。
+====================
+
+====================
+index 29
+offset 3955
+name NULL
+length 77
+====================
+It is said that while Tomoya was a human, he was loyally followed by a demon.
+====================
+据说朋也虽然身为人类、却有一只恶魔忠诚地追随着他。
+====================
+
+====================
+index 30
+offset 4071
+name NULL
+length 63
+====================
+After about six months, the bloodiest part of the war was over.
+====================
+大约半年之后、战争中最血腥的阶段结束了。
+====================
+
+====================
+index 31
+offset 4150
+name NULL
+length 118
+====================
+The Takafumis that were created through magic strengthened the front lines and managed to hold back the beastmen army.
+====================
+通过魔法创造出来的鹰文们加强了前线、成功地挡住了兽人的大军。
+====================
+
+====================
+index 32
+offset 4284
+name NULL
+length 139
+====================
+Understanding that a total victory was not necessary as long as they were not destroyed, the \"Takafumi\" switched to a defensive strategy.
+====================
+『鹰文』明白只要不被消灭、就不必取得完全胜利、于是转为了防守战略。
+====================
+
+====================
+index 33
+offset 4439
+name NULL
+length 135
+====================
+The two proponents of this new strategy were \"Tomoyo\" and \"Tomoya\". The two of them toured everywhere and took charge of the front.
+====================
+这一新战略的两位倡导者就是『智代』和『朋也』。两人辗转各地、担当起了前线的指挥。
+====================
+
+====================
+index 34
+offset 4610
+name NULL
+length 20
+====================
+Another year lapsed.
+====================
+又过了一年。
+====================
+
+====================
+index 35
+offset 4646
+name NULL
+length 108
+====================
+Due to their solid defense, the strength of mankind at this point well exceeded the strength of their enemy.
+====================
+由于他们稳固的防守、此时人类的力量已经远远超过了敌人的力量。
+====================
+
+====================
+index 36
+offset 4790
+name NULL
+length 77
+====================
+In response, the beastmen reinforced their strongholds with even more troops.
+====================
+为此、兽人用更多的兵力加强了他们的据点。
+====================
+
+====================
+index 37
+offset 4883
+name NULL
+length 123
+====================
+The Takafumis' main squadron plotted to attack the enemy bases one by one in order to recapture their occupied territories.
+====================
+鹰文的主力部队谋划逐个攻击敌方基地、以夺回被占领的领土。
+====================
+
+====================
+index 38
+offset 5022
+name NULL
+length 169
+====================
+Takafumi's strategies, and the courage and valor displayed by Tomoyo and Tomoya in executing them on the battlefield, were celebrated by bards and minstrels of the time.
+====================
+鹰文的战略、以及在战场上执行这些战略的智代与朋也所展现出的勇气与英勇、被当时的吟游诗人传颂。
+====================
+
+====================
+index 39
+offset 5227
+name NULL
+length 142
+====================
+The most intense battles at the time were most likely raging in the southwestern region of the continent and the plains of the central region.
+====================
+当时最激烈的战斗、大概正在大陆的西南地区和中央平原一带展开。
+====================
+
+====================
+index 40
+offset 5385
+name NULL
+length 165
+====================
+Several years after their formation, after many advances and retreats, the volunteer army finally succeeded in establishing a base in the continent's central region.
+====================
+成军数年之后、经过反复的进退、义勇军终于成功在大陆的中部地区建立起了据点。
+====================
+
+====================
+index 41
+offset 5586
+name NULL
+length 68
+====================
+In response, the beastmen withdrew its eastern expeditionary forces.
+====================
+为此、兽人撤回了东征部队。
+====================
+
+====================
+index 42
+offset 5670
+name NULL
+length 98
+====================
+They began gathering all of their forces in preparation for a counterattack in the western region.
+====================
+他们开始集结全部兵力、准备在西部地区发动反击。
+====================
+
+====================
+index 43
+offset 5784
+name NULL
+length 139
+====================
+Having assembled an army larger than had ever been seen before, the beastmen waited patiently for an opportunity to launch a counterattack.
+====================
+兽人集结起了前所未有的庞大军队、耐心等待着发动反击的时机。
+====================
+
+====================
+index 44
+offset 5959
+name NULL
+length 93
+====================
+When Takafumi found out, he immediately launched an extensive offensive against the beastmen.
+====================
+鹰文得知后、立刻对兽人发动了大规模的攻势。
+====================
+
+====================
+index 45
+offset 6088
+name NULL
+length 58
+====================
+This ultimately concluded in a narrow victory for mankind.
+====================
+这场战斗最终以人类险胜告终。
+====================
+
+====================
+index 46
+offset 6162
+name NULL
+length 132
+====================
+This was only possible because the volunteer army had successfully sealed the magical vessels set up at the beastmen's headquarters.
+====================
+这一切之所以可能、是因为义勇军成功封印了设置在兽人总部的魔法容器。
+====================
+
+====================
+index 47
+offset 6310
+name NULL
+length 82
+====================
+As a result, the beastmen lost access to the spell used to provide reinforcements.
+====================
+结果、兽人失去了用来补充兵力的咒文。
+====================
+
+====================
+index 48
+offset 6408
+name NULL
+length 100
+====================
+The beastmen's main regiment had also been destroyed through mankind's relentless attrition warfare.
+====================
+兽人的主力部队也在人类毫不留情的消耗战中被消灭了。
+====================
+
+====================
+index 49
+offset 6524
+name NULL
+length 160
+====================
+Having lost the majority of its leaders, the beastmen army scattered. Each segment was attacked and annihilated by different countries' slowly resurging armies.
+====================
+失去了大部分领袖的兽人军队四散溃逃。各部分别被各国渐渐复苏的军队攻击并歼灭。
+====================
+
+====================
+index 50
+offset 6720
+name NULL
+length 88
+====================
+Takafumis' corps, having lost almost all of its forces, was not able to reform itself...
+====================
+鹰文的军团几乎失去了所有兵力、再也无法重组…
+====================
+
+====================
+index 51
+offset 6824
+name NULL
+length 58
+====================
+...because the original \"Takafumi\" was killed in battle.
+====================
+…因为原型『鹰文』在战斗中阵亡了。
+====================
+
+====================
+index 52
+offset 6918
+name NULL
+length 156
+====================
+Even though Takafumi had drafted the plans for both the strategy of attrition and the offensive, he did not want there to be any mistakes in its execution. 
+====================
+尽管消耗战与攻势作战这两套方案都是鹰文拟定的、但他不希望执行时出现任何差错。
+====================
+
+====================
+index 53
+offset 7090
+name NULL
+length 120
+====================
+For that reason, the original spearheaded the assault out of necessity, even though he normally commanded from the rear.
+====================
+为此、原型亲自率先冲在了最前面、尽管他平时总是在后方指挥。
+====================
+
+====================
+index 54
+offset 7226
+name NULL
+length 65
+====================
+As a result, the operation succeeded, however, he died in battle.
+====================
+结果、作战成功了、可他却阵亡了。
+====================
+
+====================
+index 55
+offset 7327
+name NULL
+length 63
+====================
+Tomoyo and Tomoya were also killed in the midst of this battle.
+====================
+智代和朋也也在这场战斗中牺牲了。
+====================
+
+====================
+index 56
+offset 7406
+name NULL
+length 126
+====================
+Allegedly, Tomoyo and Tomoya, who always stood on the front lines, were shrouded in the grief and gratitude of the Takafumis. 
+====================
+据说、始终站在最前线的智代和朋也、被鹰文们的悲伤与感恩所环绕。
+====================
+
+====================
+index 57
+offset 7606
+name NULL
+length 91
+====================
+The demon, having lost its master, ravaged the battlefield in revenge, and barely survived.
+====================
+那只失去了主人的恶魔为了复仇而在战场上肆虐、勉强活了下来。
+====================
+
+====================
+index 58
+offset 7713
+name NULL
+length 69
+====================
+After the war, the demon was ushered in as a hero of all the nations.
+====================
+战争结束后、那只恶魔被奉为万国的英雄。
+====================
+
+====================
+index 59
+offset 7798
+name NULL
+length 137
+====================
+However, it is said that after it had placed its weapon and armor next to the tomb honoring Tomoya's achievements, the demon disappeared.
+====================
+然而、据说它把武器和铠甲放在颂扬朋也功绩的墓旁之后、就消失了。
+====================
+
+====================
+index 60
+offset 7951
+name NULL
+length 88
+====================
+Even though the magical power has faded, the star-shaped armour is still there even now.
+====================
+魔力虽然已经消散、但那件星形的铠甲至今仍在。
+====================
+
+====================
+index 61
+offset 8081
+name NULL
+length 102
+====================
+For the next several decades, the \"Beastmen Hunting\" period continued and the beastmen went extinct.
+====================
+此后的几十年间、『猎兽人』的时代持续着、兽人最终灭绝了。
+====================
+
+====================
+index 62
+offset 8199
+name NULL
+length 58
+====================
+There have been no new sightings of beastmen ever since.  
+====================
+从那以后再没有人见过兽人。
+====================
+
+====================
+index 63
+offset 8296
+name NULL
+length 59
+====================
+Very few of the \"Takafumis\" who saved the world survived.
+====================
+拯救了世界的『鹰文』中、活下来的极少。
+====================
+
+====================
+index 64
+offset 8371
+name NULL
+length 106
+====================
+After the war ended, the Takafumis were imprisoned by the many nations' wizards or high ranking officials.
+====================
+战争结束后、鹰文们被各国的魔术师或高官囚禁了起来。
+====================
+
+====================
+index 65
+offset 8493
+name NULL
+length 37
+====================
+Their goal was to reproduce Takafumi.
+====================
+他们的目的是复制鹰文。
+====================
+
+====================
+index 66
+offset 8566
+name NULL
+length 167
+====================
+Lusting after more power and afraid that others would beat them to it, the wizards studied the Takafumis who had succeeded in eradicating the beastmen like no other.  
+====================
+魔术师们渴求更多的力量、又害怕被别人抢先、于是对成功消灭了兽人的鹰文们进行了前所未有的研究。
+====================
+
+====================
+index 67
+offset 8749
+name NULL
+length 30
+====================
+However, they did not succeed.
+====================
+然而、他们没能成功。
+====================
+
+====================
+index 68
+offset 8795
+name NULL
+length 133
+====================
+When Tomo silently left the country and went into hiding, the specialized magic she had used to create Takafumi disappeared with her.
+====================
+当智默默地离开这个国家、隐姓埋名之后、她用来创造鹰文的那门专门魔法也随之消失了。
+====================
+
+====================
+index 69
+offset 8964
+name NULL
+length 65
+====================
+Furthermore, there were whispered rumors about her true identity.
+====================
+而且、关于她真实身份的传言也悄然流传着。
+====================
+
+====================
+index 70
+offset 9045
+name NULL
+length 83
+====================
+According to local folklore and records, she had the appearance of a five year old.
+====================
+根据当地的民间传说和记录、她的外表看起来只有五岁。
+====================
+
+====================
+index 71
+offset 9144
+name NULL
+length 163
+====================
+There was no doubt that she had the tremendous magical abilities capable of creating the Takafumis and annihilating the beastmen, but little was known beyond that.
+====================
+她无疑拥有足以创造鹰文、消灭兽人的强大魔力、但除此之外就知之甚少了。
+====================
+
+====================
+index 72
+offset 9326
+name NULL
+length 80
+====================
+It is said that she only told people she trusted about how she created Takafumi.
+====================
+据说她只对自己信任的人讲过她是如何创造鹰文的。
+====================
+
+====================
+index 73
+offset 9442
+name NULL
+length 85
+====================
+Even so, they tried to carry out their research with the little information they had.
+====================
+即便如此、他们还是凭着仅有的一点信息试图推进研究。
+====================
+
+====================
+index 74
+offset 9543
+name NULL
+length 84
+====================
+However, the Takafumi that they eventually created was just a doll without emotions.
+====================
+然而、他们最终创造出来的鹰文、只是一个没有感情的人偶。
+====================
+
+====================
+index 75
+offset 9643
+name NULL
+length 110
+====================
+Further study by the increasingly frustrated researchers led nowhere; the cloning technology was lost forever.
+====================
+越来越焦躁的研究者们再怎么研究也没有结果、克隆技术就此永远失传了。
+====================
+
+====================
+index 76
+offset 9789
+name NULL
+length 64
+====================
+Now, there are only a few Takafumi clones left on the continent.
+====================
+如今、这片大陆上只剩下寥寥几个鹰文的复制体。
+====================
+
+====================
+index 77
+offset 9869
+name NULL
+length 77
+====================
+And they are no more than artifacts used to showcase the culture of the time.
+====================
+而它们不过是用来展示当时文化的工艺品罢了。
+====================
+
+====================
+index 78
+offset 10481
+name NULL
+length 50
+====================
+I've earnestly read history books ever since then.
+====================
+从那以后、我开始认真地读历史书。
+====================
+
+====================
+index 79
+offset 10547
+name NULL
+length 93
+====================
+As a result, knowing all about the past and seeing that there was work to be done, I changed.
+====================
+结果、在了解了全部过去、并发现还有该做的事之后、我变了。
+====================
+
+====================
+index 80
+offset 10659
+name NULL
+length 68
+====================
+First, I stopped trying to find excuses to run away from the office.
+====================
+首先、我不再为自己的办公逃避找借口。
+====================
+
+====================
+index 81
+offset 10743
+name NULL
+length 95
+====================
+And whenever I would find myself against a brick wall, I'd beg for the wisdom of our ancestors.
+====================
+每当碰壁的时候、我就会去寻求祖先们的智慧。
+====================
+
+====================
+index 82
+offset 10854
+name NULL
+length 100
+====================
+I was strict with myself, and I tried to cultivate better judgement and a discerning eye for people.
+====================
+我对自己严格、努力培养更好的判断力和看人的眼光。
+====================
+
+====================
+index 83
+offset 10970
+name NULL
+length 63
+====================
+I always thought about what it meant to be fair before I acted.
+====================
+我总是在行动之前思考什么才是公正。
+====================
+
+====================
+index 84
+offset 11049
+name NULL
+length 71
+====================
+These were all necessary for me to lead my country and achieve my goal.
+====================
+这些对我来说、都是治理国家、达成目标所必需的。
+====================
+
+====================
+index 85
+offset 11139
+name NULL
+length 83
+====================
+In order to earn the support of the citizens and soldiers, I fought from the front.
+====================
+为了赢得国民与士兵的支持、我亲自站到最前线去战斗。
+====================
+
+====================
+index 86
+offset 11238
+name NULL
+length 77
+====================
+Focusing on education, I was also successful at enhancing our national power.
+====================
+我着重教育、也成功地增强了国力。
+====================
+
+====================
+index 87
+offset 11331
+name NULL
+length 107
+====================
+Even those who thought that my actions were just the whims of a princess eventually came to acknowledge me.
+====================
+就连那些认为我的所作所为只是公主一时兴起的人、最终也认可了我。
+====================
+
+====================
+index 88
+offset 11457
+name NULL
+length 55
+====================
+A few years later, my father entrusted his title to me.
+====================
+几年后、父亲把王位托付给了我。
+====================
+
+====================
+index 89
+offset 11528
+name NULL
+length 33
+====================
+No one objected to my succession.
+====================
+没有人反对我继位。
+====================
+
+====================
+index 90
+offset 11577
+name NULL
+length 72
+====================
+Everyone was delighted to see that I had grown up, and they accepted me.
+====================
+大家都为我成长起来而高兴、接纳了我。
+====================
+
+====================
+index 91
+offset 11665
+name NULL
+length 37
+====================
+However, that gave me little comfort.
+====================
+然而、这并没有让我感到多少安慰。
+====================
+
+====================
+index 92
+offset 11721
+name NULL
+length 91
+====================
+I started to plan out the construction of the Royal Museum which I had been thinking about.
+====================
+我开始着手筹划自己一直想建的王立博物馆。
+====================
+
+====================
+index 93
+offset 11828
+name NULL
+length 69
+====================
+The seeds I had spread when I was a princess easily came to fruition.
+====================
+我在还是公主时撒下的种子、很顺利地结出了果实。
+====================
+
+====================
+index 94
+offset 11916
+name NULL
+length 119
+====================
+Spearheading the effort, I negotiated with each country, and collected and excavated artworks and valuable furnishings.
+====================
+我带头与各国交涉、收集并挖掘美术品和贵重的家具。
+====================
+
+====================
+index 95
+offset 12051
+name NULL
+length 80
+====================
+Leaving the country and going to excavation sites became a daily routine for me.
+====================
+离开国家前往发掘现场、成了我的日常。
+====================
+
+====================
+index 96
+offset 12150
+name NULL
+length 81
+====================
+About a year after I proposed the plan, I thought I had finally achieved my goal.
+====================
+在我提出计划大约一年之后、我以为终于达成了目标。
+====================
+
+====================
+index 97
+offset 12247
+name NULL
+length 117
+====================
+I finally discovered what I was looking for in a destroyed fort of a neighboring country, being worshiped as a relic.
+====================
+我终于在邻国一座被毁的堡垒里、找到了被当作圣物供奉的东西。
+====================
+
+====================
+index 98
+offset 12380
+name NULL
+length 16
+====================
+It was Takafumi.
+====================
+那是鹰文。
+====================
+
+====================
+index 99
+offset 12415
+name NULL
+length 45
+====================
+The goal of all of this was to find Takafumi.
+====================
+这一切的目的、都是为了找到鹰文。
+====================
+
+====================
+index 100
+offset 12476
+name NULL
+length 61
+====================
+For that goal, I had gritted my teeth and endured everything.
+====================
+为了这个目标、我咬紧牙关忍受了一切。
+====================
+
+====================
+index 101
+offset 12553
+name NULL
+length 10
+====================
+However...
+====================
+然而…
+====================
+
+====================
+index 102
+offset 13040
+name Attendant
+length 27
+====================
+\"He's already... dead...\"
+====================
+他已经…死了…
+====================
+
+====================
+index 103
+offset 13117
+name Kanako
+length 20
+====================
+\"That can't be...\"
+====================
+怎么可能…
+====================
+
+====================
+index 104
+offset 13153
+name NULL
+length 20
+====================
+Takafumi won't move.
+====================
+鹰文一动不动。
+====================
+
+====================
+index 105
+offset 13189
+name NULL
+length 49
+====================
+He's as silent as a doll, and he is rotting away.
+====================
+他像人偶一样沉默、正在腐朽。
+====================
+
+====================
+index 106
+offset 13677
+name NULL
+length 58
+====================
+Nevertheless, refusing to lose hope, I continue to search.
+====================
+尽管如此、我还是不肯放弃希望、继续寻找着。
+====================
+
+====================
+index 107
+offset 13751
+name NULL
+length 44
+====================
+From then on, I found many of the Takafumis,
+====================
+从那以后、我找到了许多鹰文、
+====================
+
+====================
+index 108
+offset 13811
+name NULL
+length 23
+====================
+but they were all dead.
+====================
+但他们全都已经死了。
+====================
+
+====================
+index 109
+offset 13853
+name NULL
+length 149
+====================
+Before I knew it, the Royal Museum had stared to attract visitors from every country; all of them coming to catch a glimpse of how much it had grown.
+====================
+不知不觉间、王立博物馆开始吸引来自各国的游客、他们都是来一睹它长成了什么样子。
+====================
+
+====================
+index 110
+offset 14018
+name NULL
+length 96
+====================
+My worried aide suggests that we put an end to our search for Takafumi, but I stubbornly refuse.
+====================
+忧心的侍从建议我结束寻找鹰文、但我固执地拒绝了。
+====================
+
+====================
+index 111
+offset 14130
+name NULL
+length 114
+====================
+There are even conversations about finding somebody for me to marry, but I silence them with a wave of my sword.  
+====================
+甚至还有人谈起要为我找个婚嫁对象、但我一挥剑就把这些话压了下去。
+====================
+
+====================
+index 112
+offset 14263
+name NULL
+length 67
+====================
+Still, it is exhausting to only be supported by my own strong will.
+====================
+不过、只靠自己的坚强意志支撑着、也是会累的。
+====================
+
+====================
+index 113
+offset 14349
+name NULL
+length 114
+====================
+But then, we receive information that a body very similar to Takafumi's was found in a small country to the west. 
+====================
+可就在这时、我们得到消息说、在西部的一个小国发现了和鹰文非常相似的身体。
+====================
+
+====================
+index 114
+offset 14479
+name NULL
+length 84
+====================
+I order the cavalry commander to go there, and I rush there faster than anyone else.
+====================
+我命令骑兵队长前往那里、而我自己则比任何人都先赶了过去。
+====================
+
+====================
+index 115
+offset 15003
+name NULL
+length 26
+====================
+It's like a paradise here.
+====================
+这里就像天堂一样。
+====================
+
+====================
+index 116
+offset 15045
+name NULL
+length 33
+====================
+Lush greenery; the air is serene.
+====================
+绿意盎然、空气宁静。
+====================
+
+====================
+index 117
+offset 15094
+name NULL
+length 100
+====================
+I look up and see a pure white bird. Beyond that are the ruins of what were once towering buildings.
+====================
+我抬头看见一只纯白的鸟。在它那边、曾经高耸的建筑如今只剩下废墟。
+====================
+
+====================
+index 118
+offset 15210
+name NULL
+length 104
+====================
+With densely grown moss and ivy covering the building, it looked like it was nurtured by nature itself. 
+====================
+那片建筑被茂密生长的苔藓和常春藤覆盖着、看上去就像是被大自然亲手养育过一样。
+====================
+
+====================
+index 119
+offset 15330
+name NULL
+length 57
+====================
+As I approach them, the small birds take off all at once.
+====================
+我走近时、小鸟们一下子全都飞走了。
+====================
+
+====================
+index 120
+offset 15403
+name NULL
+length 68
+====================
+Beyond that, the figure of a person is leaning against a large tree.
+====================
+在那之后、有一个人的身影正靠在一棵大树旁。
+====================
+
+====================
+index 121
+offset 15535
+name NULL
+length 48
+====================
+It is... the person I had always wanted to meet.
+====================
+那是…我一直想见的人。
+====================
+
+====================
+index 122
+offset 15599
+name NULL
+length 80
+====================
+I ask the cavalry commander to clear the area; I want to be alone with Takafumi.
+====================
+我让骑兵队长清场、我想和鹰文两个人单独待着。
+====================
+
+====================
+index 123
+offset 15695
+name NULL
+length 67
+====================
+Cutting Takafumi free from the ivy with a knife, I shake him awake.
+====================
+我用小刀把鹰文从常春藤里割出来、摇醒了他。
+====================
+
+====================
+index 124
+offset 15812
+name Kanako
+length 10
+====================
+\"Hey...\"
+====================
+喂…
+====================
+
+====================
+index 125
+offset 15872
+name Kanako
+length 14
+====================
+\"Wake up...\"
+====================
+醒醒…
+====================
+
+====================
+index 126
+offset 16075
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 127
+offset 16104
+name NULL
+length 14
+====================
+His eyes open.
+====================
+他睁开了眼睛。
+====================
+
+====================
+index 128
+offset 16134
+name NULL
+length 29
+====================
+But his eyes aren't in focus.
+====================
+可他的眼神没有焦点。
+====================
+
+====================
+index 129
+offset 16179
+name NULL
+length 18
+====================
+Can he... not see?
+====================
+他…看不见吗？
+====================
+
+====================
+index 130
+offset 16247
+name Kanako
+length 26
+====================
+\"Do you... remember me?\"
+====================
+你…还记得我吗？
+====================
+
+====================
+index 131
+offset 16289
+name NULL
+length 6
+====================
+I ask.
+====================
+我问道。
+====================
+
+====================
+index 132
+offset 16347
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 133
+offset 16412
+name Takafumi
+length 62
+====================
+\"Sorry to disappoint you... but I have no idea who you are.\"
+====================
+很抱歉让你失望…但我不知道你是谁。
+====================
+
+====================
+index 134
+offset 16524
+name Kanako
+length 40
+====================
+\"Surely that's because you can't see.\"
+====================
+那一定是因为你看不见。
+====================
+
+====================
+index 135
+offset 16614
+name Kanako
+length 46
+====================
+\"If you could see, then you would remember.\"
+====================
+要是你能看见、你一定会想起来的。
+====================
+
+====================
+index 136
+offset 16712
+name Takafumi
+length 66
+====================
+\"I'm sorry to disappoint you... but I have no idea who you are.\"
+====================
+很抱歉让你失望…但我不知道你是谁。
+====================
+
+====================
+index 137
+offset 16828
+name Kanako
+length 17
+====================
+\"I'm Kanako...\"
+====================
+我是河南子…
+====================
+
+====================
+index 138
+offset 16895
+name Kanako
+length 34
+====================
+\"Do you really... not remember?\"
+====================
+你真的…不记得了吗？
+====================
+
+====================
+index 139
+offset 16981
+name Takafumi
+length 18
+====================
+\"I'm afraid so.\"
+====================
+恐怕是这样的。
+====================
+
+====================
+index 140
+offset 17049
+name Kanako
+length 12
+====================
+\"I see...\"
+====================
+这样啊…
+====================
+
+====================
+index 141
+offset 17113
+name Takafumi
+length 90
+====================
+\"However, there is something I should say on behalf of someone else who shares my name.\"
+====================
+不过、有一句话我必须代那位与我同名的人说。
+====================
+
+====================
+index 142
+offset 17278
+name Kanako
+length 10
+====================
+\"Eh...?\"
+====================
+咦…？
+====================
+
+====================
+index 143
+offset 17340
+name Takafumi
+length 19
+====================
+\"Just one thing.\"
+====================
+只有一句。
+====================
+
+====================
+index 144
+offset 17435
+name Takafumi
+length 13
+====================
+\"I'm home.\"
+====================
+我回来了。
+====================
+
+====================
+index 145
+offset 17464
+name NULL
+length 32
+====================
+It feels as if time had stopped.
+====================
+感觉时间仿佛停止了。
+====================
+
+====================
+index 146
+offset 17512
+name NULL
+length 38
+====================
+It feels just like it did back then...
+====================
+就和那时候一模一样…
+====================
+
+====================
+index 147
+offset 17566
+name NULL
+length 81
+====================
+Right now, Takafumi is right beside me... It feels as if it has been an eternity.
+====================
+此刻、鹰文就在我身边…感觉就像过了永恒那么久。
+====================
+
+====================
+index 148
+offset 17663
+name NULL
+length 55
+====================
+However, he sacrificed himself for 'the present world',
+====================
+可是、他是为了『现在这个世界』而牺牲了自己的、
+====================
+
+====================
+index 149
+offset 17734
+name NULL
+length 21
+====================
+so I have to move on.
+====================
+所以我必须向前走。
+====================
+
+====================
+index 150
+offset 17805
+name Kanako
+length 27
+====================
+\"Welcome back, Takafumi.\"
+====================
+欢迎回来、鹰文。
+====================
+
+====================
+index 151
+offset 17882
+name Kanako
+length 46
+====================
+\"Thanks for waiting for me this whole time.\"
+====================
+谢谢你一直等着我。
+====================
+
+====================
+index 152
+offset 17978
+name Kanako
+length 33
+====================
+\"Also... thanks for your help.\"
+====================
+还有…谢谢你帮了我那么多。
+====================
+
+====================
+index 153
+offset 18061
+name Kanako
+length 24
+====================
+\"It's all over now...\"
+====================
+一切都结束了…
+====================
+
+====================
+index 154
+offset 18135
+name Kanako
+length 37
+====================
+\"You don't need to wait anymore...\"
+====================
+你不用再等了…
+====================
+
+====================
+index 155
+offset 18222
+name Kanako
+length 45
+====================
+\"From now on, I will always be near you...\"
+====================
+从今往后、我会一直在你身边…
+====================
+
+====================
+index 156
+offset 18317
+name Kanako
+length 11
+====================
+\"Okay...\"
+====================
+可以了吧…
+====================
+
+====================
+index 157
+offset 18403
+name Kanako
+length 28
+====================
+\"So, everything's okay...\"
+====================
+所以、一切都没问题了…
+====================
+
+====================
+index 158
+offset 18481
+name Kanako
+length 17
+====================
+\"That's why...\"
+====================
+所以说…
+====================
+
+====================
+index 159
+offset 18548
+name Kanako
+length 28
+====================
+\"...good night, Takafumi.\"
+====================
+…晚安、鹰文。
+====================
+
+====================
+index 160
+offset 19468
+name Kanako
+length 44
+====================
+\"How's that, isn't this my greatest work?\"
+====================
+怎么样、这是我最棒的作品吧？
+====================
+
+====================
+index 161
+offset 19834
+name Kanako
+length 25
+====================
+\"Wha- Everybody left?!\"
+====================
+诶——大家都走了？！
+====================
+
+====================
+index 162
+offset 19909
+name Tomoya
+length 93
+====================
+\"That's because no one else has the time to clear the game from start to finish in one go.\"
+====================
+那是因为没人有闲工夫一口气从头通关到尾啊。
+====================

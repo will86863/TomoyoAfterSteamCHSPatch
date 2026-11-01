@@ -1,0 +1,3225 @@
+type seen630
+count 293
+
+====================
+index 1
+offset 266
+name NULL
+length 15
+====================
+June 30th (Wed)
+====================
+６月３０日（星期三）
+====================
+
+====================
+index 2
+offset 1224
+name NULL
+length 26
+====================
+Today I'm working outside.
+====================
+今天一整天都在外面跑。
+====================
+
+====================
+index 3
+offset 1266
+name NULL
+length 50
+====================
+I drive the truck around and collect broken items.
+====================
+开着卡车四处回收废品。
+====================
+
+====================
+index 4
+offset 1332
+name NULL
+length 36
+====================
+We accept a lot of different things.
+====================
+收到的东西也各种各样。
+====================
+
+====================
+index 5
+offset 1384
+name NULL
+length 110
+====================
+We take household appliances like refrigerators and washing machines, as well as AV devices like TVs and VCRs.
+====================
+有冰箱洗衣机一类的家电、也有电视录像机一类的影像器材。
+====================
+
+====================
+index 6
+offset 1510
+name NULL
+length 53
+====================
+On rare occasions, we also get things like computers.
+====================
+有时甚至还能收到电脑。
+====================
+
+====================
+index 7
+offset 1579
+name NULL
+length 47
+====================
+Sometimes we get scooters and small motorbikes.
+====================
+踏板车、小摩托之类的也有。
+====================
+
+====================
+index 8
+offset 1642
+name NULL
+length 139
+====================
+I keep driving with my cassette player on loop, and whenever someone signals for me, I get out of the truck and load the goods in the back.
+====================
+一遍遍地播放着用磁带录好的录音、如果有人来处理废品就从驾驶席上下来爬到车厢上。
+====================
+
+====================
+index 9
+offset 1797
+name NULL
+length 33
+====================
+But there's more to it than that.
+====================
+但工作并不仅仅是这些。
+====================
+
+====================
+index 10
+offset 1846
+name NULL
+length 70
+====================
+I also visit houses that have reported broken down items and fix them.
+====================
+也要去那些已经报修了的人家里去修理。
+====================
+
+====================
+index 11
+offset 1932
+name NULL
+length 76
+====================
+I used to go around with the boss, but from today on, I have to go it alone.
+====================
+以前都是和师傅一起去的、但是从今天起就得一个人干了。
+====================
+
+====================
+index 12
+offset 2024
+name NULL
+length 22
+====================
+Can I really do it...?
+====================
+真的能做到吗…。
+====================
+
+====================
+index 13
+offset 2062
+name NULL
+length 48
+====================
+I continue driving slowly as my thoughts wander.
+====================
+一边呆呆地考虑着、一边慢慢驾驶着卡车。
+====================
+
+====================
+index 14
+offset 3005
+name NULL
+length 68
+====================
+When I return to the workplace, the boss is fixing a moped's engine.
+====================
+回到工作间、看见师傅正在修理助动车的发动机。
+====================
+
+====================
+index 15
+offset 3123
+name Tomoya
+length 13
+====================
+\"I'm back.\"
+====================
+我回来了
+====================
+
+====================
+index 16
+offset 3184
+name Boss
+length 14
+====================
+\"Good work.\"
+====================
+辛苦了
+====================
+
+====================
+index 17
+offset 3214
+name NULL
+length 50
+====================
+He speaks in a whisper without turning to face me.
+====================
+头也没回、就这样轻声说道。
+====================
+
+====================
+index 18
+offset 3280
+name NULL
+length 46
+====================
+It's nothing new, so I'm not worried about it.
+====================
+师傅一直都是这样所以我也不在意。
+====================
+
+====================
+index 19
+offset 3376
+name Tomoya
+length 41
+====================
+\"I put today's haul in the storehouse.\"
+====================
+今天收到的物品、都放进仓库里了
+====================
+
+====================
+index 20
+offset 3465
+name Boss
+length 9
+====================
+\"Okay.\"
+====================
+噢
+====================
+
+====================
+index 21
+offset 3527
+name Tomoya
+length 22
+====================
+\"So... what's this?\"
+====================
+哇…这些是什么啊？
+====================
+
+====================
+index 22
+offset 3565
+name NULL
+length 49
+====================
+There's a pile of cardboard boxes in front of me.
+====================
+眼前堆积着如山般的瓦楞纸箱。
+====================
+
+====================
+index 23
+offset 3630
+name NULL
+length 46
+====================
+They appear to be full, but aren't very heavy.
+====================
+虽然里面装得满满的、但也并不是那么重。
+====================
+
+====================
+index 24
+offset 3692
+name NULL
+length 64
+====================
+When I open one, I find something we don't deal in: old clothes.
+====================
+打开一看、里面装着大量没有经过处理的旧衣服。
+====================
+
+====================
+index 25
+offset 3804
+name Boss
+length 25
+====================
+\"Hm? Oh, they arrived?\"
+====================
+嗯？　啊啊、送来了啊
+====================
+
+====================
+index 26
+offset 3877
+name Boss
+length 57
+====================
+\"Sorry, but could you put those in the storehouse too?\"
+====================
+抱歉、把那些也放进仓库里吧
+====================
+
+====================
+index 27
+offset 3984
+name Tomoya
+length 61
+====================
+\"Understood, but we don't deal in old clothes here, do we?\"
+====================
+了解、不过里面的旧衣服没有处理过吧
+====================
+
+====================
+index 28
+offset 4093
+name Boss
+length 80
+====================
+\"They're Yokoyama-san's. Their daughter-in-law is recovering from childbirth.\"
+====================
+那是横山先生家的。那家的年轻媳妇生了孩子还在产假中
+====================
+
+====================
+index 29
+offset 4221
+name Boss
+length 72
+====================
+\"We're only holding on to them for a bit, so put them near the front.\"
+====================
+因为是暂时存放一下、尽量放靠门口一些吧
+====================
+
+====================
+index 30
+offset 4343
+name Tomoya
+length 11
+====================
+\"Got it.\"
+====================
+知道了
+====================
+
+====================
+index 31
+offset 4402
+name Boss
+length 16
+====================
+\"Oh, hold on.\"
+====================
+啊啊、等等
+====================
+
+====================
+index 32
+offset 4434
+name NULL
+length 50
+====================
+As I go to get the hand truck, he calls out to me.
+====================
+就在我打算将台车拿来的时候、却被师傅叫住了。
+====================
+
+====================
+index 33
+offset 4532
+name Boss
+length 77
+====================
+\"Have a look, you can take a few things home if there's anything you want.\"
+====================
+看看里面吧、有想要的东西的话、稍稍拿些回去也可以哦
+====================
+
+====================
+index 34
+offset 4657
+name Boss
+length 80
+====================
+\"Well, they're from a clothes rental shop, so there might be a suit in there.\"
+====================
+嘛、毕竟是从服装出租店搬出来的旧衣服、西服之类的也该有吧
+====================
+
+====================
+index 35
+offset 4787
+name Tomoya
+length 24
+====================
+\"Is that really okay?\"
+====================
+可以吗？
+====================
+
+====================
+index 36
+offset 4859
+name Boss
+length 34
+====================
+\"You don't have a suit, do you?\"
+====================
+你没有西服吧
+====================
+
+====================
+index 37
+offset 4943
+name Tomoya
+length 18
+====================
+\"Yeah, I don't.\"
+====================
+嗯、那倒是没错
+====================
+
+====================
+index 38
+offset 5009
+name Boss
+length 67
+====================
+\"It could be useful. Sooner or later, you'll be doing sales too.\"
+====================
+多少能派上些用场吧。到时候也可以营营业什么的
+====================
+
+====================
+index 39
+offset 5126
+name Tomoya
+length 24
+====================
+\"Thank you very much.\"
+====================
+谢谢
+====================
+
+====================
+index 40
+offset 5166
+name NULL
+length 46
+====================
+When I say that, the boss cracks a rare smile.
+====================
+这么说着的师傅、罕有地笑了起来。
+====================
+
+====================
+index 41
+offset 5651
+name NULL
+length 58
+====================
+And so I load the boxes onto the hand truck and move them.
+====================
+因此、我取了台车来搬运这些瓦楞纸箱。
+====================
+
+====================
+index 42
+offset 5725
+name NULL
+length 87
+====================
+Once they're all in the storehouse, I open them one by one and go through the contents.
+====================
+在确认全都搬进仓库后、开始一个个打开确认里面的东西。
+====================
+
+====================
+index 43
+offset 5862
+name Tomoya
+length 27
+====================
+\"...it's a little loose.\"
+====================
+…稍微有些松呢
+====================
+
+====================
+index 44
+offset 5905
+name NULL
+length 87
+====================
+I have found a suit that's right for my height, but it's a little big around the waist.
+====================
+虽然找到了符合我身高的西服套装、但腰围部分还是显得有些松。
+====================
+
+====================
+index 45
+offset 6008
+name NULL
+length 48
+====================
+But I can probably manage if I tighten the belt.
+====================
+不过、如果系上皮带的话应该有办法吧。
+====================
+
+====================
+index 46
+offset 6072
+name NULL
+length 59
+====================
+I decide to take the boss up on his offer and take it home.
+====================
+就遵照师傅所说的带一些回去好了。
+====================
+
+====================
+index 47
+offset 6150
+name NULL
+length 64
+====================
+As I repack the clothes into the boxes, I find an old paper bag.
+====================
+将翻倒出来的古装重新装回瓦楞纸箱的时候、发现了一个破旧的袋子。
+====================
+
+====================
+index 48
+offset 6230
+name NULL
+length 69
+====================
+Inside, there's a tight skirt and jacket that make up a ladies' suit.
+====================
+里面装的是女性用西服、紧身裙和夹克一套的套装。
+====================
+
+====================
+index 49
+offset 6349
+name Tomoya
+length 36
+====================
+(...this might look good on Tomoyo.)
+====================
+（…似乎很适合智代呢）
+====================
+
+====================
+index 50
+offset 6401
+name NULL
+length 62
+====================
+I decide to get permission from the boss and take it home too.
+====================
+我从师傅那里得到许可、决定将这个拿回家。
+====================
+
+====================
+index 51
+offset 6904
+name NULL
+length 64
+====================
+The boss looks at the clock. It's a little past our usual hours.
+====================
+师傅看了看时间。已经稍稍过了制定的时间了。
+====================
+
+====================
+index 52
+offset 7016
+name Boss
+length 35
+====================
+\"That's enough. You can go home.\"
+====================
+到时间了。回去吧
+====================
+
+====================
+index 53
+offset 7067
+name NULL
+length 72
+====================
+After changing, I say my farewells, bow, and leave the workplace behind.
+====================
+换完衣服后、低头道了声辛苦了后离开了工作场。
+====================
+
+====================
+index 54
+offset 8104
+name NULL
+length 30
+====================
+Tomoyo is walking ahead of me.
+====================
+智代正在前面走着。
+====================
+
+====================
+index 55
+offset 8150
+name NULL
+length 73
+====================
+As I'm about to call out to her, I realize I'd be wasting an opportunity.
+====================
+本来打算打个招呼的、却又察觉到那样太可惜了。
+====================
+
+====================
+index 56
+offset 8239
+name NULL
+length 65
+====================
+I want to watch her walking alone toward my room a little longer.
+====================
+看着那样独自一人走向我的房间的智代的身姿、不由得想就这样多看上一会儿。
+====================
+
+====================
+index 57
+offset 8320
+name NULL
+length 83
+====================
+I want to see the look on her face, so I keep my distance and walk parallel to her.
+====================
+因为想看看她的表情、于是缩短了距离、试着在旁边并排步行。
+====================
+
+====================
+index 58
+offset 8725
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 59
+offset 8754
+name NULL
+length 34
+====================
+When I take a peek, she's smiling.
+====================
+偷偷一看、发现的是她的笑容。
+====================
+
+====================
+index 60
+offset 8804
+name NULL
+length 65
+====================
+When I see her smiling so happily, I feel a little embarrassed...
+====================
+看着她那一副幸福的样子、连我这边都变得不好意思了起来…。
+====================
+
+====================
+index 61
+offset 8919
+name Tomoya
+length 7
+====================
+\"Yo.\"
+====================
+哟
+====================
+
+====================
+index 62
+offset 9214
+name NULL
+length 62
+====================
+When I call out, she draws back in surprise then smiles again.
+====================
+打了声招呼。在感到吃惊而竦缩了一下肩膀后、再次绽颜一笑。
+====================
+
+====================
+index 63
+offset 9598
+name Tomoyo
+length 17
+====================
+\"Welcome back.\"
+====================
+你回来啦
+====================
+
+====================
+index 64
+offset 9665
+name Tomoya
+length 11
+====================
+\"Thanks.\"
+====================
+我回来了
+====================
+
+====================
+index 65
+offset 10569
+name NULL
+length 73
+====================
+That same day, we stand in front of the sink and prepare dinner together.
+====================
+那一天、两人并排站在流理台前、做着晚饭的准备。
+====================
+
+====================
+index 66
+offset 10930
+name NULL
+length 70
+====================
+When we're finished, Tomoyo puts away her apron and stands there idly.
+====================
+在准备好并将围裙收拾好后、智代无所事事地站着。
+====================
+
+====================
+index 67
+offset 11286
+name NULL
+length 54
+====================
+Then, as if remembering something, she locks the door.
+====================
+然后、似乎是想起了什么、将房门锁了起来。
+====================
+
+====================
+index 68
+offset 11390
+name Tomoya
+length 17
+====================
+\"What's wrong?\"
+====================
+怎么啦？
+====================
+
+====================
+index 69
+offset 11729
+name Tomoyo
+length 46
+====================
+\"It's nothing... just making doubly sure...\"
+====================
+啊、没什么…姑且以防万一而已…
+====================
+
+====================
+index 70
+offset 11825
+name Tomoyo
+length 25
+====================
+\"Now he can't come in.\"
+====================
+这样子那家伙就进不来了
+====================
+
+====================
+index 71
+offset 11900
+name Tomoya
+length 18
+====================
+\"Huh? Takafumi?\"
+====================
+呃？　你说鹰文吗？
+====================
+
+====================
+index 72
+offset 11968
+name Tomoyo
+length 8
+====================
+\"Yes.\"
+====================
+没错
+====================
+
+====================
+index 73
+offset 12298
+name Tomoyo
+length 22
+====================
+\"You're going to...\"
+====================
+你…那个…
+====================
+
+====================
+index 74
+offset 12336
+name NULL
+length 29
+====================
+She looks down and hesitates.
+====================
+一边吞吞吐吐一边看着地板。
+====================
+
+====================
+index 75
+offset 12418
+name Tomoyo
+length 46
+====================
+\"We'll probably do something weird again...\"
+====================
+反正…你又打算做些奇怪的事情吧…
+====================
+
+====================
+index 76
+offset 12514
+name Tomoyo
+length 30
+====================
+\"I have time again today...\"
+====================
+今天…还有时间…
+====================
+
+====================
+index 77
+offset 12563
+name NULL
+length 24
+====================
+*Scribble* *Scribble*...
+====================
+沙沙沙沙…。
+====================
+
+====================
+index 78
+offset 12909
+name Tomoyo
+length 59
+====================
+\"Hey, why are you at your desk studying all of a sudden!\"
+====================
+我说、为什么突然就坐到桌子前开始学习了啊
+====================
+
+====================
+index 79
+offset 12984
+name NULL
+length 45
+====================
+I started taking notes from a reference book.
+====================
+我开始照着参考书抄了起来。
+====================
+
+====================
+index 80
+offset 13351
+name Tomoyo
+length 75
+====================
+\"Even though I'm over here embarrassing myself with such a confession...\"
+====================
+明明人家这边可是鼓足勇气作出了相当难为情的告白的说…
+====================
+
+====================
+index 81
+offset 13476
+name Tomoya
+length 62
+====================
+\"Well, if I don't get certifications, my pay won't go up...\"
+====================
+没办法啊、不取得资格的话、薪水也上不去啊…
+====================
+
+====================
+index 82
+offset 13860
+name Tomoyo
+length 37
+====================
+\"Really...? I guess that's true...\"
+====================
+这样啊…说的是呢…
+====================
+
+====================
+index 83
+offset 13947
+name Tomoyo
+length 30
+====================
+\"Sorry for getting upset...\"
+====================
+抱歉、让你看到不成体统的样子了…
+====================
+
+====================
+index 84
+offset 14299
+name Tomoyo
+length 60
+====================
+\"Is there anything I can do? I'll help you any way I can.\"
+====================
+有什么我能做的事吗？　需要帮忙的话什么都可以哦
+====================
+
+====================
+index 85
+offset 14409
+name Tomoya
+length 48
+====================
+\"Hm... how about you try asking me questions?\"
+====================
+也是呢…那、能不能提些问题呢
+====================
+
+====================
+index 86
+offset 14779
+name Tomoyo
+length 15
+====================
+\"No problem.\"
+====================
+这很容易
+====================
+
+====================
+index 87
+offset 14844
+name Tomoya
+length 52
+====================
+\"Wear this and play the part of a female teacher.\"
+====================
+穿上这个、扮演女教师
+====================
+
+====================
+index 88
+offset 14912
+name NULL
+length 52
+====================
+I take the suit out of the paper bag I brought home.
+====================
+从带回家的纸袋里取出了套装。
+====================
+
+====================
+index 89
+offset 15250
+name NULL
+length 49
+====================
+She narrows her eyes and gazes into the distance.
+====================
+智代突然眯着眼、看向了远方。
+====================
+
+====================
+index 90
+offset 15621
+name Tomoyo
+length 22
+====================
+\"...I don't get it.\"
+====================
+…不太明白你的意思
+====================
+
+====================
+index 91
+offset 15693
+name Tomoya
+length 61
+====================
+\"Well, didn't you say you'd do anything you could to help?\"
+====================
+那个、你不是说了如果有什么可以帮忙的话什么都可以吗
+====================
+
+====================
+index 92
+offset 16076
+name Tomoyo
+length 50
+====================
+\"But having me go as far as changing clothes...\"
+====================
+但是…要做到换衣服这种程度的话…
+====================
+
+====================
+index 93
+offset 16176
+name Tomoya
+length 119
+====================
+\"If you're in your school uniform, it'll feel like we're working together and I won't be able to put my all into it.\"
+====================
+继续穿着制服的话、会因为比较亲近的缘故而失去紧张感、我这边也没办法全身心投入啦
+====================
+
+====================
+index 94
+offset 16617
+name Tomoyo
+length 67
+====================
+\"...I have to ask. You're not thinking something weird, are you?\"
+====================
+…事先问一下、没有在想什么奇怪的事情吧？
+====================
+
+====================
+index 95
+offset 16734
+name Tomoya
+length 70
+====================
+\"It's fine, I won't do anything. It's enough that you just wear it.\"
+====================
+放心、什么也不会做的。光是那副打扮就能让我满足了
+====================
+
+====================
+index 96
+offset 17126
+name Tomoyo
+length 19
+====================
+\"Perveeeeeeert!!\"
+====================
+变态啊ーーーーーーーーー！！
+====================
+
+====================
+index 97
+offset 17195
+name Tomoyo
+length 35
+====================
+\"Are you really okay with that?!\"
+====================
+你就觉得那样子的那么好吗
+====================
+
+====================
+index 98
+offset 17280
+name Tomoyo
+length 46
+====================
+\"I'm only going to put it on and teach you.\"
+====================
+可是穿着这个进行授课哦
+====================
+
+====================
+index 99
+offset 17376
+name Tomoya
+length 34
+====================
+\"Isn't it okay to be wholesome?\"
+====================
+健全点有什么不好？
+====================
+
+====================
+index 100
+offset 17733
+name Tomoyo
+length 35
+====================
+\"So my boyfriend is a pervert...\"
+====================
+我的男朋友是个变态吗…
+====================
+
+====================
+index 101
+offset 17818
+name Tomoya
+length 55
+====================
+\"Yeah, this a request from your perverted boyfriend.\"
+====================
+啊啊、这是来自那个变态男友的请求
+====================
+
+====================
+index 102
+offset 18196
+name Tomoyo
+length 53
+====================
+\"Uh... that makes me a pervert too, doesn't it...?\"
+====================
+呜呜…这样一来不是连我都像变态一样了吗…
+====================
+
+====================
+index 103
+offset 18265
+name NULL
+length 50
+====================
+Reluctantly, she goes into the bathroom to change.
+====================
+勉勉强强、为了换衣服而进到了浴室。
+====================
+
+====================
+index 104
+offset 19192
+name Tomoyo
+length 25
+====================
+\"...are you satisfied?\"
+====================
+…这样满足了吗
+====================
+
+====================
+index 105
+offset 19267
+name Tomoya
+length 32
+====================
+\"It's better than I expected.\"
+====================
+想像以上
+====================
+
+====================
+index 106
+offset 19349
+name Tomoyo
+length 70
+====================
+\"But having me sit on the desk... isn't this extremely bad manners?\"
+====================
+可是坐在桌子上这种行为…不是非常没礼仪吗？
+====================
+
+====================
+index 107
+offset 19469
+name Tomoya
+length 21
+====================
+\"That's the point.\"
+====================
+那才是重点啊
+====================
+
+====================
+index 108
+offset 19540
+name Tomoyo
+length 19
+====================
+\"Perveeeeeeert!!\"
+====================
+变态啊ーーーーーーーーー！！
+====================
+
+====================
+index 109
+offset 19609
+name Tomoyo
+length 44
+====================
+\"I don't understand how perverts think...\"
+====================
+不明白变态在想些什么…
+====================
+
+====================
+index 110
+offset 19706
+name Tomoyo
+length 42
+====================
+\"Well then, let's get to the questions.\"
+====================
+那么开始提问
+====================
+
+====================
+index 111
+offset 19798
+name Tomoyo
+length 74
+====================
+\"...quizzing you like this makes me a really high and mighty teacher...\"
+====================
+…总觉得用像这样的态度出题、非常像是强横的老师呢…
+====================
+
+====================
+index 112
+offset 19922
+name Tomoya
+length 15
+====================
+\"Um, Sensei.\"
+====================
+那个、老师
+====================
+
+====================
+index 113
+offset 19953
+name NULL
+length 16
+====================
+I raise my hand.
+====================
+举起了手。
+====================
+
+====================
+index 114
+offset 20019
+name Tomoyo
+length 9
+====================
+\"What?\"
+====================
+什么事
+====================
+
+====================
+index 115
+offset 20087
+name Tomoya
+length 56
+====================
+\"If I get the answer right, could you move your hand?\"
+====================
+如果、答对了的话、可以将手挪开一下吗？
+====================
+
+====================
+index 116
+offset 20196
+name Tomoyo
+length 19
+====================
+\"Perveeeeeeert!!\"
+====================
+变态啊ーーーーーーーーー！！
+====================
+
+====================
+index 117
+offset 20265
+name Tomoya
+length 36
+====================
+\"Well, I'm a student at that age.\"
+====================
+嘛、只是外表年龄像学生呢
+====================
+
+====================
+index 118
+offset 20351
+name Tomoyo
+length 84
+====================
+\"What a student... how humiliating to be in charge of such a perverted student...\"
+====================
+怎么有这样的学生啊…我居然要担任变态学生的老师、这是多么屈辱啊…
+====================
+
+====================
+index 119
+offset 20485
+name Tomoyo
+length 109
+====================
+\"This skirt is pretty short and you made me sit here, so I covered up thinking you might be able to see...\"
+====================
+长度相当短、坐在这种地方的话大概会被看见吧、明明还为了不被看见而特地遮掩起来了的…
+====================
+
+====================
+index 120
+offset 20644
+name Tomoyo
+length 44
+====================
+\"And to think you actually went for it...\"
+====================
+竟然还确实地针对那点进行了发难…
+====================
+
+====================
+index 121
+offset 20738
+name Tomoyo
+length 45
+====================
+\"You're a hopeless pervert of a student...\"
+====================
+真是不得了的变态学生啊…
+====================
+
+====================
+index 122
+offset 20833
+name Tomoya
+length 32
+====================
+\"But this is very motivating.\"
+====================
+但是、那变成了干劲了啊
+====================
+
+====================
+index 123
+offset 20915
+name Tomoyo
+length 49
+====================
+\"What are you, a perverted middle schooler...?\"
+====================
+你是工口中学生吗…
+====================
+
+====================
+index 124
+offset 21014
+name Tomoyo
+length 33
+====================
+\"Fine... I get it. I'll do it.\"
+====================
+嘛…我知道了、好吧
+====================
+
+====================
+index 125
+offset 21097
+name Tomoyo
+length 63
+====================
+\"That'll be your reward for getting all the answers correct.\"
+====================
+那是全部问题回答正确的奖励
+====================
+
+====================
+index 126
+offset 21210
+name Tomoyo
+length 36
+====================
+\"Do your best, so you can see it.\"
+====================
+就让我见识一下你的努力吧
+====================
+
+====================
+index 127
+offset 21262
+name NULL
+length 6
+====================
+Lucky.
+====================
+真走运。
+====================
+
+====================
+index 128
+offset 21318
+name Tomoyo
+length 74
+====================
+\"So because of that, I'm going to give you the hardest questions I can.\"
+====================
+相应的、我会毫不客气地提出困难的问题的
+====================
+
+====================
+index 129
+offset 21442
+name Tomoyo
+length 28
+====================
+\"Here we go, Okazaki-kun.\"
+====================
+那么开始了、冈崎君
+====================
+
+====================
+index 130
+offset 21520
+name Tomoya
+length 9
+====================
+\"Okay!\"
+====================
+是！
+====================
+
+====================
+index 131
+offset 21579
+name Tomoyo
+length 33
+====================
+\"What a waste of enthusiasm...\"
+====================
+无谓地回答得不错呢…
+====================
+
+====================
+index 132
+offset 21665
+name Tomoyo
+length 23
+====================
+\"Okay, question one.\"
+====================
+那么第一问
+====================
+
+====================
+index 133
+offset 21738
+name Tomoyo
+length 152
+====================
+\"What is the formal name of the motor that is used in items such as vacuum cleaners and coffee grinders and is commonly known as the universal motor?\"
+====================
+也被称作单相电动机、且多被用作吸尘器以及咖啡机的电动机的正式名称是什么？
+====================
+
+====================
+index 134
+offset 21929
+name NULL
+length 42
+====================
+Single-phase commutated series-wound motor
+====================
+单相直卷整流电动机
+====================
+
+====================
+index 135
+offset 21976
+name NULL
+length 39
+====================
+Wound rotor three-phase induction motor
+====================
+卷线型三相诱导电动机
+====================
+
+====================
+index 136
+offset 22020
+name NULL
+length 33
+====================
+Electromagnetic synchronous motor
+====================
+电磁石同期电动机
+====================
+
+====================
+index 137
+offset 22156
+name Tomoyo
+length 15
+====================
+\"...correct.\"
+====================
+…回答对了
+====================
+
+====================
+index 138
+offset 22221
+name Tomoya
+length 21
+====================
+\"Hell yeeeeeeeah!!\"
+====================
+耶ーーー！！
+====================
+
+====================
+index 139
+offset 22292
+name Tomoyo
+length 70
+====================
+\"I don't even want to ask where that abnormal joy is coming from...\"
+====================
+真的很不想问你那异样的欢喜表达方式出自哪里啊…
+====================
+
+====================
+index 140
+offset 22412
+name Tomoya
+length 15
+====================
+\"Perversion.\"
+====================
+出自工口
+====================
+
+====================
+index 141
+offset 22477
+name Tomoyo
+length 19
+====================
+\"Don't answer...\"
+====================
+别回答啊…
+====================
+
+====================
+index 142
+offset 22632
+name Tomoyo
+length 14
+====================
+\"Incorrect.\"
+====================
+回答错误
+====================
+
+====================
+index 143
+offset 22696
+name Tomoyo
+length 65
+====================
+\"The three-phase induction motor is a type of induction motor.\"
+====================
+三相诱导电动机是感应电动机的一种
+====================
+
+====================
+index 144
+offset 22811
+name Tomoyo
+length 79
+====================
+\"Induction motors are AC motors; a universal motor can use DC power as well.\"
+====================
+因为是交流电动机、所以和使用直流的单相电动机不同
+====================
+
+====================
+index 145
+offset 22940
+name Tomoya
+length 25
+====================
+\"...wh-what... damn...\"
+====================
+…什、什么…可恶…
+====================
+
+====================
+index 146
+offset 23015
+name Tomoyo
+length 27
+====================
+\"You seem really down...\"
+====================
+你看起来好像非常失落呐…
+====================
+
+====================
+index 147
+offset 23178
+name Tomoyo
+length 14
+====================
+\"Incorrect.\"
+====================
+回答错误
+====================
+
+====================
+index 148
+offset 23242
+name Tomoyo
+length 69
+====================
+\"It is possible to manufacture a large-capacity synchronous motor.\"
+====================
+那是拿来制作大容量电动机的
+====================
+
+====================
+index 149
+offset 23361
+name Tomoyo
+length 100
+====================
+\"They are used in machines such as air conditioners by attaching an inverter to the power supply.\"
+====================
+以逆变换器作为电源、常用作空调等的电动机
+====================
+
+====================
+index 150
+offset 23511
+name Tomoya
+length 25
+====================
+\"...wh-what... damn...\"
+====================
+…什、什么…可恶…
+====================
+
+====================
+index 151
+offset 23586
+name Tomoyo
+length 27
+====================
+\"You seem really down...\"
+====================
+你看起来好像非常失落呐…
+====================
+
+====================
+index 152
+offset 23705
+name Tomoyo
+length 23
+====================
+\"Okay, question two.\"
+====================
+那么、第二问
+====================
+
+====================
+index 153
+offset 23778
+name Tomoyo
+length 85
+====================
+\"For insulation classes, what is the maximum operating temperature of the F-class?\"
+====================
+绝缘类别为Ｆ类的耐热温度是多少度？
+====================
+
+====================
+index 154
+offset 23905
+name NULL
+length 11
+====================
+120 degrees
+====================
+１２０度
+====================
+
+====================
+index 155
+offset 23921
+name NULL
+length 11
+====================
+155 degrees
+====================
+１５５度
+====================
+
+====================
+index 156
+offset 23937
+name NULL
+length 11
+====================
+180 degrees
+====================
+１８０度
+====================
+
+====================
+index 157
+offset 24051
+name Tomoyo
+length 17
+====================
+\"...incorrect.\"
+====================
+…回答错误
+====================
+
+====================
+index 158
+offset 24118
+name Tomoya
+length 19
+====================
+\"Aaaaaaaaaaagh!!\"
+====================
+呜啊啊啊啊啊啊啊啊啊啊啊ーーー！！
+====================
+
+====================
+index 159
+offset 24225
+name Tomoya
+length 36
+====================
+\"Well, it doesn't matter anymore.\"
+====================
+嘛、怎么说呢ー怎样都好啦
+====================
+
+====================
+index 160
+offset 24311
+name Tomoyo
+length 32
+====================
+\"Of course it matters, idiot.\"
+====================
+怎可能怎样都好、笨蛋
+====================
+
+====================
+index 161
+offset 24393
+name Tomoyo
+length 79
+====================
+\"120 degrees is the E-class that uses polyester and phenol as raw materials.\"
+====================
+１２０度是Ｅ类、常作为聚酯、石炭酸材料使用
+====================
+
+====================
+index 162
+offset 24572
+name Tomoyo
+length 79
+====================
+\"120 degrees is the E-class that uses polyester and phenol as raw materials.\"
+====================
+１２０度是Ｅ类、常作为聚酯、石炭酸材料使用
+====================
+
+====================
+index 163
+offset 24701
+name Tomoya
+length 22
+====================
+\"It doesn't matter.\"
+====================
+怎样都好啦
+====================
+
+====================
+index 164
+offset 24773
+name Tomoyo
+length 32
+====================
+\"Idiot, of course it matters.\"
+====================
+笨蛋、怎可能怎样都好
+====================
+
+====================
+index 165
+offset 24982
+name Tomoyo
+length 19
+====================
+\"...uh, correct.\"
+====================
+…呜、正确
+====================
+
+====================
+index 166
+offset 25051
+name Tomoya
+length 21
+====================
+\"Hell yeeeeeeeah!!\"
+====================
+耶ーーー！！
+====================
+
+====================
+index 167
+offset 25122
+name Tomoyo
+length 70
+====================
+\"I don't even want to ask where that abnormal joy is coming from...\"
+====================
+真的很不想问你那异样的欢喜表达方式出自哪里啊…
+====================
+
+====================
+index 168
+offset 25242
+name Tomoya
+length 15
+====================
+\"Perversion.\"
+====================
+出自工口
+====================
+
+====================
+index 169
+offset 25307
+name Tomoyo
+length 31
+====================
+\"I told you not to answer...\"
+====================
+所以都说了别回答了啊…
+====================
+
+====================
+index 170
+offset 25388
+name Tomoya
+length 70
+====================
+\"Incidentally, silicone alkyd resins are used as the raw materials.\"
+====================
+顺便一提常作为树脂涂料来使用
+====================
+
+====================
+index 171
+offset 25508
+name Tomoya
+length 26
+====================
+\"I studied this before.\"
+====================
+之前学习过了嘛
+====================
+
+====================
+index 172
+offset 25584
+name Tomoyo
+length 84
+====================
+\"I'm happy about your growth, but honestly I'm having mixed feelings right now...\"
+====================
+虽然我很高兴朋也的成长、但是现在的心情却很复杂…
+====================
+
+====================
+index 173
+offset 25768
+name Tomoyo
+length 24
+====================
+\"Yes, that's correct.\"
+====================
+嗯、正确
+====================
+
+====================
+index 174
+offset 25842
+name Tomoya
+length 70
+====================
+\"Incidentally, silicone alkyd resins are used as the raw materials.\"
+====================
+顺便一提常作为树脂涂料来使用
+====================
+
+====================
+index 175
+offset 25962
+name Tomoya
+length 27
+====================
+\"I studied this earlier.\"
+====================
+之前学习过了嘛
+====================
+
+====================
+index 176
+offset 26039
+name Tomoyo
+length 39
+====================
+\"You can do it if you try. Good boy.\"
+====================
+果然孺子可教、乖～乖～
+====================
+
+====================
+index 177
+offset 26220
+name Tomoyo
+length 14
+====================
+\"Incorrect.\"
+====================
+回答错误
+====================
+
+====================
+index 178
+offset 26284
+name Tomoya
+length 19
+====================
+\"Aaaaaaaaaaagh!!\"
+====================
+呜啊啊啊啊啊啊啊啊啊啊啊ーーー！！
+====================
+
+====================
+index 179
+offset 26391
+name Tomoya
+length 36
+====================
+\"Well, it doesn't matter anymore.\"
+====================
+嘛、怎么说呢ー怎样都好啦
+====================
+
+====================
+index 180
+offset 26477
+name Tomoyo
+length 32
+====================
+\"Of course it matters, idiot.\"
+====================
+怎可能怎样都好、笨蛋
+====================
+
+====================
+index 181
+offset 26559
+name Tomoyo
+length 110
+====================
+\"Silicone resins that are resistant to high temperatures are used as the raw material for that temperature.\"
+====================
+常作为耐高温的硅胶树脂材料而使用
+====================
+
+====================
+index 182
+offset 26772
+name Tomoyo
+length 110
+====================
+\"Silicone resins that are resistant to high temperatures are used as the raw material for that temperature.\"
+====================
+常作为耐高温的硅胶树脂材料而使用
+====================
+
+====================
+index 183
+offset 26932
+name Tomoya
+length 22
+====================
+\"It doesn't matter.\"
+====================
+怎样都好啦
+====================
+
+====================
+index 184
+offset 27004
+name Tomoyo
+length 32
+====================
+\"Idiot, of course it matters.\"
+====================
+笨蛋、怎可能怎样都好
+====================
+
+====================
+index 185
+offset 27100
+name NULL
+length 18
+====================
+...*rattle rattle*
+====================
+…咔嚓、咔嚓。
+====================
+
+====================
+index 186
+offset 27134
+name NULL
+length 42
+====================
+We hear the sound of the doorknob turning.
+====================
+敲门声响了起来。
+====================
+
+====================
+index 187
+offset 27226
+name Tomoya
+length 18
+====================
+\"It's Takafumi.\"
+====================
+是鹰文
+====================
+
+====================
+index 188
+offset 27303
+name Tomoyo
+length 58
+====================
+\"I can't show myself dressed like this. We're not home.\"
+====================
+这副打扮怎么能出去开门啊。装作不在家吧
+====================
+
+====================
+index 189
+offset 27411
+name Tomoyo
+length 53
+====================
+\"Okay, time for the last question. Question three.\"
+====================
+那么最后的问题哦。第三问
+====================
+
+====================
+index 190
+offset 27514
+name Tomoyo
+length 93
+====================
+\"Aside from bimetallic strips and thermistors, what type of switch is used in thermostats?\"
+====================
+恒温器的感温开关除了有双金属、热敏电阻以外、还有什么样的东西？
+====================
+
+====================
+index 191
+offset 27649
+name NULL
+length 11
+====================
+Gyro Sensor
+====================
+陀螺仪传感器
+====================
+
+====================
+index 192
+offset 27665
+name NULL
+length 9
+====================
+Diaphragm
+====================
+横隔膜
+====================
+
+====================
+index 193
+offset 27679
+name NULL
+length 11
+====================
+Non-contact
+====================
+无切点方式
+====================
+
+====================
+index 194
+offset 27793
+name Tomoyo
+length 14
+====================
+\"Incorrect.\"
+====================
+回答错误
+====================
+
+====================
+index 195
+offset 27895
+name Tomoya
+length 19
+====================
+\"Aaaaaaaaaaagh!!\"
+====================
+呜啊啊啊啊啊啊啊啊啊啊啊ーーー！！
+====================
+
+====================
+index 196
+offset 27964
+name Tomoyo
+length 106
+====================
+\"A gyro sensor is a vibration sensor that is used in things such as heater overturn prevention devices.\"
+====================
+陀螺仪传感器是为了防止采暖器倒掉而使用的振荡传感器
+====================
+
+====================
+index 197
+offset 28120
+name Tomoyo
+length 32
+====================
+\"It resembles a spinning top.\"
+====================
+因为让人联想到了陀螺呢
+====================
+
+====================
+index 198
+offset 28202
+name Tomoya
+length 30
+====================
+\"It doesn't matter anymore.\"
+====================
+那些东西怎样都好啦
+====================
+
+====================
+index 199
+offset 28282
+name Tomoyo
+length 32
+====================
+\"Idiot, of course it matters.\"
+====================
+笨蛋、怎可能怎样都好
+====================
+
+====================
+index 200
+offset 28414
+name Tomoya
+length 24
+====================
+\"What was that again?\"
+====================
+是什么来着？
+====================
+
+====================
+index 201
+offset 28488
+name Tomoyo
+length 106
+====================
+\"A gyro sensor is a vibration sensor that is used in things such as heater overturn prevention devices.\"
+====================
+陀螺仪传感器是为了防止采暖器倒掉而使用的振荡传感器
+====================
+
+====================
+index 202
+offset 28644
+name Tomoyo
+length 32
+====================
+\"It resembles a spinning top.\"
+====================
+因为让人联想到了陀螺呢
+====================
+
+====================
+index 203
+offset 28814
+name Tomoyo
+length 21
+====================
+\"...uh... correct.\"
+====================
+…呜…正确
+====================
+
+====================
+index 204
+offset 28885
+name Tomoya
+length 21
+====================
+\"Hell yeeeeeeeah!!\"
+====================
+耶ーーー！！
+====================
+
+====================
+index 205
+offset 28956
+name Tomoya
+length 34
+====================
+\"Studying so hard was worth it!\"
+====================
+拼命学习起了作用了呢
+====================
+
+====================
+index 206
+offset 29040
+name Tomoyo
+length 34
+====================
+\"What were you studying for...?\"
+====================
+你到底是为了什么而努力学习的啊…
+====================
+
+====================
+index 207
+offset 29124
+name Tomoya
+length 19
+====================
+\"For perversion.\"
+====================
+为了工口
+====================
+
+====================
+index 208
+offset 29193
+name Tomoyo
+length 23
+====================
+\"That's not right...\"
+====================
+搞错了吧…
+====================
+
+====================
+index 209
+offset 29319
+name Tomoyo
+length 12
+====================
+\"Correct.\"
+====================
+正确
+====================
+
+====================
+index 210
+offset 29381
+name Tomoya
+length 64
+====================
+\"A diaphragm is a type of switch that utilizes gas expansion.\"
+====================
+记得横膈膜式是利用气体的膨胀来感温的传感器
+====================
+
+====================
+index 211
+offset 29495
+name Tomoyo
+length 30
+====================
+\"Oh, aren't you incredible.\"
+====================
+嚯、这不是挺厉害的嘛
+====================
+
+====================
+index 212
+offset 29575
+name Tomoya
+length 39
+====================
+\"But it doesn't even matter anymore.\"
+====================
+不过、那些琐琐碎的事情怎样都好啦
+====================
+
+====================
+index 213
+offset 29664
+name Tomoyo
+length 32
+====================
+\"Of course it matters, idiot.\"
+====================
+怎可能怎样都好、笨蛋
+====================
+
+====================
+index 214
+offset 29838
+name Tomoyo
+length 14
+====================
+\"Incorrect.\"
+====================
+回答错误
+====================
+
+====================
+index 215
+offset 29940
+name Tomoya
+length 32
+====================
+\"Gyaiagreiiiiiibodododooooo!!\"
+====================
+ギャイアグレイーーーイボドドドゥドオーーーー！！
+====================
+
+====================
+index 216
+offset 30022
+name Tomoyo
+length 35
+====================
+\"Gyaiagreibodododo? What's that?\"
+====================
+ギャイアグレイーイボドドドゥドオー？　那是什么？
+====================
+
+====================
+index 217
+offset 30107
+name Tomoya
+length 86
+====================
+\"It's the cry of my soul that just naturally welled up in response to such a shock.\"
+====================
+因为受到过度的打击而不由得中气上涌的魂之呐喊
+====================
+
+====================
+index 218
+offset 30243
+name Tomoyo
+length 52
+====================
+\"Something like that welled up... you're gross...\"
+====================
+因为那样而中气上涌吗…真是令人恶心的家伙啊…
+====================
+
+====================
+index 219
+offset 30348
+name Tomoyo
+length 122
+====================
+\"Non-contact is a type of thermistor that is used in sensors that detect the liquid level of kerosene or other liquids.\"
+====================
+无切点方式是热敏电阻的一种、通常被当作检测灯油残余液位的传感器而使用
+====================
+
+====================
+index 220
+offset 30520
+name Tomoya
+length 30
+====================
+\"It doesn't matter anymore.\"
+====================
+那些东西怎样都好啦
+====================
+
+====================
+index 221
+offset 30600
+name Tomoyo
+length 32
+====================
+\"Idiot, of course it matters.\"
+====================
+笨蛋、怎可能怎样都好
+====================
+
+====================
+index 222
+offset 30732
+name Tomoyo
+length 122
+====================
+\"Non-contact is a type of thermistor that is used in sensors that detect the liquid level of kerosene or other liquids.\"
+====================
+无切点方式是热敏电阻的一种、通常被当作检测灯油残余液位的传感器而使用
+====================
+
+====================
+index 223
+offset 30904
+name Tomoya
+length 44
+====================
+\"Oh, I remember hearing that somewhere...\"
+====================
+啊ー、好像在哪里听说过呐…
+====================
+
+====================
+index 224
+offset 31045
+name Tomoyo
+length 34
+====================
+\"Your results... all incorrect.\"
+====================
+结果…全部回答错误
+====================
+
+====================
+index 225
+offset 31129
+name Tomoyo
+length 26
+====================
+\"That's no good at all.\"
+====================
+这不是完全不行嘛
+====================
+
+====================
+index 226
+offset 31205
+name Tomoya
+length 33
+====================
+\"I'm disappointed in myself...\"
+====================
+对自己都感到失望了…
+====================
+
+====================
+index 227
+offset 31288
+name Tomoyo
+length 76
+====================
+\"Hey, don't get so down. It's okay if we study like this once in a while.\"
+====================
+嘛、别那样气馁。偶尔像这样陪你学习学习也是可以的哦？
+====================
+
+====================
+index 228
+offset 31414
+name Tomoyo
+length 57
+====================
+\"I've come to rather like playing the role of teacher.\"
+====================
+当老师的感觉也挺不错的呢
+====================
+
+====================
+index 229
+offset 31521
+name Tomoyo
+length 55
+====================
+\"Well, I definitely can't show this to other people.\"
+====================
+嘛、绝对不能让外人看到就是了
+====================
+
+====================
+index 230
+offset 31676
+name Tomoyo
+length 45
+====================
+\"Your results... one out of three correct.\"
+====================
+结果…三问中一问回答正确
+====================
+
+====================
+index 231
+offset 31771
+name Tomoyo
+length 26
+====================
+\"That's no good at all.\"
+====================
+这不是完全不行嘛
+====================
+
+====================
+index 232
+offset 31847
+name Tomoya
+length 33
+====================
+\"I'm disappointed in myself...\"
+====================
+对自己都感到失望了…
+====================
+
+====================
+index 233
+offset 31930
+name Tomoyo
+length 76
+====================
+\"Hey, don't get so down. It's okay if we study like this once in a while.\"
+====================
+嘛、别那样气馁。偶尔像这样陪你学习学习也是可以的哦？
+====================
+
+====================
+index 234
+offset 32056
+name Tomoyo
+length 57
+====================
+\"I've come to rather like playing the role of teacher.\"
+====================
+当老师的感觉也挺不错的呢
+====================
+
+====================
+index 235
+offset 32163
+name Tomoyo
+length 55
+====================
+\"Well, I definitely can't show this to other people.\"
+====================
+嘛、绝对不能让外人看到就是了
+====================
+
+====================
+index 236
+offset 32321
+name Tomoyo
+length 45
+====================
+\"Your results... two out of three correct.\"
+====================
+结果…三问中二问回答正确
+====================
+
+====================
+index 237
+offset 32416
+name Tomoyo
+length 19
+====================
+\"You were close.\"
+====================
+真是可惜啊
+====================
+
+====================
+index 238
+offset 32485
+name Tomoya
+length 33
+====================
+\"I feel like hitting myself...\"
+====================
+真想痛扁自己一顿…
+====================
+
+====================
+index 239
+offset 32568
+name Tomoyo
+length 76
+====================
+\"Hey, don't get so down. It's okay if we study like this once in a while.\"
+====================
+嘛、别那样气馁。偶尔像这样陪你学习学习也是可以的哦？
+====================
+
+====================
+index 240
+offset 32694
+name Tomoyo
+length 57
+====================
+\"I've come to rather like playing the role of teacher.\"
+====================
+当老师的感觉也挺不错的呢
+====================
+
+====================
+index 241
+offset 32801
+name Tomoyo
+length 55
+====================
+\"Well, I definitely can't show this to other people.\"
+====================
+嘛、绝对不能让外人看到就是了
+====================
+
+====================
+index 242
+offset 32956
+name Tomoyo
+length 32
+====================
+\"Your results... all correct.\"
+====================
+结果…全部回答正确
+====================
+
+====================
+index 243
+offset 33068
+name Tomoya
+length 23
+====================
+\"I'm pretty excited.\"
+====================
+相当地让人心跳不已呢
+====================
+
+====================
+index 244
+offset 33141
+name Tomoyo
+length 58
+====================
+\"You're incredible, Tomoya. Good job. Okay, we're done.\"
+====================
+真厉害呢、朋也。做得真不错。好了、到此结束
+====================
+
+====================
+index 245
+offset 33249
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 246
+offset 33312
+name Tomoyo
+length 56
+====================
+\"Don't give me that look like the world just ended...\"
+====================
+别像那样露出一副世界末日就快来临的表情啊…
+====================
+
+====================
+index 247
+offset 33418
+name Tomoyo
+length 21
+====================
+\"Okay, I get it...\"
+====================
+我明白了、我明白了啦、所以…
+====================
+
+====================
+index 248
+offset 33489
+name Tomoyo
+length 46
+====================
+\"Um... what is it? Should I move this hand?\"
+====================
+呃哆…怎么做？　挪开这手就行了吗？
+====================
+
+====================
+index 249
+offset 33551
+name NULL
+length 18
+====================
+I give a huge nod.
+====================
+使劲点头。
+====================
+
+====================
+index 250
+offset 33619
+name Tomoyo
+length 60
+====================
+\"But from that angle, you'll definitely be able to see...\"
+====================
+不、从那个角度…绝对能看到…
+====================
+
+====================
+index 251
+offset 33729
+name Tomoyo
+length 34
+====================
+\"Maybe I can recross my legs...\"
+====================
+可以重新盘一下腿吗…
+====================
+
+====================
+index 252
+offset 33813
+name Tomoya
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 253
+offset 33876
+name Tomoyo
+length 45
+====================
+\"Instead, I'll put on glasses. How's that?\"
+====================
+那么、代替那个、戴上眼镜怎么样？
+====================
+
+====================
+index 254
+offset 33971
+name Tomoyo
+length 76
+====================
+\"I'll look more like a teacher and that'll make it even better, won't it?\"
+====================
+要更有老师的味道的话、不觉得更该拘泥于这样吗？
+====================
+
+====================
+index 255
+offset 34097
+name Tomoyo
+length 21
+====================
+\"What am I saying?\"
+====================
+…、我在说些什么啊…
+====================
+
+====================
+index 256
+offset 34168
+name Tomoyo
+length 57
+====================
+\"...so, how about it... will you let me off with that?\"
+====================
+…那、怎么样…这样子能饶了我吗？
+====================
+
+====================
+index 257
+offset 34241
+name NULL
+length 21
+====================
+...I nod reluctantly.
+====================
+…勉勉强强点了点头。
+====================
+
+====================
+index 258
+offset 34312
+name Tomoyo
+length 22
+====================
+\"Okay, here I go...\"
+====================
+那、开始了…
+====================
+
+====================
+index 259
+offset 34350
+name NULL
+length 6
+====================
+*Gulp*
+====================
+吞口水。
+====================
+
+====================
+index 260
+offset 35203
+name NULL
+length 5
+====================
+Oh...
+====================
+哦哦…。
+====================
+
+====================
+index 261
+offset 35224
+name NULL
+length 52
+====================
+She really does look like a teacher or a home tutor.
+====================
+真的的老师、准确说…好像家庭教师。
+====================
+
+====================
+index 262
+offset 35292
+name NULL
+length 73
+====================
+Her sitting on the desk looking down at me arouses a number of fantasies.
+====================
+坐在桌子边上俯视这边的身姿、让人产生了各种各样的妄想。
+====================
+
+====================
+index 263
+offset 35381
+name NULL
+length 73
+====================
+It feels like she's going to teach me about things other than studying...
+====================
+简直就让人联想到了教授学习以外的事情的氛围…。
+====================
+
+====================
+index 264
+offset 35504
+name Tomoyo
+length 34
+====================
+\"This is really embarrassing...\"
+====================
+就算是这样也让人感到相当难为情…
+====================
+
+====================
+index 265
+offset 35588
+name Tomoyo
+length 19
+====================
+\"Is that enough?\"
+====================
+已经、可以了吧…？
+====================
+
+====================
+index 266
+offset 36115
+name Takafumi
+length 23
+====================
+\"What are you doing?\"
+====================
+你们在做什么
+====================
+
+====================
+index 267
+offset 36587
+name NULL
+length 15
+====================
+*Thuuuuuuuuuud*
+====================
+咚ーーーーーーー！！
+====================
+
+====================
+index 268
+offset 36630
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 269
+offset 36695
+name Takafumi
+length 52
+====================
+\"Do you enjoy having Nee-chan dress up like that?\"
+====================
+姐姐那样打扮的话、哥哥会感到高兴吗？
+====================
+
+====================
+index 270
+offset 36797
+name Tomoya
+length 78
+====================
+\"Well, yeah I do. But I'm sure Tomoyo locked the door, so how'd you get in?\"
+====================
+呀～、虽然是那样没错、不过智代应该把门锁上了的…你又是从哪里进来的啊？
+====================
+
+====================
+index 271
+offset 36927
+name Takafumi
+length 34
+====================
+\"Huh? The window wasn't locked.\"
+====================
+呃？　窗户开着的哦
+====================
+
+====================
+index 272
+offset 37011
+name Tomoya
+length 28
+====================
+\"Don't come in like that.\"
+====================
+别从那种地方爬进来啊
+====================
+
+====================
+index 273
+offset 37091
+name Takafumi
+length 26
+====================
+\"You've done it before.\"
+====================
+以前哥哥你不也这么进来过吗
+====================
+
+====================
+index 274
+offset 37167
+name Tomoya
+length 35
+====================
+\"That was because I lost my key.\"
+====================
+那是因为我钥匙丢了
+====================
+
+====================
+index 275
+offset 37254
+name Takafumi
+length 86
+====================
+\"So it's usually open. You should be careful since thieves can get in that way too.\"
+====================
+那不就是平时都是开着的嘛。要小心小偷哦
+====================
+
+====================
+index 276
+offset 37390
+name Tomoya
+length 44
+====================
+\"There's nothing really for them to take.\"
+====================
+我这里倒是没什么值得偷的东西啦
+====================
+
+====================
+index 277
+offset 37486
+name Takafumi
+length 20
+====================
+\"Well, okay then.\"
+====================
+那就算了吧ー
+====================
+
+====================
+index 278
+offset 37982
+name Tomoyo
+length 23
+====================
+\"Wait here a minute.\"
+====================
+稍微等一下、可以吧
+====================
+
+====================
+index 279
+offset 39191
+name Tomoyo
+length 24
+====================
+\"Like hell it's fine!\"
+====================
+能就这样算了吗ーーー！
+====================
+
+====================
+index 280
+offset 39231
+name NULL
+length 26
+====================
+She changed and came back.
+====================
+换好衣服回来了。
+====================
+
+====================
+index 281
+offset 39581
+name Takafumi
+length 43
+====================
+\"Woah, Nee-chan, what are you mad about?\"
+====================
+呜哇、姐姐、干嘛生这么大气啊…
+====================
+
+====================
+index 282
+offset 39946
+name Tomoyo
+length 15
+====================
+\"Everything!\"
+====================
+你什么都让人生气！
+====================
+
+====================
+index 283
+offset 40013
+name Takafumi
+length 35
+====================
+\"Did something happen at school?\"
+====================
+在学校里受了什么委屈吗？
+====================
+
+====================
+index 284
+offset 40098
+name Tomoyo
+length 37
+====================
+\"Something happened here just now!\"
+====================
+就是在这里啊！
+====================
+
+====================
+index 285
+offset 40459
+name Takafumi
+length 49
+====================
+\"Huh? You mean Nii-chan peeking up your skirt?\"
+====================
+呃？　被哥哥偷看裙子里面了吗？
+====================
+
+====================
+index 286
+offset 40830
+name Tomoyo
+length 26
+====================
+\"No, that was a reward!\"
+====================
+不是的、那是奖励！
+====================
+
+====================
+index 287
+offset 40908
+name Takafumi
+length 7
+====================
+\"Eh?\"
+====================
+呃？
+====================
+
+====================
+index 288
+offset 41237
+name Tomoyo
+length 9
+====================
+\"Ah...\"
+====================
+啊…
+====================
+
+====================
+index 289
+offset 41296
+name Tomoyo
+length 14
+====================
+\"..........\"
+====================
+………
+====================
+
+====================
+index 290
+offset 41632
+name Tomoyo
+length 26
+====================
+\"Say nothing and leave.\"
+====================
+什么都不要说、回去
+====================
+
+====================
+index 291
+offset 41982
+name Takafumi
+length 7
+====================
+\"No.\"
+====================
+不要
+====================
+
+====================
+index 292
+offset 42022
+name NULL
+length 11
+====================
+*Pow* *Pow*
+====================
+啪啪。
+====================
+
+====================
+index 293
+offset 42319
+name NULL
+length 76
+====================
+Not concerning myself with their sibling dispute, I head for the bath alone.
+====================
+我放任拌嘴的姐弟俩、一个人去了洗澡间。
+====================

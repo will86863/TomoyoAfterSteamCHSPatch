@@ -1,0 +1,134 @@
+type seen819
+count 12
+
+====================
+index 1
+offset 263
+name NULL
+length 17
+====================
+August 19th (Thu)
+====================
+８月１９日（星期四）
+====================
+
+====================
+index 2
+offset 716
+name NULL
+length 47
+====================
+Everyone gathered here again the following day.
+====================
+第二天、大家也都聚集在了一起。
+====================
+
+====================
+index 3
+offset 779
+name NULL
+length 78
+====================
+The sounds of nails being struck by hammers faintly echo across the mountains.
+====================
+敲打钉子的声音回响在山间、变成了那微微的回声。
+====================
+
+====================
+index 4
+offset 873
+name NULL
+length 53
+====================
+Everyone's shouts gradually become louder and louder.
+====================
+和起的号子声、也渐渐地大了起来。
+====================
+
+====================
+index 5
+offset 942
+name NULL
+length 31
+====================
+There are new stacks of timber.
+====================
+有新的木材运来了。
+====================
+
+====================
+index 6
+offset 989
+name NULL
+length 72
+====================
+It seems they'll be tearing down the old veranda and building a new one.
+====================
+他们把旧的外墙拆掉、重新做了新的。
+====================
+
+====================
+index 7
+offset 1077
+name NULL
+length 55
+====================
+Just like yesterday, I am sitting on the plastic sheet.
+====================
+我和昨天一样、坐在塑料布上。
+====================
+
+====================
+index 8
+offset 1148
+name NULL
+length 57
+====================
+Even then, I'm fixing all kinds of things I have on hand.
+====================
+即使如此、我也在修理着各种各样手边的东西。
+====================
+
+====================
+index 9
+offset 1221
+name NULL
+length 49
+====================
+There are things that cannot be fixed, of course.
+====================
+当然有东西没有办法修好。
+====================
+
+====================
+index 10
+offset 1286
+name NULL
+length 34
+====================
+So I strip them for parts instead.
+====================
+我把这些东西还没损坏的部件拿了出来。
+====================
+
+====================
+index 11
+offset 1336
+name NULL
+length 41
+====================
+I think they will probably come in handy.
+====================
+因为我觉得这样的话会方便一点。
+====================
+
+====================
+index 12
+offset 1393
+name NULL
+length 89
+====================
+Even if it's for just a little, it would be nice if it'll help the village in the future.
+====================
+这些东西、要是能给这个村子日后的生活带来哪怕一点的方便都好。
+====================

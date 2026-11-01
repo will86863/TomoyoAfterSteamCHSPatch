@@ -1,0 +1,1300 @@
+type seen7940
+count 118
+
+====================
+index 1
+offset 2443
+name Takafumi
+length 83
+====================
+\"Hey, welcome back. Looks like you were beaten up pretty badly. You should rest.\"
+====================
+嘿、欢迎回来。看来你被揍得挺惨。该休息一下了。
+====================
+
+====================
+index 2
+offset 2578
+name Takafumi
+length 142
+====================
+\"Your skills and physical strength will recover when you're on the ground level. We also have an unlimited supply of recovery potions here.\"
+====================
+回到地面上、技能和体力就会恢复。这里的恢复药水也是无限供应的。
+====================
+
+====================
+index 3
+offset 2772
+name Takafumi
+length 55
+====================
+\"However, recovery potions are very heavy by design.\"
+====================
+不过、恢复药水在设计上非常重。
+====================
+
+====================
+index 4
+offset 2879
+name Takafumi
+length 95
+====================
+\"For now, take as many as you can. If you want to take more, you'll have to drop some items.\"
+====================
+现在就先尽量多带吧。想带更多的话、就得扔掉一些道具了。
+====================
+
+====================
+index 5
+offset 3147
+name Takafumi
+length 39
+====================
+\"Hey, welcome back. You should rest.\"
+====================
+嘿、欢迎回来。该休息一下了。
+====================
+
+====================
+index 6
+offset 3238
+name Takafumi
+length 106
+====================
+\"If none of you attack the enemy and use only 'Search' or 'Run', then you definitely won't beat them...\"
+====================
+如果你们谁都不攻击敌人、只使用『搜索』或『逃跑』、那肯定是赢不了的…
+====================
+
+====================
+index 7
+offset 3396
+name Takafumi
+length 131
+====================
+\"In particular, if you don't clear the floor, you can't get the items you found by using 'Search', and it will all be in vain...\"
+====================
+尤其是、如果不把这一层清干净、你用『搜索』找到的道具就带不走、全都白费了…
+====================
+
+====================
+index 8
+offset 3700
+name Takafumi
+length 39
+====================
+\"Hey, welcome back. You should rest.\"
+====================
+嘿、欢迎回来。该休息一下了。
+====================
+
+====================
+index 9
+offset 3952
+name Takafumi
+length 66
+====================
+\"Hey, welcome back. Haha, you actually came back. That's funny.\"
+====================
+嘿、欢迎回来。哈哈、你还真的回来了。真好笑。
+====================
+
+====================
+index 10
+offset 4070
+name Takafumi
+length 103
+====================
+\"Unless your character equips the right weapon, skills that rely on a weapon type will not function.\"
+====================
+如果你的角色没有装备对应的武器、依赖武器种类的技能就无法生效。
+====================
+
+====================
+index 11
+offset 4225
+name Takafumi
+length 136
+====================
+\"However, there are a limited number of weapons you can carry within the weight limit, especially when it comes to two-handed swords.\"
+====================
+不过、在重量限制内能带的武器数量是有限的、尤其是双手剑。
+====================
+
+====================
+index 12
+offset 4413
+name Takafumi
+length 166
+====================
+\"At times like that, you should exchange weapons with other characters before each floor so that you can use skills effectively with the least amount of equipment.\"
+====================
+这种时候、你应该在每层开始前和其他角色交换武器、以便用最少的装备有效地使用技能。
+====================
+
+====================
+index 13
+offset 4631
+name Takafumi
+length 181
+====================
+\"That's important if you want to beat the game, so you should do it even though it's kind of troublesome. That said, I should have probably made the interface more user-friendly!\"
+====================
+想通关的话这很重要、所以虽然有点麻烦、你还是该这么做。话说回来、界面我本该做得更友好一些的！
+====================
+
+====================
+index 14
+offset 4862
+name Tomoya
+length 24
+====================
+\"Nobody's laughing...\"
+====================
+没人笑得出来…
+====================
+
+====================
+index 15
+offset 5059
+name Takafumi
+length 61
+====================
+\"Hey, welcome back. Haha, you're back again. That's funny.\"
+====================
+嘿、欢迎回来。哈哈、你又回来了。真好笑。
+====================
+
+====================
+index 16
+offset 5172
+name Takafumi
+length 86
+====================
+\"Raising a specific stat based on your job's characteristics is part of the basics.\"
+====================
+根据职业特性来提升特定能力值、这是基本功的一部分。
+====================
+
+====================
+index 17
+offset 5310
+name Takafumi
+length 128
+====================
+\"If you obtain a strong weapon, you can then focus on raising defense and other stats accordingly, making it easy to advance.\"
+====================
+如果得到了强力的武器、之后就可以集中提升防御等能力值、推进起来就轻松了。
+====================
+
+====================
+index 18
+offset 5611
+name Takafumi
+length 61
+====================
+\"Hey, welcome back. Haha, you're back again. That's funny.\"
+====================
+嘿、欢迎回来。哈哈、你又回来了。真好笑。
+====================
+
+====================
+index 19
+offset 5724
+name Takafumi
+length 104
+====================
+\"It's pretty effective to equip shields when gathering enemies with techniques such as 'Panty Flash'.\"
+====================
+用『掀裙』之类的技巧把敌人聚起来时、装备盾牌相当有效。
+====================
+
+====================
+index 20
+offset 5880
+name Takafumi
+length 95
+====================
+\"Setting your magician to do things like 'Rush' and join in on the attack is also effective.\"
+====================
+让魔法师去做『突击』之类的事、一起参与攻击、也很有效。
+====================
+
+====================
+index 21
+offset 6027
+name Takafumi
+length 71
+====================
+\"DO NOT FORGET to set your last action to 'Run' or 'Search' if you do!
+====================
+这么做的时候、千万别忘了把最后的行动设成『逃跑』或『搜索』！
+====================
+
+====================
+index 23
+offset 6102
+name NULL
+length 2
+====================
+\"
+====================
+。
+====================
+
+====================
+index 24
+offset 6277
+name Takafumi
+length 61
+====================
+\"Hey, welcome back. Haha, you're back again. That's funny.\"
+====================
+嘿、欢迎回来。哈哈、你又回来了。真好笑。
+====================
+
+====================
+index 25
+offset 6390
+name Takafumi
+length 81
+====================
+\"When you encounter a large number of enemies, 'Earthquake' is very effective.\"
+====================
+遇到大量敌人时、『地震』非常有效。
+====================
+
+====================
+index 26
+offset 6523
+name Takafumi
+length 74
+====================
+\"'Sleep' is also effective, but you need to time it by using 'Standby'.\"
+====================
+『睡眠』也有效、不过你得用『待机』来调整时机。
+====================
+
+====================
+index 27
+offset 6647
+name Tomoya
+length 17
+====================
+\"Is that so...\"
+====================
+是这样吗…
+====================
+
+====================
+index 28
+offset 6837
+name Takafumi
+length 92
+====================
+\"Welcome back. Haha, you still haven't passed the 10th floor. Funny. That's unbelievable.\"
+====================
+欢迎回来。哈哈、你还没通过第１０层。真好笑。真是难以置信。
+====================
+
+====================
+index 29
+offset 7142
+name Takafumi
+length 29
+====================
+\"Eh, you're back already?!\"
+====================
+咦、你已经回来了？！
+====================
+
+====================
+index 30
+offset 7223
+name Takafumi
+length 143
+====================
+\"If you set your characters to rush in after using skills such as 'Spear User' and 'Wild Attack', then you may end up hitting more enemies?!\"
+====================
+如果在使用『长枪使』和『乱打』这类技能后让角色冲进去、说不定反而能打到更多敌人？！
+====================
+
+====================
+index 31
+offset 7416
+name Tomoya
+length 47
+====================
+\"Are you telling us that? Or are you asking?\"
+====================
+你这是在告诉我们？还是在问我们？
+====================
+
+====================
+index 32
+offset 7636
+name Takafumi
+length 29
+====================
+\"Eh, you're back already!?\"
+====================
+咦、你已经回来了！？
+====================
+
+====================
+index 33
+offset 7717
+name Takafumi
+length 139
+====================
+\"If you use an Area of Effect-based weapon in conjunction with a skill that increases your Attack, it should be effective or something!?\"
+====================
+如果用范围武器配合提升攻击力的技能、应该会很有效之类的吧！？
+====================
+
+====================
+index 34
+offset 7906
+name Tomoya
+length 47
+====================
+\"Are you telling us that? Or are you asking?\"
+====================
+你这是在告诉我们？还是在问我们？
+====================
+
+====================
+index 35
+offset 8126
+name Takafumi
+length 29
+====================
+\"Eh, you're back already?!\"
+====================
+咦、你已经回来了！？
+====================
+
+====================
+index 36
+offset 8207
+name Takafumi
+length 77
+====================
+\"You understand the differences between active and passive skills, right?!\"
+====================
+主动技能和被动技能的区别、你懂的吧？！
+====================
+
+====================
+index 37
+offset 8336
+name Takafumi
+length 115
+====================
+\"If you do, don't you think it would be more efficient in longer battles if you activate passive skills first...\"
+====================
+懂的话、你不觉得在长时间战斗里、先发动被动技能会更有效率吗…
+====================
+
+====================
+index 38
+offset 8503
+name Takafumi
+length 45
+====================
+\"...and then use active skills afterwards?\"
+====================
+…然后再用主动技能？
+====================
+
+====================
+index 39
+offset 8598
+name Tomoya
+length 31
+====================
+\"You really are asking me...\"
+====================
+你还真的在问我啊…
+====================
+
+====================
+index 40
+offset 8802
+name Takafumi
+length 10
+====================
+\"Wow...\"
+====================
+哇…
+====================
+
+====================
+index 41
+offset 8864
+name Takafumi
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 42
+offset 8927
+name Tomoya
+length 33
+====================
+\"What are you surprised about?\"
+====================
+你在惊讶什么？
+====================
+
+====================
+index 43
+offset 9173
+name Takafumi
+length 25
+====================
+\"Ugh, this is awful...\"
+====================
+呜、这可真是糟糕…
+====================
+
+====================
+index 44
+offset 9250
+name Takafumi
+length 106
+====================
+\"If you dual-wield weapons, the weapon you hold in your left hand will only deal half as much damage...\"
+====================
+如果双手各持一把武器、左手那把武器的伤害只有一半…
+====================
+
+====================
+index 45
+offset 9408
+name Takafumi
+length 111
+====================
+\"So you should equip your stronger weapons to your right hand. This guy might snap if I tell him this now...\"
+====================
+所以你应该把更强的武器装在右手。这家伙要是现在听到这个、说不定就要爆发了…
+====================
+
+====================
+index 46
+offset 9569
+name Tomoya
+length 19
+====================
+\"I heard that...\"
+====================
+我听见了…
+====================
+
+====================
+index 47
+offset 9761
+name Takafumi
+length 25
+====================
+\"Ugh, this is awful...\"
+====================
+呜、这可真是糟糕…
+====================
+
+====================
+index 48
+offset 9838
+name Takafumi
+length 110
+====================
+\"You can change your job in the status screen on the ground level. I wonder if this guy knows about that...\"
+====================
+在地面上的状态画面里可以转职。这家伙到底知不知道啊…
+====================
+
+====================
+index 49
+offset 10000
+name Takafumi
+length 77
+====================
+\"If you meet a job's stat requirements, your level should be irrelevant...\"
+====================
+只要满足职业的能力值要求、等级应该就无所谓了…
+====================
+
+====================
+index 50
+offset 10129
+name Takafumi
+length 88
+====================
+\"You can also revert to a lower-level job, or quickly switch to a higher-level job...\"
+====================
+你也可以转回低阶职业、或者迅速转成高阶职业…
+====================
+
+====================
+index 51
+offset 10269
+name Takafumi
+length 44
+====================
+\"You don't know, do you... How pitiful...\"
+====================
+你不知道吧…真可怜…
+====================
+
+====================
+index 52
+offset 10363
+name Tomoya
+length 23
+====================
+\"I heard all that...\"
+====================
+我全都听见了…
+====================
+
+====================
+index 53
+offset 10559
+name Takafumi
+length 44
+====================
+\"Ugh, you came back again... This is bad.\"
+====================
+呜、你又回来了…这可糟了。
+====================
+
+====================
+index 54
+offset 10653
+name Tomoya
+length 18
+====================
+\"What is it...?\"
+====================
+怎么了…？
+====================
+
+====================
+index 55
+offset 10723
+name Takafumi
+length 125
+====================
+\"It would be a convenient strategy to place your archers such that the enemies are just in range at the start of combat...\"
+====================
+把弓手配置成开战时敌人刚好进入射程的位置、会是很方便的策略…
+====================
+
+====================
+index 56
+offset 10900
+name Takafumi
+length 77
+====================
+\"And have them defeat the enemy before they get closer by using 'Standby'.\"
+====================
+然后让他们用『待机』在敌人靠近之前就解决掉。
+====================
+
+====================
+index 57
+offset 11029
+name Takafumi
+length 63
+====================
+\"You can still attack the enemy even when you use 'Standby'.\"
+====================
+就算使用『待机』、也还是能攻击敌人的。
+====================
+
+====================
+index 58
+offset 11144
+name Takafumi
+length 29
+====================
+\"So let me off the hook...\"
+====================
+所以你就放过我吧…
+====================
+
+====================
+index 59
+offset 11223
+name Tomoya
+length 18
+====================
+\"Off what hook?\"
+====================
+放过你什么？
+====================
+
+====================
+index 60
+offset 11414
+name Takafumi
+length 36
+====================
+\"Ugh, this is definitely awful...\"
+====================
+呜、这绝对是糟了…
+====================
+
+====================
+index 61
+offset 11500
+name Tomoya
+length 17
+====================
+\"What is it...\"
+====================
+怎么了…
+====================
+
+====================
+index 62
+offset 11569
+name Takafumi
+length 132
+====================
+\"When your party members are split 2:1, it's a good idea to let the lone character use skills like 'Counterattack' and 'Parry'...\"
+====================
+队伍成员按２：１分开时、让落单的那个角色使用『反击』和『格挡』之类的技能是个好主意…
+====================
+
+====================
+index 63
+offset 11753
+name Takafumi
+length 101
+====================
+\"And let him equip the better armor. It'll also be very helpful if you let him or her equip a bow.\"
+====================
+再让他装备更好的防具。如果让他或她装备弓、也会很有帮助。
+====================
+
+====================
+index 64
+offset 11906
+name Takafumi
+length 27
+====================
+\"Just give me a break...\"
+====================
+你就饶了我吧…
+====================
+
+====================
+index 65
+offset 11983
+name Tomoya
+length 14
+====================
+\"From what?\"
+====================
+饶你什么？
+====================
+
+====================
+index 66
+offset 12170
+name Takafumi
+length 49
+====================
+\"This is bad... I might have been found out...\"
+====================
+糟了…我可能被发现了…
+====================
+
+====================
+index 67
+offset 12269
+name Tomoya
+length 24
+====================
+\"What are you hiding?\"
+====================
+你在藏什么？
+====================
+
+====================
+index 68
+offset 12506
+name Takafumi
+length 19
+====================
+\"Ah! Here he is!\"
+====================
+啊！他来了！
+====================
+
+====================
+index 69
+offset 12575
+name Tomoya
+length 30
+====================
+\"Don't talk like the enemy.\"
+====================
+别用敌人的口气说话。
+====================
+
+====================
+index 70
+offset 12657
+name Takafumi
+length 74
+====================
+\"Using a personal Area of Effect skill by itself is not very effective.\"
+====================
+单独使用一个自身范围技能、效果并不怎么好。
+====================
+
+====================
+index 71
+offset 12783
+name Takafumi
+length 104
+====================
+\"Activate various skills and show off your true strength for the first time. Use them and boooooooom!\"
+====================
+把各种技能发动起来、才能真正展现出你的实力。用起来、然后砰——！
+====================
+
+====================
+index 72
+offset 12937
+name Tomoya
+length 47
+====================
+\"I have no idea what you're trying to say...\"
+====================
+我完全不明白你想说什么…
+====================
+
+====================
+index 73
+offset 13157
+name Takafumi
+length 24
+====================
+\"Here he comes again!\"
+====================
+他又来了！
+====================
+
+====================
+index 74
+offset 13231
+name Tomoya
+length 30
+====================
+\"Don't talk like the enemy.\"
+====================
+别用敌人的口气说话。
+====================
+
+====================
+index 75
+offset 13313
+name Takafumi
+length 54
+====================
+\"First, raise your attack power with your skills...\"
+====================
+首先、用技能提升攻击力…
+====================
+
+====================
+index 76
+offset 13419
+name Takafumi
+length 130
+====================
+\"Then by going from 'Rush' to 'Standby', you will attract the enemy into your attack range, then cast an AoE skill and booooom!\"
+====================
+然后从『突击』切到『待机』、把敌人引进你的攻击范围、再放出范围技能、砰——！
+====================
+
+====================
+index 77
+offset 13599
+name Tomoya
+length 55
+====================
+\"I have no idea what you're trying to say anymore...\"
+====================
+我完全不明白你想说什么了…
+====================
+
+====================
+index 78
+offset 13827
+name Takafumi
+length 21
+====================
+\"Here he is again!\"
+====================
+他又来了！
+====================
+
+====================
+index 79
+offset 13900
+name Takafumi
+length 66
+====================
+\"If you happen to take damage and can't recover with potions...\"
+====================
+如果你不小心受了伤、又没法靠药水恢复…
+====================
+
+====================
+index 80
+offset 14018
+name Takafumi
+length 146
+====================
+\"Have your character equip the best armor in the party, and with all the damage concentrated on him, which he will unexpectedly endure, boooom!\"
+====================
+就让角色装备队伍里最好的防具、把伤害全都集中到他身上、没想到他还真扛住了、砰——！
+====================
+
+====================
+index 81
+offset 14214
+name Tomoya
+length 47
+====================
+\"I have no idea what you're trying to say...\"
+====================
+我完全不明白你想说什么…
+====================
+
+====================
+index 82
+offset 14434
+name Takafumi
+length 22
+====================
+\"He lost at Uehara!\"
+====================
+他在上原输了！
+====================
+
+====================
+index 83
+offset 14506
+name Tomoya
+length 47
+====================
+\"What are you carelessly looking around for?\"
+====================
+你心不在焉地东张西望什么呢？
+====================
+
+====================
+index 84
+offset 14767
+name Takafumi
+length 17
+====================
+\"Welcome back.\"
+====================
+欢迎回来。
+====================
+
+====================
+index 85
+offset 14834
+name Tomoya
+length 30
+====================
+\"Aaah, what's up with him!?\"
+====================
+啊啊、这家伙怎么了！？
+====================
+
+====================
+index 86
+offset 15007
+name Takafumi
+length 96
+====================
+\"You're quite lucky now, aren't you?! This is lucky Takafumi! I haven't even seen him before.\"
+====================
+你现在相当走运吧？！这就是幸运的鹰文！我连见都没见过他。
+====================
+
+====================
+index 87
+offset 15247
+name Takafumi
+length 108
+====================
+\"The very survival of mankind rests on the outcome of this special mission, so I came here for good luck.\"
+====================
+人类的存亡就系于这次特别任务的结果、所以我来这里求个好运。
+====================
+
+====================
+index 88
+offset 15407
+name Takafumi
+length 37
+====================
+\"Congratulations on having met me.\"
+====================
+恭喜你遇见了我。
+====================
+
+====================
+index 89
+offset 15494
+name Tomoya
+length 65
+====================
+\"I have a feeling my luck will be pointlessly wasted by you...\"
+====================
+我总觉得我的好运要被你白白浪费掉了…
+====================
+
+====================
+index 90
+offset 15611
+name Takafumi
+length 92
+====================
+\"When you cast skills that directly affect the enemy, only the last one will take effect.\"
+====================
+当你施放直接作用于敌人的技能时、只有最后一个会生效。
+====================
+
+====================
+index 91
+offset 15755
+name Takafumi
+length 117
+====================
+\"For example, if you invoke 'Panty Flash' immediately following a game of 'Tag', the enemy will go towards Tomoyo.\"
+====================
+比如说、如果在玩了『捉鬼』之后立刻施放『掀裙』、敌人就会朝智代那边去。
+====================
+
+====================
+index 92
+offset 15924
+name Takafumi
+length 93
+====================
+\"This rule also works on any skills that drive enemies away, such as 'Kiss of Friendship'.\"
+====================
+这条规则对『友情的吻』之类把敌人赶走的技能也同样适用。
+====================
+
+====================
+index 93
+offset 16069
+name Takafumi
+length 90
+====================
+\"If you use 'Tag' and then 'Kiss of Friendship', the effect of 'Tag' will be nullified.\"
+====================
+如果先用『捉鬼』再用『友情的吻』、『捉鬼』的效果就会被抵消。
+====================
+
+====================
+index 94
+offset 16211
+name Takafumi
+length 128
+====================
+\"You can't use skills to create a situation where you pull the enemies in without getting attacked, so use them with caution.\"
+====================
+你没法用技能制造出把敌人拉过来又不挨打的情况、所以要谨慎使用。
+====================
+
+====================
+index 95
+offset 16391
+name Takafumi
+length 22
+====================
+\"Look at me, Lucky.\"
+====================
+看看我、幸运。
+====================
+
+====================
+index 96
+offset 16463
+name Tomoya
+length 37
+====================
+\"Don't just talk about yourself...\"
+====================
+别光顾着说自己…
+====================
+
+====================
+index 97
+offset 16728
+name Takafumi
+length 25
+====================
+\"Lucky! It's me again.\"
+====================
+幸运！又是我。
+====================
+
+====================
+index 98
+offset 16803
+name Tomoya
+length 50
+====================
+\"It feels as if my luck is being sucked away...\"
+====================
+感觉我的好运正在被吸走…
+====================
+
+====================
+index 99
+offset 16920
+name Takafumi
+length 93
+====================
+\"You do know that the 'DAY' at the lower right displays the number of days elapsed, right?\"
+====================
+你知道右下角的『ＤＡＹ』显示的是经过的天数吧？
+====================
+
+====================
+index 100
+offset 17074
+name Takafumi
+length 124
+====================
+\"The fewer days it takes you to finish, the more difficult it will be. However, your final score will be higher, as well.\"
+====================
+你通关用的天数越少、难度就越高。不过、最终得分也会更高。
+====================
+
+====================
+index 101
+offset 17250
+name Takafumi
+length 123
+====================
+\"If you want to go through the game quickly, you can play as a knight because of how powerful its 'Spear User' skill is.\"
+====================
+如果你想快速通关、可以玩骑士、因为它的『长枪使』技能非常强。
+====================
+
+====================
+index 102
+offset 17425
+name Takafumi
+length 143
+====================
+\"Nevertheless, since the higher-ranking jobs' final skills are not only strong, but also look kinda cool, you should consider changing jobs.\"
+====================
+不过、高阶职业的最终技能不光强力、还挺帅的、所以你也该考虑转职。
+====================
+
+====================
+index 103
+offset 17620
+name Takafumi
+length 22
+====================
+\"Look at me, Lucky.\"
+====================
+看看我、幸运。
+====================
+
+====================
+index 104
+offset 17692
+name Tomoya
+length 37
+====================
+\"Don't just talk about yourself...\"
+====================
+别光顾着说自己…
+====================
+
+====================
+index 105
+offset 17903
+name Takafumi
+length 25
+====================
+\"Lucky! It's me again.\"
+====================
+幸运！又是我。
+====================
+
+====================
+index 106
+offset 17980
+name Takafumi
+length 184
+====================
+\"It's quite risky to change to a higher-level job, as they don't have a lot of skills. Just to be safe, you should retreat repeatedly and raise your level before you go any further.\"
+====================
+转成高阶职业风险相当大、因为它们的技能不多。保险起见、你应该反复撤退、把等级提上去再往前走。
+====================
+
+====================
+index 107
+offset 18216
+name Takafumi
+length 22
+====================
+\"Look at me, Lucky.\"
+====================
+看看我、幸运。
+====================
+
+====================
+index 108
+offset 18288
+name Tomoya
+length 16
+====================
+\"Ah, Lucky...\"
+====================
+啊、幸运…
+====================
+
+====================
+index 109
+offset 18478
+name Takafumi
+length 25
+====================
+\"Lucky! It's me again.\"
+====================
+幸运！又是我。
+====================
+
+====================
+index 110
+offset 18553
+name Tomoya
+length 50
+====================
+\"It feels as if my luck is being sucked away...\"
+====================
+感觉我的好运正在被吸走…
+====================
+
+====================
+index 111
+offset 18816
+name Takafumi
+length 19
+====================
+\"Welcome back...\"
+====================
+欢迎回来…
+====================
+
+====================
+index 112
+offset 18885
+name Tomoya
+length 48
+====================
+\"Oh, this brings back memories. It's No. 068.\"
+====================
+哦、真是令人怀念。是０６８号啊。
+====================
+
+====================
+index 113
+offset 19068
+name Kanako
+length 57
+====================
+\"This isn't lucky Takafumi... something seems ominous.\"
+====================
+这不是幸运的鹰文…总觉得有种不祥的预感。
+====================
+
+====================
+index 114
+offset 19234
+name Kanako
+length 31
+====================
+\"...something seems ominous.\"
+====================
+…总觉得有种不祥的预感。
+====================
+
+====================
+index 115
+offset 19370
+name Takafumi
+length 47
+====================
+\"What? It's as if I'm a pest or something...\"
+====================
+什么啊？说得好像我是什么害虫一样…
+====================
+
+====================
+index 116
+offset 19590
+name Takafumi
+length 19
+====================
+\"Welcome back...\"
+====================
+欢迎回来…
+====================
+
+====================
+index 117
+offset 19784
+name Takafumi
+length 19
+====================
+\"Welcome back...\"
+====================
+欢迎回来…
+====================
+
+====================
+index 118
+offset 19975
+name Takafumi
+length 19
+====================
+\"Welcome back...\"
+====================
+欢迎回来…
+====================
+
+====================
+index 119
+offset 20166
+name Takafumi
+length 19
+====================
+\"Welcome back...\"
+====================
+欢迎回来…
+====================

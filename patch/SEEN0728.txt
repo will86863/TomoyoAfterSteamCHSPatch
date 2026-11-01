@@ -1,0 +1,508 @@
+type seen728
+count 46
+
+====================
+index 1
+offset 266
+name NULL
+length 15
+====================
+July 28th (Wed)
+====================
+７月２８日（星期三）
+====================
+
+====================
+index 2
+offset 1073
+name Tomoyo
+length 28
+====================
+\"And so, you're training.\"
+====================
+所以开始练习吧
+====================
+
+====================
+index 3
+offset 1426
+name Takafumi
+length 29
+====================
+\"It's really hot though...\"
+====================
+天气热死了…
+====================
+
+====================
+index 4
+offset 1778
+name Tomoyo
+length 41
+====================
+\"You have to get used to the heat too.\"
+====================
+因为必须要快些适应这么热的天气呢
+====================
+
+====================
+index 5
+offset 1869
+name Tomoyo
+length 57
+====================
+\"The course I just told you is about three kilometers.\"
+====================
+刚才说的那段路程、大概有３公里左右吧
+====================
+
+====================
+index 6
+offset 2246
+name Tomoya
+length 27
+====================
+\"Do your best, Takafumi.\"
+====================
+加油啊、鹰文ー
+====================
+
+====================
+index 7
+offset 2289
+name NULL
+length 30
+====================
+I cheer him on from the shade.
+====================
+我躲在树荫里为他加油。
+====================
+
+====================
+index 8
+offset 2644
+name Takafumi
+length 52
+====================
+\"And just whose fault is it that I'm doing this?!\"
+====================
+究竟是因为谁的关系才会变成现在这样的啊
+====================
+
+====================
+index 9
+offset 3016
+name Tomoya
+length 58
+====================
+\"Tomo-san, Takafumi is irritated with me for no reason.\"
+====================
+小智啊、鹰文他、在反生我的气呢
+====================
+
+====================
+index 10
+offset 3090
+name NULL
+length 53
+====================
+I imitate Kanako and cling to Tomo, who's next to me.
+====================
+我学着河南子的样子、对着身边的小智诉苦着。
+====================
+
+====================
+index 11
+offset 3463
+name Tomo
+length 49
+====================
+\"Hey, Onii-chan, stop it. No getting iwatated.\"
+====================
+真是的、大哥哥、不行的哦、怎么可以反生别人的气ー
+====================
+
+====================
+index 12
+offset 3837
+name Takafumi
+length 85
+====================
+\"Don't hide behind a kid who can't even say irritated! And it's not for no reason!\"
+====================
+不要拿连什么是反生气都不知道的孩子当挡箭牌、而且、这根本就不是我的错！
+====================
+
+====================
+index 13
+offset 4244
+name Kanako
+length 33
+====================
+\"Uwah, it's hot again today...\"
+====================
+呜哇、今天也好热呢…
+====================
+
+====================
+index 14
+offset 4293
+name NULL
+length 57
+====================
+Kanako comes out of the apartment with ice cream in hand.
+====================
+河南子手里拿着冰激凌、从公寓里出来了。
+====================
+
+====================
+index 15
+offset 4672
+name Kanako
+length 50
+====================
+\"What is everyone doing going outside together?\"
+====================
+大家一起跑到外头来干什么
+====================
+
+====================
+index 16
+offset 5010
+name NULL
+length 60
+====================
+Then she follows Takafumi, who's running, with curious eyes.
+====================
+然后、她以一种不可思议的目光看着鹰文跑远。
+====================
+
+====================
+index 17
+offset 5120
+name Kanako
+length 22
+====================
+\"This a punishment?\"
+====================
+惩罚游戏？
+====================
+
+====================
+index 18
+offset 5192
+name Tomoya
+length 20
+====================
+\"It's love. Love.\"
+====================
+这是爱啊、爱
+====================
+
+====================
+index 19
+offset 5534
+name Kanako
+length 21
+====================
+\"Hm, love, huh...?\"
+====================
+哼、爱啊…
+====================
+
+====================
+index 20
+offset 6719
+name Tomoyo
+length 25
+====================
+\"He's not coming back.\"
+====================
+怎么还不回来
+====================
+
+====================
+index 21
+offset 6794
+name Tomoya
+length 20
+====================
+\"Go look for him.\"
+====================
+你去找找他吧
+====================
+
+====================
+index 22
+offset 7100
+name NULL
+length 50
+====================
+I instruct her and she runs off after nodding yes.
+====================
+一听我这么说、智代就点了点头、跑了出去。
+====================
+
+====================
+index 23
+offset 8314
+name Tomoyo
+length 21
+====================
+\"He had collapsed.\"
+====================
+他倒在地上了
+====================
+
+====================
+index 24
+offset 8621
+name NULL
+length 83
+====================
+On her back when she returns is Takafumi with a hung head and fading consciousness.
+====================
+智代回来的时候、背上背着耷拉着脑袋快失去意识的鹰文。
+====================
+
+====================
+index 25
+offset 9026
+name Kanako
+length 22
+====================
+\"This a punishment?\"
+====================
+惩罚游戏？
+====================
+
+====================
+index 26
+offset 9098
+name Tomoya
+length 14
+====================
+\"It's love.\"
+====================
+是爱啦
+====================
+
+====================
+index 27
+offset 9434
+name Kanako
+length 18
+====================
+\"A warped love.\"
+====================
+还真是扭曲的爱啊
+====================
+
+====================
+index 28
+offset 10388
+name NULL
+length 93
+====================
+When I look at the pamphlet again, I notice that it says the course will be at a forest park.
+====================
+重新看了看宣传手册、只见上面写着整个路程是森林公园之类的字样。
+====================
+
+====================
+index 29
+offset 10531
+name Tomoya
+length 64
+====================
+\"The path is shaded by trees, so it seems like it'll be cool.\"
+====================
+因为是林荫道、所以应该会很凉快的吧
+====================
+
+====================
+index 30
+offset 10918
+name Tomoyo
+length 20
+====================
+\"Sorry, Takafumi.\"
+====================
+抱歉、鹰文
+====================
+
+====================
+index 31
+offset 10990
+name Takafumi
+length 29
+====================
+\"Can I stop running now...\"
+====================
+只要别让我再跑就好了…
+====================
+
+====================
+index 32
+offset 11035
+name NULL
+length 57
+====================
+Takafumi is lying down. There's a bag of ice on his head.
+====================
+鹰文躺在地上。头上放着一个冰袋。
+====================
+
+====================
+index 33
+offset 11415
+name Tomoyo
+length 30
+====================
+\"Hey, don't pout like that.\"
+====================
+好了、不要那么执拗了
+====================
+
+====================
+index 34
+offset 11769
+name Takafumi
+length 64
+====================
+\"I'm not pouting. I'm saying it because of physical damage...\"
+====================
+这不是什么执拗不执拗的问题、而是从身体所受的创伤来说的啊
+====================
+
+====================
+index 35
+offset 12156
+name Tomoyo
+length 50
+====================
+\"I'm sorry for that. I'm apologizing, aren't I?\"
+====================
+我不是已经觉得不对、然后向你道歉了吗
+====================
+
+====================
+index 36
+offset 12256
+name Tomoyo
+length 25
+====================
+\"See, I'm nursing you.\"
+====================
+你看、也有很认真地在照看着你啊
+====================
+
+====================
+index 37
+offset 12604
+name Tomoyo
+length 57
+====================
+\"Hm? The ice has mostly melted. I'll go switch it out.\"
+====================
+嗯、冰块差不多快化了。我去换一下吧
+====================
+
+====================
+index 38
+offset 12947
+name NULL
+length 26
+====================
+Tomoyo stands at the sink.
+====================
+智代去了水池那里。
+====================
+
+====================
+index 39
+offset 13296
+name Kanako
+length 62
+====================
+\"What? Is everyone trying to reforge Takafumi's will-power?\"
+====================
+怎么？大家想要重新锻炼鹰文的毅力吗？
+====================
+
+====================
+index 40
+offset 13374
+name NULL
+length 33
+====================
+Kanako comes over to replace her.
+====================
+河南子走进来说道。
+====================
+
+====================
+index 41
+offset 13457
+name Tomoya
+length 35
+====================
+\"He's sleeping, so keep it down.\"
+====================
+他还躺着呢、让他好好休息休息吧
+====================
+
+====================
+index 42
+offset 13815
+name Kanako
+length 40
+====================
+\"I'm going to drip spit on your face.\"
+====================
+让我在他脸上吐点口水看看
+====================
+
+====================
+index 43
+offset 14156
+name NULL
+length 49
+====================
+He jumps awake with incredible force and a shout.
+====================
+他『嘎啊啊啊！』地大叫着以惊人的速度飞身起来了。
+====================
+
+====================
+index 44
+offset 14529
+name Takafumi
+length 33
+====================
+\"Uwaaaaah, my head is ringing!\"
+====================
+呜哇啊啊ー、头好痛ーー！
+====================
+
+====================
+index 45
+offset 14885
+name Kanako
+length 20
+====================
+\"Don't overdo it.\"
+====================
+别太勉强自己
+====================
+
+====================
+index 46
+offset 15229
+name Takafumi
+length 45
+====================
+\"And just who is causing me to overdo it?!\"
+====================
+还不是你害的啊
+====================

@@ -4,6 +4,22 @@
 * text=auto
 
 ###############################################################################
+# patch/ 译文文件必须保持 LF 换行
+#
+# 引擎按行解析这些文件（type/count/index/offset/length/原文/译文），
+# 换行被转成 CRLF 会导致解析错位、InitPatchData 返回 FALSE、补丁初始化失败。
+# 这里显式锁定，避免 clone 方 core.autocrlf=true 时被破坏。
+###############################################################################
+patch/** -text
+patch/** linguist-vendored
+
+###############################################################################
+# en_patch / clean2 同为按行解析的文本，同样锁定 LF
+###############################################################################
+10_PC源/补丁骨架/en_patch/** -text
+20_PSP源/清洗译文/clean2/** -text
+
+###############################################################################
 # Set default behavior for command prompt diff.
 #
 # This is need for earlier builds of msysgit that does not have it on by

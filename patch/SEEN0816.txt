@@ -1,0 +1,882 @@
+type seen816
+count 80
+
+====================
+index 1
+offset 263
+name NULL
+length 17
+====================
+August 16th (Mon)
+====================
+８月１６日（星期一）
+====================
+
+====================
+index 2
+offset 1524
+name Kanako
+length 13
+====================
+\"Hey, hey.\"
+====================
+呐ー呐ー
+====================
+
+====================
+index 3
+offset 1587
+name Kanako
+length 22
+====================
+\"Did she come here?\"
+====================
+她没来过吗？
+====================
+
+====================
+index 4
+offset 1659
+name Tomoya
+length 36
+====================
+\"You mean Tomoyo? No, she didn't.\"
+====================
+智代吗？没来过
+====================
+
+====================
+index 5
+offset 2019
+name Kanako
+length 29
+====================
+\"Huh? Where did she go...?\"
+====================
+哎呀？跑去哪里去了呢～？
+====================
+
+====================
+index 6
+offset 2098
+name Tomoya
+length 23
+====================
+\"What? You lost her?\"
+====================
+怎么？跟丢了吗？
+====================
+
+====================
+index 7
+offset 2445
+name Kanako
+length 30
+====================
+\"That seems to be the case.\"
+====================
+好像是这样
+====================
+
+====================
+index 8
+offset 2525
+name Tomoya
+length 29
+====================
+\"Just what were you doing?\"
+====================
+你干了些什么
+====================
+
+====================
+index 9
+offset 2878
+name Kanako
+length 19
+====================
+\"Nothing at all.\"
+====================
+没有啊、什么都没干
+====================
+
+====================
+index 10
+offset 2947
+name Tomoya
+length 38
+====================
+\"Weren't you keeping an eye on her?\"
+====================
+你没有好好地看住她吧？
+====================
+
+====================
+index 11
+offset 3035
+name Kanako
+length 71
+====================
+\"Come on, didn't you tell me not to look when she's in the bathroom?\"
+====================
+但是、不是你说的嘛。上厕所的时候别看
+====================
+
+====================
+index 12
+offset 3156
+name Tomoya
+length 16
+====================
+\"Bathroom...?\"
+====================
+厕所…？
+====================
+
+====================
+index 13
+offset 3277
+name Kanako
+length 188
+====================
+\"I thought she was taking too long when she went in and didn't come out for like ten minutes, so I knocked on the door, but she didn't answer. And when I peeked in on her, she was gone.\"
+====================
+过了１０分钟都还不出来、我在想怎么这么长啊、然后敲了下门没有反应、再开门看看就发现人不见了
+====================
+
+====================
+index 14
+offset 3570
+name Tomoya
+length 22
+====================
+\"Was there an exit?\"
+====================
+有其他出口吗？
+====================
+
+====================
+index 15
+offset 3681
+name Kanako
+length 75
+====================
+\"There's a small window that you might be able to climb through somehow.\"
+====================
+有一扇勉强能通过去的小窗
+====================
+
+====================
+index 16
+offset 3806
+name Tomoya
+length 28
+====================
+\"So she ran away, huh...?\"
+====================
+逃跑了呢…
+====================
+
+====================
+index 17
+offset 3884
+name Kanako
+length 17
+====================
+\"She sure did.\"
+====================
+嗯、让她逃跑了
+====================
+
+====================
+index 18
+offset 3960
+name Tomoya
+length 47
+====================
+\"Don't just stand there. Let's look for her!\"
+====================
+别在这里闲逛了、去找她
+====================
+
+====================
+index 19
+offset 4060
+name Kanako
+length 25
+====================
+\"Where should we look?\"
+====================
+找哪里？
+====================
+
+====================
+index 20
+offset 4135
+name Tomoya
+length 87
+====================
+\"We're going back the way we came. She's probably thinking of going back by herself.\"
+====================
+来的路。因为她想一个人回去呢
+====================
+
+====================
+index 21
+offset 4546
+name Kanako
+length 42
+====================
+\"Oh, don't worry, then. She'll be back.\"
+====================
+那么、没关系的。她会回来的
+====================
+
+====================
+index 22
+offset 4638
+name Tomoya
+length 15
+====================
+\"Why's that?\"
+====================
+你怎么知道
+====================
+
+====================
+index 23
+offset 4703
+name Kanako
+length 25
+====================
+\"I took this from her.\"
+====================
+我事先摸过来了
+====================
+
+====================
+index 24
+offset 4744
+name NULL
+length 61
+====================
+I recognize the wallet she's holding... It's Tomoyo's wallet.
+====================
+她手里拿着的是智代的钱包。
+====================
+
+====================
+index 25
+offset 4855
+name Kanako
+length 85
+====================
+\"I also told everyone in the village not to lend her any money or give her a ride.\"
+====================
+而且我也跟村里人说过了、请别借给她钱或者让她搭车
+====================
+
+====================
+index 26
+offset 5264
+name Kanako
+length 25
+====================
+\"Look, here she comes.\"
+====================
+看吧、回来了
+====================
+
+====================
+index 27
+offset 5575
+name NULL
+length 56
+====================
+I turn around and see Tomoyo walking straight toward us.
+====================
+回过头去、就看到智代大步地朝着这里走了过来。
+====================
+
+====================
+index 28
+offset 5647
+name NULL
+length 101
+====================
+Her hair and clothes are very messy, so she must've had a hard time climbing through the tiny window.
+====================
+大概是从小窗逃出去的时候不是那么顺利吧、她的头发和衣服有些零乱。
+====================
+
+====================
+index 29
+offset 5764
+name NULL
+length 49
+====================
+Her appearance... tells me she's lost her sanity.
+====================
+那样子…正显示着她现在已经丧失理智了。
+====================
+
+====================
+index 30
+offset 6135
+name Tomoyo
+length 35
+====================
+\"Kanako, give me back my wallet.\"
+====================
+河南子、把那个钱包还给我
+====================
+
+====================
+index 31
+offset 6494
+name Kanako
+length 20
+====================
+\"And so she says.\"
+====================
+她是这么说的
+====================
+
+====================
+index 32
+offset 6530
+name NULL
+length 28
+====================
+Kanako asks for my decision.
+====================
+河南子看着我征求我的意见。
+====================
+
+====================
+index 33
+offset 6878
+name Tomoya
+length 23
+====================
+\"Don't give it back.\"
+====================
+别还给她
+====================
+
+====================
+index 34
+offset 7223
+name Tomoyo
+length 8
+====================
+\"Why?\"
+====================
+为什么
+====================
+
+====================
+index 35
+offset 7281
+name Tomoya
+length 58
+====================
+\"You're planning on going home by yourself, aren't you?\"
+====================
+你想一个人回去吧？
+====================
+
+====================
+index 36
+offset 7661
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 37
+offset 7724
+name Tomoya
+length 54
+====================
+\"If that's not the case, then go along with Kanako.\"
+====================
+如果不是、那就和河南子一起吧
+====================
+
+====================
+index 38
+offset 8100
+name Tomoyo
+length 19
+====================
+\"Yeah... okay...\"
+====================
+嗯…我明白了…
+====================
+
+====================
+index 39
+offset 8169
+name Tomoyo
+length 49
+====================
+\"I got it... so please give me my wallet back.\"
+====================
+我都明白了…就把钱包还给我吧
+====================
+
+====================
+index 40
+offset 8542
+name Kanako
+length 21
+====================
+\"What should I do?\"
+====================
+怎么办？
+====================
+
+====================
+index 41
+offset 8613
+name Tomoya
+length 46
+====================
+\"Don't give it back while we're still here.\"
+====================
+直到离开这里前都别还
+====================
+
+====================
+index 42
+offset 8981
+name Tomoyo
+length 28
+====================
+\"What is wrong with you?!\"
+====================
+你这算是什么意思
+====================
+
+====================
+index 43
+offset 9059
+name Tomoyo
+length 41
+====================
+\"Don't go deciding things on your own!\"
+====================
+别这么自作主张啊
+====================
+
+====================
+index 44
+offset 9116
+name NULL
+length 45
+====================
+She's upset, and more so than I've ever seen.
+====================
+她看都没看我、已经乱了方寸。
+====================
+
+====================
+index 45
+offset 9177
+name NULL
+length 82
+====================
+Or I suppose that's how Tomoyo used to be... The one that Kanako is familiar with.
+====================
+或许、那就是原来的智代、也就是河南子所熟知的那个智代吧。
+====================
+
+====================
+index 46
+offset 9581
+name Tomoyo
+length 29
+====================
+\"Kanako... give it back...\"
+====================
+河南子…还给我…
+====================
+
+====================
+index 47
+offset 9626
+name NULL
+length 38
+====================
+She says in a deep, threatening voice.
+====================
+她低沉地威胁到。
+====================
+
+====================
+index 48
+offset 9714
+name Kanako
+length 10
+====================
+\"Can't.\"
+====================
+都说了不行了
+====================
+
+====================
+index 49
+offset 9774
+name Tomoyo
+length 36
+====================
+\"That's enough... Give it back...\"
+====================
+别闹了…还给我…
+====================
+
+====================
+index 50
+offset 9860
+name Kanako
+length 45
+====================
+\"I can't. That's what your boyfriend said.\"
+====================
+你的男朋友说不行的
+====================
+
+====================
+index 51
+offset 10274
+name Tomoyo
+length 19
+====================
+\"Give it back...\"
+====================
+还给我…
+====================
+
+====================
+index 52
+offset 10343
+name Tomoyo
+length 57
+====================
+\"If you don't... I'll have to take it back by force...\"
+====================
+不然…我就要靠武力夺取了…
+====================
+
+====================
+index 53
+offset 10450
+name Tomoyo
+length 72
+====================
+\"If it comes to that... I can't guarantee you will leave unscathed...\"
+====================
+我不能保证…那个时候你会平安无事…
+====================
+
+====================
+index 54
+offset 10538
+name NULL
+length 70
+====================
+I can feel shivers run down my spine; my body temperature is dropping.
+====================
+我全身战栗。体温也下降了。
+====================
+
+====================
+index 55
+offset 10658
+name Tomoyo
+length 39
+====================
+\"I'll give you three more seconds...\"
+====================
+再给你三秒钟时间…
+====================
+
+====================
+index 56
+offset 10773
+name Tomoyo
+length 12
+====================
+\"Three...\"
+====================
+三…
+====================
+
+====================
+index 57
+offset 10835
+name Tomoyo
+length 10
+====================
+\"Two...\"
+====================
+二…
+====================
+
+====================
+index 58
+offset 10895
+name Tomoyo
+length 10
+====================
+\"One...\"
+====================
+一…
+====================
+
+====================
+index 59
+offset 11242
+name Kanako
+length 9
+====================
+\"Pass!\"
+====================
+传球！
+====================
+
+====================
+index 60
+offset 11537
+name NULL
+length 47
+====================
+Kanako suddenly throws the wallet into the air.
+====================
+她突然把钱包丢到了空中。
+====================
+
+====================
+index 61
+offset 11600
+name NULL
+length 68
+====================
+The wallet flys toward me, and I reach out and grab it in a fluster.
+====================
+钱包飞向了我。我慌慌张张地接住了。
+====================
+
+====================
+index 62
+offset 11684
+name NULL
+length 50
+====================
+At the same time, the oppressive atmosphere fades.
+====================
+同时、那种战栗感烟消云散。
+====================
+
+====================
+index 63
+offset 12101
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 64
+offset 12130
+name NULL
+length 37
+====================
+Tomoyo stands there hanging her head.
+====================
+只剩下了垂头丧气的智代。
+====================
+
+====================
+index 65
+offset 12217
+name Tomoya
+length 14
+====================
+\"Calm down.\"
+====================
+你给我好好冷静冷静
+====================
+
+====================
+index 66
+offset 12281
+name Tomoya
+length 42
+====================
+\"We'll leave this place together. Okay?\"
+====================
+要走也要一起走。好吗
+====================
+
+====================
+index 67
+offset 12339
+name NULL
+length 20
+====================
+She doesn't respond.
+====================
+她没有回答。
+====================
+
+====================
+index 68
+offset 12645
+name NULL
+length 66
+====================
+She walks away quickly, not even taking the time to lift her head.
+====================
+只是低着头转过了身子、快步地离去了。
+====================
+
+====================
+index 69
+offset 12761
+name Tomoya
+length 40
+====================
+\"Good job on riding that out, Kanako.\"
+====================
+河南子、你还真能忍啊
+====================
+
+====================
+index 70
+offset 12851
+name Kanako
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 71
+offset 12880
+name NULL
+length 27
+====================
+She doesn't respond either.
+====================
+她也没有回答。
+====================
+
+====================
+index 72
+offset 12957
+name Tomoya
+length 11
+====================
+\"Kanako?\"
+====================
+河南子？
+====================
+
+====================
+index 73
+offset 13018
+name Kanako
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 74
+offset 13047
+name NULL
+length 24
+====================
+She's completely frozen.
+====================
+她杵在了当场。
+====================
+
+====================
+index 75
+offset 13087
+name NULL
+length 57
+====================
+I tap her back, and immediately, she takes a deep breath.
+====================
+我敲了敲她的后背、她呼地大声喘了口气。
+====================
+
+====================
+index 76
+offset 13467
+name Kanako
+length 60
+====================
+\"Man... my legs are still shaking... That was so scary...\"
+====================
+呜哇、脚还在发抖呢…好可怕～
+====================
+
+====================
+index 77
+offset 13577
+name Tomoya
+length 34
+====================
+\"So you get scared too, huh...?\"
+====================
+连你都害怕了啊…
+====================
+
+====================
+index 78
+offset 13661
+name Kanako
+length 48
+====================
+\"That shortened my life by a hundred years...\"
+====================
+可要折寿一百年了啊…
+====================
+
+====================
+index 79
+offset 13759
+name Tomoya
+length 42
+====================
+\"How long were you planning to live...?\"
+====================
+你打算活到几岁的啊…
+====================
+
+====================
+index 80
+offset 14662
+name NULL
+length 57
+====================
+The sun has set, and thus brings my work today to an end.
+====================
+日暮西沉、今天的工作也告一段落。
+====================

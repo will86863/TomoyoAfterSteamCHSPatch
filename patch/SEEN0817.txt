@@ -1,0 +1,3698 @@
+type seen817
+count 336
+
+====================
+index 1
+offset 263
+name NULL
+length 17
+====================
+August 17th (Tue)
+====================
+８月１７日（星期二）
+====================
+
+====================
+index 2
+offset 1525
+name Kanako
+length 21
+====================
+\"Oh, it's raining.\"
+====================
+啊、下雨了
+====================
+
+====================
+index 3
+offset 1832
+name NULL
+length 77
+====================
+Kanako, who had woken up before me, grumbles as she looks outside the window.
+====================
+先起床的河南子、一边看着窗外一边不停地嘀咕着。
+====================
+
+====================
+index 4
+offset 1925
+name NULL
+length 30
+====================
+Tomoyo is nowhere to be found.
+====================
+没有看到智代的人影。
+====================
+
+====================
+index 5
+offset 2005
+name Tomoya
+length 17
+====================
+\"Good morning.\"
+====================
+早上好
+====================
+
+====================
+index 6
+offset 2346
+name Kanako
+length 12
+====================
+\"Morning.\"
+====================
+好
+====================
+
+====================
+index 7
+offset 2408
+name Tomoya
+length 18
+====================
+\"Is it raining?\"
+====================
+下雨了吗？
+====================
+
+====================
+index 8
+offset 2476
+name Kanako
+length 33
+====================
+\"Yep, but it's not that heavy.\"
+====================
+嗯、虽然不是很大
+====================
+
+====================
+index 9
+offset 2525
+name NULL
+length 65
+====================
+The sky is filled with rain clouds, but it's only a light shower.
+====================
+虽然外面乌云密布、但也只是下着小雨而已。
+====================
+
+====================
+index 10
+offset 2914
+name Kanako
+length 37
+====================
+\"Are you going to work today, too?\"
+====================
+今天也工作吗？
+====================
+
+====================
+index 11
+offset 3001
+name Tomoya
+length 14
+====================
+\"Of course.\"
+====================
+当然
+====================
+
+====================
+index 12
+offset 3940
+name NULL
+length 62
+====================
+I walk through the rain and eventually reach the garbage heap.
+====================
+雨中、我来到了垃圾山。
+====================
+
+====================
+index 13
+offset 4018
+name NULL
+length 51
+====================
+I look for a wire to connect the fluorescent light.
+====================
+为了找到能接续荧光灯的连线。
+====================
+
+====================
+index 14
+offset 4085
+name NULL
+length 80
+====================
+Since my job is repairing home appliances and the like, I am new to home wiring.
+====================
+因为我的工作是家电之类的维修、所以在室内的配电方面几乎就是一个外行。
+====================
+
+====================
+index 15
+offset 4181
+name NULL
+length 60
+====================
+That being said, I still have a certain degree of knowledge.
+====================
+即使如此、还是有一定的知识的。
+====================
+
+====================
+index 16
+offset 4257
+name NULL
+length 107
+====================
+I've come to understand a few things after having searched through this pile of junk for the last few days.
+====================
+通过这几天在垃圾山的搜索、我也多少懂了一些东西。
+====================
+
+====================
+index 17
+offset 4380
+name NULL
+length 59
+====================
+Things like what kind of building these materials are from.
+====================
+比如说这种瓦砾是哪间大房子的废弃材料之类的。
+====================
+
+====================
+index 18
+offset 4455
+name NULL
+length 117
+====================
+I don't know whether they are from a school or community center, but there's a lot of the same material lying around.
+====================
+虽然不可能知道究竟是学校还是公民馆那么详细、不过其中确实有不少通用的废料。
+====================
+
+====================
+index 19
+offset 4588
+name NULL
+length 31
+====================
+From this, I draw a conclusion.
+====================
+于是我就得出了个结论。
+====================
+
+====================
+index 20
+offset 4635
+name NULL
+length 108
+====================
+If all this came from a building, then most of the materials that were used to build it should also be here.
+====================
+如果这些都是房子的废料的话、那么那些部件什么的应该这里也都有。
+====================
+
+====================
+index 21
+offset 4759
+name NULL
+length 81
+====================
+Therefore, there must be electrical wiring suitable for home use in here as well.
+====================
+所以、室内配电用的电线这里也一定有。
+====================
+
+====================
+index 22
+offset 4856
+name NULL
+length 101
+====================
+It might have been cut apart during demolition, but the wires used for interior wiring are very long.
+====================
+虽然可能在拆毁的时候断掉了、但是在一间房间内的电线也是非常长的。
+====================
+
+====================
+index 23
+offset 4973
+name NULL
+length 33
+====================
+A wire a few meters long will do.
+====================
+只需要几米就够了。
+====================
+
+====================
+index 24
+offset 5022
+name NULL
+length 116
+====================
+I keep digging through the garbage heap, and whenever I find something that looks like a wire, I try to pull it out.
+====================
+我在垃圾山里挖掘着、一看到有电线状的东西我就尝试着拉起来。
+====================
+
+====================
+index 25
+offset 5154
+name NULL
+length 22
+====================
+I do so over and over.
+====================
+一直这么持续着。
+====================
+
+====================
+index 26
+offset 6037
+name NULL
+length 39
+====================
+The raindrops gently fall onto my body.
+====================
+淅沥淅沥的雨滴打在身上。
+====================
+
+====================
+index 27
+offset 6092
+name NULL
+length 61
+====================
+I wipe the rain from my eyes with a towel and return to work.
+====================
+我把流到眼睛里的雨水用毛巾擦干、继续工作。
+====================
+
+====================
+index 28
+offset 6169
+name NULL
+length 59
+====================
+Even though it's summer, I'm very cold due to being soaked.
+====================
+虽然是夏天、但是被雨淋湿的身体还是很冷。
+====================
+
+====================
+index 29
+offset 6244
+name NULL
+length 36
+====================
+My limbs also feel a little strange.
+====================
+手脚也感觉到一丝的不灵便。
+====================
+
+====================
+index 30
+offset 6296
+name NULL
+length 96
+====================
+It's like all the fatigue that's been accumulating from my non-stop work has hit me all at once.
+====================
+好像要把强行工作所积累的那些疲惫一口气放光一样。
+====================
+
+====================
+index 31
+offset 6408
+name NULL
+length 40
+====================
+I still can't find what I'm looking for.
+====================
+要找的东西还没有找到。
+====================
+
+====================
+index 32
+offset 6464
+name NULL
+length 125
+====================
+Although there were a few that came close, I couldn't use them because they were either not long enough or a different gauge.
+====================
+虽然有类似的东西、但不是长度不够就是规格不对、全部都不能用。
+====================
+
+====================
+index 33
+offset 6608
+name NULL
+length 70
+====================
+Looking up, I see a single cord sticking out near the top of the heap.
+====================
+抬起头、在垃圾山的顶端、我看见了一段露出的电源线。
+====================
+
+====================
+index 34
+offset 6694
+name NULL
+length 46
+====================
+I climb the garbage heap and look at the cord.
+====================
+登上了小山、我看了看电线。
+====================
+
+====================
+index 35
+offset 6756
+name NULL
+length 40
+====================
+It's a flat VVF, also called an F cable.
+====================
+条形的ＶＶＦ。通称Ｆ线。
+====================
+
+====================
+index 36
+offset 6846
+name Tomoya
+length 16
+====================
+\"...found it.\"
+====================
+…找到了
+====================
+
+====================
+index 37
+offset 6878
+name NULL
+length 60
+====================
+With this, I will be able to install the fluorescent lights.
+====================
+这样的话就能铺设荧光灯了。
+====================
+
+====================
+index 38
+offset 6954
+name NULL
+length 73
+====================
+I dig through the top of the hill and look for the other end of the cord.
+====================
+我把山顶上的垃圾挖开、寻找着线的另一头。
+====================
+
+====================
+index 39
+offset 7043
+name NULL
+length 65
+====================
+Even though I've been digging for a while, I still can't find it.
+====================
+挖了一段距离、还没有看到另一头。
+====================
+
+====================
+index 40
+offset 7124
+name NULL
+length 76
+====================
+It might have snapped off, but using the wire itself shouldn't be a problem.
+====================
+虽然可能有断线、但是这样的话配线的问题就解决了。
+====================
+
+====================
+index 41
+offset 7216
+name NULL
+length 82
+====================
+With a sense of relief filling my chest, I loop the cable around my hand and pull.
+====================
+心里一阵安心的感觉、我用手把电线卷了起来、用力拉着。
+====================
+
+====================
+index 42
+offset 7348
+name Tomoya
+length 10
+====================
+\"...eh?\"
+====================
+…诶？
+====================
+
+====================
+index 43
+offset 7374
+name NULL
+length 78
+====================
+I thought it would take quite a bit of force, but the cord easily comes loose.
+====================
+原本以为会用到很大力气、可电源线一下子就松脱了。
+====================
+
+====================
+index 44
+offset 7468
+name NULL
+length 60
+====================
+I take a step back to find my footing and regain my balance,
+====================
+我向后退了一步想稳住脚、重新找回平衡，
+====================
+
+====================
+index 45
+offset 7569
+name NULL
+length 11
+====================
+but I slip.
+====================
+但是滑倒。
+====================
+
+====================
+index 46
+offset 7596
+name NULL
+length 51
+====================
+The feeling of losing my balance is clear as day...
+====================
+失去平衡的感觉清晰得不得了…
+====================
+
+====================
+index 47
+offset 8118
+name NULL
+length 5
+====================
+*Pow*
+====================
+砰！
+====================
+
+====================
+index 48
+offset 8139
+name NULL
+length 75
+====================
+I feel pain as my head and my back strike the ground; my vision goes white.
+====================
+头和后背撞到地面、疼得我眼前一片空白。
+====================
+
+====================
+index 49
+offset 8230
+name NULL
+length 16
+====================
+I can't breathe.
+====================
+呼吸不能。
+====================
+
+====================
+index 50
+offset 8685
+name NULL
+length 75
+====================
+Everything turns black for a while, but eventually I can see the sky again.
+====================
+有好一阵子什么都看不见、但渐渐地我又能看到天空了。
+====================
+
+====================
+index 51
+offset 8776
+name NULL
+length 46
+====================
+I can see a gentle, blue sky among the clouds.
+====================
+云层之间能看见一片温柔的蓝天。
+====================
+
+====================
+index 52
+offset 8869
+name NULL
+length 40
+====================
+Oh, what? It's clearing up, isn't it...?
+====================
+哎呀、这是怎么了？天晴了不是吗…？
+====================
+
+====================
+index 53
+offset 8925
+name NULL
+length 46
+====================
+Now I should be able to continue... working...
+====================
+这样的话、工作也一定…能更进一步…。
+====================
+
+====================
+index 54
+offset 8987
+name NULL
+length 12
+====================
+I need to...
+====================
+我得…
+====================
+
+====================
+index 55
+offset 9012
+name NULL
+length 35
+====================
+ hurry up and finish building it...
+====================
+快点…把它建完…
+====================
+
+====================
+index 56
+offset 9063
+name NULL
+length 12
+====================
+I'm sure... 
+====================
+一定…
+====================
+
+====================
+index 57
+offset 9088
+name NULL
+length 15
+====================
+Tomoyo will... 
+====================
+智代也一定…
+====================
+
+====================
+index 58
+offset 9116
+name NULL
+length 14
+====================
+understand... 
+====================
+会理解的…
+====================
+
+====================
+index 59
+offset 9143
+name NULL
+length 6
+====================
+too...
+====================
+也…
+====================
+
+====================
+index 60
+offset 9165
+name NULL
+length 9
+====================
+.........
+====================
+………
+====================
+
+====================
+index 61
+offset 9190
+name NULL
+length 6
+====================
+......
+====================
+………
+====================
+
+====================
+index 62
+offset 9212
+name NULL
+length 3
+====================
+...
+====================
+…
+====================
+
+====================
+index 63
+offset 9660
+name NULL
+length 9
+====================
+Tomoya...
+====================
+…朋也…
+====================
+
+====================
+index 64
+offset 9685
+name NULL
+length 12
+====================
+...Tomoya...
+====================
+…朋也…
+====================
+
+====================
+index 65
+offset 10441
+name Tomoyo
+length 11
+====================
+\"Tomoya!\"
+====================
+朋也！
+====================
+
+====================
+index 66
+offset 10468
+name NULL
+length 38
+====================
+Tomoyo's face is right in front of me.
+====================
+智代近在我的眼前。
+====================
+
+====================
+index 67
+offset 10556
+name Tomoyo
+length 56
+====================
+\"Tomoya... I thought you would never wake up again...\"
+====================
+朋也…我还以为你永远都醒不过来了呢…
+====================
+
+====================
+index 68
+offset 10687
+name Tomoyo
+length 26
+====================
+\"Really... thank God...\"
+====================
+真的是…太好了…
+====================
+
+====================
+index 69
+offset 10729
+name NULL
+length 47
+====================
+Tomoyo's eyes fill with tears as she says that.
+====================
+这么说着、智代的眼角充满了泪水。
+====================
+
+====================
+index 70
+offset 11101
+name Caretaker
+length 24
+====================
+\"How are you feeling?\"
+====================
+感觉怎么样？
+====================
+
+====================
+index 71
+offset 11141
+name NULL
+length 46
+====================
+The caretaker's face appears next to Tomoyo's.
+====================
+管理员出现在她的身边。
+====================
+
+====================
+index 72
+offset 11473
+name NULL
+length 44
+====================
+I try my best to figure out what's going on.
+====================
+我尽力地把握着我现在的状况。
+====================
+
+====================
+index 73
+offset 11533
+name NULL
+length 19
+====================
+Why was I sleeping?
+====================
+为什么我躺着。
+====================
+
+====================
+index 74
+offset 11568
+name NULL
+length 27
+====================
+My head feels very strange.
+====================
+头部感觉非常得不协调。
+====================
+
+====================
+index 75
+offset 11611
+name NULL
+length 49
+====================
+It feels like it has something wrapped around it.
+====================
+摸了一下好像有什么东西缠在上面。
+====================
+
+====================
+index 76
+offset 11985
+name Caretaker
+length 29
+====================
+\"You shouldn't touch that.\"
+====================
+最好不要碰哦
+====================
+
+====================
+index 77
+offset 12067
+name Caretaker
+length 42
+====================
+\"Not that I think your wound will open.\"
+====================
+虽然伤口不会再裂开了
+====================
+
+====================
+index 78
+offset 12159
+name Tomoya
+length 27
+====================
+\"...what happened to me?\"
+====================
+…我怎么了？
+====================
+
+====================
+index 79
+offset 12511
+name Caretaker
+length 51
+====================
+\"You fell from a garbage heap and hit your head.\"
+====================
+从垃圾山上掉了下来、碰伤了头部
+====================
+
+====================
+index 80
+offset 12578
+name NULL
+length 38
+====================
+...that moment appears within my mind.
+====================
+…这一瞬间我的头脑一片混乱。
+====================
+
+====================
+index 81
+offset 12632
+name NULL
+length 52
+====================
+Only now do I feel a cold sense of terror within me.
+====================
+到了现在、才让我有了一种不寒而栗的感觉。
+====================
+
+====================
+index 82
+offset 13006
+name Tomoyo
+length 52
+====================
+\"It's too dangerous to climb that on a rainy day.\"
+====================
+下雨天爬那座山实在是太危险了…
+====================
+
+====================
+index 83
+offset 13074
+name NULL
+length 77
+====================
+I remember that Tomoyo slipped off it before, and it was even on a sunny day.
+====================
+我想起了即使是在晴天、智代也在那里滑倒的事。
+====================
+
+====================
+index 84
+offset 13476
+name Caretaker
+length 46
+====================
+\"A doctor already took care of your wounds.\"
+====================
+伤口已经拜托医生治疗好了
+====================
+
+====================
+index 85
+offset 13575
+name Caretaker
+length 68
+====================
+\"You got about five stitches since you were bleeding quite badly.\"
+====================
+一共缝了５针、出了好多血呢
+====================
+
+====================
+index 86
+offset 13693
+name Tomoya
+length 28
+====================
+\"Sorry for the trouble...\"
+====================
+给你添麻烦了…
+====================
+
+====================
+index 87
+offset 13774
+name Caretaker
+length 32
+====================
+\"Is that all you have to say?\"
+====================
+只有这句？
+====================
+
+====================
+index 88
+offset 13856
+name Tomoya
+length 17
+====================
+\"...thank you.\"
+====================
+…谢谢你
+====================
+
+====================
+index 89
+offset 13926
+name Caretaker
+length 41
+====================
+\"Haha, tell that to Kana-chan instead.\"
+====================
+呵呵、这句话还是对小河南说吧
+====================
+
+====================
+index 90
+offset 14017
+name Tomoya
+length 24
+====================
+\"Eh? What did she do?\"
+====================
+咦？那家伙做了些什么吗？
+====================
+
+====================
+index 91
+offset 14094
+name Caretaker
+length 15
+====================
+\"Behind you.\"
+====================
+就在你身后
+====================
+
+====================
+index 92
+offset 14431
+name Tomoyo
+length 11
+====================
+\"Slowly.\"
+====================
+慢慢来
+====================
+
+====================
+index 93
+offset 14728
+name NULL
+length 40
+====================
+I turn my head around on Tomoyo's knees.
+====================
+我在智代的膝盖上慢慢转过头去。
+====================
+
+====================
+index 94
+offset 14784
+name NULL
+length 47
+====================
+On the other side, Kanako is curled up, asleep.
+====================
+河南子蜷缩成一团地睡在那里。
+====================
+
+====================
+index 95
+offset 14847
+name NULL
+length 74
+====================
+Her clothes are covered with mud and her hair has been soaked by the rain.
+====================
+衣服上满是泥泞、头发也被雨淋湿了。
+====================
+
+====================
+index 96
+offset 15246
+name Caretaker
+length 51
+====================
+\"It seems like she was so tired she fell asleep.\"
+====================
+她太累了所以睡着了呢
+====================
+
+====================
+index 97
+offset 15350
+name Caretaker
+length 59
+====================
+\"After shouting so much, it's no wonder she's exhausted.\"
+====================
+她在那里呼救了那么久、当然会累的啊
+====================
+
+====================
+index 98
+offset 15462
+name Caretaker
+length 99
+====================
+\"She said since you hit your head, she couldn't move it, and was doing her best to prop it up...\"
+====================
+因为你的头部受伤、不敢随便乱动、于是就一直支撑着你的头…
+====================
+
+====================
+index 99
+offset 15614
+name Caretaker
+length 58
+====================
+\"She yelled so loudly. She was about to lose her voice.\"
+====================
+喊得喉咙都快嘶哑了
+====================
+
+====================
+index 100
+offset 15994
+name Tomoyo
+length 96
+====================
+\"Once I got there, she immediately said she was going to find help, and ran through the rain.\"
+====================
+等到我赶到的时候、她说去找人来于是就这么跑进了雨中
+====================
+
+====================
+index 101
+offset 16416
+name Caretaker
+length 26
+====================
+\"It was really amazing.\"
+====================
+她真是了不起呢
+====================
+
+====================
+index 102
+offset 16495
+name Caretaker
+length 56
+====================
+\"And a short moment later, a lot of people showed up.\"
+====================
+过了不久、就召集了好多人
+====================
+
+====================
+index 103
+offset 16604
+name Caretaker
+length 29
+====================
+\"They had all volunteered.\"
+====================
+都是自发的哦
+====================
+
+====================
+index 104
+offset 16686
+name Caretaker
+length 61
+====================
+\"Nobody could say no to Kana-chan with the way she looked.\"
+====================
+不管是谁、都是一副拗不过小河南的表情呢
+====================
+
+====================
+index 105
+offset 17033
+name NULL
+length 30
+====================
+There was nothing I could say.
+====================
+我说不出话来。
+====================
+
+====================
+index 106
+offset 17079
+name NULL
+length 126
+====================
+I have always thought Kanako was nothing but trouble, but she has already won the hearts and minds of everyone in the village.
+====================
+一直都以为是只会给人添麻烦的河南子、不知何时已经抓住了村民们的心了。
+====================
+
+====================
+index 107
+offset 17221
+name NULL
+length 29
+====================
+I can only admire that truth.
+====================
+对于这个事实、我不得不由衷地佩服她。
+====================
+
+====================
+index 108
+offset 17300
+name Tomoya
+length 13
+====================
+\"...I see.\"
+====================
+…是吗
+====================
+
+====================
+index 109
+offset 17363
+name Tomoya
+length 43
+====================
+\"I guess I'm going to have to thank her.\"
+====================
+我得好好向她道谢呢
+====================
+
+====================
+index 110
+offset 17456
+name Kanako
+length 11
+====================
+\"...mhm.\"
+====================
+…嗯
+====================
+
+====================
+index 111
+offset 17483
+name NULL
+length 20
+====================
+Her eyelids flutter.
+====================
+她的眼睑颤动了一下。
+====================
+
+====================
+index 112
+offset 17553
+name Tomoya
+length 22
+====================
+\"Oh, are you awake?\"
+====================
+起、起来了吗
+====================
+
+====================
+index 113
+offset 17591
+name NULL
+length 49
+====================
+Having woken up, Kanako jumps up after seeing me.
+====================
+醒来的河南子、一看到我就蹦了起来。
+====================
+
+====================
+index 114
+offset 17690
+name Tomoya
+length 17
+====================
+\"Good morning.\"
+====================
+早安
+====================
+
+====================
+index 115
+offset 17766
+name Tomoya
+length 15
+====================
+\"Thank you... 
+====================
+多谢…
+====================
+
+====================
+index 116
+offset 17854
+name NULL
+length 9
+====================
+Aaargh!\"
+====================
+哇啊啊！
+====================
+
+====================
+index 117
+offset 17882
+name NULL
+length 58
+====================
+She suddenly kicks me in the abdomen. It's rather painful.
+====================
+她突然踢了我的腰一脚、疼得我死去活来。
+====================
+
+====================
+index 118
+offset 17990
+name Tomoyo
+length 20
+====================
+\"Hey now, Kanako.\"
+====================
+喂、河南子
+====================
+
+====================
+index 119
+offset 18333
+name Kanako
+length 35
+====================
+\"Don't do that to me, you idiot!\"
+====================
+别让我担心啊、笨蛋！
+====================
+
+====================
+index 120
+offset 18418
+name Kanako
+length 45
+====================
+\"Do you know how worried I was about you?!\"
+====================
+你知道我们有多担心你吗！
+====================
+
+====================
+index 121
+offset 18513
+name Kanako
+length 37
+====================
+\"Senpai, Takafumi, Tomo, and me...\"
+====================
+前辈、鹰文、小智、还有我…
+====================
+
+====================
+index 122
+offset 18600
+name Kanako
+length 56
+====================
+\"You are very important to all of us! Don't scare us!\"
+====================
+大家都很重视你啊、所以别乱吓唬我们啊！
+====================
+
+====================
+index 123
+offset 18979
+name Kanako
+length 39
+====================
+\"I was really worried... ya' know...\"
+====================
+我好担心啊、真的…真的…
+====================
+
+====================
+index 124
+offset 19068
+name Tomoya
+length 40
+====================
+\"Sorry about that. I'm all right now.\"
+====================
+对不起。已经没事了
+====================
+
+====================
+index 125
+offset 19431
+name Kanako
+length 15
+====================
+\"Go to hell.\"
+====================
+给我去死
+====================
+
+====================
+index 126
+offset 19462
+name NULL
+length 19
+====================
+I get kicked again.
+====================
+我又被踢了。
+====================
+
+====================
+index 127
+offset 20356
+name NULL
+length 51
+====================
+After the rain stops, I walk outside with everyone.
+====================
+等到雨停了之后、大家一起出去了。
+====================
+
+====================
+index 128
+offset 20423
+name NULL
+length 67
+====================
+As we walk toward the deserted house, I hear an uproar from inside.
+====================
+走到废屋附近、就听到那里面传来嘈杂的声音。
+====================
+
+====================
+index 129
+offset 20506
+name NULL
+length 40
+====================
+Hearing that, Kanako happily runs ahead.
+====================
+听到了这声音、河南子高兴地跑了过去。
+====================
+
+====================
+index 130
+offset 20871
+name Caretaker
+length 32
+====================
+\"Try not to be too surprised.\"
+====================
+你可别太吃惊哦
+====================
+
+====================
+index 131
+offset 20956
+name Caretaker
+length 82
+====================
+\"Having been the manager here for all these years, even I find this surprising.\"
+====================
+就算是我这个在这里做了好几年管理人的人、看到了这幅景象也是吃惊得不得了呢
+====================
+
+====================
+index 132
+offset 21091
+name Caretaker
+length 52
+====================
+\"That's the effect Kana-chan has when she's here.\"
+====================
+小河南的存在、发挥作用了哦
+====================
+
+====================
+index 133
+offset 21193
+name Tomoya
+length 8
+====================
+\"...?\"
+====================
+…？
+====================
+
+====================
+index 134
+offset 21254
+name Caretaker
+length 50
+====================
+\"It was just a small coincidence to begin with.\"
+====================
+一开始的契机只是件很小的事
+====================
+
+====================
+index 135
+offset 21357
+name Caretaker
+length 69
+====================
+\"Kana-chan was hungry and thought she would make something to eat.\"
+====================
+肚子有点饿了的小河南、决定做点吃的东西
+====================
+
+====================
+index 136
+offset 21479
+name Caretaker
+length 78
+====================
+\"Since she didn't have anything at hand, she started gathering ingredients.\"
+====================
+因为身边什么都没有、所以就从收集材料开始了
+====================
+
+====================
+index 137
+offset 21610
+name Caretaker
+length 79
+====================
+\"She went to each person's room and asked them to give her different things.\"
+====================
+她一间一间地敲开村民们的门、收集了各种各样的材料
+====================
+
+====================
+index 138
+offset 21742
+name Caretaker
+length 76
+====================
+\"Kana-chan laid all of the things out in the kitchen and nodded her head.\"
+====================
+然后把它们一起摆放在了厨房的水池上、小河南就站在那些东西面前一个劲地『嗯嗯』地点着头
+====================
+
+====================
+index 139
+offset 21871
+name Caretaker
+length 62
+====================
+\"Just then, a woman who was about to make dinner showed up.\"
+====================
+然后来了一位为晚饭做准备的女孩子
+====================
+
+====================
+index 140
+offset 21986
+name Caretaker
+length 57
+====================
+\"She nervously asked Kana-chan, who just kept nodding,\"
+====================
+她战战兢兢地问在那里『嗯嗯』地点着头的小河南
+====================
+
+====================
+index 141
+offset 22096
+name Caretaker
+length 26
+====================
+\"'What are you making?'\"
+====================
+『你打算做什么东西？』
+====================
+
+====================
+index 142
+offset 22175
+name Caretaker
+length 33
+====================
+\"And then, Kana-chan answered,\"
+====================
+接着、小河南回答道
+====================
+
+====================
+index 143
+offset 22261
+name Caretaker
+length 16
+====================
+\"'Ice cream.'\"
+====================
+『冰激凌』
+====================
+
+====================
+index 144
+offset 22330
+name Caretaker
+length 57
+====================
+\"The woman instantly started laughing at her response.\"
+====================
+女孩子听到了这个回答禁不住笑了起来
+====================
+
+====================
+index 145
+offset 22712
+name Caretaker
+length 77
+====================
+\"After all, there was only a pile of sweet potatoes in front of Kana-chan.\"
+====================
+因为、在小河南的面前、可是堆积如山的番薯哦
+====================
+
+====================
+index 146
+offset 22842
+name Caretaker
+length 99
+====================
+\"And with only that in front of her, there's no way she could've made any even if she wanted to.\"
+====================
+怎么可能在那些东西面前烦恼冰激凌怎么做呢？
+====================
+
+====================
+index 147
+offset 23266
+name Caretaker
+length 137
+====================
+\"After that, the two of them started to make ice cream. Of course, they didn't use sweet potatoes, but made regular ice cream instead.\"
+====================
+然后、她们俩就开始做冰激凌了。当然不是用番薯、而是普通的冰激凌
+====================
+
+====================
+index 148
+offset 23456
+name Caretaker
+length 71
+====================
+\"The timid woman became friends with Kana-chan surprisingly quickly.\"
+====================
+很害怕其他人的那个女孩子、在那么短的时间内就接受了小河南
+====================
+
+====================
+index 149
+offset 23580
+name Caretaker
+length 85
+====================
+\"Oh, by the way, that was the lady who's in charge of laundry that you met before.\"
+====================
+啊对了、那个女孩子就是负责洗衣服的那个
+====================
+
+====================
+index 150
+offset 23718
+name Caretaker
+length 46
+====================
+\"Kana-chan did the same thing the next day.\"
+====================
+第二天、小河南也做了同样的事
+====================
+
+====================
+index 151
+offset 23817
+name Caretaker
+length 36
+====================
+\"And she befriended someone else.\"
+====================
+又让其他的人接受了她
+====================
+
+====================
+index 152
+offset 23906
+name Caretaker
+length 81
+====================
+\"Just by doing that, Kana-chan managed to get along with everyone living here.\"
+====================
+就这样、小河南与这里的住民们变得融洽了起来
+====================
+
+====================
+index 153
+offset 24040
+name Caretaker
+length 85
+====================
+\"Before I realized it, a lot of people were together in the kitchen making sweets.\"
+====================
+不知何时、各种各样的人开始聚集在厨房里、一起做点心了
+====================
+
+====================
+index 154
+offset 24178
+name Caretaker
+length 30
+====================
+\"And they were all smiling.\"
+====================
+大家一起笑着
+====================
+
+====================
+index 155
+offset 24261
+name Caretaker
+length 57
+====================
+\"Including people that I never would have expected to.\"
+====================
+这还真是让我不敢相信呢
+====================
+
+====================
+index 156
+offset 24371
+name Caretaker
+length 78
+====================
+\"Everyone's become very lively, as if they've found meaning in their lives.\"
+====================
+大家好像又找回了生活的意义一般、变得活泼起来
+====================
+
+====================
+index 157
+offset 24502
+name Caretaker
+length 34
+====================
+\"Do you know why that happened?\"
+====================
+你觉得这是为什么呢？
+====================
+
+====================
+index 158
+offset 24552
+name NULL
+length 16
+====================
+I shake my head.
+====================
+我摇了摇头。
+====================
+
+====================
+index 159
+offset 24894
+name Caretaker
+length 68
+====================
+\"When life has meaning, it is accompanied by a desire for change.\"
+====================
+当一个人的生活变得一成不变的时候、就会感觉到无聊。这是那个人健康的证明
+====================
+
+====================
+index 160
+offset 25015
+name Caretaker
+length 87
+====================
+\"Once a person's life stagnates, he feels bored. That proves that person is healthy.\"
+====================
+如果感觉不到无聊、那么那个人的心一定有病了
+====================
+
+====================
+index 161
+offset 25155
+name Caretaker
+length 56
+====================
+\"If he doesn't feel bored, then his mind must be ill.\"
+====================
+住在这里的人在来到这里之前就是这样了
+====================
+
+====================
+index 162
+offset 25264
+name Caretaker
+length 131
+====================
+\"Everyone here had that problem before they arrived. And as their boring, unchanging days went by, they got used to the boredom.\"
+====================
+而住到了这里之后、一直过着没有变化的生活、大家也就变得对于无聊习以为常了
+====================
+
+====================
+index 163
+offset 25448
+name Caretaker
+length 75
+====================
+\"However, someone has brought change to this village for the first time.\"
+====================
+但是、这个村子第一次出现了变化着的存在
+====================
+
+====================
+index 164
+offset 25576
+name Caretaker
+length 33
+====================
+\"And that person is Kana-chan.\"
+====================
+那就是小河南
+====================
+
+====================
+index 165
+offset 25662
+name Caretaker
+length 100
+====================
+\"A mother finds meaning in her life when she spends her days raising kids, watching them grow up.\"
+====================
+养育着孩子的母亲、能在孩子每天的成长中感受到生活的意义
+====================
+
+====================
+index 166
+offset 25815
+name Caretaker
+length 91
+====================
+\"Even when she grows old, she will still be happy for her grandchildren's growth, right?\"
+====================
+就算老到了时日无多的年纪、也会为子孙们的成长而高兴的吧？
+====================
+
+====================
+index 167
+offset 26232
+name Caretaker
+length 79
+====================
+\"I shouldn't say this about Kana-chan, but I get that same feeling from her.\"
+====================
+虽然这么说对小河南有点不好意思、不过这是一样的呢
+====================
+
+====================
+index 168
+offset 26364
+name Caretaker
+length 76
+====================
+\"Kana-chan learned how to make sweets while smiling happily like a child.\"
+====================
+小河南她像孩子一般笑着、高兴着、做着点心
+====================
+
+====================
+index 169
+offset 26493
+name Caretaker
+length 59
+====================
+\"I think she has given meaning to everyone's lives here.\"
+====================
+我觉得这些对他们来说、渐渐变成了他们生活的意义
+====================
+
+====================
+index 170
+offset 26878
+name Caretaker
+length 83
+====================
+\"But has this change really happened in such a short time, right before my eyes?\"
+====================
+但是、这些变化真的仅仅是在眼前这么短的时间内就发生的吗…？
+====================
+
+====================
+index 171
+offset 27014
+name Caretaker
+length 45
+====================
+\"It feels like I've seen a miracle happen.\"
+====================
+我感觉自己就好像目睹了奇迹一般
+====================
+
+====================
+index 172
+offset 27075
+name NULL
+length 27
+====================
+Did she really do all that?
+====================
+那家伙、竟然能做到这些。
+====================
+
+====================
+index 173
+offset 27118
+name NULL
+length 25
+====================
+Even I cannot believe it.
+====================
+连我都不能相信。
+====================
+
+====================
+index 174
+offset 27196
+name Caretaker
+length 31
+====================
+\"Now, everyone is motivated.\"
+====================
+现在、大家都变得更向前看了
+====================
+
+====================
+index 175
+offset 27280
+name Caretaker
+length 38
+====================
+\"Everyone has become just like you.\"
+====================
+大家都变得像你一样了哦
+====================
+
+====================
+index 176
+offset 27371
+name Caretaker
+length 39
+====================
+\"Were you affected by Kana-chan too?\"
+====================
+你也是受小河南影响的吗？
+====================
+
+====================
+index 177
+offset 27426
+name NULL
+length 26
+====================
+I violently shake my head.
+====================
+我把头摇得像个拨浪鼓。
+====================
+
+====================
+index 178
+offset 27740
+name NULL
+length 48
+====================
+Seeing how hard I deny it, the caretaker laughs.
+====================
+管理员笑了、说你不必那么坚决地否定吧。
+====================
+
+====================
+index 179
+offset 28114
+name Caretaker
+length 35
+====================
+\"It must be a coincidence, then.\"
+====================
+那么那还真是奇遇呢
+====================
+
+====================
+index 180
+offset 28202
+name Caretaker
+length 36
+====================
+\"These feelings may be temporary.\"
+====================
+那些、也许只是一时的感情
+====================
+
+====================
+index 181
+offset 28291
+name Caretaker
+length 36
+====================
+\"I might even regret it later on.\"
+====================
+也许他们会后悔
+====================
+
+====================
+index 182
+offset 28380
+name Caretaker
+length 107
+====================
+\"Regardless, now that there are so many people working on this, there's no point in complaining anymore.\"
+====================
+但是、有那么多人肯工作、现在就算是我要说什么也无济于事了
+====================
+
+====================
+index 183
+offset 28503
+name NULL
+length 39
+====================
+She smiles without a care in the world.
+====================
+她一点也不困扰地微笑着。
+====================
+
+====================
+index 184
+offset 28862
+name Kanako
+length 52
+====================
+\"What are you doing? Hurry up and come over here.\"
+====================
+你们在干什么、快点过来吧
+====================
+
+====================
+index 185
+offset 28930
+name NULL
+length 35
+====================
+Kanako is already waiting up ahead.
+====================
+河南子已经在前头等着了。
+====================
+
+====================
+index 186
+offset 28984
+name NULL
+length 18
+====================
+I turn the corner.
+====================
+我拐过了一个弯。
+====================
+
+====================
+index 187
+offset 29466
+name NULL
+length 67
+====================
+Then I see a sight that I could never have imagined the day before.
+====================
+在眼前呈现出的、是一片昨天连想都不敢想的场景。
+====================
+
+====================
+index 188
+offset 29994
+name NULL
+length 42
+====================
+There are men who are processing the wood,
+====================
+在加工木材的男性。
+====================
+
+====================
+index 189
+offset 30052
+name NULL
+length 49
+====================
+and there are women laying the tatami out to dry.
+====================
+在晒着榻榻米的女性的身影。
+====================
+
+====================
+index 190
+offset 30117
+name NULL
+length 61
+====================
+There are also people climbing onto the roof to make repairs.
+====================
+还有人爬到了屋顶上修补着。
+====================
+
+====================
+index 191
+offset 30194
+name NULL
+length 84
+====================
+The blackboard that I had dug up is cleanly planed, its wood grain shining brightly.
+====================
+我挖起来的黑板、已经被漂亮地刨过、露出了崭新的木色。
+====================
+
+====================
+index 192
+offset 30294
+name NULL
+length 69
+====================
+They are even polishing tables and chairs that I haven't seen before.
+====================
+我没见过的桌子和椅子也在院子里被粉刷着。
+====================
+
+====================
+index 193
+offset 30379
+name NULL
+length 30
+====================
+Everyone is working earnestly.
+====================
+大家都在认真地工作着。
+====================
+
+====================
+index 194
+offset 30733
+name Kanako
+length 21
+====================
+\"Thanks, everyone!\"
+====================
+谢谢大家了ー
+====================
+
+====================
+index 195
+offset 31040
+name NULL
+length 57
+====================
+When they hear Kanako yell, everyone stops and swarms us.
+====================
+听到了河南子的喊声、大家都停下了手、围住了我们。
+====================
+
+====================
+index 196
+offset 31113
+name NULL
+length 84
+====================
+They all welcome me with greetings such as \"Thank goodness!\" and \"Are you okay?\"
+====================
+他们都对我说着『太好了』『没事吧』之类的话。
+====================
+
+====================
+index 197
+offset 31213
+name NULL
+length 66
+====================
+Their suspicious attitudes and aggressiveness are no longer there.
+====================
+之前那种奇怪的态度、还有敌意都已经烟消云散了。
+====================
+
+====================
+index 198
+offset 31295
+name NULL
+length 92
+====================
+Not only that, but they thank me for fixing the village's electric appliances all this time.
+====================
+不仅如此、他们还说要为我在村子里修理电器制品的事情道谢。
+====================
+
+====================
+index 199
+offset 31403
+name NULL
+length 33
+====================
+They tell me this is to repay me.
+====================
+说这么做是为了报答我。
+====================
+
+====================
+index 200
+offset 31486
+name Tomoya
+length 32
+====================
+\"Is it really okay... though?\"
+====================
+但是…真的没关系吗？
+====================
+
+====================
+index 201
+offset 31534
+name NULL
+length 23
+====================
+I feel a little guilty.
+====================
+我多少感到有些愧疚。
+====================
+
+====================
+index 202
+offset 31604
+name Man
+length 21
+====================
+\"What do you mean?\"
+====================
+什么事？
+====================
+
+====================
+index 203
+offset 31641
+name NULL
+length 22
+====================
+A man next to me asks.
+====================
+身边的一个男人这么问我。
+====================
+
+====================
+index 204
+offset 31722
+name Tomoya
+length 53
+====================
+\"I've only ever brought trouble to this village...\"
+====================
+我做的事明明就会给这栋房子里的人添麻烦…
+====================
+
+====================
+index 205
+offset 31825
+name Man
+length 49
+====================
+\"Oh, Yuko-san's daughter is coming, isn't she?\"
+====================
+嗯、会有小孩子来吧？有子的孩子
+====================
+
+====================
+index 206
+offset 31923
+name Woman
+length 38
+====================
+\"...we all know already. It's okay.\"
+====================
+…大家都知道的、没关系
+====================
+
+====================
+index 207
+offset 31977
+name NULL
+length 38
+====================
+The lady in charge of laundry replies.
+====================
+负责洗衣服的女性这么回答道。
+====================
+
+====================
+index 208
+offset 32064
+name Woman
+length 76
+====================
+\"Whenever I look at Kana-chan... I think that having a kid would be nice.\"
+====================
+看到了小河南…就觉得有小孩子也很不错呢
+====================
+
+====================
+index 209
+offset 32464
+name Kanako
+length 22
+====================
+\"Eh? I'm not a kid.\"
+====================
+诶、我可不是小孩子
+====================
+
+====================
+index 210
+offset 32502
+name NULL
+length 45
+====================
+Everyone laughs upon hearing Kanako's retort.
+====================
+听着河南子不满的话、我和大家都笑了起来。
+====================
+
+====================
+index 211
+offset 32833
+name NULL
+length 6
+====================
+I see.
+====================
+是啊。
+====================
+
+====================
+index 212
+offset 32855
+name NULL
+length 18
+====================
+I finally realize.
+====================
+现在才终于察觉到。
+====================
+
+====================
+index 213
+offset 32889
+name NULL
+length 68
+====================
+I already brought this village hope, hope that points to the future.
+====================
+我已经为这个村子、带来了指明未来的希望了。
+====================
+
+====================
+index 214
+offset 33007
+name Kanako
+length 25
+====================
+\"Why're you laughing?!\"
+====================
+你们笑什么啊！
+====================
+
+====================
+index 215
+offset 33048
+name NULL
+length 68
+====================
+Our laughter grows loud enough to reach the bottom of the mountains.
+====================
+笑声变得更大了、感觉好像都传到了山麓。
+====================
+
+====================
+index 216
+offset 34021
+name Yuko
+length 30
+====================
+\"The village is changing...\"
+====================
+村子改变了…
+====================
+
+====================
+index 217
+offset 34067
+name NULL
+length 67
+====================
+Mishima Yuko lays her hand on the window and blankly looks outside.
+====================
+三岛有子把手放在窗户上、呆呆地看着窗外。
+====================
+
+====================
+index 218
+offset 34182
+name Yuko
+length 48
+====================
+\"What is that ability of yours? Is it belief?\"
+====================
+你的那种力量是什么？信念？
+====================
+
+====================
+index 219
+offset 34246
+name NULL
+length 48
+====================
+She asks the window that I'm being reflected in.
+====================
+她对着窗子问道。窗子里反射着我的倒影。
+====================
+
+====================
+index 220
+offset 34344
+name Tomoya
+length 41
+====================
+\"It's embarrassing, so I won't say it.\"
+====================
+因为太难以启齿了所以我不会说的
+====================
+
+====================
+index 221
+offset 34433
+name Yuko
+length 58
+====================
+\"It would be nice if everyone was as strong as you are.\"
+====================
+要是大家都像你这样坚强就好了
+====================
+
+====================
+index 222
+offset 34541
+name Tomoya
+length 81
+====================
+\"If somebody here is weak, everyone around that person will come to help them.\"
+====================
+如果有人软弱的话、那么那家伙身边的人都会来帮助他的
+====================
+
+====================
+index 223
+offset 34672
+name Tomoya
+length 62
+====================
+\"Well, not that I'm one of those people around you, though.\"
+====================
+虽然我不在你的身边
+====================
+
+====================
+index 224
+offset 34750
+name NULL
+length 86
+====================
+Outside the window, a villager waves and calls out to Mishima Yuko after noticing her.
+====================
+在窗外、有个注意到了三岛有子的村民对着她挥着手。
+====================
+
+====================
+index 225
+offset 34886
+name Tomoya
+length 22
+====================
+\"See? They're here.\"
+====================
+但是你看、这里就有啊
+====================
+
+====================
+index 226
+offset 34958
+name Tomoya
+length 43
+====================
+\"It's because we are all Tomo's friends.\"
+====================
+因为我们都是小智的同伴
+====================
+
+====================
+index 227
+offset 35051
+name Tomoya
+length 42
+====================
+\"You may see us as nothing but trouble,\"
+====================
+也许我们对于你来说、就像是瘟神一般
+====================
+
+====================
+index 228
+offset 35143
+name Tomoya
+length 57
+====================
+\"but we will chase after you no matter where you hide.\"
+====================
+大概你躲到哪里、我们就会追到哪里吧
+====================
+
+====================
+index 229
+offset 35250
+name Tomoya
+length 32
+====================
+\"As long as Tomo wants us to.\"
+====================
+只要小智还希望和你在一起、我们就会追到底
+====================
+
+====================
+index 230
+offset 35332
+name Tomoya
+length 26
+====================
+\"Is that... a nuisance?\"
+====================
+这些…对于你来说是麻烦吗？
+====================
+
+====================
+index 231
+offset 35406
+name Yuko
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 232
+offset 35435
+name NULL
+length 37
+====================
+Her mouth moves after a long silence.
+====================
+长长的沉默之后、她的嘴唇颤动着。
+====================
+
+====================
+index 233
+offset 35522
+name Tomoya
+length 10
+====================
+\"Hm...?\"
+====================
+嗯…？
+====================
+
+====================
+index 234
+offset 35580
+name Yuko
+length 17
+====================
+\"...thank you.\"
+====================
+…谢谢
+====================
+
+====================
+index 235
+offset 35647
+name Tomoya
+length 21
+====================
+\"I'm glad to help.\"
+====================
+太好了
+====================
+
+====================
+index 236
+offset 35718
+name Tomoya
+length 25
+====================
+\"Kiss Tomo more often.\"
+====================
+你可要多多地亲亲小智啊
+====================
+
+====================
+index 237
+offset 35793
+name Tomoya
+length 58
+====================
+\"So much so that she won't need anyone else to anymore.\"
+====================
+多到舍不得让别人来亲她为止
+====================
+
+====================
+index 238
+offset 36171
+name Yuko
+length 12
+====================
+\"...okay.\"
+====================
+…是
+====================
+
+====================
+index 239
+offset 37395
+name Tomoyo
+length 42
+====================
+\"Tomoya... don't wander around so much.\"
+====================
+朋也…别这么到处走动啊
+====================
+
+====================
+index 240
+offset 37487
+name Tomoyo
+length 33
+====================
+\"You'll make your wound worse.\"
+====================
+会碰到伤口的
+====================
+
+====================
+index 241
+offset 37806
+name NULL
+length 98
+====================
+Tomoyo is constantly by my side ever since I got hurt, and only says things out of concern for me.
+====================
+智代一直都在我的身边。在我受伤以后她就从没说过除了要我当心之外的话。
+====================
+
+====================
+index 242
+offset 37920
+name NULL
+length 85
+====================
+While I was talking to Mishima Yuko, she hid behind me and kept quiet the whole time.
+====================
+在我和三岛有子说话的时候、她也一直都躲在我的背后、一直沉默着。
+====================
+
+====================
+index 243
+offset 38055
+name Tomoya
+length 11
+====================
+\"Tomoyo.\"
+====================
+智代
+====================
+
+====================
+index 244
+offset 38082
+name NULL
+length 31
+====================
+I stop walking and look at her.
+====================
+我停下了脚步、转身看着她。
+====================
+
+====================
+index 245
+offset 38435
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 246
+offset 38498
+name Tomoya
+length 60
+====================
+\"Now, the only thing holding us back is your selfishness.\"
+====================
+那么、剩下来的也就只有你的一厢情愿了呢
+====================
+
+====================
+index 247
+offset 38608
+name Tomoya
+length 36
+====================
+\"Everyone here welcomes Tomo now.\"
+====================
+现在大家都在准备迎接着小智
+====================
+
+====================
+index 248
+offset 38694
+name Tomoyo
+length 37
+====================
+\"I'm saying I'm worried about you.\"
+====================
+我是在担心你才这么说的啊
+====================
+
+====================
+index 249
+offset 38781
+name Tomoya
+length 42
+====================
+\"My wound is fine. It's not a big deal.\"
+====================
+我的伤没问题。没什么大碍了
+====================
+
+====================
+index 250
+offset 38873
+name Tomoya
+length 30
+====================
+\"Tomoyo, what do you think?\"
+====================
+智代、你究竟是怎么想的
+====================
+
+====================
+index 251
+offset 38953
+name Tomoyo
+length 66
+====================
+\"I'm sorry... I'm not thinking about anything other than you...\"
+====================
+对不起…除了你我都还没有考虑过其他的事情…
+====================
+
+====================
+index 252
+offset 39069
+name Tomoyo
+length 47
+====================
+\"There's nothing in my mind... except you...\"
+====================
+我满脑子…就只有你的事情…
+====================
+
+====================
+index 253
+offset 39166
+name Tomoya
+length 42
+====================
+\"I'll tell you again. My wound is fine.\"
+====================
+我再说一次。我的伤没问题
+====================
+
+====================
+index 254
+offset 39258
+name Tomoya
+length 75
+====================
+\"That's why you should give it some thought. Isn't it just as important?\"
+====================
+所以想些其他的事情吧。还有很多重要的事不是吗
+====================
+
+====================
+index 255
+offset 39383
+name Tomoyo
+length 13
+====================
+\".........\"
+====================
+………
+====================
+
+====================
+index 256
+offset 39412
+name NULL
+length 34
+====================
+In the end, Tomoyo remains silent.
+====================
+结果智代还是一直沉默着。
+====================
+
+====================
+index 257
+offset 40371
+name NULL
+length 50
+====================
+I realize something as I look at the construction.
+====================
+看到他们进行着工程、我才突然想起来。
+====================
+
+====================
+index 258
+offset 40437
+name NULL
+length 87
+====================
+Now that I think about it, I haven't looked at a calendar since I came to this village.
+====================
+记得来到这个村子以后、就没再看过日历了。
+====================
+
+====================
+index 259
+offset 40540
+name NULL
+length 54
+====================
+Compared to in town, my sense of time is very tenuous.
+====================
+和小镇里比起来、这里的时间感真是稀薄啊。
+====================
+
+====================
+index 260
+offset 40644
+name Tomoya
+length 28
+====================
+\"...what day is it today?\"
+====================
+…今天、是几号了？
+====================
+
+====================
+index 261
+offset 40997
+name Caretaker
+length 18
+====================
+\"It's the 17th.\"
+====================
+１７号了
+====================
+
+====================
+index 262
+offset 41065
+name Tomoya
+length 46
+====================
+\"Uh, I have to get back to work tomorrow...\"
+====================
+哇、明天就要开始工作了…
+====================
+
+====================
+index 263
+offset 41397
+name NULL
+length 47
+====================
+Today's the last day of the Bon Festival break.
+====================
+今天是盂兰盆节休假的最后一天了。
+====================
+
+====================
+index 264
+offset 41460
+name NULL
+length 79
+====================
+I don't remember letting my body rest at all, but the vacation is already over.
+====================
+虽然这些天完全没有休息过、但是休假已经结束了。
+====================
+
+====================
+index 265
+offset 41555
+name NULL
+length 89
+====================
+Looking at the construction site, it doesn't look like it will be completed anytime soon.
+====================
+我看了看工程、感觉不是那么快就能好的。
+====================
+
+====================
+index 266
+offset 41660
+name NULL
+length 41
+====================
+But it won't go very well if I leave now.
+====================
+但是、就这么回去会非常的不好。
+====================
+
+====================
+index 267
+offset 41717
+name NULL
+length 112
+====================
+Not only would I have to convince Tomoyo, but the villagers' morale would decrease if the original impetus left.
+====================
+又要说服智代、而且如果我这个发起人先打退堂鼓的话、也会影响到村里人的士气。
+====================
+
+====================
+index 268
+offset 41879
+name Tomoya
+length 39
+====================
+\"Sorry, but may I borrow your phone?\"
+====================
+对不起、能借电话来用一下吗？
+====================
+
+====================
+index 269
+offset 42243
+name Caretaker
+length 13
+====================
+\"Go ahead.\"
+====================
+请用
+====================
+
+====================
+index 270
+offset 43145
+name NULL
+length 64
+====================
+I don't know if anyone is there, but I call my workplace anyway.
+====================
+虽然不知道有没有人、但是先打个电话给单位试试看。
+====================
+
+====================
+index 271
+offset 43225
+name NULL
+length 22
+====================
+After several rings...
+====================
+长长的铃声之后。
+====================
+
+====================
+index 272
+offset 43295
+name Boss
+length 25
+====================
+\"Hello, XX Industries.\"
+====================
+你好、
+====================
+
+====================
+index 273
+offset 43373
+name Tomoya
+length 53
+====================
+\"Oh, it's Okazaki. Sorry for calling during break.\"
+====================
+啊、我是冈崎。很抱歉在休息的时候打扰了
+====================
+
+====================
+index 274
+offset 43474
+name Boss
+length 27
+====================
+\"Hey, what's the matter?\"
+====================
+哦、怎么了
+====================
+
+====================
+index 275
+offset 43551
+name Tomoya
+length 85
+====================
+\"...um, I am sorry to ask this, but could you let me take a couple extra days off?\"
+====================
+…虽然很抱歉、但是能再多放我几天假吗？
+====================
+
+====================
+index 276
+offset 43684
+name Boss
+length 8
+====================
+\"Huh?\"
+====================
+哈啊？
+====================
+
+====================
+index 277
+offset 43742
+name Tomoya
+length 50
+====================
+\"There's something that I have to take care of.\"
+====================
+因为有些事情必须去解决
+====================
+
+====================
+index 278
+offset 43840
+name Boss
+length 11
+====================
+\"...hmm.\"
+====================
+…嗯
+====================
+
+====================
+index 279
+offset 43867
+name NULL
+length 116
+====================
+He keeps quiet. As someone who closely follows society's norms, it feels doubtful, even to me, that he will approve.
+====================
+他沉默了。毕竟作为一位社会人士、我也觉得我有点身不由已。
+====================
+
+====================
+index 280
+offset 44033
+name Tomoya
+length 67
+====================
+\"I'm sorry. Once I come back, I'll work even harder than before.\"
+====================
+对不起、等我回来我会工作得比以前更加努力的
+====================
+
+====================
+index 281
+offset 44150
+name Tomoya
+length 23
+====================
+\"Please consider it.\"
+====================
+拜托了
+====================
+
+====================
+index 282
+offset 44189
+name NULL
+length 51
+====================
+I desperately bow to the other end of the receiver.
+====================
+我对着电话的另一头努力地恳求着。
+====================
+
+====================
+index 283
+offset 44288
+name Boss
+length 53
+====================
+\"...you said 'come back'. Where are you right now?\"
+====================
+…你说『等你回来』、你现在在哪里？
+====================
+
+====================
+index 284
+offset 44391
+name Tomoya
+length 15
+====================
+\"Uh, well...\"
+====================
+啊、那个…
+====================
+
+====================
+index 285
+offset 44422
+name NULL
+length 95
+====================
+I give him a rough idea of my whereabouts. It's a little challenging since it's not on any map.
+====================
+我大致地讲了下村子所在地的方位。因为本来就好像是地图上没有的地方。
+====================
+
+====================
+index 286
+offset 44565
+name Boss
+length 29
+====================
+\"...that's quite far away.\"
+====================
+…还真远啊
+====================
+
+====================
+index 287
+offset 44642
+name Boss
+length 60
+====================
+\"You won't be able to make it back tomorrow, in any case.\"
+====================
+那么、明天你也赶不及的吧
+====================
+
+====================
+index 288
+offset 44752
+name Tomoya
+length 11
+====================
+\"Yeah...\"
+====================
+哈…
+====================
+
+====================
+index 289
+offset 44811
+name Boss
+length 33
+====================
+\"...is it something important?\"
+====================
+…是很重要的事吗？
+====================
+
+====================
+index 290
+offset 44894
+name Tomoya
+length 8
+====================
+\"Yes.\"
+====================
+是的
+====================
+
+====================
+index 291
+offset 44950
+name Boss
+length 74
+====================
+\"...well, it's okay. After all, you aren't someone who would slack off.\"
+====================
+…那么、好吧。你也不像是那种会随便偷懒的人
+====================
+
+====================
+index 292
+offset 45072
+name Boss
+length 36
+====================
+\"Give me a call once you're done.\"
+====================
+回来的话要尽早联络啊
+====================
+
+====================
+index 293
+offset 45124
+name NULL
+length 51
+====================
+I get his approval much easier than I had expected.
+====================
+他许可的比我想象中要干脆得多。
+====================
+
+====================
+index 294
+offset 45225
+name Tomoya
+length 25
+====================
+\"Is it really okay...?\"
+====================
+真的可以吗…？
+====================
+
+====================
+index 295
+offset 45298
+name Boss
+length 106
+====================
+\"Don't ask any more. It must be quite important if it's something you need to trouble others to finish.\"
+====================
+你别问我啊。即使要给人添麻烦也必须做的事一定是很重要的吧
+====================
+
+====================
+index 296
+offset 45452
+name Boss
+length 47
+====================
+\"You're quite easy to understand, after all.\"
+====================
+你是一个很容易理解的人呢
+====================
+
+====================
+index 297
+offset 45549
+name Tomoya
+length 24
+====================
+\"Thank you very much!\"
+====================
+非常感谢
+====================
+
+====================
+index 298
+offset 45589
+name NULL
+length 23
+====================
+With that, he hangs up.
+====================
+我挂了电话。
+====================
+
+====================
+index 299
+offset 45628
+name NULL
+length 30
+====================
+That eases one of my concerns.
+====================
+一桩心事放下了。
+====================
+
+====================
+index 300
+offset 45677
+name NULL
+length 52
+====================
+I give Takafumi a call after organizing my thoughts.
+====================
+整理了下思绪后、我又给鹰文打了电话。
+====================
+
+====================
+index 301
+offset 45745
+name NULL
+length 30
+====================
+He picks up after three rings.
+====================
+铃响了三次后、连上了。
+====================
+
+====================
+index 302
+offset 45827
+name Takafumi
+length 31
+====================
+\"Yes, uh, Okazaki residence.\"
+====================
+你好、嗯、这里是冈崎家
+====================
+
+====================
+index 303
+offset 45908
+name Tomoya
+length 12
+====================
+\"It's me.\"
+====================
+是我
+====================
+
+====================
+index 304
+offset 45972
+name Takafumi
+length 51
+====================
+\"Nii-chan! You finally called me. I was worried!\"
+====================
+哥哥！你终于来联络了啊。我好担心啊
+====================
+
+====================
+index 305
+offset 46073
+name Tomoya
+length 86
+====================
+\"Sorry, a lot has happened and I couldn't call you since things were still in flux.\"
+====================
+抱歉、发生了不少事情、事情也一直都是个半吊子、不能好好地说
+====================
+
+====================
+index 306
+offset 46211
+name Takafumi
+length 33
+====================
+\"Then, is everything finished?\"
+====================
+那么、都做完了吗？
+====================
+
+====================
+index 307
+offset 46294
+name Tomoya
+length 55
+====================
+\"Yeah, Tomo's mother decided to live with Tomo here.\"
+====================
+嗯。这里小智的母亲已经同意和小智一起住了
+====================
+
+====================
+index 308
+offset 46401
+name Takafumi
+length 52
+====================
+\"Whoa. I don't know how you did it, but good job.\"
+====================
+哦、虽然我不知道你是怎么做到的、但是做得很不错啊
+====================
+
+====================
+index 309
+offset 46503
+name Tomoya
+length 46
+====================
+\"I went through quite a lot for it, though.\"
+====================
+因为这个、我还挺惨的呢
+====================
+
+====================
+index 310
+offset 46601
+name Takafumi
+length 37
+====================
+\"That must have been hard for you.\"
+====================
+那真是辛苦了
+====================
+
+====================
+index 311
+offset 46688
+name Tomoya
+length 25
+====================
+\"How is it over there?\"
+====================
+那边呢？
+====================
+
+====================
+index 312
+offset 46765
+name Takafumi
+length 56
+====================
+\"Everything's fine. I'm enjoying the break with Tomo.\"
+====================
+没什么问题。一直和小智在享受着休假
+====================
+
+====================
+index 313
+offset 46873
+name Takafumi
+length 34
+====================
+\"Want me to pass her the phone?\"
+====================
+要叫她来听吗？
+====================
+
+====================
+index 314
+offset 46966
+name Tomoya
+length 36
+====================
+\"Yeah. Oh... actually, it's fine.\"
+====================
+嗯。啊…还是算了
+====================
+
+====================
+index 315
+offset 47021
+name NULL
+length 40
+====================
+I reply, and immediately correct myself.
+====================
+我刚说完、立刻就改口了。
+====================
+
+====================
+index 316
+offset 47113
+name Takafumi
+length 41
+====================
+\"Are you sure? She's right next to me.\"
+====================
+不用吗？就在旁边啊
+====================
+
+====================
+index 317
+offset 47204
+name Tomoya
+length 13
+====================
+\"I'm sure.\"
+====================
+不用了
+====================
+
+====================
+index 318
+offset 47233
+name NULL
+length 55
+====================
+I think I'll lose my determination if I hear her voice.
+====================
+我觉得如果我现在听到她的声音的话、连我的决心都会动摇了。
+====================
+
+====================
+index 319
+offset 47340
+name Takafumi
+length 45
+====================
+\"And... what should I do from here on out?\"
+====================
+那么、这里该怎么办才好呢？
+====================
+
+====================
+index 320
+offset 47435
+name Tomoya
+length 59
+====================
+\"I don't want you to tell Tomo about her mother for now.\"
+====================
+直到那个时候、都别和小智提她母亲的事情
+====================
+
+====================
+index 321
+offset 47544
+name Tomoya
+length 29
+====================
+\"I will explain it to her.\"
+====================
+我会向她说明的
+====================
+
+====================
+index 322
+offset 47623
+name Tomoya
+length 53
+====================
+\"There's something that's difficult to tell her...\"
+====================
+因为、有些比较难说的事情…
+====================
+
+====================
+index 323
+offset 47726
+name Tomoya
+length 32
+====================
+\"I'll tell you first, though.\"
+====================
+我先告诉你吧
+====================
+
+====================
+index 324
+offset 47774
+name NULL
+length 55
+====================
+I tell him that Tomo's mother doesn't have much longer.
+====================
+我告诉了他小智的母亲已经时日无多的事。
+====================
+
+====================
+index 325
+offset 47845
+name NULL
+length 36
+====================
+Takafumi gives a long and deep sigh.
+====================
+鹰文听了后长长地叹了口气。
+====================
+
+====================
+index 326
+offset 47897
+name NULL
+length 47
+====================
+Afterwards, he tries to stay calm next to Tomo.
+====================
+然后、努力着不要在小智的身边乱了方寸。
+====================
+
+====================
+index 327
+offset 47996
+name Takafumi
+length 11
+====================
+\"Got it.\"
+====================
+了解了
+====================
+
+====================
+index 328
+offset 48057
+name Tomoya
+length 96
+====================
+\"It'll take a couple more days to finish up here. I'll give you a call when we're about done.\"
+====================
+还有几天就要完成了、等到时间了再联络吧
+====================
+
+====================
+index 329
+offset 48203
+name Tomoya
+length 36
+====================
+\"You know where it is, don't you?\"
+====================
+地点知道的吧？
+====================
+
+====================
+index 330
+offset 48291
+name Takafumi
+length 14
+====================
+\"Yep, I do.\"
+====================
+嗯、没问题
+====================
+
+====================
+index 331
+offset 48355
+name Tomoya
+length 35
+====================
+\"Do you have money for the trip?\"
+====================
+旅费有吗？
+====================
+
+====================
+index 332
+offset 48442
+name Takafumi
+length 43
+====================
+\"It's fine; I've been working part time.\"
+====================
+因为有在打工所以这个也不必担心
+====================
+
+====================
+index 333
+offset 48535
+name Tomoya
+length 48
+====================
+\"Sorry. It's your summer vacation, after all.\"
+====================
+抱歉、难得的暑假让你这么操心
+====================
+
+====================
+index 334
+offset 48635
+name Takafumi
+length 25
+====================
+\"Don't worry about it.\"
+====================
+别在意
+====================
+
+====================
+index 335
+offset 48710
+name Tomoya
+length 23
+====================
+\"Well, see you soon.\"
+====================
+那么、回头见
+====================
+
+====================
+index 336
+offset 48749
+name NULL
+length 43
+====================
+After I tell him that, I hang up the phone.
+====================
+我这么说着、挂上了电话。
+====================

@@ -27,7 +27,7 @@
 1. **移植自 PSP 版汉化文本**——PSP 版《智代After》的完整汉化由 CK-GAL 中文化小组（澄空学园）制作，本项目把其中的译文移植到 Steam 版补丁格式中。移植工作由 **DeepSeek-V4.1** 完成：逐章对齐 PSP 剧本与 Steam 版脚本、按说话人和长度特征做带状 DP 匹配、回填到补丁文件。
 2. **PSP 版没有的部分由 DeepSeek-V4.1 翻译**——包括 D&T 小游戏的道具与技能说明、结局独白等 PSP 版未以文本形式提供的段落。
 
-**当前状态**：正文已核对完毕（20,792 / 20,792 条），全屏文字无法替换中文，待修复，贴图待修复。
+**当前状态**：正文已核对完毕（20,792 / 20,792 条）
 
 **已知问题**：
 
@@ -85,77 +85,6 @@
 
 本分支已完成全部章节（20,792 / 20,792 条）。原项目的逐章清单已不再适用，当前工作转为一周目实测与错位修正。
 
-## 致谢
-
-- [VLSMB/TomoyoAfterSteamCHSPatch](https://github.com/VLSMB/TomoyoAfterSteamCHSPatch)——补丁引擎与原始框架
-- CK-GAL 中文化小组（澄空学园）——PSP 版汉化文本
-- Nice Rabbit——PC 版中文贴图
-- 咲夜——Steam 全成就指南
-
 ## 许可
 
 本分支遵循原项目 NOTICE，仅限非商业用途。分发时请保留原项目链接与本 NOTICE。
-
----
-
-## 仓库结构
-
-本仓库承载**补丁源码**与**最终成品译文**。
-
-```text
-.
-├── VersionInjectionPatch/    补丁引擎 C 源码（version.dll）
-├── TomoyoAfterSteamCHSPatch.sln
-├── docs/                     README 配图
-├── NOTICE.md                 授权说明
-│
-└── patch/                    ★ 最终成品译文（100 个文件）
-```
-
-### 各目录说明
-
-| 目录 | 内容 | 说明 |
-| --- | --- | --- |
-| `patch/` | `SEEN0001`~`SEEN9900` + `name.txt` + `pe_resource.txt` | **最终成品**，即游戏 `patch_mode.cfg=3` 时读取的译文。GBK 编码，LF 换行 |
-| `VersionInjectionPatch/` | C 源码 | 编译产出 `version.dll`，需 VS2022 + v143 工具集 |
-
-`patch/` 下的 `SEEN####.txt` 结构：
-
-```text
-type seen628
-count 298
-
-====================
-index 1
-offset 266
-name NULL
-length 40
-====================
-原文
-====================
-译文
-====================
-```
-
-- 编码 **GBK**，换行 **LF**（`.gitattributes` 已锁定，禁止转换）
-- `length` 是原文 GBK 字节数，译文不得超过
-- 改 `patch/*.txt` **不需要重编 DLL**，运行期会重新加载
-
-### 关于贴图
-
-中文贴图（984 个 `.g00`）版权归 **Nice Rabbit**，本仓库不分发散文件，仅随 [Releases](https://github.com/will86863/TomoyoAfterSteamCHSPatch/releases) 的发布包提供。
-
-### 关于工作区
-
-汉化过程的完整记录（阶段报告、对齐数据、迁移脚本、Issue 稿）保留在本地工作区，未纳入本仓库。核心结论已写入本 README 与各 Issue 文件。
-
-### 编译与使用
-
-见上文「使用方法」与「编译」两节。编译产物为 `Release/version.dll`（约 1,001,472 字节），放入游戏根目录即可。
-
-### 版本历史
-
-| 版本 | 说明 |
-| --- | --- |
-| v1.2.0 | 更新 `patch/` 至完整译文；移除 `guide/`、`tools/`；重编 `version.dll`（去除诊断埋点） |
-| v1.0.0 | 首个完整汉化发布 |

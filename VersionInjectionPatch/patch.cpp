@@ -18,7 +18,8 @@ static seen_map<std::stack<BYTE>> text_stack;
 static std::unordered_map<unsigned, std::vector<unsigned>> replace_flag_map;
 static std::unordered_map<std::string, std::string> short_text_map;
 static std::unordered_map<unsigned, std::vector<unsigned>> long_text_seen_offset_map;
-static std::unordered_map<std::string, std::string> cached_text_map;
+// std::map keeps node addresses stable so c_str() survives insertions
+static std::map<std::string, std::string> cached_text_map;
 static std::unordered_map<DWORD, std::string> pe_resource_str_map;
 static std::unordered_map<DWORD, DWORD> pe_resource_length_map;
 static size_t max_cached_text_length = 0;
@@ -161,6 +162,89 @@ EXTERN_C void SetTranslatedPEResource(void* imageBase) {
 	}
 }
 
+// Translate one short segment: exact short_text_map hit, or strip leading digits/spaces first
+static std::string translateShortSegment(const char* const seg, size_t n) {
+	std::string s(seg, n);
+	if (s.empty()) return s;
+	const auto& direct = short_text_map.find(s);
+	if (direct != short_text_map.end()) {
+		return direct->second;
+	}
+	// Battle messages get concatenated as "12 damage!", so try every split point
+	for (size_t p = 1; p < n && p <= SHOT_TEXT_SIZE + 2; p++) {
+		const unsigned char c = static_cast<unsigned char>(seg[p - 1]);
+		if (!isdigit(c) && !isspace(c)) break;
+		std::string rest(seg + p, n - p);
+		const auto& hit = short_text_map.find(rest);
+		if (hit != short_text_map.end()) {
+			return s.substr(0, p) + hit->second;
+		}
+	}
+	return s;
+}
+
+// Try to decode a locator marker at text[i]; on success yield translation and byte count to skip.
+// NOTE: UpdateSeenBuffer writes the marker via vectorToHex(), so what lands in the VM buffer
+// is 10 ASCII hex characters (first one is 'F'), NOT the raw 0xF0 byte.
+static BOOL tryDecodeMarkerAt(const char* const text, size_t len, size_t i,
+	std::string& translated, size_t& skip) {
+	if (i >= len || len - i < SHOT_TEXT_SIZE) return FALSE;
+	if (static_cast<BYTE>(text[i]) != 'F') return FALSE;
+	std::vector<BYTE> vec;
+	if (!hexToVector(vec, std::string(text + i, SHOT_TEXT_SIZE))) return FALSE;
+	if (vec.size() < 5 || vec[0] != TEXT_META_MAGIC) return FALSE;
+	DWORD dword = vec[1] | ((DWORD)vec[2] << 8) | ((DWORD)vec[3] << 16) | ((DWORD)vec[4] << 24);
+	unsigned seenNo = 0;
+	unsigned offset = 0;
+	dwordToSeenOffset(dword, seenNo, offset);
+	const auto& map = text_map.find(seenNo);
+	if (map == text_map.end()) return FALSE;
+	const auto& it = map->second.find(offset);
+	if (it == map->second.end()) return FALSE;
+	translated = it->second;
+	// The marker overwrote the first SHOT_TEXT_SIZE bytes of this entry. The bytes from
+	// SHOT_TEXT_SIZE..length-1 are the leftover tail of the same original sentence, so the
+	// whole entry length must be consumed -- otherwise English fragments leak into the output.
+	unsigned originLen = 0;
+	const auto& lenMap = text_length_map.find(seenNo);
+	if (lenMap != text_length_map.end()) {
+		const auto& lit = lenMap->second.find(offset);
+		if (lit != lenMap->second.end()) originLen = lit->second;
+	}
+	skip = (originLen > SHOT_TEXT_SIZE) ? originLen : SHOT_TEXT_SIZE;
+	if (i + skip > len) skip = len - i;
+	return TRUE;
+}
+
+// Translate a composite string such as "A + marker + number + B"
+static BOOL translateCompositeText(const char* const text, std::string& out) {
+	const size_t len = strlen(text);
+	out.clear();
+	BOOL changed = FALSE;
+	size_t segStart = 0;
+	size_t i = 0;
+	while (i < len) {
+		std::string tr;
+		size_t skip = 0;
+		if (tryDecodeMarkerAt(text, len, i, tr, skip)) {
+			if (i > segStart) {
+				out += translateShortSegment(text + segStart, i - segStart);
+			}
+			out += tr;
+			i += skip;
+			segStart = i;
+			changed = TRUE;
+			continue;
+		}
+		i++;
+	}
+	if (!changed) return FALSE;
+	if (segStart < len) {
+		out += translateShortSegment(text + segStart, len - segStart);
+	}
+	return TRUE;
+}
+
 EXTERN_C void UpdateSeenBuffer(BYTE* buffer, unsigned seenNo) {
 	for (const auto& offset : long_text_seen_offset_map[seenNo]) {
 		DWORD dword = seenOffsetToDWORD(seenNo, offset);
@@ -280,18 +364,15 @@ EXTERN_C const char* const GetWindowTitleTranslatedText(const char* const text) 
 
 static const char* const pureGetTranslatedText(const char* const text) {
 	if (*text == '\0') return text;
-	unsigned seenNo = 0;
-	unsigned offset = 0;
-	if (exactSeenOffset(text, seenNo, offset)) {
-		const auto& map = text_map.find(seenNo);
-		if (map == text_map.end()) {
-			return text;
+	// A marker may appear at the head, middle or tail (battle messages are concatenated)
+	std::string composite;
+	if (translateCompositeText(text, composite)) {
+		const std::string key(text);
+		cached_text_map[key] = composite;
+		if (max_cached_text_length < composite.size()) {
+			max_cached_text_length = composite.size();
 		}
-		const auto& it = map->second.find(offset);
-		if (it == map->second.end()) {
-			return text;
-		}
-		return it->second.c_str();
+		return cached_text_map[key].c_str();
 	}
 	bool isShortText = false;
 	for (int i = 0; i <= SHOT_TEXT_SIZE && !isShortText; i++) {

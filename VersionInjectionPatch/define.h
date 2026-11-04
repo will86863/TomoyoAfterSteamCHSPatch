@@ -16,10 +16,12 @@
 #define SEEN_DATA_FILE SEEN_DATA_DIR"\\SEEN%04d.txt"
 #define NAME_DATA_FILE SEEN_DATA_DIR"\\name.txt"
 #define PERES_DATA_FILE SEEN_DATA_DIR"\\pe_resource.txt"
+#define FMAP_DATA_FILE SEEN_DATA_DIR"\\file_mapping.txt"
 #define BIN_DATA_FILE "SEEN_CHS.TXT"
 #define PATCH_MODE_CONFIG_FILE "patch_mode.cfg"
 #define EMPTY_NAME "NULL"
 #define REPLACE_FLAG "replace_flag"
+#define SEEN_9900 9900
 
 #define SEEN_DATA_NUM 10000
 #define SHOT_TEXT_SIZE 10
@@ -27,6 +29,7 @@
 #define TEXT_BIN_MAGIC (DWORD)(0x4E454553)
 #define NAME_BIN_MAGIC (DWORD)(0x454D414E)
 #define PERES_BIN_MAGIC (DWORD)(0x53524550)
+#define FMAP_BIN_MAGIC (DWORD)(0x50414D46)
 #define PACK_BIN_MAGIC (DWORD)(0x4B434150)
 #define TEXT_META_MAGIC (BYTE)(0xF0)
 
@@ -39,6 +42,11 @@
 #define CONSUME_TEXT_IN_QUOTE_MODE_FUNC_RVA 0xECA80
 #define HANDLE_INSTANT_TEXT_FUNC_RVA 0xEBEC0
 #define REALLIVE_DEBUG_MODE_FLAG_RVA 0x302FC0
+#define OPEN_G00_FILE_FUNC_CALLER_RVA 0xC5371
+#define OPEN_G00_FILE_FUNC_RVA 0xC4810
+#define HANDLE_SEEN_9900_FUNC_CALLER_RVA 0x13E7C3
+#define HANDLE_SEEN_9900_FUNC_RVA 0xA4620
+#define INVALIDATE_RECT_IAT_RVA 0x2064B0
 
 #define SET_NOP_ARRAY_SIZE 33
 #define CONSUME_TEXT_IN_QUOTE_MODE_CALLER_SIZE 6
@@ -49,6 +57,7 @@ extern "C" {
     extern const DWORD SET_NOP_RVA[SET_NOP_ARRAY_SIZE];
     extern const size_t SET_NOP_COUNT[SET_NOP_ARRAY_SIZE];
     extern const DWORD CONSUME_TEXT_IN_QUOTE_MODE_CALLER_RVA[CONSUME_TEXT_IN_QUOTE_MODE_CALLER_SIZE];
+    extern char TRASH_BUFFER[1000];
 
     extern const BYTE WINAPI_PATCH_STUB[5];
     extern const char* SHA256_MISMATCH_WARNING;
@@ -56,6 +65,8 @@ extern "C" {
 
     extern BYTE* debug_flag_pointer;
     extern HWND window_handle;
+    extern WNDPROC window_proc;
+    extern DWORD image_base;
 #ifdef __cplusplus
 }
 #endif
@@ -144,6 +155,16 @@ typedef struct PEResourceArrayStruct {
     size_t size;
 } PEResourceArray;
 
+typedef struct FileMappingStruct {
+    ByteBuffer origin;
+    ByteBuffer target;
+} FileMapping;
+
+typedef struct FileMappingArrayStruct {
+    FileMapping* pointer;
+    size_t size;
+} FileMappingArray;
+
 typedef struct SeenDumpDataStruct {
     SeenPatchDataArray textData;
     NameDataArray nameData;
@@ -154,6 +175,7 @@ typedef struct PatchPackStruct {
     size_t pSize;
     NameDataArray* pName;
     PEResourceArray* pRes;
+    FileMappingArray* pFileMap;
 } PatchPack;
 
 typedef struct CharacterInfoStruct {

@@ -1,23 +1,11 @@
 type seen9900
-count 150
-
-====================
-index 1
-offset 1866
-name NULL
-length 72
-====================
-0123456789 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz ,.!?'\"
-====================
-0123456789 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz ,.!?'\"
-====================
+count 147
 
 ====================
 index 2
 offset 1975
 name NULL
 length 33
-replace_flag
 ====================
 The story that I am about to tell
 ====================
@@ -29,7 +17,6 @@ index 3
 offset 2045
 name NULL
 length 36
-replace_flag
 ====================
 is something that happened long ago.
 ====================
@@ -53,7 +40,6 @@ index 5
 offset 2164
 name NULL
 length 32
-replace_flag
 ====================
 it is still shining brilliantly.
 ====================
@@ -428,7 +414,6 @@ index 39
 offset 4717
 name NULL
 length 46
-replace_flag
 ====================
 there is one last person here to cheer for us.
 ====================
@@ -462,7 +447,6 @@ index 42
 offset 4938
 name NULL
 length 55
-replace_flag
 ====================
 Her shadow has grown much larger compared to back then.
 ====================
@@ -826,7 +810,6 @@ index 75
 offset 7441
 name NULL
 length 59
-replace_flag
 ====================
 Not just those days when we were still uneducated children,
 ====================
@@ -1069,7 +1052,6 @@ index 97
 offset 9111
 name NULL
 length 77
-replace_flag
 ====================
 There were times that were so hard to bear; my heart almost tore into pieces.
 ====================
@@ -1466,7 +1448,6 @@ index 133
 offset 11655
 name NULL
 length 51
-replace_flag
 ====================
 If you, the person on the other side of the screen,
 ====================
@@ -1632,31 +1613,8 @@ index 148
 offset 12560
 name NULL
 length 22
-replace_flag
 ====================
 It's a wonderful life!
 ====================
 这是美好的人生！
-====================
-
-====================
-index 149
-offset 12619
-name NULL
-length 13
-====================
-??? UnDefine!
-====================
-??? UnDefine!
-====================
-
-====================
-index 220
-offset 20720
-name NULL
-length 2
-====================
-\"
-====================
-\"
 ====================
